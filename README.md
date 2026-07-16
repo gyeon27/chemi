@@ -1,5 +1,7 @@
 # DFT Electronic Energy Crystal Structure Dataset
 
+2026 2학년 1학기 고급화학 수행평가 탐구 프로젝트
+
 이 프로젝트는 OQMD API에서 원소별 BCC/FCC/HCP 구조 에너지를 수집하고, 실제 상온 결정구조 및 원소 물성과 병합해 분석용 CSV를 생성합니다.
 
 ## 폴더
