@@ -1,0 +1,6235 @@
+{
+  "links": {
+    "next": null,
+    "previous": null,
+    "base_url": {
+      "href": "https://oqmd.org/oqmdapi",
+      "meta": {
+        "_oqmd_version": "1.0"
+      }
+    }
+  },
+  "resource": {},
+  "data": [
+    {
+      "name": "Cu",
+      "entry_id": 592441,
+      "calculation_id": 1232200,
+      "icsd_id": 43493,
+      "formationenergy_id": 4788783,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 11.7266,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.803214,
+          -1.803214,
+          0.0
+        ],
+        [
+          -1.803214,
+          0.0,
+          -1.803214
+        ],
+        [
+          1.803214,
+          1.803214,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000342550000000053,
+      "stability": 0.000342550000000053,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 593869,
+      "calculation_id": 1232324,
+      "icsd_id": 52256,
+      "formationenergy_id": 4788861,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 11.7308,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.803428,
+          -1.803428,
+          0.0
+        ],
+        [
+          -1.803428,
+          0.0,
+          -1.803428
+        ],
+        [
+          1.803428,
+          1.803428,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000348450000000167,
+      "stability": 0.000348450000000167,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 594301,
+      "calculation_id": 1232327,
+      "icsd_id": 53246,
+      "formationenergy_id": 4788870,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 11.7258,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.803174,
+          -1.803174,
+          0.0
+        ],
+        [
+          -1.803174,
+          0.0,
+          -1.803174
+        ],
+        [
+          1.803174,
+          1.803174,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000463980000000142,
+      "stability": 0.000463980000000142,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 594302,
+      "calculation_id": 1232328,
+      "icsd_id": 53247,
+      "formationenergy_id": 4788873,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 11.7231,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.803034,
+          -1.803034,
+          0.0
+        ],
+        [
+          -1.803034,
+          0.0,
+          -1.803034
+        ],
+        [
+          1.803034,
+          1.803034,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000528479999999831,
+      "stability": 0.000528479999999831,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 594517,
+      "calculation_id": 1232329,
+      "icsd_id": 53755,
+      "formationenergy_id": 4788876,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 11.7121,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.80247,
+          -1.80247,
+          0.0
+        ],
+        [
+          -1.80247,
+          0.0,
+          -1.80247
+        ],
+        [
+          1.80247,
+          1.80247,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000794410000000134,
+      "stability": 0.000794410000000134,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 594518,
+      "calculation_id": 1232471,
+      "icsd_id": 53756,
+      "formationenergy_id": 4788969,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 11.7121,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.80247,
+          -1.80247,
+          0.0
+        ],
+        [
+          -1.80247,
+          0.0,
+          -1.80247
+        ],
+        [
+          1.80247,
+          1.80247,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000794410000000134,
+      "stability": 0.000794410000000134,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 594519,
+      "calculation_id": 1232490,
+      "icsd_id": 53757,
+      "formationenergy_id": 4788978,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 11.7095,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.802339,
+          -1.802339,
+          0.0
+        ],
+        [
+          -1.802339,
+          0.0,
+          -1.802339
+        ],
+        [
+          1.802339,
+          1.802339,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000857569999999974,
+      "stability": 0.000857569999999974,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 594520,
+      "calculation_id": 1232491,
+      "icsd_id": 53758,
+      "formationenergy_id": 4788981,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 11.7303,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.803402,
+          -1.803402,
+          0.0
+        ],
+        [
+          -1.803402,
+          0.0,
+          -1.803402
+        ],
+        [
+          1.803402,
+          1.803402,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000360189999999871,
+      "stability": 0.000360189999999871,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 598513,
+      "calculation_id": 1232504,
+      "icsd_id": 64699,
+      "formationenergy_id": 4788996,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 11.7308,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.803428,
+          -1.803428,
+          0.0
+        ],
+        [
+          -1.803428,
+          0.0,
+          -1.803428
+        ],
+        [
+          1.803428,
+          1.803428,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000348450000000167,
+      "stability": 0.000348450000000167,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 637373,
+      "calculation_id": 1233254,
+      "icsd_id": 183263,
+      "formationenergy_id": 4789359,
+      "duplicate_entry_id": 637373,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 11.8002,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.434199,
+          1.434199,
+          -1.434199
+        ],
+        [
+          1.434199,
+          -1.434199,
+          1.434199
+        ],
+        [
+          -1.434199,
+          -1.434199,
+          -1.434199
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0351119,
+      "stability": 0.0351119,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1214520,
+      "calculation_id": 2692266,
+      "icsd_id": null,
+      "formationenergy_id": 5567190,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "A1_Cu",
+      "spacegroup": "Fm-3m",
+      "volume": 11.72,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          1.802876,
+          -1.802876
+        ],
+        [
+          1.802876,
+          0.0,
+          1.802876
+        ],
+        [
+          0.0,
+          -1.802876,
+          -1.802876
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000498589999999854,
+      "stability": 0.000498589999999854,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1214609,
+      "calculation_id": 2692400,
+      "icsd_id": null,
+      "formationenergy_id": 5567256,
+      "duplicate_entry_id": 1214609,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "A10_Hg",
+      "spacegroup": "R-3m",
+      "volume": 11.5016,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          -1.503996,
+          1.957105
+        ],
+        [
+          -1.302498,
+          0.751998,
+          1.957105
+        ],
+        [
+          -1.302499,
+          -0.751998,
+          -1.957105
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.03628316,
+      "stability": 0.03628316,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1214698,
+      "calculation_id": 2692572,
+      "icsd_id": null,
+      "formationenergy_id": 5567341,
+      "duplicate_entry_id": 1214698,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "A11_Ga",
+      "spacegroup": "Cmca",
+      "volume": 50.4209,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          -1.744689,
+          -4.034972,
+          0.0
+        ],
+        [
+          -1.744689,
+          4.034972,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -3.581145
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.143 0.857 0.000874",
+        "Cu @ 0.643 0.357 0.499",
+        "Cu @ 0.357 0.643 0.501",
+        "Cu @ 0.857 0.143 0.999"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.27786202,
+      "stability": 0.27786202,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1214787,
+      "calculation_id": 2692748,
+      "icsd_id": null,
+      "formationenergy_id": 5567428,
+      "duplicate_entry_id": 1214787,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "A12_alpha_Mn",
+      "spacegroup": "I-43m",
+      "volume": 344.789,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          4.417376,
+          4.417376,
+          -4.417376
+        ],
+        [
+          4.417376,
+          -4.417376,
+          4.417376
+        ],
+        [
+          -4.417376,
+          -4.417376,
+          -4.417376
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0",
+        "Cu @ 0.35 0 0",
+        "Cu @ 0.59 0.314 0",
+        "Cu @ 0 0.35 0",
+        "Cu @ 0.314 0.59 0",
+        "Cu @ 0.809 0.622 0",
+        "Cu @ 0.622 0.809 0",
+        "Cu @ 0.378 0.378 0.187",
+        "Cu @ 0.813 0.191 0.191",
+        "Cu @ 0.191 0.813 0.191",
+        "Cu @ 0.686 0.686 0.276",
+        "Cu @ 0.59 0 0.314",
+        "Cu @ 0 0.59 0.314",
+        "Cu @ 0 0 0.35",
+        "Cu @ 0.378 0.187 0.378",
+        "Cu @ 0.187 0.378 0.378",
+        "Cu @ 0.724 0.41 0.41",
+        "Cu @ 0.41 0.724 0.41",
+        "Cu @ 0.314 0 0.59",
+        "Cu @ 0 0.314 0.59",
+        "Cu @ 0.809 0 0.622",
+        "Cu @ 0 0.809 0.622",
+        "Cu @ 0.65 0.65 0.65",
+        "Cu @ 0.686 0.276 0.686",
+        "Cu @ 0.276 0.686 0.686",
+        "Cu @ 0.41 0.41 0.724",
+        "Cu @ 0.622 0 0.809",
+        "Cu @ 0 0.622 0.809",
+        "Cu @ 0.191 0.191 0.813"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0733830758620702,
+      "stability": 0.0733830758620702,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1214876,
+      "calculation_id": 2692926,
+      "icsd_id": null,
+      "formationenergy_id": 5567516,
+      "duplicate_entry_id": 1214876,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "A13_beta_Mn",
+      "spacegroup": "P4132",
+      "volume": 238.026,
+      "ntypes": 1,
+      "natoms": 20,
+      "unit_cell": [
+        [
+          6.197377,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          6.197377,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.197377
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.875 0.7 0.0495",
+        "Cu @ 0.0587 0.0587 0.0587",
+        "Cu @ 0.2 0.45 0.125",
+        "Cu @ 0.809 0.309 0.191",
+        "Cu @ 0.45 0.125 0.2",
+        "Cu @ 0.55 0.625 0.3",
+        "Cu @ 0.191 0.809 0.309",
+        "Cu @ 0.8 0.95 0.375",
+        "Cu @ 0.941 0.559 0.441",
+        "Cu @ 0.125 0.2 0.45",
+        "Cu @ 0.625 0.3 0.55",
+        "Cu @ 0.441 0.941 0.559",
+        "Cu @ 0.3 0.55 0.625",
+        "Cu @ 0.691 0.691 0.691",
+        "Cu @ 0.0495 0.875 0.7",
+        "Cu @ 0.95 0.375 0.8",
+        "Cu @ 0.309 0.191 0.809",
+        "Cu @ 0.7 0.0495 0.875",
+        "Cu @ 0.559 0.441 0.941",
+        "Cu @ 0.375 0.8 0.95"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0603619750000002,
+      "stability": 0.0603619750000002,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1214965,
+      "calculation_id": 2693104,
+      "icsd_id": null,
+      "formationenergy_id": 5567602,
+      "duplicate_entry_id": 1214965,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "A15_beta_W",
+      "spacegroup": "Pm-3n",
+      "volume": 95.3582,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          4.56863,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          4.56863,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.56863
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0",
+        "Cu @ 0.5 0.25 0",
+        "Cu @ 0.5 0.75 0",
+        "Cu @ 0 0.5 0.25",
+        "Cu @ 0.25 0 0.5",
+        "Cu @ 0.75 0 0.5",
+        "Cu @ 0.5 0.5 0.5",
+        "Cu @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1036768775,
+      "stability": 0.1036768775,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1215054,
+      "calculation_id": 2693282,
+      "icsd_id": null,
+      "formationenergy_id": 5567690,
+      "duplicate_entry_id": 1215054,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "A17_Black_P",
+      "spacegroup": "Cmca",
+      "volume": 48.2054,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          2.710522
+        ],
+        [
+          3.985843,
+          0.0,
+          0.0
+        ],
+        [
+          1.992921,
+          4.461929,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.999 0.367 0.267",
+        "Cu @ 0.501 0.867 0.267",
+        "Cu @ 0.499 0.133 0.733",
+        "Cu @ 0.00127 0.633 0.733"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1970606775,
+      "stability": 0.1970606775,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1215143,
+      "calculation_id": 2693526,
+      "icsd_id": null,
+      "formationenergy_id": 5567774,
+      "duplicate_entry_id": 637373,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "A2_W",
+      "spacegroup": "Im-3m",
+      "volume": 11.72,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.430943,
+          1.430943,
+          1.430943
+        ],
+        [
+          1.430943,
+          -1.430943,
+          -1.430943
+        ],
+        [
+          -1.430943,
+          1.430943,
+          -1.430943
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0370161700000002,
+      "stability": 0.0370161700000002,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1215232,
+      "calculation_id": 2693670,
+      "icsd_id": null,
+      "formationenergy_id": 5567845,
+      "duplicate_entry_id": 1215232,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "A20_alpha_U",
+      "spacegroup": "Cmcm",
+      "volume": 23.1953,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.473305,
+          0.0,
+          0.0
+        ],
+        [
+          1.236652,
+          2.261835,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.146303
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.838 0.325 0.25",
+        "Cu @ 0.162 0.675 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0186670150000001,
+      "stability": 0.0186670150000001,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1215321,
+      "calculation_id": 2693840,
+      "icsd_id": null,
+      "formationenergy_id": 5567929,
+      "duplicate_entry_id": 1215321,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "A3_Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 23.4674,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.544721,
+          0.0,
+          0.0
+        ],
+        [
+          -1.272361,
+          2.203793,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.184594
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.333 0.667 0.25",
+        "Cu @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00754416000000013,
+      "stability": 0.00754416000000013,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1215411,
+      "calculation_id": 2693996,
+      "icsd_id": null,
+      "formationenergy_id": 5568005,
+      "duplicate_entry_id": 1215411,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "A3p_La",
+      "spacegroup": "P63/mmc",
+      "volume": 46.738,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          2.549264,
+          0.0,
+          0.0
+        ],
+        [
+          -1.274632,
+          2.207728,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          8.304421
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0",
+        "Cu @ 0.333 0.667 0.25",
+        "Cu @ 0 0 0.5",
+        "Cu @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00560411000000016,
+      "stability": 0.00560411000000016,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1215500,
+      "calculation_id": 2694165,
+      "icsd_id": null,
+      "formationenergy_id": 5568083,
+      "duplicate_entry_id": 1215500,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "A4_Diamond_C",
+      "spacegroup": "Fd-3m",
+      "volume": 36.7432,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          2.638653,
+          -2.638653
+        ],
+        [
+          2.638653,
+          0.0,
+          2.638653
+        ],
+        [
+          0.0,
+          -2.638653,
+          -2.638653
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0",
+        "Cu @ 0.25 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 1.03110054,
+      "stability": 1.03110054,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1215589,
+      "calculation_id": 2694337,
+      "icsd_id": null,
+      "formationenergy_id": 5568168,
+      "duplicate_entry_id": 1215589,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "A5_Sn",
+      "spacegroup": "I41/amd",
+      "volume": 25.6539,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -2.432542
+        ],
+        [
+          -2.296315,
+          -2.296315,
+          1.216272
+        ],
+        [
+          -2.296315,
+          2.296315,
+          -1.216272
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0",
+        "Cu @ 0.25 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.32289633,
+      "stability": 0.32289633,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1215678,
+      "calculation_id": 2694511,
+      "icsd_id": null,
+      "formationenergy_id": 5568254,
+      "duplicate_entry_id": 1215678,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "A6_In",
+      "spacegroup": "I4/mmm",
+      "volume": 11.6829,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -2.520726,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -2.520726,
+          0.0
+        ],
+        [
+          1.260363,
+          1.260363,
+          1.838648
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00288969999999988,
+      "stability": 0.00288969999999988,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1215767,
+      "calculation_id": 2694677,
+      "icsd_id": null,
+      "formationenergy_id": 5568336,
+      "duplicate_entry_id": 1215500,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "A7_As",
+      "spacegroup": "R-3m",
+      "volume": 24.3244,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          -2.935742,
+          0.0,
+          0.0
+        ],
+        [
+          -1.46787,
+          -2.542428,
+          0.0
+        ],
+        [
+          1.46787,
+          0.847475,
+          3.258932
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.75 0.75 0.25",
+        "Cu @ 0.25 0.25 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.347649775,
+      "stability": 0.347649775,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1215856,
+      "calculation_id": 2694855,
+      "icsd_id": null,
+      "formationenergy_id": 5568424,
+      "duplicate_entry_id": 1215856,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "A8_Se",
+      "spacegroup": "R-3m",
+      "volume": 34.1105,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          3.936413,
+          0.0,
+          0.0
+        ],
+        [
+          -1.968206,
+          3.409032,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.541884
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.667 0.667 0",
+        "Cu @ 0.333 0 0.333",
+        "Cu @ 0 0.333 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0661074533333301,
+      "stability": 0.0661074533333301,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1215945,
+      "calculation_id": 2695031,
+      "icsd_id": null,
+      "formationenergy_id": 5568509,
+      "duplicate_entry_id": 1215945,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "A9_Graphite_C",
+      "spacegroup": "P63/mmc",
+      "volume": 47.4064,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          3.314411,
+          0.0,
+          0.0
+        ],
+        [
+          -1.657205,
+          2.870363,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.983033
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0.25",
+        "Cu @ 0.333 0.667 0.25",
+        "Cu @ 0 0 0.75",
+        "Cu @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 2.2964943425,
+      "stability": 2.2964943425,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1216034,
+      "calculation_id": 2695208,
+      "icsd_id": null,
+      "formationenergy_id": 5568595,
+      "duplicate_entry_id": 1216034,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "C19_alpha_Sm",
+      "spacegroup": "R-3m",
+      "volume": 35.0165,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          1.272515,
+          -2.204062,
+          0.0
+        ],
+        [
+          1.272516,
+          2.204062,
+          0.0
+        ],
+        [
+          0.0,
+          -1.469374,
+          6.242455
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0",
+        "Cu @ 0.222 0.778 0.333",
+        "Cu @ 0.778 0.222 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00624548999999996,
+      "stability": 0.00624548999999996,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1277912,
+      "calculation_id": 3126102,
+      "icsd_id": null,
+      "formationenergy_id": 5629517,
+      "duplicate_entry_id": 1277912,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3c",
+      "volume": 368.298,
+      "ntypes": 1,
+      "natoms": 28,
+      "unit_cell": [
+        [
+          5.689271,
+          -5.689271,
+          0.0
+        ],
+        [
+          5.689271,
+          5.689271,
+          0.0
+        ],
+        [
+          -5.689271,
+          0.0,
+          5.689271
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0",
+        "Cu @ 0.701 0.0614 0",
+        "Cu @ 0.439 0.201 0",
+        "Cu @ 0.939 0.299 0",
+        "Cu @ 0.201 0.439 0",
+        "Cu @ 0.5 0.5 0",
+        "Cu @ 0.799 0.561 0",
+        "Cu @ 0.0614 0.701 0",
+        "Cu @ 0.561 0.799 0",
+        "Cu @ 0.299 0.939 0",
+        "Cu @ 0.299 0.299 0.238",
+        "Cu @ 0.799 0.439 0.238",
+        "Cu @ 0.439 0.799 0.238",
+        "Cu @ 0.939 0.939 0.238",
+        "Cu @ 0.299 0.0614 0.36",
+        "Cu @ 0.0614 0.299 0.36",
+        "Cu @ 0.561 0.561 0.36",
+        "Cu @ 0.799 0.799 0.36",
+        "Cu @ 0.75 0.25 0.5",
+        "Cu @ 0.25 0.75 0.5",
+        "Cu @ 0.201 0.201 0.64",
+        "Cu @ 0.439 0.439 0.64",
+        "Cu @ 0.939 0.701 0.64",
+        "Cu @ 0.701 0.939 0.64",
+        "Cu @ 0.0614 0.0614 0.762",
+        "Cu @ 0.561 0.201 0.762",
+        "Cu @ 0.201 0.561 0.762",
+        "Cu @ 0.701 0.701 0.762"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.23918831357143,
+      "stability": 0.23918831357143,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1522150,
+      "calculation_id": 3976847,
+      "icsd_id": null,
+      "formationenergy_id": 5894355,
+      "duplicate_entry_id": 637373,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 11.7839,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.43354013,
+          1.43354013,
+          1.43354013
+        ],
+        [
+          1.43354013,
+          -1.43354013,
+          1.43354013
+        ],
+        [
+          1.43354013,
+          1.43354013,
+          -1.43354013
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.035457800000000095,
+      "stability": 0.035457800000000095,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1522153,
+      "calculation_id": 3976848,
+      "icsd_id": null,
+      "formationenergy_id": 5894356,
+      "duplicate_entry_id": 637373,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 11.7839,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.43354013,
+          1.43354013,
+          1.43354013
+        ],
+        [
+          1.43354013,
+          -1.43354013,
+          1.43354013
+        ],
+        [
+          1.43354013,
+          1.43354013,
+          -1.43354013
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.035457800000000095,
+      "stability": 0.035457800000000095,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1520484,
+      "calculation_id": 3982363,
+      "icsd_id": null,
+      "formationenergy_id": 5895707,
+      "duplicate_entry_id": 1520484,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 94.0393,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          4.183438949,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          5.110414452,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.398652546
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.5 0.25 0.164",
+        "Cu @ 0.5 0.75 0.164",
+        "Cu @ 0 0 0.335",
+        "Cu @ 0 0.5 0.335",
+        "Cu @ 0.5 0 0.665",
+        "Cu @ 0.5 0.5 0.665",
+        "Cu @ 0 0.25 0.836",
+        "Cu @ 0 0.75 0.836"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.008328841249999996,
+      "stability": 0.008328841249999996,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1972148,
+      "calculation_id": 4958645,
+      "icsd_id": null,
+      "formationenergy_id": 6179086,
+      "duplicate_entry_id": 1972148,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 68.2081,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          2.517975384,
+          0.0,
+          0.0
+        ],
+        [
+          -1.258987692,
+          2.180630648,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          12.422312936
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.667 0.333 0.333",
+        "Cu @ 0 0 0.5",
+        "Cu @ 0.333 0.667 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.3009839533333336,
+      "stability": 0.3009839533333336,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1972146,
+      "calculation_id": 4958714,
+      "icsd_id": null,
+      "formationenergy_id": 6179099,
+      "duplicate_entry_id": 1972146,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "R-3m",
+      "volume": 40.2181,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.215065419,
+          0.701518347,
+          7.863780747
+        ],
+        [
+          -1.215065419,
+          0.701518347,
+          7.863780747
+        ],
+        [
+          0.0,
+          -1.403036693,
+          7.863780747
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.6980034399999999,
+      "stability": 0.6980034399999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1972151,
+      "calculation_id": 4958716,
+      "icsd_id": null,
+      "formationenergy_id": 6179101,
+      "duplicate_entry_id": 1972151,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 102.227,
+      "ntypes": 1,
+      "natoms": 6,
+      "unit_cell": [
+        [
+          2.517646801,
+          0.0,
+          0.0
+        ],
+        [
+          -1.2588234,
+          2.180346087,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          18.622768412
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.667 0.333 0.0559",
+        "Cu @ 0 0 0.167",
+        "Cu @ 0.333 0.667 0.28",
+        "Cu @ 0.667 0.333 0.72",
+        "Cu @ 0 0 0.833",
+        "Cu @ 0.333 0.667 0.944"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1556436200000002,
+      "stability": 0.1556436200000002,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1972149,
+      "calculation_id": 4958731,
+      "icsd_id": null,
+      "formationenergy_id": 6179133,
+      "duplicate_entry_id": 1972149,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "R-3m",
+      "volume": 80.5267,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          1.265026299,
+          0.730363274,
+          14.526144755
+        ],
+        [
+          -1.265026299,
+          0.730363274,
+          14.526144755
+        ],
+        [
+          0.0,
+          -1.460726549,
+          14.526144755
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.0715 0.0715 0.0715",
+        "Cu @ 0.357 0.357 0.357",
+        "Cu @ 0.643 0.643 0.643",
+        "Cu @ 0.928 0.928 0.928"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.21783701000000022,
+      "stability": 0.21783701000000022,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1972147,
+      "calculation_id": 4959029,
+      "icsd_id": null,
+      "formationenergy_id": 6179176,
+      "duplicate_entry_id": 1972147,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "R-3m",
+      "volume": 45.0662,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          1.24465838,
+          0.718603851,
+          8.39768829
+        ],
+        [
+          -1.24465838,
+          0.718603851,
+          8.39768829
+        ],
+        [
+          0.0,
+          -1.437207701,
+          8.39768829
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.208 0.208 0.208",
+        "Cu @ 0.792 0.792 0.792"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.4336736000000001,
+      "stability": 0.4336736000000001,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1972150,
+      "calculation_id": 4959664,
+      "icsd_id": null,
+      "formationenergy_id": 6179529,
+      "duplicate_entry_id": 1972150,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "R-3m",
+      "volume": 88.5798,
+      "ntypes": 1,
+      "natoms": 5,
+      "unit_cell": [
+        [
+          1.261549276,
+          0.728355814,
+          16.067021777
+        ],
+        [
+          -1.261549276,
+          0.728355814,
+          16.067021777
+        ],
+        [
+          0.0,
+          -1.456711628,
+          16.067021777
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.124 0.124 0.124",
+        "Cu @ 0.253 0.253 0.253",
+        "Cu @ 0.5 0.5 0.5",
+        "Cu @ 0.747 0.747 0.747",
+        "Cu @ 0.876 0.876 0.876"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.17574207400000041,
+      "stability": 0.17574207400000041,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 1973294,
+      "calculation_id": 4975025,
+      "icsd_id": null,
+      "formationenergy_id": 6183190,
+      "duplicate_entry_id": 1973294,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "R-3m",
+      "volume": 123.776,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          1.251216236,
+          0.722390031,
+          22.823417257
+        ],
+        [
+          -1.251216236,
+          0.722390031,
+          22.823417257
+        ],
+        [
+          0.0,
+          -1.444780061,
+          22.823417257
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.136 0.136 0.136",
+        "Cu @ 0.5 0.5 0.5",
+        "Cu @ 0.864 0.864 0.864"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.2969021033333332,
+      "stability": 0.2969021033333332,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2031491,
+      "calculation_id": 5097486,
+      "icsd_id": 673014,
+      "formationenergy_id": 6219083,
+      "duplicate_entry_id": 2031491,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": "CaHg2",
+      "spacegroup": "P6/mmm",
+      "volume": 35.8583,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          4.103698949,
+          0.0,
+          0.0
+        ],
+        [
+          -2.051849474,
+          3.553907539,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.45871115
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0",
+        "Cu @ 0.667 0.333 0.5",
+        "Cu @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.07521302000000007,
+      "stability": 0.07521302000000007,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2038961,
+      "calculation_id": 5117789,
+      "icsd_id": null,
+      "formationenergy_id": 6224762,
+      "duplicate_entry_id": 2038961,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 155.101,
+      "ntypes": 1,
+      "natoms": 5,
+      "unit_cell": [
+        [
+          2.524829366,
+          0.0,
+          0.0
+        ],
+        [
+          -1.262414683,
+          2.186566371,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          28.09432175
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.667 0.333 0.351",
+        "Cu @ 0.333 0.667 0.426",
+        "Cu @ 0 0 0.5",
+        "Cu @ 0.667 0.333 0.574",
+        "Cu @ 0.333 0.667 0.649"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18239115999999989,
+      "stability": 0.18239115999999989,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2054435,
+      "calculation_id": 5188823,
+      "icsd_id": null,
+      "formationenergy_id": 6247474,
+      "duplicate_entry_id": 2054435,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cm",
+      "volume": 266.081,
+      "ntypes": 1,
+      "natoms": 22,
+      "unit_cell": [
+        [
+          4.004598997,
+          -1.777850576,
+          0.0
+        ],
+        [
+          4.004598997,
+          1.777850576,
+          0.0
+        ],
+        [
+          -0.34814279,
+          0.0,
+          18.686560951
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.149 0.149 0.0394",
+        "Cu @ 0.846 0.846 0.0875",
+        "Cu @ 0.544 0.544 0.125",
+        "Cu @ 0.244 0.244 0.171",
+        "Cu @ 0.947 0.947 0.216",
+        "Cu @ 0.647 0.647 0.259",
+        "Cu @ 0.347 0.347 0.303",
+        "Cu @ 0.0484 0.0484 0.347",
+        "Cu @ 0.749 0.749 0.39",
+        "Cu @ 0.449 0.449 0.434",
+        "Cu @ 0.15 0.15 0.478",
+        "Cu @ 0.85 0.85 0.522",
+        "Cu @ 0.551 0.551 0.566",
+        "Cu @ 0.251 0.251 0.61",
+        "Cu @ 0.952 0.952 0.653",
+        "Cu @ 0.653 0.653 0.697",
+        "Cu @ 0.354 0.354 0.741",
+        "Cu @ 0.0533 0.0533 0.784",
+        "Cu @ 0.756 0.756 0.829",
+        "Cu @ 0.456 0.456 0.875",
+        "Cu @ 0.154 0.154 0.912",
+        "Cu @ 0.851 0.851 0.96"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.054938832727272846,
+      "stability": 0.054938832727272846,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2054438,
+      "calculation_id": 5189246,
+      "icsd_id": null,
+      "formationenergy_id": 6247475,
+      "duplicate_entry_id": 2054435,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 403.299,
+      "ntypes": 1,
+      "natoms": 22,
+      "unit_cell": [
+        [
+          4.017501745,
+          -1.772750621,
+          0.0
+        ],
+        [
+          4.017501745,
+          1.772750621,
+          0.0
+        ],
+        [
+          -0.19351782,
+          0.0,
+          28.313480351
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.153 0.153 0.198",
+        "Cu @ 0.852 0.852 0.223",
+        "Cu @ 0.55 0.55 0.251",
+        "Cu @ 0.253 0.253 0.282",
+        "Cu @ 0.953 0.953 0.311",
+        "Cu @ 0.651 0.651 0.34",
+        "Cu @ 0.351 0.351 0.369",
+        "Cu @ 0.0509 0.0509 0.398",
+        "Cu @ 0.75 0.75 0.427",
+        "Cu @ 0.45 0.45 0.456",
+        "Cu @ 0.15 0.15 0.486",
+        "Cu @ 0.85 0.85 0.514",
+        "Cu @ 0.55 0.55 0.544",
+        "Cu @ 0.25 0.25 0.573",
+        "Cu @ 0.949 0.949 0.602",
+        "Cu @ 0.649 0.649 0.631",
+        "Cu @ 0.349 0.349 0.66",
+        "Cu @ 0.0473 0.0473 0.689",
+        "Cu @ 0.747 0.747 0.718",
+        "Cu @ 0.45 0.45 0.749",
+        "Cu @ 0.148 0.148 0.777",
+        "Cu @ 0.847 0.847 0.802"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.13135844727272739,
+      "stability": 0.13135844727272739,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 635950,
+      "calculation_id": 5193079,
+      "icsd_id": 180109,
+      "formationenergy_id": 6248244,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 11.7692,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          1.805395502,
+          1.805395502
+        ],
+        [
+          1.805395502,
+          0.0,
+          1.805395502
+        ],
+        [
+          1.805395502,
+          1.805395502,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2066479,
+      "calculation_id": 5219941,
+      "icsd_id": null,
+      "formationenergy_id": 6255878,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 11.7647,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          1.805165076,
+          1.805165076
+        ],
+        [
+          1.805165076,
+          0.0,
+          1.805165076
+        ],
+        [
+          1.805165076,
+          1.805165076,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 9.143999999983166e-05,
+      "stability": 9.143999999983166e-05,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2066483,
+      "calculation_id": 5219949,
+      "icsd_id": null,
+      "formationenergy_id": 6255880,
+      "duplicate_entry_id": 2066483,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4/nmm",
+      "volume": 259.757,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.528137027,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.528137027,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          40.641212943
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0.5 0.169",
+        "Cu @ 0.5 0 0.213",
+        "Cu @ 0 0.5 0.257",
+        "Cu @ 0.5 0 0.302",
+        "Cu @ 0 0.5 0.346",
+        "Cu @ 0.5 0 0.39",
+        "Cu @ 0 0.5 0.434",
+        "Cu @ 0.5 0 0.478",
+        "Cu @ 0 0.5 0.522",
+        "Cu @ 0.5 0 0.566",
+        "Cu @ 0 0.5 0.61",
+        "Cu @ 0.5 0 0.654",
+        "Cu @ 0 0.5 0.698",
+        "Cu @ 0.5 0 0.743",
+        "Cu @ 0 0.5 0.787",
+        "Cu @ 0.5 0 0.831"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.07969190124999992,
+      "stability": 0.07969190124999992,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2066492,
+      "calculation_id": 5219966,
+      "icsd_id": null,
+      "formationenergy_id": 6255889,
+      "duplicate_entry_id": 2066492,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 293.925,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.528086279,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.573442916,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          32.535538494
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0.0195",
+        "Cu @ 0.5 0.5 0.0581",
+        "Cu @ 0 0 0.0972",
+        "Cu @ 0.5 0.5 0.136",
+        "Cu @ 0 0 0.176",
+        "Cu @ 0.5 0.5 0.214",
+        "Cu @ 0 0 0.255",
+        "Cu @ 0.5 0.5 0.292",
+        "Cu @ 0 0 0.708",
+        "Cu @ 0.5 0.5 0.745",
+        "Cu @ 0 0 0.786",
+        "Cu @ 0.5 0.5 0.824",
+        "Cu @ 0 0 0.864",
+        "Cu @ 0.5 0.5 0.903",
+        "Cu @ 0 0 0.942",
+        "Cu @ 0.5 0.5 0.981"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.11644145374999981,
+      "stability": 0.11644145374999981,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2066481,
+      "calculation_id": 5220779,
+      "icsd_id": null,
+      "formationenergy_id": 6256101,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 11.7692,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          1.805397168,
+          1.805397168
+        ],
+        [
+          1.805397168,
+          0.0,
+          1.805397168
+        ],
+        [
+          1.805397168,
+          1.805397168,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2066510,
+      "calculation_id": 5220837,
+      "icsd_id": null,
+      "formationenergy_id": 6256107,
+      "duplicate_entry_id": 2066510,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cm",
+      "volume": 381.072,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.98741652,
+          -1.777717329,
+          0.0
+        ],
+        [
+          3.98741652,
+          1.777717329,
+          0.0
+        ],
+        [
+          -0.20795853,
+          0.0,
+          26.879608065
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.103 0.103 0.244",
+        "Cu @ 0.803 0.803 0.27",
+        "Cu @ 0.498 0.498 0.299",
+        "Cu @ 0.202 0.202 0.332",
+        "Cu @ 0.901 0.901 0.363",
+        "Cu @ 0.6 0.6 0.393",
+        "Cu @ 0.3 0.3 0.424",
+        "Cu @ 1 1 0.455",
+        "Cu @ 0.7 0.7 0.485",
+        "Cu @ 0.4 0.4 0.516",
+        "Cu @ 0.0998 0.0998 0.546",
+        "Cu @ 0.8 0.8 0.576",
+        "Cu @ 0.499 0.499 0.607",
+        "Cu @ 0.2 0.2 0.637",
+        "Cu @ 0.899 0.899 0.668",
+        "Cu @ 0.6 0.6 0.7",
+        "Cu @ 0.298 0.298 0.729",
+        "Cu @ 0.998 0.998 0.757"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.16345184722222195,
+      "stability": 0.16345184722222195,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2066501,
+      "calculation_id": 5225514,
+      "icsd_id": null,
+      "formationenergy_id": 6257432,
+      "duplicate_entry_id": 2066501,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 147.75,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.527253642,
+          0.0,
+          0.0
+        ],
+        [
+          -1.263626821,
+          2.188665856,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          26.711561109
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0",
+        "Cu @ 0.667 0.333 0.0779",
+        "Cu @ 0.333 0.667 0.156",
+        "Cu @ 0 0 0.234",
+        "Cu @ 0.667 0.333 0.313",
+        "Cu @ 0.333 0.667 0.687",
+        "Cu @ 0 0 0.766",
+        "Cu @ 0.667 0.333 0.844",
+        "Cu @ 0.333 0.667 0.922"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.10449266111111077,
+      "stability": 0.10449266111111077,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069716,
+      "calculation_id": 5243989,
+      "icsd_id": null,
+      "formationenergy_id": 6263752,
+      "duplicate_entry_id": 2066483,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 264.578,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.520966947,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.520966947,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          41.63119971
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.5 0.5 0.171",
+        "Cu @ 0 0 0.214",
+        "Cu @ 0.5 0.5 0.259",
+        "Cu @ 0 0 0.303",
+        "Cu @ 0.5 0.5 0.347",
+        "Cu @ 0 0 0.39",
+        "Cu @ 0.5 0.5 0.434",
+        "Cu @ 0 0 0.478",
+        "Cu @ 0.5 0.5 0.522",
+        "Cu @ 0 0 0.566",
+        "Cu @ 0.5 0.5 0.61",
+        "Cu @ 0 0 0.653",
+        "Cu @ 0.5 0.5 0.697",
+        "Cu @ 0 0 0.742",
+        "Cu @ 0.5 0.5 0.786",
+        "Cu @ 0 0 0.829"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.07554727874999978,
+      "stability": 0.07554727874999978,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069710,
+      "calculation_id": 5243981,
+      "icsd_id": null,
+      "formationenergy_id": 6263859,
+      "duplicate_entry_id": 2066483,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 264.578,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.520966947,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.520966947,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          41.63119971
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.5 0.5 0.171",
+        "Cu @ 0 0 0.214",
+        "Cu @ 0.5 0.5 0.259",
+        "Cu @ 0 0 0.303",
+        "Cu @ 0.5 0.5 0.347",
+        "Cu @ 0 0 0.39",
+        "Cu @ 0.5 0.5 0.434",
+        "Cu @ 0 0 0.478",
+        "Cu @ 0.5 0.5 0.522",
+        "Cu @ 0 0 0.566",
+        "Cu @ 0.5 0.5 0.61",
+        "Cu @ 0 0 0.653",
+        "Cu @ 0.5 0.5 0.697",
+        "Cu @ 0 0 0.742",
+        "Cu @ 0.5 0.5 0.786",
+        "Cu @ 0 0 0.829"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.07554727874999978,
+      "stability": 0.07554727874999978,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069713,
+      "calculation_id": 5245109,
+      "icsd_id": null,
+      "formationenergy_id": 6263860,
+      "duplicate_entry_id": 2066483,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 264.578,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.520966947,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.520966947,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          41.63119971
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.5 0.5 0.171",
+        "Cu @ 0 0 0.214",
+        "Cu @ 0.5 0.5 0.259",
+        "Cu @ 0 0 0.303",
+        "Cu @ 0.5 0.5 0.347",
+        "Cu @ 0 0 0.39",
+        "Cu @ 0.5 0.5 0.434",
+        "Cu @ 0 0 0.478",
+        "Cu @ 0.5 0.5 0.522",
+        "Cu @ 0 0 0.566",
+        "Cu @ 0.5 0.5 0.61",
+        "Cu @ 0 0 0.653",
+        "Cu @ 0.5 0.5 0.697",
+        "Cu @ 0 0 0.742",
+        "Cu @ 0.5 0.5 0.786",
+        "Cu @ 0 0 0.829"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.07554727874999978,
+      "stability": 0.07554727874999978,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069719,
+      "calculation_id": 5243996,
+      "icsd_id": null,
+      "formationenergy_id": 6263861,
+      "duplicate_entry_id": 2066483,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 264.578,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.520966947,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.520966947,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          41.63119971
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.5 0.5 0.171",
+        "Cu @ 0 0 0.214",
+        "Cu @ 0.5 0.5 0.259",
+        "Cu @ 0 0 0.303",
+        "Cu @ 0.5 0.5 0.347",
+        "Cu @ 0 0 0.39",
+        "Cu @ 0.5 0.5 0.434",
+        "Cu @ 0 0 0.478",
+        "Cu @ 0.5 0.5 0.522",
+        "Cu @ 0 0 0.566",
+        "Cu @ 0.5 0.5 0.61",
+        "Cu @ 0 0 0.653",
+        "Cu @ 0.5 0.5 0.697",
+        "Cu @ 0 0 0.742",
+        "Cu @ 0.5 0.5 0.786",
+        "Cu @ 0 0 0.829"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.07554727874999978,
+      "stability": 0.07554727874999978,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069722,
+      "calculation_id": 5243998,
+      "icsd_id": null,
+      "formationenergy_id": 6263862,
+      "duplicate_entry_id": 2066483,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 263.81,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.5166713,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.5166713,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          41.652291706
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.5 0.5 0.171",
+        "Cu @ 0 0 0.215",
+        "Cu @ 0.5 0.5 0.259",
+        "Cu @ 0 0 0.302",
+        "Cu @ 0.5 0.5 0.346",
+        "Cu @ 0 0 0.391",
+        "Cu @ 0.5 0.5 0.435",
+        "Cu @ 0 0 0.479",
+        "Cu @ 0.5 0.5 0.521",
+        "Cu @ 0 0 0.565",
+        "Cu @ 0.5 0.5 0.61",
+        "Cu @ 0 0 0.654",
+        "Cu @ 0.5 0.5 0.698",
+        "Cu @ 0 0 0.741",
+        "Cu @ 0.5 0.5 0.785",
+        "Cu @ 0 0 0.829"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.07827725249999995,
+      "stability": 0.07827725249999995,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069725,
+      "calculation_id": 5244013,
+      "icsd_id": null,
+      "formationenergy_id": 6263863,
+      "duplicate_entry_id": 2066483,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 264.578,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.520966947,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.520966947,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          41.63119971
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.5 0.5 0.171",
+        "Cu @ 0 0 0.214",
+        "Cu @ 0.5 0.5 0.259",
+        "Cu @ 0 0 0.303",
+        "Cu @ 0.5 0.5 0.347",
+        "Cu @ 0 0 0.39",
+        "Cu @ 0.5 0.5 0.434",
+        "Cu @ 0 0 0.478",
+        "Cu @ 0.5 0.5 0.522",
+        "Cu @ 0 0 0.566",
+        "Cu @ 0.5 0.5 0.61",
+        "Cu @ 0 0 0.653",
+        "Cu @ 0.5 0.5 0.697",
+        "Cu @ 0 0 0.742",
+        "Cu @ 0.5 0.5 0.786",
+        "Cu @ 0 0 0.829"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.07554727874999978,
+      "stability": 0.07554727874999978,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069728,
+      "calculation_id": 5244039,
+      "icsd_id": null,
+      "formationenergy_id": 6263864,
+      "duplicate_entry_id": 2066483,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 264.578,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.520966947,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.520966947,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          41.63119971
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.5 0.5 0.171",
+        "Cu @ 0 0 0.214",
+        "Cu @ 0.5 0.5 0.259",
+        "Cu @ 0 0 0.303",
+        "Cu @ 0.5 0.5 0.347",
+        "Cu @ 0 0 0.39",
+        "Cu @ 0.5 0.5 0.434",
+        "Cu @ 0 0 0.478",
+        "Cu @ 0.5 0.5 0.522",
+        "Cu @ 0 0 0.566",
+        "Cu @ 0.5 0.5 0.61",
+        "Cu @ 0 0 0.653",
+        "Cu @ 0.5 0.5 0.697",
+        "Cu @ 0 0 0.742",
+        "Cu @ 0.5 0.5 0.786",
+        "Cu @ 0 0 0.829"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.07554727874999978,
+      "stability": 0.07554727874999978,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069731,
+      "calculation_id": 5244318,
+      "icsd_id": null,
+      "formationenergy_id": 6263865,
+      "duplicate_entry_id": 2066483,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 264.578,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.520966947,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.520966947,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          41.63119971
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.5 0.5 0.171",
+        "Cu @ 0 0 0.214",
+        "Cu @ 0.5 0.5 0.259",
+        "Cu @ 0 0 0.303",
+        "Cu @ 0.5 0.5 0.347",
+        "Cu @ 0 0 0.39",
+        "Cu @ 0.5 0.5 0.434",
+        "Cu @ 0 0 0.478",
+        "Cu @ 0.5 0.5 0.522",
+        "Cu @ 0 0 0.566",
+        "Cu @ 0.5 0.5 0.61",
+        "Cu @ 0 0 0.653",
+        "Cu @ 0.5 0.5 0.697",
+        "Cu @ 0 0 0.742",
+        "Cu @ 0.5 0.5 0.786",
+        "Cu @ 0 0 0.829"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.07554727874999978,
+      "stability": 0.07554727874999978,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069734,
+      "calculation_id": 5244321,
+      "icsd_id": null,
+      "formationenergy_id": 6263866,
+      "duplicate_entry_id": 2066483,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 264.578,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.520966947,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.520966947,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          41.63119971
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.5 0.5 0.171",
+        "Cu @ 0 0 0.214",
+        "Cu @ 0.5 0.5 0.259",
+        "Cu @ 0 0 0.303",
+        "Cu @ 0.5 0.5 0.347",
+        "Cu @ 0 0 0.39",
+        "Cu @ 0.5 0.5 0.434",
+        "Cu @ 0 0 0.478",
+        "Cu @ 0.5 0.5 0.522",
+        "Cu @ 0 0 0.566",
+        "Cu @ 0.5 0.5 0.61",
+        "Cu @ 0 0 0.653",
+        "Cu @ 0.5 0.5 0.697",
+        "Cu @ 0 0 0.742",
+        "Cu @ 0.5 0.5 0.786",
+        "Cu @ 0 0 0.829"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.07554727874999978,
+      "stability": 0.07554727874999978,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069740,
+      "calculation_id": 5245096,
+      "icsd_id": null,
+      "formationenergy_id": 6263867,
+      "duplicate_entry_id": 2066483,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 264.578,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.520966947,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.520966947,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          41.63119971
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.5 0.5 0.171",
+        "Cu @ 0 0 0.214",
+        "Cu @ 0.5 0.5 0.259",
+        "Cu @ 0 0 0.303",
+        "Cu @ 0.5 0.5 0.347",
+        "Cu @ 0 0 0.39",
+        "Cu @ 0.5 0.5 0.434",
+        "Cu @ 0 0 0.478",
+        "Cu @ 0.5 0.5 0.522",
+        "Cu @ 0 0 0.566",
+        "Cu @ 0.5 0.5 0.61",
+        "Cu @ 0 0 0.653",
+        "Cu @ 0.5 0.5 0.697",
+        "Cu @ 0 0 0.742",
+        "Cu @ 0.5 0.5 0.786",
+        "Cu @ 0 0 0.829"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.07554727874999978,
+      "stability": 0.07554727874999978,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069743,
+      "calculation_id": 5245098,
+      "icsd_id": null,
+      "formationenergy_id": 6263868,
+      "duplicate_entry_id": 2066483,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 264.578,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.520966947,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.520966947,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          41.63119971
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.5 0.5 0.171",
+        "Cu @ 0 0 0.214",
+        "Cu @ 0.5 0.5 0.259",
+        "Cu @ 0 0 0.303",
+        "Cu @ 0.5 0.5 0.347",
+        "Cu @ 0 0 0.39",
+        "Cu @ 0.5 0.5 0.434",
+        "Cu @ 0 0 0.478",
+        "Cu @ 0.5 0.5 0.522",
+        "Cu @ 0 0 0.566",
+        "Cu @ 0.5 0.5 0.61",
+        "Cu @ 0 0 0.653",
+        "Cu @ 0.5 0.5 0.697",
+        "Cu @ 0 0 0.742",
+        "Cu @ 0.5 0.5 0.786",
+        "Cu @ 0 0 0.829"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.07554727874999978,
+      "stability": 0.07554727874999978,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069746,
+      "calculation_id": 5245106,
+      "icsd_id": null,
+      "formationenergy_id": 6263869,
+      "duplicate_entry_id": 2066483,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 264.578,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.520966947,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.520966947,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          41.63119971
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.5 0.5 0.171",
+        "Cu @ 0 0 0.214",
+        "Cu @ 0.5 0.5 0.259",
+        "Cu @ 0 0 0.303",
+        "Cu @ 0.5 0.5 0.347",
+        "Cu @ 0 0 0.39",
+        "Cu @ 0.5 0.5 0.434",
+        "Cu @ 0 0 0.478",
+        "Cu @ 0.5 0.5 0.522",
+        "Cu @ 0 0 0.566",
+        "Cu @ 0.5 0.5 0.61",
+        "Cu @ 0 0 0.653",
+        "Cu @ 0.5 0.5 0.697",
+        "Cu @ 0 0 0.742",
+        "Cu @ 0.5 0.5 0.786",
+        "Cu @ 0 0 0.829"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.07554727874999978,
+      "stability": 0.07554727874999978,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069749,
+      "calculation_id": 5244324,
+      "icsd_id": null,
+      "formationenergy_id": 6263870,
+      "duplicate_entry_id": 2066492,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 308.122,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.525229913,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.558421339,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          34.289780797
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0.224",
+        "Cu @ 0.5 0.5 0.26",
+        "Cu @ 0 0 0.297",
+        "Cu @ 0.5 0.5 0.334",
+        "Cu @ 0 0 0.371",
+        "Cu @ 0.5 0.5 0.408",
+        "Cu @ 0 0 0.445",
+        "Cu @ 0.5 0.5 0.482",
+        "Cu @ 0 0 0.518",
+        "Cu @ 0.5 0.5 0.555",
+        "Cu @ 0 0 0.592",
+        "Cu @ 0.5 0.5 0.629",
+        "Cu @ 0 0 0.666",
+        "Cu @ 0.5 0.5 0.703",
+        "Cu @ 0 0 0.74",
+        "Cu @ 0.5 0.5 0.776"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12021534437500003,
+      "stability": 0.12021534437500003,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069752,
+      "calculation_id": 5245111,
+      "icsd_id": null,
+      "formationenergy_id": 6263871,
+      "duplicate_entry_id": 2066492,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 308.122,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.525229913,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.558421339,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          34.289780797
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0.224",
+        "Cu @ 0.5 0.5 0.26",
+        "Cu @ 0 0 0.297",
+        "Cu @ 0.5 0.5 0.334",
+        "Cu @ 0 0 0.371",
+        "Cu @ 0.5 0.5 0.408",
+        "Cu @ 0 0 0.445",
+        "Cu @ 0.5 0.5 0.482",
+        "Cu @ 0 0 0.518",
+        "Cu @ 0.5 0.5 0.555",
+        "Cu @ 0 0 0.592",
+        "Cu @ 0.5 0.5 0.629",
+        "Cu @ 0 0 0.666",
+        "Cu @ 0.5 0.5 0.703",
+        "Cu @ 0 0 0.74",
+        "Cu @ 0.5 0.5 0.776"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12021534437500003,
+      "stability": 0.12021534437500003,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069755,
+      "calculation_id": 5245114,
+      "icsd_id": null,
+      "formationenergy_id": 6263872,
+      "duplicate_entry_id": 2066492,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 308.122,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.525229913,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.558421339,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          34.289780797
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0.224",
+        "Cu @ 0.5 0.5 0.26",
+        "Cu @ 0 0 0.297",
+        "Cu @ 0.5 0.5 0.334",
+        "Cu @ 0 0 0.371",
+        "Cu @ 0.5 0.5 0.408",
+        "Cu @ 0 0 0.445",
+        "Cu @ 0.5 0.5 0.482",
+        "Cu @ 0 0 0.518",
+        "Cu @ 0.5 0.5 0.555",
+        "Cu @ 0 0 0.592",
+        "Cu @ 0.5 0.5 0.629",
+        "Cu @ 0 0 0.666",
+        "Cu @ 0.5 0.5 0.703",
+        "Cu @ 0 0 0.74",
+        "Cu @ 0.5 0.5 0.776"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12021534437500003,
+      "stability": 0.12021534437500003,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069758,
+      "calculation_id": 5245115,
+      "icsd_id": null,
+      "formationenergy_id": 6263873,
+      "duplicate_entry_id": 2066492,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 308.122,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.525229913,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.558421339,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          34.289780797
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0.224",
+        "Cu @ 0.5 0.5 0.26",
+        "Cu @ 0 0 0.297",
+        "Cu @ 0.5 0.5 0.334",
+        "Cu @ 0 0 0.371",
+        "Cu @ 0.5 0.5 0.408",
+        "Cu @ 0 0 0.445",
+        "Cu @ 0.5 0.5 0.482",
+        "Cu @ 0 0 0.518",
+        "Cu @ 0.5 0.5 0.555",
+        "Cu @ 0 0 0.592",
+        "Cu @ 0.5 0.5 0.629",
+        "Cu @ 0 0 0.666",
+        "Cu @ 0.5 0.5 0.703",
+        "Cu @ 0 0 0.74",
+        "Cu @ 0.5 0.5 0.776"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12021534437500003,
+      "stability": 0.12021534437500003,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069764,
+      "calculation_id": 5245120,
+      "icsd_id": null,
+      "formationenergy_id": 6263874,
+      "duplicate_entry_id": 2066492,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 308.122,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.525229913,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.558421339,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          34.289780797
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0.224",
+        "Cu @ 0.5 0.5 0.26",
+        "Cu @ 0 0 0.297",
+        "Cu @ 0.5 0.5 0.334",
+        "Cu @ 0 0 0.371",
+        "Cu @ 0.5 0.5 0.408",
+        "Cu @ 0 0 0.445",
+        "Cu @ 0.5 0.5 0.482",
+        "Cu @ 0 0 0.518",
+        "Cu @ 0.5 0.5 0.555",
+        "Cu @ 0 0 0.592",
+        "Cu @ 0.5 0.5 0.629",
+        "Cu @ 0 0 0.666",
+        "Cu @ 0.5 0.5 0.703",
+        "Cu @ 0 0 0.74",
+        "Cu @ 0.5 0.5 0.776"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12021534437500003,
+      "stability": 0.12021534437500003,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069761,
+      "calculation_id": 5245451,
+      "icsd_id": null,
+      "formationenergy_id": 6264259,
+      "duplicate_entry_id": 2066492,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 308.122,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.525229913,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.558421339,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          34.289780797
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0.224",
+        "Cu @ 0.5 0.5 0.26",
+        "Cu @ 0 0 0.297",
+        "Cu @ 0.5 0.5 0.334",
+        "Cu @ 0 0 0.371",
+        "Cu @ 0.5 0.5 0.408",
+        "Cu @ 0 0 0.445",
+        "Cu @ 0.5 0.5 0.482",
+        "Cu @ 0 0 0.518",
+        "Cu @ 0.5 0.5 0.555",
+        "Cu @ 0 0 0.592",
+        "Cu @ 0.5 0.5 0.629",
+        "Cu @ 0 0 0.666",
+        "Cu @ 0.5 0.5 0.703",
+        "Cu @ 0 0 0.74",
+        "Cu @ 0.5 0.5 0.776"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12021534437500003,
+      "stability": 0.12021534437500003,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069767,
+      "calculation_id": 5245452,
+      "icsd_id": null,
+      "formationenergy_id": 6264267,
+      "duplicate_entry_id": 2066492,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 308.122,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.525229913,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.558421339,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          34.289780797
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0.224",
+        "Cu @ 0.5 0.5 0.26",
+        "Cu @ 0 0 0.297",
+        "Cu @ 0.5 0.5 0.334",
+        "Cu @ 0 0 0.371",
+        "Cu @ 0.5 0.5 0.408",
+        "Cu @ 0 0 0.445",
+        "Cu @ 0.5 0.5 0.482",
+        "Cu @ 0 0 0.518",
+        "Cu @ 0.5 0.5 0.555",
+        "Cu @ 0 0 0.592",
+        "Cu @ 0.5 0.5 0.629",
+        "Cu @ 0 0 0.666",
+        "Cu @ 0.5 0.5 0.703",
+        "Cu @ 0 0 0.74",
+        "Cu @ 0.5 0.5 0.776"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12021534437500003,
+      "stability": 0.12021534437500003,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069788,
+      "calculation_id": 5246412,
+      "icsd_id": null,
+      "formationenergy_id": 6264286,
+      "duplicate_entry_id": 2069788,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 176.963,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.524348033,
+          0.0,
+          0.0
+        ],
+        [
+          -1.262174017,
+          2.186149525,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          32.066582993
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.333 0.667 0.24",
+        "Cu @ 0 0 0.305",
+        "Cu @ 0.667 0.333 0.37",
+        "Cu @ 0.333 0.667 0.435",
+        "Cu @ 0 0 0.5",
+        "Cu @ 0.667 0.333 0.565",
+        "Cu @ 0.333 0.667 0.63",
+        "Cu @ 0 0 0.695",
+        "Cu @ 0.667 0.333 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1056888266666669,
+      "stability": 0.1056888266666669,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069791,
+      "calculation_id": 5246421,
+      "icsd_id": null,
+      "formationenergy_id": 6264287,
+      "duplicate_entry_id": 2069788,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 176.963,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.524348038,
+          0.0,
+          0.0
+        ],
+        [
+          -1.262174019,
+          2.186149529,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          32.066582988
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.333 0.667 0.24",
+        "Cu @ 0 0 0.305",
+        "Cu @ 0.667 0.333 0.37",
+        "Cu @ 0.333 0.667 0.435",
+        "Cu @ 0 0 0.5",
+        "Cu @ 0.667 0.333 0.565",
+        "Cu @ 0.333 0.667 0.63",
+        "Cu @ 0 0 0.695",
+        "Cu @ 0.667 0.333 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1056888255555557,
+      "stability": 0.1056888255555557,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069794,
+      "calculation_id": 5246432,
+      "icsd_id": null,
+      "formationenergy_id": 6264288,
+      "duplicate_entry_id": 2069788,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 176.963,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.524347417,
+          0.0,
+          0.0
+        ],
+        [
+          -1.262173708,
+          2.186148991,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          32.066569769
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.333 0.667 0.24",
+        "Cu @ 0 0 0.305",
+        "Cu @ 0.667 0.333 0.37",
+        "Cu @ 0.333 0.667 0.435",
+        "Cu @ 0 0 0.5",
+        "Cu @ 0.667 0.333 0.565",
+        "Cu @ 0.333 0.667 0.63",
+        "Cu @ 0 0 0.695",
+        "Cu @ 0.667 0.333 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.10568949444444486,
+      "stability": 0.10568949444444486,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069797,
+      "calculation_id": 5246441,
+      "icsd_id": null,
+      "formationenergy_id": 6264315,
+      "duplicate_entry_id": 2069788,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 176.963,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.524347871,
+          0.0,
+          0.0
+        ],
+        [
+          -1.262173936,
+          2.186149384,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          32.066577175
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.333 0.667 0.24",
+        "Cu @ 0 0 0.305",
+        "Cu @ 0.667 0.333 0.37",
+        "Cu @ 0.333 0.667 0.435",
+        "Cu @ 0 0 0.5",
+        "Cu @ 0.667 0.333 0.565",
+        "Cu @ 0.333 0.667 0.63",
+        "Cu @ 0 0 0.695",
+        "Cu @ 0.667 0.333 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.10568911777777767,
+      "stability": 0.10568911777777767,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069800,
+      "calculation_id": 5246447,
+      "icsd_id": null,
+      "formationenergy_id": 6264316,
+      "duplicate_entry_id": 2069788,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 176.963,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.524348067,
+          0.0,
+          0.0
+        ],
+        [
+          -1.262174034,
+          2.186149554,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          32.066583235
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.333 0.667 0.24",
+        "Cu @ 0 0 0.305",
+        "Cu @ 0.667 0.333 0.37",
+        "Cu @ 0.333 0.667 0.435",
+        "Cu @ 0 0 0.5",
+        "Cu @ 0.667 0.333 0.565",
+        "Cu @ 0.333 0.667 0.63",
+        "Cu @ 0 0 0.695",
+        "Cu @ 0.667 0.333 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.10568881666666696,
+      "stability": 0.10568881666666696,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069803,
+      "calculation_id": 5246474,
+      "icsd_id": null,
+      "formationenergy_id": 6264317,
+      "duplicate_entry_id": 2069788,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 176.963,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.524347897,
+          0.0,
+          0.0
+        ],
+        [
+          -1.262173949,
+          2.186149407,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          32.066579739
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.333 0.667 0.24",
+        "Cu @ 0 0 0.305",
+        "Cu @ 0.667 0.333 0.37",
+        "Cu @ 0.333 0.667 0.435",
+        "Cu @ 0 0 0.5",
+        "Cu @ 0.667 0.333 0.565",
+        "Cu @ 0.333 0.667 0.63",
+        "Cu @ 0 0 0.695",
+        "Cu @ 0.667 0.333 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.10568911000000014,
+      "stability": 0.10568911000000014,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069806,
+      "calculation_id": 5246485,
+      "icsd_id": null,
+      "formationenergy_id": 6264318,
+      "duplicate_entry_id": 2069788,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 176.963,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.524347847,
+          0.0,
+          0.0
+        ],
+        [
+          -1.262173923,
+          2.186149363,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          32.066578495
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.333 0.667 0.24",
+        "Cu @ 0 0 0.305",
+        "Cu @ 0.667 0.333 0.37",
+        "Cu @ 0.333 0.667 0.435",
+        "Cu @ 0 0 0.5",
+        "Cu @ 0.667 0.333 0.565",
+        "Cu @ 0.333 0.667 0.63",
+        "Cu @ 0 0 0.695",
+        "Cu @ 0.667 0.333 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.105689124444444,
+      "stability": 0.105689124444444,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069809,
+      "calculation_id": 5246502,
+      "icsd_id": null,
+      "formationenergy_id": 6264319,
+      "duplicate_entry_id": 2069788,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 176.963,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.524348016,
+          0.0,
+          0.0
+        ],
+        [
+          -1.262174008,
+          2.18614951,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          32.066582319
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0",
+        "Cu @ 0.667 0.333 0.0648",
+        "Cu @ 0.333 0.667 0.13",
+        "Cu @ 0 0 0.195",
+        "Cu @ 0.667 0.333 0.26",
+        "Cu @ 0.333 0.667 0.74",
+        "Cu @ 0 0 0.805",
+        "Cu @ 0.667 0.333 0.87",
+        "Cu @ 0.333 0.667 0.935"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.10567586666666662,
+      "stability": 0.10567586666666662,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069812,
+      "calculation_id": 5246525,
+      "icsd_id": null,
+      "formationenergy_id": 6264320,
+      "duplicate_entry_id": 2069788,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 176.963,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.524347999,
+          0.0,
+          0.0
+        ],
+        [
+          -1.262173999,
+          2.186149495,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          32.066581561
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0",
+        "Cu @ 0.667 0.333 0.0648",
+        "Cu @ 0.333 0.667 0.13",
+        "Cu @ 0 0 0.195",
+        "Cu @ 0.667 0.333 0.26",
+        "Cu @ 0.333 0.667 0.74",
+        "Cu @ 0 0 0.805",
+        "Cu @ 0.667 0.333 0.87",
+        "Cu @ 0.333 0.667 0.935"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.10567587222222219,
+      "stability": 0.10567587222222219,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069815,
+      "calculation_id": 5246530,
+      "icsd_id": null,
+      "formationenergy_id": 6264324,
+      "duplicate_entry_id": 2069788,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 176.963,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.524348168,
+          0.0,
+          0.0
+        ],
+        [
+          -1.262174084,
+          2.186149642,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          32.066584854
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.333 0.667 0.24",
+        "Cu @ 0 0 0.305",
+        "Cu @ 0.667 0.333 0.37",
+        "Cu @ 0.333 0.667 0.435",
+        "Cu @ 0 0 0.5",
+        "Cu @ 0.667 0.333 0.565",
+        "Cu @ 0.333 0.667 0.63",
+        "Cu @ 0 0 0.695",
+        "Cu @ 0.667 0.333 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1056887866666667,
+      "stability": 0.1056887866666667,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069818,
+      "calculation_id": 5246541,
+      "icsd_id": null,
+      "formationenergy_id": 6264325,
+      "duplicate_entry_id": 2069788,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 176.963,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.524348075,
+          0.0,
+          0.0
+        ],
+        [
+          -1.262174038,
+          2.186149561,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          32.066583393
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.333 0.667 0.24",
+        "Cu @ 0 0 0.305",
+        "Cu @ 0.667 0.333 0.37",
+        "Cu @ 0.333 0.667 0.435",
+        "Cu @ 0 0 0.5",
+        "Cu @ 0.667 0.333 0.565",
+        "Cu @ 0.333 0.667 0.63",
+        "Cu @ 0 0 0.695",
+        "Cu @ 0.667 0.333 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.10568881444444456,
+      "stability": 0.10568881444444456,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069821,
+      "calculation_id": 5246559,
+      "icsd_id": null,
+      "formationenergy_id": 6264326,
+      "duplicate_entry_id": 2069788,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 176.963,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.524348232,
+          0.0,
+          0.0
+        ],
+        [
+          -1.262174116,
+          2.186149697,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          32.066585771
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.333 0.667 0.24",
+        "Cu @ 0 0 0.305",
+        "Cu @ 0.667 0.333 0.37",
+        "Cu @ 0.333 0.667 0.435",
+        "Cu @ 0 0 0.5",
+        "Cu @ 0.667 0.333 0.565",
+        "Cu @ 0.333 0.667 0.63",
+        "Cu @ 0 0 0.695",
+        "Cu @ 0.667 0.333 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.10568876777777803,
+      "stability": 0.10568876777777803,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069737,
+      "calculation_id": 5246306,
+      "icsd_id": null,
+      "formationenergy_id": 6264382,
+      "duplicate_entry_id": 2066483,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 264.578,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.520966947,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.520966947,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          41.63119971
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.5 0.5 0.171",
+        "Cu @ 0 0 0.214",
+        "Cu @ 0.5 0.5 0.259",
+        "Cu @ 0 0 0.303",
+        "Cu @ 0.5 0.5 0.347",
+        "Cu @ 0 0 0.39",
+        "Cu @ 0.5 0.5 0.434",
+        "Cu @ 0 0 0.478",
+        "Cu @ 0.5 0.5 0.522",
+        "Cu @ 0 0 0.566",
+        "Cu @ 0.5 0.5 0.61",
+        "Cu @ 0 0 0.653",
+        "Cu @ 0.5 0.5 0.697",
+        "Cu @ 0 0 0.742",
+        "Cu @ 0.5 0.5 0.786",
+        "Cu @ 0 0 0.829"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.07554727874999978,
+      "stability": 0.07554727874999978,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069824,
+      "calculation_id": 5246577,
+      "icsd_id": null,
+      "formationenergy_id": 6264390,
+      "duplicate_entry_id": 2069788,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 176.963,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.524347897,
+          0.0,
+          0.0
+        ],
+        [
+          -1.262173948,
+          2.186149407,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          32.066579608
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.333 0.667 0.24",
+        "Cu @ 0 0 0.305",
+        "Cu @ 0.667 0.333 0.37",
+        "Cu @ 0.333 0.667 0.435",
+        "Cu @ 0 0 0.5",
+        "Cu @ 0.667 0.333 0.565",
+        "Cu @ 0.333 0.667 0.63",
+        "Cu @ 0 0 0.695",
+        "Cu @ 0.667 0.333 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.10568911000000014,
+      "stability": 0.10568911000000014,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069770,
+      "calculation_id": 5246352,
+      "icsd_id": null,
+      "formationenergy_id": 6264592,
+      "duplicate_entry_id": 2066492,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 308.122,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.525229913,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.558421339,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          34.289780797
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0.224",
+        "Cu @ 0.5 0.5 0.26",
+        "Cu @ 0 0 0.297",
+        "Cu @ 0.5 0.5 0.334",
+        "Cu @ 0 0 0.371",
+        "Cu @ 0.5 0.5 0.408",
+        "Cu @ 0 0 0.445",
+        "Cu @ 0.5 0.5 0.482",
+        "Cu @ 0 0 0.518",
+        "Cu @ 0.5 0.5 0.555",
+        "Cu @ 0 0 0.592",
+        "Cu @ 0.5 0.5 0.629",
+        "Cu @ 0 0 0.666",
+        "Cu @ 0.5 0.5 0.703",
+        "Cu @ 0 0 0.74",
+        "Cu @ 0.5 0.5 0.776"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12021534437500003,
+      "stability": 0.12021534437500003,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069773,
+      "calculation_id": 5246357,
+      "icsd_id": null,
+      "formationenergy_id": 6264593,
+      "duplicate_entry_id": 2066492,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 308.122,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.525229913,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.558421339,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          34.289780797
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0.224",
+        "Cu @ 0.5 0.5 0.26",
+        "Cu @ 0 0 0.297",
+        "Cu @ 0.5 0.5 0.334",
+        "Cu @ 0 0 0.371",
+        "Cu @ 0.5 0.5 0.408",
+        "Cu @ 0 0 0.445",
+        "Cu @ 0.5 0.5 0.482",
+        "Cu @ 0 0 0.518",
+        "Cu @ 0.5 0.5 0.555",
+        "Cu @ 0 0 0.592",
+        "Cu @ 0.5 0.5 0.629",
+        "Cu @ 0 0 0.666",
+        "Cu @ 0.5 0.5 0.703",
+        "Cu @ 0 0 0.74",
+        "Cu @ 0.5 0.5 0.776"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12021534437500003,
+      "stability": 0.12021534437500003,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069776,
+      "calculation_id": 5246361,
+      "icsd_id": null,
+      "formationenergy_id": 6264595,
+      "duplicate_entry_id": 2066492,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 308.122,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.525229913,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.558421339,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          34.289780797
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0.224",
+        "Cu @ 0.5 0.5 0.26",
+        "Cu @ 0 0 0.297",
+        "Cu @ 0.5 0.5 0.334",
+        "Cu @ 0 0 0.371",
+        "Cu @ 0.5 0.5 0.408",
+        "Cu @ 0 0 0.445",
+        "Cu @ 0.5 0.5 0.482",
+        "Cu @ 0 0 0.518",
+        "Cu @ 0.5 0.5 0.555",
+        "Cu @ 0 0 0.592",
+        "Cu @ 0.5 0.5 0.629",
+        "Cu @ 0 0 0.666",
+        "Cu @ 0.5 0.5 0.703",
+        "Cu @ 0 0 0.74",
+        "Cu @ 0.5 0.5 0.776"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12021534437500003,
+      "stability": 0.12021534437500003,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069779,
+      "calculation_id": 5246368,
+      "icsd_id": null,
+      "formationenergy_id": 6264597,
+      "duplicate_entry_id": 2066492,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 308.122,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.525229913,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.558421339,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          34.289780797
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0.224",
+        "Cu @ 0.5 0.5 0.26",
+        "Cu @ 0 0 0.297",
+        "Cu @ 0.5 0.5 0.334",
+        "Cu @ 0 0 0.371",
+        "Cu @ 0.5 0.5 0.408",
+        "Cu @ 0 0 0.445",
+        "Cu @ 0.5 0.5 0.482",
+        "Cu @ 0 0 0.518",
+        "Cu @ 0.5 0.5 0.555",
+        "Cu @ 0 0 0.592",
+        "Cu @ 0.5 0.5 0.629",
+        "Cu @ 0 0 0.666",
+        "Cu @ 0.5 0.5 0.703",
+        "Cu @ 0 0 0.74",
+        "Cu @ 0.5 0.5 0.776"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12021534437500003,
+      "stability": 0.12021534437500003,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069782,
+      "calculation_id": 5246376,
+      "icsd_id": null,
+      "formationenergy_id": 6264599,
+      "duplicate_entry_id": 2066492,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 308.122,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.52522991,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.558421311,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          34.289780848
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0.224",
+        "Cu @ 0.5 0.5 0.26",
+        "Cu @ 0 0 0.297",
+        "Cu @ 0.5 0.5 0.334",
+        "Cu @ 0 0 0.371",
+        "Cu @ 0.5 0.5 0.408",
+        "Cu @ 0 0 0.445",
+        "Cu @ 0.5 0.5 0.482",
+        "Cu @ 0 0 0.518",
+        "Cu @ 0.5 0.5 0.555",
+        "Cu @ 0 0 0.592",
+        "Cu @ 0.5 0.5 0.629",
+        "Cu @ 0 0 0.666",
+        "Cu @ 0.5 0.5 0.703",
+        "Cu @ 0 0 0.74",
+        "Cu @ 0.5 0.5 0.776"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12021534874999995,
+      "stability": 0.12021534874999995,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069785,
+      "calculation_id": 5246397,
+      "icsd_id": null,
+      "formationenergy_id": 6264604,
+      "duplicate_entry_id": 2066492,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 308.122,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.525229913,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.558421339,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          34.289780797
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0.224",
+        "Cu @ 0.5 0.5 0.26",
+        "Cu @ 0 0 0.297",
+        "Cu @ 0.5 0.5 0.334",
+        "Cu @ 0 0 0.371",
+        "Cu @ 0.5 0.5 0.408",
+        "Cu @ 0 0 0.445",
+        "Cu @ 0.5 0.5 0.482",
+        "Cu @ 0 0 0.518",
+        "Cu @ 0.5 0.5 0.555",
+        "Cu @ 0 0 0.592",
+        "Cu @ 0.5 0.5 0.629",
+        "Cu @ 0 0 0.666",
+        "Cu @ 0.5 0.5 0.703",
+        "Cu @ 0 0 0.74",
+        "Cu @ 0.5 0.5 0.776"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12021534437500003,
+      "stability": 0.12021534437500003,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069830,
+      "calculation_id": 5254018,
+      "icsd_id": null,
+      "formationenergy_id": 6266939,
+      "duplicate_entry_id": 2066510,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 371.527,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.999810801,
+          -1.750567401,
+          0.0
+        ],
+        [
+          3.999810801,
+          1.750567401,
+          0.0
+        ],
+        [
+          -0.141604307,
+          0.0,
+          26.530307666
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.35 0.35 0.0155",
+        "Cu @ 0.0497 0.0497 0.0465",
+        "Cu @ 0.75 0.75 0.0775",
+        "Cu @ 0.45 0.45 0.109",
+        "Cu @ 0.148 0.148 0.14",
+        "Cu @ 0.847 0.847 0.171",
+        "Cu @ 0.548 0.548 0.203",
+        "Cu @ 0.247 0.247 0.233",
+        "Cu @ 0.946 0.946 0.261",
+        "Cu @ 0.0541 0.0541 0.739",
+        "Cu @ 0.753 0.753 0.767",
+        "Cu @ 0.452 0.452 0.797",
+        "Cu @ 0.153 0.153 0.829",
+        "Cu @ 0.852 0.852 0.86",
+        "Cu @ 0.55 0.55 0.891",
+        "Cu @ 0.25 0.25 0.922",
+        "Cu @ 0.95 0.95 0.954",
+        "Cu @ 0.65 0.65 0.985"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1660290177777779,
+      "stability": 0.1660290177777779,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069842,
+      "calculation_id": 5254019,
+      "icsd_id": null,
+      "formationenergy_id": 6266944,
+      "duplicate_entry_id": 2066510,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 381.958,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.996599965,
+          -1.758703662,
+          0.0
+        ],
+        [
+          3.996599965,
+          1.758703662,
+          0.0
+        ],
+        [
+          -0.170961774,
+          0.0,
+          27.17079893
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.35 0.35 0.015",
+        "Cu @ 0.0501 0.0501 0.0453",
+        "Cu @ 0.75 0.75 0.0756",
+        "Cu @ 0.45 0.45 0.106",
+        "Cu @ 0.149 0.149 0.136",
+        "Cu @ 0.848 0.848 0.166",
+        "Cu @ 0.549 0.549 0.198",
+        "Cu @ 0.247 0.247 0.227",
+        "Cu @ 0.946 0.946 0.254",
+        "Cu @ 0.0537 0.0537 0.746",
+        "Cu @ 0.753 0.753 0.773",
+        "Cu @ 0.451 0.451 0.802",
+        "Cu @ 0.152 0.152 0.834",
+        "Cu @ 0.851 0.851 0.864",
+        "Cu @ 0.55 0.55 0.894",
+        "Cu @ 0.25 0.25 0.924",
+        "Cu @ 0.95 0.95 0.955",
+        "Cu @ 0.65 0.65 0.985"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.16537587111111085,
+      "stability": 0.16537587111111085,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069836,
+      "calculation_id": 5254090,
+      "icsd_id": null,
+      "formationenergy_id": 6266963,
+      "duplicate_entry_id": 2066510,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cm",
+      "volume": 369.115,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.992801967,
+          -1.735534365,
+          0.0
+        ],
+        [
+          3.992801967,
+          1.735534365,
+          0.0
+        ],
+        [
+          -0.223262717,
+          0.0,
+          26.633006838
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.053 0.053 0.239",
+        "Cu @ 0.755 0.755 0.267",
+        "Cu @ 0.453 0.453 0.297",
+        "Cu @ 0.152 0.152 0.329",
+        "Cu @ 0.851 0.851 0.361",
+        "Cu @ 0.55 0.55 0.391",
+        "Cu @ 0.25 0.25 0.423",
+        "Cu @ 0.95 0.95 0.454",
+        "Cu @ 0.65 0.65 0.485",
+        "Cu @ 0.35 0.35 0.515",
+        "Cu @ 0.05 0.05 0.546",
+        "Cu @ 0.75 0.75 0.577",
+        "Cu @ 0.45 0.45 0.609",
+        "Cu @ 0.149 0.149 0.639",
+        "Cu @ 0.848 0.848 0.671",
+        "Cu @ 0.547 0.547 0.703",
+        "Cu @ 0.245 0.245 0.733",
+        "Cu @ 0.947 0.947 0.761"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1695821111111111,
+      "stability": 0.1695821111111111,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069827,
+      "calculation_id": 5254089,
+      "icsd_id": null,
+      "formationenergy_id": 6266971,
+      "duplicate_entry_id": 2066510,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 373.461,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.993291331,
+          -1.748170434,
+          0.0
+        ],
+        [
+          3.993291331,
+          1.748170434,
+          0.0
+        ],
+        [
+          -0.171579505,
+          0.0,
+          26.748553322
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.35 0.35 0.0153",
+        "Cu @ 0.0499 0.0499 0.0461",
+        "Cu @ 0.75 0.75 0.077",
+        "Cu @ 0.45 0.45 0.108",
+        "Cu @ 0.149 0.149 0.138",
+        "Cu @ 0.847 0.847 0.17",
+        "Cu @ 0.548 0.548 0.202",
+        "Cu @ 0.246 0.246 0.231",
+        "Cu @ 0.946 0.946 0.259",
+        "Cu @ 0.0537 0.0537 0.741",
+        "Cu @ 0.754 0.754 0.769",
+        "Cu @ 0.452 0.452 0.798",
+        "Cu @ 0.153 0.153 0.83",
+        "Cu @ 0.851 0.851 0.862",
+        "Cu @ 0.55 0.55 0.892",
+        "Cu @ 0.25 0.25 0.923",
+        "Cu @ 0.95 0.95 0.954",
+        "Cu @ 0.65 0.65 0.985"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1671119555555558,
+      "stability": 0.1671119555555558,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069863,
+      "calculation_id": 5254407,
+      "icsd_id": null,
+      "formationenergy_id": 6267154,
+      "duplicate_entry_id": 2066510,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 376.802,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.986054528,
+          -1.743607833,
+          0.0
+        ],
+        [
+          3.986054528,
+          1.743607833,
+          0.0
+        ],
+        [
+          -0.244921352,
+          0.0,
+          27.107615543
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.35 0.35 0.0151",
+        "Cu @ 0.0503 0.0503 0.0456",
+        "Cu @ 0.75 0.75 0.0762",
+        "Cu @ 0.45 0.45 0.107",
+        "Cu @ 0.15 0.15 0.137",
+        "Cu @ 0.848 0.848 0.168",
+        "Cu @ 0.548 0.548 0.2",
+        "Cu @ 0.246 0.246 0.229",
+        "Cu @ 0.947 0.947 0.256",
+        "Cu @ 0.0529 0.0529 0.744",
+        "Cu @ 0.754 0.754 0.771",
+        "Cu @ 0.452 0.452 0.8",
+        "Cu @ 0.152 0.152 0.832",
+        "Cu @ 0.85 0.85 0.863",
+        "Cu @ 0.55 0.55 0.893",
+        "Cu @ 0.25 0.25 0.924",
+        "Cu @ 0.95 0.95 0.954",
+        "Cu @ 0.65 0.65 0.985"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.16858645166666664,
+      "stability": 0.16858645166666664,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069839,
+      "calculation_id": 5254701,
+      "icsd_id": null,
+      "formationenergy_id": 6267184,
+      "duplicate_entry_id": 2066510,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 373.579,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          4.00741565,
+          -1.759684713,
+          0.0
+        ],
+        [
+          4.00741565,
+          1.759684713,
+          0.0
+        ],
+        [
+          -0.099259499,
+          0.0,
+          26.488238076
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.35 0.35 0.0154",
+        "Cu @ 0.0498 0.0498 0.0463",
+        "Cu @ 0.75 0.75 0.0772",
+        "Cu @ 0.449 0.449 0.108",
+        "Cu @ 0.148 0.148 0.139",
+        "Cu @ 0.847 0.847 0.17",
+        "Cu @ 0.549 0.549 0.202",
+        "Cu @ 0.247 0.247 0.232",
+        "Cu @ 0.946 0.946 0.26",
+        "Cu @ 0.0537 0.0537 0.74",
+        "Cu @ 0.753 0.753 0.768",
+        "Cu @ 0.451 0.451 0.798",
+        "Cu @ 0.153 0.153 0.83",
+        "Cu @ 0.852 0.852 0.861",
+        "Cu @ 0.551 0.551 0.892",
+        "Cu @ 0.25 0.25 0.923",
+        "Cu @ 0.95 0.95 0.954",
+        "Cu @ 0.65 0.65 0.985"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.16490209,
+      "stability": 0.16490209,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069845,
+      "calculation_id": 5255002,
+      "icsd_id": null,
+      "formationenergy_id": 6267307,
+      "duplicate_entry_id": 2066510,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 374.912,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          4.021302144,
+          -1.754887196,
+          0.0
+        ],
+        [
+          4.021302144,
+          1.754887196,
+          0.0
+        ],
+        [
+          -0.128493597,
+          0.0,
+          26.563375521
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.35 0.35 0.0154",
+        "Cu @ 0.0499 0.0499 0.0464",
+        "Cu @ 0.75 0.75 0.0774",
+        "Cu @ 0.45 0.45 0.109",
+        "Cu @ 0.148 0.148 0.139",
+        "Cu @ 0.847 0.847 0.171",
+        "Cu @ 0.549 0.549 0.203",
+        "Cu @ 0.246 0.246 0.233",
+        "Cu @ 0.946 0.946 0.26",
+        "Cu @ 0.0536 0.0536 0.74",
+        "Cu @ 0.754 0.754 0.767",
+        "Cu @ 0.451 0.451 0.797",
+        "Cu @ 0.153 0.153 0.829",
+        "Cu @ 0.852 0.852 0.861",
+        "Cu @ 0.55 0.55 0.891",
+        "Cu @ 0.25 0.25 0.923",
+        "Cu @ 0.95 0.95 0.954",
+        "Cu @ 0.65 0.65 0.985"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1635732527777778,
+      "stability": 0.1635732527777778,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069833,
+      "calculation_id": 5254932,
+      "icsd_id": null,
+      "formationenergy_id": 6267322,
+      "duplicate_entry_id": 2066510,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 372.887,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          4.004437844,
+          -1.755974147,
+          0.0
+        ],
+        [
+          4.004437844,
+          1.755974147,
+          0.0
+        ],
+        [
+          -0.129261298,
+          0.0,
+          26.514772485
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.35 0.35 0.0154",
+        "Cu @ 0.0498 0.0498 0.0462",
+        "Cu @ 0.75 0.75 0.0771",
+        "Cu @ 0.449 0.449 0.108",
+        "Cu @ 0.148 0.148 0.139",
+        "Cu @ 0.847 0.847 0.17",
+        "Cu @ 0.549 0.549 0.202",
+        "Cu @ 0.247 0.247 0.232",
+        "Cu @ 0.946 0.946 0.259",
+        "Cu @ 0.0539 0.0539 0.741",
+        "Cu @ 0.753 0.753 0.768",
+        "Cu @ 0.451 0.451 0.798",
+        "Cu @ 0.153 0.153 0.83",
+        "Cu @ 0.852 0.852 0.861",
+        "Cu @ 0.551 0.551 0.892",
+        "Cu @ 0.25 0.25 0.923",
+        "Cu @ 0.95 0.95 0.954",
+        "Cu @ 0.65 0.65 0.985"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.16627148444444462,
+      "stability": 0.16627148444444462,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069848,
+      "calculation_id": 5255459,
+      "icsd_id": null,
+      "formationenergy_id": 6267523,
+      "duplicate_entry_id": 2066510,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 372.438,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          4.002131534,
+          -1.764623479,
+          0.0
+        ],
+        [
+          4.002131534,
+          1.764623479,
+          0.0
+        ],
+        [
+          -0.198170227,
+          0.0,
+          26.368223477
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.0549 0.0549 0.239",
+        "Cu @ 0.753 0.753 0.266",
+        "Cu @ 0.451 0.451 0.296",
+        "Cu @ 0.153 0.153 0.329",
+        "Cu @ 0.852 0.852 0.36",
+        "Cu @ 0.55 0.55 0.391",
+        "Cu @ 0.25 0.25 0.422",
+        "Cu @ 0.95 0.95 0.453",
+        "Cu @ 0.65 0.65 0.485",
+        "Cu @ 0.35 0.35 0.515",
+        "Cu @ 0.0502 0.0502 0.547",
+        "Cu @ 0.75 0.75 0.578",
+        "Cu @ 0.45 0.45 0.609",
+        "Cu @ 0.148 0.148 0.64",
+        "Cu @ 0.847 0.847 0.671",
+        "Cu @ 0.549 0.549 0.704",
+        "Cu @ 0.247 0.247 0.734",
+        "Cu @ 0.945 0.945 0.761"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.16411247666666684,
+      "stability": 0.16411247666666684,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069854,
+      "calculation_id": 5256481,
+      "icsd_id": null,
+      "formationenergy_id": 6267905,
+      "duplicate_entry_id": 2066510,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cm",
+      "volume": 366.921,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          4.007855978,
+          -1.741564081,
+          0.0
+        ],
+        [
+          4.007855978,
+          1.741564081,
+          0.0
+        ],
+        [
+          -0.230965666,
+          0.0,
+          26.283985166
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.0519 0.0519 0.235",
+        "Cu @ 0.752 0.752 0.262",
+        "Cu @ 0.45 0.45 0.293",
+        "Cu @ 0.153 0.153 0.326",
+        "Cu @ 0.853 0.853 0.358",
+        "Cu @ 0.552 0.552 0.389",
+        "Cu @ 0.252 0.252 0.421",
+        "Cu @ 0.951 0.951 0.453",
+        "Cu @ 0.65 0.65 0.484",
+        "Cu @ 0.35 0.35 0.516",
+        "Cu @ 0.0491 0.0491 0.547",
+        "Cu @ 0.748 0.748 0.579",
+        "Cu @ 0.448 0.448 0.611",
+        "Cu @ 0.147 0.147 0.642",
+        "Cu @ 0.847 0.847 0.674",
+        "Cu @ 0.55 0.55 0.707",
+        "Cu @ 0.248 0.248 0.738",
+        "Cu @ 0.948 0.948 0.765"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.16523521555555565,
+      "stability": 0.16523521555555565,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069857,
+      "calculation_id": 5273714,
+      "icsd_id": null,
+      "formationenergy_id": 6272267,
+      "duplicate_entry_id": 2066510,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 372.969,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          4.018481967,
+          -1.75765704,
+          0.0
+        ],
+        [
+          4.018481967,
+          1.75765704,
+          0.0
+        ],
+        [
+          -0.121251401,
+          0.0,
+          26.402621885
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.35 0.35 0.0155",
+        "Cu @ 0.0497 0.0497 0.0466",
+        "Cu @ 0.75 0.75 0.0778",
+        "Cu @ 0.449 0.449 0.109",
+        "Cu @ 0.148 0.148 0.14",
+        "Cu @ 0.847 0.847 0.171",
+        "Cu @ 0.549 0.549 0.204",
+        "Cu @ 0.246 0.246 0.234",
+        "Cu @ 0.946 0.946 0.261",
+        "Cu @ 0.0539 0.0539 0.739",
+        "Cu @ 0.754 0.754 0.766",
+        "Cu @ 0.451 0.451 0.796",
+        "Cu @ 0.153 0.153 0.829",
+        "Cu @ 0.852 0.852 0.86",
+        "Cu @ 0.551 0.551 0.891",
+        "Cu @ 0.25 0.25 0.922",
+        "Cu @ 0.95 0.95 0.953",
+        "Cu @ 0.65 0.65 0.985"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.16376967555555533,
+      "stability": 0.16376967555555533,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2069851,
+      "calculation_id": 5273713,
+      "icsd_id": null,
+      "formationenergy_id": 6277008,
+      "duplicate_entry_id": 2066510,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 373.016,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          4.004560302,
+          -1.76264834,
+          0.0
+        ],
+        [
+          4.004560302,
+          1.76264834,
+          0.0
+        ],
+        [
+          -0.040268706,
+          0.0,
+          26.422689669
+        ]
+      ],
+      "sites": [
+        "Cu @ 0.35 0.35 0.0153",
+        "Cu @ 0.0497 0.0497 0.0464",
+        "Cu @ 0.75 0.75 0.0775",
+        "Cu @ 0.449 0.449 0.109",
+        "Cu @ 0.148 0.148 0.139",
+        "Cu @ 0.847 0.847 0.171",
+        "Cu @ 0.549 0.549 0.203",
+        "Cu @ 0.247 0.247 0.234",
+        "Cu @ 0.946 0.946 0.26",
+        "Cu @ 0.0537 0.0537 0.74",
+        "Cu @ 0.753 0.753 0.766",
+        "Cu @ 0.451 0.451 0.797",
+        "Cu @ 0.153 0.153 0.829",
+        "Cu @ 0.852 0.852 0.861",
+        "Cu @ 0.551 0.551 0.891",
+        "Cu @ 0.25 0.25 0.923",
+        "Cu @ 0.95 0.95 0.954",
+        "Cu @ 0.65 0.65 0.985"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.16436200555555525,
+      "stability": 0.16436200555555525,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072225,
+      "calculation_id": 5327225,
+      "icsd_id": null,
+      "formationenergy_id": 6288474,
+      "duplicate_entry_id": null,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.6693,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.276753298,
+          1.276753298,
+          1.789657654
+        ],
+        [
+          1.276753298,
+          -1.276753298,
+          1.789657654
+        ],
+        [
+          1.276753298,
+          1.276753298,
+          -1.789657654
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.002692650000000185,
+      "stability": 0.002692650000000185,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072226,
+      "calculation_id": 5327256,
+      "icsd_id": null,
+      "formationenergy_id": 6288476,
+      "duplicate_entry_id": null,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.6612,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.315651784,
+          1.315651784,
+          1.684229709
+        ],
+        [
+          1.315651784,
+          -1.315651784,
+          1.684229709
+        ],
+        [
+          1.315651784,
+          1.315651784,
+          -1.684229709
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.013098489999999963,
+      "stability": 0.013098489999999963,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072227,
+      "calculation_id": 5327257,
+      "icsd_id": null,
+      "formationenergy_id": 6288477,
+      "duplicate_entry_id": null,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.6286,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.279483155,
+          1.279483155,
+          1.775824763
+        ],
+        [
+          1.279483155,
+          -1.279483155,
+          1.775824763
+        ],
+        [
+          1.279483155,
+          1.279483155,
+          -1.775824763
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.004259970000000113,
+      "stability": 0.004259970000000113,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072228,
+      "calculation_id": 5327265,
+      "icsd_id": null,
+      "formationenergy_id": 6288478,
+      "duplicate_entry_id": null,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.6309,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.283055363,
+          1.283055363,
+          1.76628524
+        ],
+        [
+          1.283055363,
+          -1.283055363,
+          1.76628524
+        ],
+        [
+          1.283055363,
+          1.283055363,
+          -1.76628524
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.004667650000000023,
+      "stability": 0.004667650000000023,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072229,
+      "calculation_id": 5327271,
+      "icsd_id": null,
+      "formationenergy_id": 6288479,
+      "duplicate_entry_id": null,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.6102,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.286664654,
+          1.286664654,
+          1.753263865
+        ],
+        [
+          1.286664654,
+          -1.286664654,
+          1.753263865
+        ],
+        [
+          1.286664654,
+          1.286664654,
+          -1.753263865
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.006134439999999852,
+      "stability": 0.006134439999999852,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072230,
+      "calculation_id": 5327272,
+      "icsd_id": null,
+      "formationenergy_id": 6288480,
+      "duplicate_entry_id": null,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.5984,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.290735816,
+          1.290735816,
+          1.74045269
+        ],
+        [
+          1.290735816,
+          -1.290735816,
+          1.74045269
+        ],
+        [
+          1.290735816,
+          1.290735816,
+          -1.74045269
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0075603499999998824,
+      "stability": 0.0075603499999998824,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072231,
+      "calculation_id": 5327291,
+      "icsd_id": null,
+      "formationenergy_id": 6288481,
+      "duplicate_entry_id": null,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.492,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.289713014,
+          1.289713014,
+          1.727221428
+        ],
+        [
+          1.289713014,
+          -1.289713014,
+          1.727221428
+        ],
+        [
+          1.289713014,
+          1.289713014,
+          -1.727221428
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.01257136999999986,
+      "stability": 0.01257136999999986,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072235,
+      "calculation_id": 5327295,
+      "icsd_id": null,
+      "formationenergy_id": 6288484,
+      "duplicate_entry_id": 1215678,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.7074,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.270768311,
+          1.270768311,
+          1.812457839
+        ],
+        [
+          1.270768311,
+          -1.270768311,
+          1.812457839
+        ],
+        [
+          1.270768311,
+          1.270768311,
+          -1.812457839
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.001671969999999856,
+      "stability": 0.001671969999999856,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072237,
+      "calculation_id": 5327300,
+      "icsd_id": null,
+      "formationenergy_id": 6288485,
+      "duplicate_entry_id": 1215678,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.7387,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.26821354,
+          1.26821354,
+          1.824637789
+        ],
+        [
+          1.26821354,
+          -1.26821354,
+          1.824637789
+        ],
+        [
+          1.26821354,
+          1.26821354,
+          -1.824637789
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0012533299999999414,
+      "stability": 0.0012533299999999414,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072232,
+      "calculation_id": 5327315,
+      "icsd_id": null,
+      "formationenergy_id": 6288487,
+      "duplicate_entry_id": null,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.682,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.301007448,
+          1.301007448,
+          1.725424181
+        ],
+        [
+          1.301007448,
+          -1.301007448,
+          1.725424181
+        ],
+        [
+          1.301007448,
+          1.301007448,
+          -1.725424181
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.006905249999999974,
+      "stability": 0.006905249999999974,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072233,
+      "calculation_id": 5327321,
+      "icsd_id": null,
+      "formationenergy_id": 6288488,
+      "duplicate_entry_id": null,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.6723,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.305662635,
+          1.305662635,
+          1.711731956
+        ],
+        [
+          1.305662635,
+          -1.305662635,
+          1.711731956
+        ],
+        [
+          1.305662635,
+          1.305662635,
+          -1.711731956
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.009009920000000005,
+      "stability": 0.009009920000000005,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072234,
+      "calculation_id": 5327323,
+      "icsd_id": null,
+      "formationenergy_id": 6288490,
+      "duplicate_entry_id": null,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.6657,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.310552726,
+          1.310552726,
+          1.69801901
+        ],
+        [
+          1.310552726,
+          -1.310552726,
+          1.69801901
+        ],
+        [
+          1.310552726,
+          1.310552726,
+          -1.69801901
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.011012430000000073,
+      "stability": 0.011012430000000073,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072236,
+      "calculation_id": 5327331,
+      "icsd_id": null,
+      "formationenergy_id": 6288491,
+      "duplicate_entry_id": 1215678,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.7029,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.264333279,
+          1.264333279,
+          1.830250091
+        ],
+        [
+          1.264333279,
+          -1.264333279,
+          1.830250091
+        ],
+        [
+          1.264333279,
+          1.264333279,
+          -1.830250091
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0024799999999998157,
+      "stability": 0.0024799999999998157,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072238,
+      "calculation_id": 5327333,
+      "icsd_id": null,
+      "formationenergy_id": 6288493,
+      "duplicate_entry_id": 1215678,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.7677,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.265654073,
+          1.265654073,
+          1.83654012
+        ],
+        [
+          1.265654073,
+          -1.265654073,
+          1.83654012
+        ],
+        [
+          1.265654073,
+          1.265654073,
+          -1.83654012
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0011146699999997622,
+      "stability": 0.0011146699999997622,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072239,
+      "calculation_id": 5327334,
+      "icsd_id": null,
+      "formationenergy_id": 6288494,
+      "duplicate_entry_id": 1215678,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.7792,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.262657936,
+          1.262657936,
+          1.847071396
+        ],
+        [
+          1.262657936,
+          -1.262657936,
+          1.847071396
+        ],
+        [
+          1.262657936,
+          1.262657936,
+          -1.847071396
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0015571500000000071,
+      "stability": 0.0015571500000000071,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072240,
+      "calculation_id": 5327336,
+      "icsd_id": null,
+      "formationenergy_id": 6288495,
+      "duplicate_entry_id": 1215678,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.7958,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.2599099,
+          1.2599099,
+          1.857755599
+        ],
+        [
+          1.2599099,
+          -1.2599099,
+          1.857755599
+        ],
+        [
+          1.2599099,
+          1.2599099,
+          -1.857755599
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0021777900000001793,
+      "stability": 0.0021777900000001793,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072241,
+      "calculation_id": 5327339,
+      "icsd_id": null,
+      "formationenergy_id": 6288497,
+      "duplicate_entry_id": 1215678,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.8233,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.270097388,
+          1.270097388,
+          1.832328719
+        ],
+        [
+          1.270097388,
+          -1.270097388,
+          1.832328719
+        ],
+        [
+          1.270097388,
+          1.270097388,
+          -1.832328719
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072245,
+      "calculation_id": 5327347,
+      "icsd_id": null,
+      "formationenergy_id": 6288498,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Immm",
+      "volume": 11.656,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.265464971,
+          1.28014604,
+          1.798791182
+        ],
+        [
+          1.265464971,
+          -1.28014604,
+          1.798791182
+        ],
+        [
+          1.265464971,
+          1.28014604,
+          -1.798791182
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0036465599999999654,
+      "stability": 0.0036465599999999654,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072242,
+      "calculation_id": 5327357,
+      "icsd_id": null,
+      "formationenergy_id": 6288503,
+      "duplicate_entry_id": 1215678,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.6919,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.265992427,
+          1.265992427,
+          1.823740384
+        ],
+        [
+          1.265992427,
+          -1.265992427,
+          1.823740384
+        ],
+        [
+          1.265992427,
+          1.265992427,
+          -1.823740384
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.002734199999999909,
+      "stability": 0.002734199999999909,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072244,
+      "calculation_id": 5327360,
+      "icsd_id": null,
+      "formationenergy_id": 6288504,
+      "duplicate_entry_id": 1215678,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.691,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.264421235,
+          1.264421235,
+          1.828139929
+        ],
+        [
+          1.264421235,
+          -1.264421235,
+          1.828139929
+        ],
+        [
+          1.264421235,
+          1.264421235,
+          -1.828139929
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.002976429999999919,
+      "stability": 0.002976429999999919,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072247,
+      "calculation_id": 5327372,
+      "icsd_id": null,
+      "formationenergy_id": 6288509,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Immm",
+      "volume": 11.638,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.261842587,
+          1.282640406,
+          1.797660091
+        ],
+        [
+          1.261842587,
+          -1.282640406,
+          1.797660091
+        ],
+        [
+          1.261842587,
+          1.282640406,
+          -1.797660091
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.004610860000000105,
+      "stability": 0.004610860000000105,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072246,
+      "calculation_id": 5327375,
+      "icsd_id": null,
+      "formationenergy_id": 6288510,
+      "duplicate_entry_id": 2072246,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Immm",
+      "volume": 11.5099,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.226069539,
+          1.293357385,
+          1.814595188
+        ],
+        [
+          1.226069539,
+          -1.293357385,
+          1.814595188
+        ],
+        [
+          1.226069539,
+          1.293357385,
+          -1.814595188
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.019076860000000195,
+      "stability": 0.019076860000000195,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072248,
+      "calculation_id": 5327376,
+      "icsd_id": null,
+      "formationenergy_id": 6288511,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Immm",
+      "volume": 11.6653,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.262609097,
+          1.285917478,
+          1.796193137
+        ],
+        [
+          1.262609097,
+          -1.285917478,
+          1.796193137
+        ],
+        [
+          1.262609097,
+          1.285917478,
+          -1.796193137
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.004005230000000193,
+      "stability": 0.004005230000000193,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072249,
+      "calculation_id": 5327380,
+      "icsd_id": null,
+      "formationenergy_id": 6288514,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Immm",
+      "volume": 11.7288,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.263922584,
+          1.292004815,
+          1.79560345
+        ],
+        [
+          1.263922584,
+          -1.292004815,
+          1.79560345
+        ],
+        [
+          1.263922584,
+          1.292004815,
+          -1.79560345
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.002812899999999896,
+      "stability": 0.002812899999999896,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072250,
+      "calculation_id": 5327406,
+      "icsd_id": null,
+      "formationenergy_id": 6288523,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Immm",
+      "volume": 11.6312,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.258711254,
+          1.290613438,
+          1.789960551
+        ],
+        [
+          1.258711254,
+          -1.290613438,
+          1.789960551
+        ],
+        [
+          1.258711254,
+          1.290613438,
+          -1.789960551
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.005948179999999859,
+      "stability": 0.005948179999999859,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072251,
+      "calculation_id": 5327407,
+      "icsd_id": null,
+      "formationenergy_id": 6288531,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Immm",
+      "volume": 11.6117,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.250733007,
+          1.298536378,
+          1.787385399
+        ],
+        [
+          1.250733007,
+          -1.298536378,
+          1.787385399
+        ],
+        [
+          1.250733007,
+          1.298536378,
+          -1.787385399
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.008968929999999986,
+      "stability": 0.008968929999999986,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072252,
+      "calculation_id": 5327408,
+      "icsd_id": null,
+      "formationenergy_id": 6288533,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Immm",
+      "volume": 11.6693,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.247814626,
+          1.302173958,
+          1.795425933
+        ],
+        [
+          1.247814626,
+          -1.302173958,
+          1.795425933
+        ],
+        [
+          1.247814626,
+          1.302173958,
+          -1.795425933
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.008432650000000042,
+      "stability": 0.008432650000000042,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072253,
+      "calculation_id": 5327414,
+      "icsd_id": null,
+      "formationenergy_id": 6288535,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Immm",
+      "volume": 11.5405,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.238407375,
+          1.28869859,
+          1.80779507
+        ],
+        [
+          1.238407375,
+          -1.28869859,
+          1.80779507
+        ],
+        [
+          1.238407375,
+          1.28869859,
+          -1.80779507
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.012790820000000203,
+      "stability": 0.012790820000000203,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072254,
+      "calculation_id": 5327418,
+      "icsd_id": null,
+      "formationenergy_id": 6288536,
+      "duplicate_entry_id": 2072246,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Immm",
+      "volume": 11.5263,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.236528357,
+          1.291409204,
+          1.80452877
+        ],
+        [
+          1.236528357,
+          -1.291409204,
+          1.80452877
+        ],
+        [
+          1.236528357,
+          1.291409204,
+          -1.80452877
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.014278679999999877,
+      "stability": 0.014278679999999877,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2072243,
+      "calculation_id": 5328871,
+      "icsd_id": null,
+      "formationenergy_id": 6288798,
+      "duplicate_entry_id": 1215678,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 11.6916,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.265280538,
+          1.265280538,
+          1.825748036
+        ],
+        [
+          1.265280538,
+          -1.265280538,
+          1.825748036
+        ],
+        [
+          1.265280538,
+          1.265280538,
+          -1.825748036
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.002836859999999941,
+      "stability": 0.002836859999999941,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Cu",
+      "entry_id": 2074487,
+      "calculation_id": 5366899,
+      "icsd_id": null,
+      "formationenergy_id": 6300226,
+      "duplicate_entry_id": 635950,
+      "composition": "Cu1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 11.7243,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          1.803095125,
+          1.803095125
+        ],
+        [
+          1.803095125,
+          0.0,
+          1.803095125
+        ],
+        [
+          1.803095125,
+          1.803095125,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Cu @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0012545699999999549,
+      "stability": 0.0012545699999999549,
+      "fit": "standard",
+      "calculation_label": "static"
+    }
+  ],
+  "meta": {
+    "query": {
+      "representation": "http://oqmd.org/oqmdapi/formationenergy?composition=Cu&limit=200"
+    },
+    "api_version": "1.0",
+    "time_stamp": "2026-07-11 16:43:18",
+    "data_returned": 132,
+    "data_available": 132,
+    "comments": "",
+    "query_tree": "",
+    "more_data_available": false
+  },
+  "response_message": "OK"
+}

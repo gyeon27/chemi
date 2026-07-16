@@ -1,0 +1,2051 @@
+{
+  "links": {
+    "next": null,
+    "previous": null,
+    "base_url": {
+      "href": "https://oqmd.org/oqmdapi",
+      "meta": {
+        "_oqmd_version": "1.0"
+      }
+    }
+  },
+  "resource": {},
+  "data": [
+    {
+      "name": "Ta",
+      "entry_id": 7517,
+      "calculation_id": 3624,
+      "icsd_id": 41520,
+      "formationenergy_id": 4061166,
+      "duplicate_entry_id": 7517,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "Cu",
+      "spacegroup": "Fm-3m",
+      "volume": 18.7879,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          2.11,
+          -2.11,
+          0.0
+        ],
+        [
+          -2.11,
+          0.0,
+          -2.11
+        ],
+        [
+          2.11,
+          2.11,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.24225738,
+      "stability": 0.24225738,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 9753,
+      "calculation_id": 149510,
+      "icsd_id": 54204,
+      "formationenergy_id": 4094556,
+      "duplicate_entry_id": 9753,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4/mbm",
+      "volume": 80.8936,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          2.768439
+        ],
+        [
+          5.405547,
+          0.000227,
+          0.0
+        ],
+        [
+          0.000227,
+          5.405547,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0.299 0.201",
+        "Ta @ 0 0.799 0.299",
+        "Ta @ 0 0.201 0.701",
+        "Ta @ 0 0.701 0.799"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.947910804999999,
+      "stability": 0.947910804999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 9754,
+      "calculation_id": 1054164,
+      "icsd_id": 54205,
+      "formationenergy_id": 4652508,
+      "duplicate_entry_id": 16591,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-4",
+      "volume": 558.381,
+      "ntypes": 1,
+      "natoms": 30,
+      "unit_cell": [
+        [
+          10.235354,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.235354,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.329971
+        ]
+      ],
+      "sites": [
+        "Ta @ 0.818 0.319 0.00101",
+        "Ta @ 0.182 0.681 0.00101",
+        "Ta @ 0.5 1 0.249",
+        "Ta @ 0.761 0.067 0.249",
+        "Ta @ 0.239 0.933 0.249",
+        "Ta @ 0.371 0.465 0.249",
+        "Ta @ 0.629 0.535 0.249",
+        "Ta @ 0.567 0.261 0.25",
+        "Ta @ 0.433 0.739 0.25",
+        "Ta @ 0.105 0.395 0.251",
+        "Ta @ 0.895 0.605 0.251",
+        "Ta @ 0.0345 0.129 0.251",
+        "Ta @ 0.965 0.871 0.251",
+        "Ta @ 0.819 0.318 0.5",
+        "Ta @ 0.181 0.682 0.5",
+        "Ta @ 0.318 0.181 0.5",
+        "Ta @ 0.682 0.819 0.5",
+        "Ta @ 0.871 0.0345 0.749",
+        "Ta @ 0.129 0.965 0.749",
+        "Ta @ 0.605 0.105 0.749",
+        "Ta @ 0.395 0.895 0.749",
+        "Ta @ 0.261 0.433 0.75",
+        "Ta @ 0.739 0.567 0.75",
+        "Ta @ 0.535 0.371 0.751",
+        "Ta @ 0.465 0.629 0.751",
+        "Ta @ 0.067 0.239 0.751",
+        "Ta @ 0.933 0.761 0.751",
+        "Ta @ 0 0.5 0.751",
+        "Ta @ 0.319 0.182 0.999",
+        "Ta @ 0.681 0.818 0.999"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00266919333329874,
+      "stability": 0.00266919333329874,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 9755,
+      "calculation_id": 1054168,
+      "icsd_id": 54208,
+      "formationenergy_id": 4652517,
+      "duplicate_entry_id": 16591,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "Ta(tP30)",
+      "spacegroup": "P-421m",
+      "volume": 558.18,
+      "ntypes": 1,
+      "natoms": 30,
+      "unit_cell": [
+        [
+          10.234093,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.234093,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.329366
+        ]
+      ],
+      "sites": [
+        "Ta @ 0.819 0.319 0.000621",
+        "Ta @ 0.181 0.681 0.000621",
+        "Ta @ 0.105 0.395 0.249",
+        "Ta @ 0.895 0.605 0.249",
+        "Ta @ 0.0348 0.129 0.249",
+        "Ta @ 0.371 0.465 0.249",
+        "Ta @ 0.629 0.535 0.249",
+        "Ta @ 0.965 0.871 0.249",
+        "Ta @ 0.761 0.0672 0.251",
+        "Ta @ 0.567 0.261 0.251",
+        "Ta @ 0.433 0.739 0.251",
+        "Ta @ 0.239 0.933 0.251",
+        "Ta @ 0.5 0 0.251",
+        "Ta @ 0.819 0.319 0.499",
+        "Ta @ 0.181 0.681 0.499",
+        "Ta @ 0.319 0.181 0.501",
+        "Ta @ 0.681 0.819 0.501",
+        "Ta @ 0 0.5 0.749",
+        "Ta @ 0.0672 0.239 0.749",
+        "Ta @ 0.261 0.433 0.749",
+        "Ta @ 0.739 0.567 0.749",
+        "Ta @ 0.933 0.761 0.749",
+        "Ta @ 0.871 0.0348 0.751",
+        "Ta @ 0.535 0.371 0.751",
+        "Ta @ 0.465 0.629 0.751",
+        "Ta @ 0.129 0.965 0.751",
+        "Ta @ 0.605 0.105 0.751",
+        "Ta @ 0.395 0.895 0.751",
+        "Ta @ 0.319 0.181 0.999",
+        "Ta @ 0.681 0.819 0.999"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00270174599999962,
+      "stability": 0.00270174599999962,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 9752,
+      "calculation_id": 1054169,
+      "icsd_id": 54203,
+      "formationenergy_id": 4652520,
+      "duplicate_entry_id": 9752,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-4",
+      "volume": 522.358,
+      "ntypes": 1,
+      "natoms": 22,
+      "unit_cell": [
+        [
+          10.465549,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.465549,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.76919
+        ]
+      ],
+      "sites": [
+        "Ta @ 0.103 0.397 0.249",
+        "Ta @ 0.897 0.603 0.249",
+        "Ta @ 0.0373 0.123 0.25",
+        "Ta @ 0.963 0.877 0.25",
+        "Ta @ 0.377 0.462 0.25",
+        "Ta @ 0.623 0.538 0.25",
+        "Ta @ 0.759 0.0667 0.25",
+        "Ta @ 0.241 0.933 0.25",
+        "Ta @ 0.57 0.259 0.25",
+        "Ta @ 0.43 0.741 0.25",
+        "Ta @ 0.5 1 0.251",
+        "Ta @ 0 0.5 0.749",
+        "Ta @ 0.259 0.43 0.75",
+        "Ta @ 0.741 0.57 0.75",
+        "Ta @ 0.0667 0.241 0.75",
+        "Ta @ 0.933 0.759 0.75",
+        "Ta @ 0.538 0.377 0.75",
+        "Ta @ 0.462 0.623 0.75",
+        "Ta @ 0.877 0.0373 0.75",
+        "Ta @ 0.123 0.963 0.75",
+        "Ta @ 0.603 0.103 0.751",
+        "Ta @ 0.397 0.897 0.751"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 1.2101657981818,
+      "stability": 1.2101657981818,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 16591,
+      "calculation_id": 1151507,
+      "icsd_id": 96595,
+      "formationenergy_id": 4725261,
+      "duplicate_entry_id": 16591,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P2",
+      "volume": 558.428,
+      "ntypes": 1,
+      "natoms": 30,
+      "unit_cell": [
+        [
+          10.236412,
+          -0.00024,
+          0.0
+        ],
+        [
+          -0.00024,
+          10.236026,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.329522
+        ]
+      ],
+      "sites": [
+        "Ta @ 0.319 0.182 0.000683",
+        "Ta @ 0.681 0.818 0.000683",
+        "Ta @ 0.819 0.319 0.00204",
+        "Ta @ 0.181 0.681 0.00204",
+        "Ta @ 0.105 0.395 0.249",
+        "Ta @ 0.895 0.605 0.249",
+        "Ta @ 0.0347 0.129 0.25",
+        "Ta @ 0.965 0.871 0.25",
+        "Ta @ 0.371 0.465 0.25",
+        "Ta @ 0.629 0.535 0.25",
+        "Ta @ 0.761 0.0672 0.252",
+        "Ta @ 0.239 0.933 0.252",
+        "Ta @ 0.5 9.16e-12 0.253",
+        "Ta @ 0.567 0.261 0.253",
+        "Ta @ 0.433 0.739 0.253",
+        "Ta @ 0.818 0.319 0.5",
+        "Ta @ 0.182 0.681 0.5",
+        "Ta @ 0.319 0.181 0.502",
+        "Ta @ 0.681 0.819 0.502",
+        "Ta @ -6.87e-12 0.5 0.749",
+        "Ta @ 0.0672 0.239 0.75",
+        "Ta @ 0.933 0.761 0.75",
+        "Ta @ 0.261 0.433 0.75",
+        "Ta @ 0.739 0.567 0.75",
+        "Ta @ 0.871 0.0347 0.752",
+        "Ta @ 0.129 0.965 0.752",
+        "Ta @ 0.605 0.105 0.753",
+        "Ta @ 0.395 0.895 0.753",
+        "Ta @ 0.535 0.371 0.753",
+        "Ta @ 0.465 0.629 0.753"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00263784399999878,
+      "stability": 0.00263784399999878,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1215197,
+      "calculation_id": 1281755,
+      "icsd_id": null,
+      "formationenergy_id": 4814916,
+      "duplicate_entry_id": null,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "A2_W",
+      "spacegroup": "Im-3m",
+      "volume": 18.23,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.657966,
+          1.657966,
+          1.657966
+        ],
+        [
+          1.657966,
+          -1.657966,
+          -1.657966
+        ],
+        [
+          -1.657966,
+          1.657966,
+          -1.657966
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 52302,
+      "calculation_id": 1285047,
+      "icsd_id": 54207,
+      "formationenergy_id": 4815645,
+      "duplicate_entry_id": 52302,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4/mbm",
+      "volume": 80.8135,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          2.768899
+        ],
+        [
+          5.402423,
+          -0.000135,
+          0.0
+        ],
+        [
+          -0.000135,
+          5.40242,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0.3 0.2",
+        "Ta @ 0 0.8 0.3",
+        "Ta @ 0 0.2 0.7",
+        "Ta @ 0 0.7 0.8"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.948363667499999,
+      "stability": 0.948363667499999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 670903,
+      "calculation_id": 1358168,
+      "icsd_id": 652898,
+      "formationenergy_id": 4877247,
+      "duplicate_entry_id": 670903,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P42/mnm",
+      "volume": 560.807,
+      "ntypes": 1,
+      "natoms": 30,
+      "unit_cell": [
+        [
+          10.25165,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.25165,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.336124
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0",
+        "Ta @ 0.739 0.0673 0",
+        "Ta @ 0.465 0.129 0",
+        "Ta @ 0.933 0.261 0",
+        "Ta @ 0.395 0.395 0",
+        "Ta @ 0.129 0.465 0",
+        "Ta @ 0.871 0.535 0",
+        "Ta @ 0.605 0.605 0",
+        "Ta @ 0.0673 0.739 0",
+        "Ta @ 0.535 0.871 0",
+        "Ta @ 0.261 0.933 0",
+        "Ta @ 0.681 0.319 0.249",
+        "Ta @ 0.319 0.681 0.249",
+        "Ta @ 0.181 0.181 0.251",
+        "Ta @ 0.819 0.819 0.251",
+        "Ta @ 0.629 0.0347 0.5",
+        "Ta @ 0.895 0.105 0.5",
+        "Ta @ 0.433 0.239 0.5",
+        "Ta @ 0.965 0.371 0.5",
+        "Ta @ 0.239 0.433 0.5",
+        "Ta @ 0.5 0.5 0.5",
+        "Ta @ 0.761 0.567 0.5",
+        "Ta @ 0.0347 0.629 0.5",
+        "Ta @ 0.567 0.761 0.5",
+        "Ta @ 0.105 0.895 0.5",
+        "Ta @ 0.371 0.965 0.5",
+        "Ta @ 0.181 0.181 0.749",
+        "Ta @ 0.819 0.819 0.749",
+        "Ta @ 0.681 0.319 0.751",
+        "Ta @ 0.319 0.681 0.751"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00230644966669935,
+      "stability": 0.00230644966669935,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1214574,
+      "calculation_id": 2692342,
+      "icsd_id": null,
+      "formationenergy_id": 5567227,
+      "duplicate_entry_id": 7517,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "A1_Cu",
+      "spacegroup": "Fm-3m",
+      "volume": 18.7715,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          2.109386,
+          -2.109386
+        ],
+        [
+          2.109386,
+          0.0,
+          2.109386
+        ],
+        [
+          0.0,
+          -2.109386,
+          -2.109386
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.242353049999998,
+      "stability": 0.242353049999998,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1214663,
+      "calculation_id": 2692502,
+      "icsd_id": null,
+      "formationenergy_id": 5567306,
+      "duplicate_entry_id": 1214663,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "A10_Hg",
+      "spacegroup": "R-3m",
+      "volume": 18.533,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          -1.74872,
+          2.332668
+        ],
+        [
+          -1.514436,
+          0.87436,
+          2.332668
+        ],
+        [
+          -1.514437,
+          -0.87436,
+          -2.332668
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.260761239999999,
+      "stability": 0.260761239999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1214752,
+      "calculation_id": 2692678,
+      "icsd_id": null,
+      "formationenergy_id": 5567393,
+      "duplicate_entry_id": 1214752,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "A11_Ga",
+      "spacegroup": "Fmmm",
+      "volume": 73.4775,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          -2.375611,
+          -4.630096,
+          0.0
+        ],
+        [
+          -2.375611,
+          4.630096,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -3.340096
+        ]
+      ],
+      "sites": [
+        "Ta @ 0.862 0.138 0",
+        "Ta @ 0.138 0.862 0",
+        "Ta @ 0.638 0.362 0.5",
+        "Ta @ 0.362 0.638 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.528958402499999,
+      "stability": 0.528958402499999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1214841,
+      "calculation_id": 2692856,
+      "icsd_id": null,
+      "formationenergy_id": 5567481,
+      "duplicate_entry_id": 1214841,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "A12_alpha_Mn",
+      "spacegroup": "I-43m",
+      "volume": 541.234,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          5.133833,
+          5.133833,
+          -5.133833
+        ],
+        [
+          5.133833,
+          -5.133833,
+          5.133833
+        ],
+        [
+          -5.133833,
+          -5.133833,
+          -5.133833
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0",
+        "Ta @ 0.376 0 0",
+        "Ta @ 0.604 0.322 0",
+        "Ta @ 0 0.376 0",
+        "Ta @ 0.322 0.604 0",
+        "Ta @ 0.813 0.63 0",
+        "Ta @ 0.63 0.813 0",
+        "Ta @ 0.37 0.37 0.183",
+        "Ta @ 0.817 0.187 0.187",
+        "Ta @ 0.187 0.817 0.187",
+        "Ta @ 0.678 0.678 0.282",
+        "Ta @ 0.604 0 0.322",
+        "Ta @ 0 0.604 0.322",
+        "Ta @ 0.37 0.183 0.37",
+        "Ta @ 0.183 0.37 0.37",
+        "Ta @ 0 0 0.376",
+        "Ta @ 0.718 0.396 0.396",
+        "Ta @ 0.396 0.718 0.396",
+        "Ta @ 0.322 0 0.604",
+        "Ta @ 0 0.322 0.604",
+        "Ta @ 0.624 0.624 0.624",
+        "Ta @ 0.813 0 0.63",
+        "Ta @ 0 0.813 0.63",
+        "Ta @ 0.678 0.282 0.678",
+        "Ta @ 0.282 0.678 0.678",
+        "Ta @ 0.396 0.396 0.718",
+        "Ta @ 0.63 0 0.813",
+        "Ta @ 0 0.63 0.813",
+        "Ta @ 0.187 0.187 0.817"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0882806706896986,
+      "stability": 0.0882806706896986,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1214930,
+      "calculation_id": 2693034,
+      "icsd_id": null,
+      "formationenergy_id": 5567567,
+      "duplicate_entry_id": 1214930,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "A13_beta_Mn",
+      "spacegroup": "P4132",
+      "volume": 375.542,
+      "ntypes": 1,
+      "natoms": 20,
+      "unit_cell": [
+        [
+          7.214721,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          7.214721,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          7.214721
+        ]
+      ],
+      "sites": [
+        "Ta @ 0.875 0.703 0.0473",
+        "Ta @ 0.0659 0.0659 0.0659",
+        "Ta @ 0.203 0.453 0.125",
+        "Ta @ 0.816 0.316 0.184",
+        "Ta @ 0.453 0.125 0.203",
+        "Ta @ 0.547 0.625 0.297",
+        "Ta @ 0.184 0.816 0.316",
+        "Ta @ 0.797 0.953 0.375",
+        "Ta @ 0.934 0.566 0.434",
+        "Ta @ 0.125 0.203 0.453",
+        "Ta @ 0.625 0.297 0.547",
+        "Ta @ 0.434 0.934 0.566",
+        "Ta @ 0.297 0.547 0.625",
+        "Ta @ 0.684 0.684 0.684",
+        "Ta @ 0.0473 0.875 0.703",
+        "Ta @ 0.953 0.375 0.797",
+        "Ta @ 0.316 0.184 0.816",
+        "Ta @ 0.703 0.0473 0.875",
+        "Ta @ 0.566 0.434 0.934",
+        "Ta @ 0.375 0.797 0.953"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.142142067,
+      "stability": 0.142142067,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1215019,
+      "calculation_id": 2693212,
+      "icsd_id": null,
+      "formationenergy_id": 5567655,
+      "duplicate_entry_id": 1215019,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "A15_beta_W",
+      "spacegroup": "Pm-3n",
+      "volume": 149.331,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          5.305382,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          5.305382,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.305382
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0",
+        "Ta @ 0.5 0.25 0",
+        "Ta @ 0.5 0.75 0",
+        "Ta @ 0 0.5 0.25",
+        "Ta @ 0.25 0 0.5",
+        "Ta @ 0.75 0 0.5",
+        "Ta @ 0.5 0.5 0.5",
+        "Ta @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0315926574999992,
+      "stability": 0.0315926574999992,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1215108,
+      "calculation_id": 2693390,
+      "icsd_id": null,
+      "formationenergy_id": 5567743,
+      "duplicate_entry_id": 1215108,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "A17_Black_P",
+      "spacegroup": "Cmca",
+      "volume": 75.6869,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          3.191504
+        ],
+        [
+          4.677734,
+          0.0,
+          0.0
+        ],
+        [
+          2.338867,
+          5.069785,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ta @ 1 0.364 0.271",
+        "Ta @ 0.5 0.864 0.271",
+        "Ta @ 0.5 0.136 0.729",
+        "Ta @ 0.000498 0.636 0.729"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.4128126775,
+      "stability": 0.4128126775,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1215286,
+      "calculation_id": 2693776,
+      "icsd_id": null,
+      "formationenergy_id": 5567897,
+      "duplicate_entry_id": 1215286,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "A20_alpha_U",
+      "spacegroup": "Cmcm",
+      "volume": 37.2366,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.724821,
+          0.0,
+          0.0
+        ],
+        [
+          1.36241,
+          2.754287,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.961609
+        ]
+      ],
+      "sites": [
+        "Ta @ 0.866 0.267 0.25",
+        "Ta @ 0.134 0.733 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.206759009999999,
+      "stability": 0.206759009999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1215375,
+      "calculation_id": 2693932,
+      "icsd_id": null,
+      "formationenergy_id": 5567973,
+      "duplicate_entry_id": 1215375,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "A3_Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 37.2819,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.902404,
+          0.0,
+          0.0
+        ],
+        [
+          -1.451202,
+          2.513556,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.11036
+        ]
+      ],
+      "sites": [
+        "Ta @ 0.333 0.667 0.25",
+        "Ta @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.280405004999999,
+      "stability": 0.280405004999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1215465,
+      "calculation_id": 2694096,
+      "icsd_id": null,
+      "formationenergy_id": 5568050,
+      "duplicate_entry_id": 1215465,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "A3p_La",
+      "spacegroup": "P63/mmc",
+      "volume": 74.8235,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          2.947241,
+          0.0,
+          0.0
+        ],
+        [
+          -1.473621,
+          2.552386,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          9.946625
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0",
+        "Ta @ 0.333 0.667 0.25",
+        "Ta @ 0 0 0.5",
+        "Ta @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.253522312499999,
+      "stability": 0.253522312499999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1215554,
+      "calculation_id": 2694269,
+      "icsd_id": null,
+      "formationenergy_id": 5568134,
+      "duplicate_entry_id": 1215554,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "A4_Diamond_C",
+      "spacegroup": "Fd-3m",
+      "volume": 56.1854,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          3.039937,
+          -3.039937
+        ],
+        [
+          3.039937,
+          0.0,
+          3.039937
+        ],
+        [
+          0.0,
+          -3.039937,
+          -3.039937
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0",
+        "Ta @ 0.25 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 2.88094362,
+      "stability": 2.88094362,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1215643,
+      "calculation_id": 2694441,
+      "icsd_id": null,
+      "formationenergy_id": 5568219,
+      "duplicate_entry_id": 1215643,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "A5_Sn",
+      "spacegroup": "I41/amd",
+      "volume": 39.1711,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -2.812207
+        ],
+        [
+          -2.639029,
+          -2.639029,
+          1.406104
+        ],
+        [
+          -2.639029,
+          2.639029,
+          -1.406104
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0",
+        "Ta @ 0.25 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.757647004999999,
+      "stability": 0.757647004999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1215732,
+      "calculation_id": 2694611,
+      "icsd_id": null,
+      "formationenergy_id": 5568303,
+      "duplicate_entry_id": 1215732,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "A6_In",
+      "spacegroup": "I4/mmm",
+      "volume": 18.511,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -2.801819,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -2.801819,
+          0.0
+        ],
+        [
+          1.40091,
+          1.40091,
+          2.358027
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.168073769999999,
+      "stability": 0.168073769999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1215821,
+      "calculation_id": 2694785,
+      "icsd_id": null,
+      "formationenergy_id": 5568389,
+      "duplicate_entry_id": 1215554,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "A7_As",
+      "spacegroup": "R-3m",
+      "volume": 36.3706,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          1.60625,
+          2.782107,
+          0.0
+        ],
+        [
+          3.2125,
+          0.0,
+          0.0
+        ],
+        [
+          -1.606249,
+          -0.927369,
+          -4.069426
+        ]
+      ],
+      "sites": [
+        "Ta @ 0.75 0.75 0.25",
+        "Ta @ 0.25 0.25 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.416966725,
+      "stability": 0.416966725,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1215910,
+      "calculation_id": 2694963,
+      "icsd_id": null,
+      "formationenergy_id": 5568475,
+      "duplicate_entry_id": 1215910,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "A8_Se",
+      "spacegroup": "P3121",
+      "volume": 52.5003,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          4.429403,
+          0.0,
+          0.0
+        ],
+        [
+          -2.214702,
+          3.835976,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.089873
+        ]
+      ],
+      "sites": [
+        "Ta @ 0.667 0.667 0",
+        "Ta @ 0.333 0 0.333",
+        "Ta @ 0 0.333 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.110997769999999,
+      "stability": 0.110997769999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1215999,
+      "calculation_id": 2695138,
+      "icsd_id": null,
+      "formationenergy_id": 5568561,
+      "duplicate_entry_id": 1215999,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "A9_Graphite_C",
+      "spacegroup": "P63/mmc",
+      "volume": 89.379,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          4.595262,
+          0.0,
+          0.0
+        ],
+        [
+          -2.29763,
+          3.979614,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.887471
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0.25",
+        "Ta @ 0.333 0.667 0.25",
+        "Ta @ 0 0 0.75",
+        "Ta @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 1.65344227,
+      "stability": 1.65344227,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1216091,
+      "calculation_id": 2695314,
+      "icsd_id": null,
+      "formationenergy_id": 5568646,
+      "duplicate_entry_id": 1216091,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "C19_alpha_Sm",
+      "spacegroup": "R-3m",
+      "volume": 56.0253,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          -1.458008,
+          2.525345,
+          0.0
+        ],
+        [
+          2.916017,
+          0.0,
+          0.0
+        ],
+        [
+          1.458008,
+          -0.841782,
+          -7.608056
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0",
+        "Ta @ 0.778 0.222 0.333",
+        "Ta @ 0.222 0.778 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.269712536666699,
+      "stability": 0.269712536666699,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 676531,
+      "calculation_id": 2718914,
+      "icsd_id": 53793,
+      "formationenergy_id": 5578646,
+      "duplicate_entry_id": null,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 18.1945,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.656888,
+          1.656888,
+          1.656888
+        ],
+        [
+          1.656888,
+          -1.656888,
+          -1.656888
+        ],
+        [
+          -1.656888,
+          1.656888,
+          -1.656888
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000270329999999319,
+      "stability": 0.000270329999999319,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1280388,
+      "calculation_id": 3130328,
+      "icsd_id": null,
+      "formationenergy_id": 5631444,
+      "duplicate_entry_id": 1215019,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pm-3n",
+      "volume": 149.35,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          3.751629,
+          2.166004,
+          3.063192
+        ],
+        [
+          -3.751629,
+          2.166004,
+          3.063192
+        ],
+        [
+          0.0,
+          -4.332008,
+          3.063192
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0",
+        "Ta @ 0.5 0.25 0",
+        "Ta @ 0.5 0.75 0",
+        "Ta @ 0 0.5 0.25",
+        "Ta @ 0.25 0 0.5",
+        "Ta @ 0.5 0.5 0.5",
+        "Ta @ 0.75 0 0.5",
+        "Ta @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0315731162499997,
+      "stability": 0.0315731162499997,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1484950,
+      "calculation_id": 3847114,
+      "icsd_id": null,
+      "formationenergy_id": 5860138,
+      "duplicate_entry_id": 1215732,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 18.5951,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.400957405,
+          1.400957405,
+          2.36858679
+        ],
+        [
+          1.400957405,
+          -1.400957405,
+          2.36858679
+        ],
+        [
+          1.400957405,
+          1.400957405,
+          -2.36858679
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.16701718999999926,
+      "stability": 0.16701718999999926,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1484597,
+      "calculation_id": 3846742,
+      "icsd_id": null,
+      "formationenergy_id": 5860268,
+      "duplicate_entry_id": 1484597,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "R-3m",
+      "volume": 244.252,
+      "ntypes": 1,
+      "natoms": 13,
+      "unit_cell": [
+        [
+          2.712235132,
+          1.565909683,
+          9.585012415
+        ],
+        [
+          -2.712235132,
+          1.565909683,
+          9.585012415
+        ],
+        [
+          0.0,
+          -3.131819367,
+          9.585012415
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0",
+        "Ta @ 0.586 0.0911 0.0911",
+        "Ta @ 0.0911 0.586 0.0911",
+        "Ta @ 0.167 0.167 0.167",
+        "Ta @ 0.352 0.352 0.352",
+        "Ta @ 0.909 0.909 0.414",
+        "Ta @ 0.455 0.455 0.455",
+        "Ta @ 0.545 0.545 0.545",
+        "Ta @ 0.0911 0.0911 0.586",
+        "Ta @ 0.648 0.648 0.648",
+        "Ta @ 0.833 0.833 0.833",
+        "Ta @ 0.909 0.414 0.909",
+        "Ta @ 0.414 0.909 0.909"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.10881891999999915,
+      "stability": 0.10881891999999915,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1485143,
+      "calculation_id": 3847980,
+      "icsd_id": null,
+      "formationenergy_id": 5860451,
+      "duplicate_entry_id": 1485143,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fd-3m",
+      "volume": 112.671,
+      "ntypes": 1,
+      "natoms": 6,
+      "unit_cell": [
+        [
+          0.0,
+          3.833484936,
+          3.833484936
+        ],
+        [
+          3.833484936,
+          0.0,
+          3.833484936
+        ],
+        [
+          3.833484936,
+          3.833484936,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0",
+        "Ta @ 0.625 0.625 0.125",
+        "Ta @ 0.25 0.25 0.25",
+        "Ta @ 0.625 0.125 0.625",
+        "Ta @ 0.125 0.625 0.625",
+        "Ta @ 0.625 0.625 0.625"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.11650033166666596,
+      "stability": 0.11650033166666596,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1485545,
+      "calculation_id": 3849854,
+      "icsd_id": null,
+      "formationenergy_id": 5861191,
+      "duplicate_entry_id": 1485545,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 225.363,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          5.461126512,
+          0.0,
+          0.0
+        ],
+        [
+          -2.730563256,
+          4.729474293,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          8.725440782
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0",
+        "Ta @ 0.333 0.667 0.0623",
+        "Ta @ 0.341 0.171 0.25",
+        "Ta @ 0.829 0.171 0.25",
+        "Ta @ 0.829 0.659 0.25",
+        "Ta @ 0.333 0.667 0.438",
+        "Ta @ 0 0 0.5",
+        "Ta @ 0.667 0.333 0.562",
+        "Ta @ 0.171 0.341 0.75",
+        "Ta @ 0.171 0.829 0.75",
+        "Ta @ 0.659 0.829 0.75",
+        "Ta @ 0.667 0.333 0.938"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.10049895083333205,
+      "stability": 0.10049895083333205,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1487640,
+      "calculation_id": 3863814,
+      "icsd_id": null,
+      "formationenergy_id": 5863258,
+      "duplicate_entry_id": 1487640,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 450.186,
+      "ntypes": 1,
+      "natoms": 24,
+      "unit_cell": [
+        [
+          5.448714886,
+          0.0,
+          0.0
+        ],
+        [
+          -2.724357443,
+          4.71872551,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          17.509459543
+        ]
+      ],
+      "sites": [
+        "Ta @ 0.5 0 0",
+        "Ta @ 0 0.5 0",
+        "Ta @ 0.5 0.5 0",
+        "Ta @ 0 0 0.0942",
+        "Ta @ 0.333 0.667 0.125",
+        "Ta @ 0.667 0.333 0.157",
+        "Ta @ 0.163 0.325 0.25",
+        "Ta @ 0.163 0.837 0.25",
+        "Ta @ 0.675 0.837 0.25",
+        "Ta @ 0.667 0.333 0.343",
+        "Ta @ 0.333 0.667 0.375",
+        "Ta @ 0 0 0.406",
+        "Ta @ 0.5 0 0.5",
+        "Ta @ 0 0.5 0.5",
+        "Ta @ 0.5 0.5 0.5",
+        "Ta @ 0 0 0.594",
+        "Ta @ 0.667 0.333 0.625",
+        "Ta @ 0.333 0.667 0.657",
+        "Ta @ 0.325 0.163 0.75",
+        "Ta @ 0.837 0.163 0.75",
+        "Ta @ 0.837 0.675 0.75",
+        "Ta @ 0.333 0.667 0.843",
+        "Ta @ 0.667 0.333 0.875",
+        "Ta @ 0 0 0.906"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.10926719541666507,
+      "stability": 0.10926719541666507,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1515748,
+      "calculation_id": 3935411,
+      "icsd_id": null,
+      "formationenergy_id": 5890692,
+      "duplicate_entry_id": 670903,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P42/mnm",
+      "volume": 558.475,
+      "ntypes": 1,
+      "natoms": 30,
+      "unit_cell": [
+        [
+          10.234241846,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.234241846,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.33202593
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0",
+        "Ta @ 0.739 0.0667 0",
+        "Ta @ 0.465 0.129 0",
+        "Ta @ 0.933 0.261 0",
+        "Ta @ 0.395 0.395 0",
+        "Ta @ 0.129 0.465 0",
+        "Ta @ 0.871 0.535 0",
+        "Ta @ 0.605 0.605 0",
+        "Ta @ 0.0667 0.739 0",
+        "Ta @ 0.535 0.871 0",
+        "Ta @ 0.261 0.933 0",
+        "Ta @ 0.682 0.318 0.249",
+        "Ta @ 0.318 0.682 0.249",
+        "Ta @ 0.182 0.182 0.251",
+        "Ta @ 0.818 0.818 0.251",
+        "Ta @ 0.629 0.0347 0.5",
+        "Ta @ 0.895 0.105 0.5",
+        "Ta @ 0.433 0.239 0.5",
+        "Ta @ 0.965 0.371 0.5",
+        "Ta @ 0.239 0.433 0.5",
+        "Ta @ 0.5 0.5 0.5",
+        "Ta @ 0.761 0.567 0.5",
+        "Ta @ 0.0347 0.629 0.5",
+        "Ta @ 0.567 0.761 0.5",
+        "Ta @ 0.105 0.895 0.5",
+        "Ta @ 0.371 0.965 0.5",
+        "Ta @ 0.182 0.182 0.749",
+        "Ta @ 0.818 0.818 0.749",
+        "Ta @ 0.682 0.318 0.751",
+        "Ta @ 0.318 0.682 0.751"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0026733743333320348,
+      "stability": 0.0026733743333320348,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1522225,
+      "calculation_id": 3976864,
+      "icsd_id": null,
+      "formationenergy_id": 5894361,
+      "duplicate_entry_id": null,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 18.2164,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.657554317,
+          1.657554317,
+          1.657554317
+        ],
+        [
+          1.657554317,
+          -1.657554317,
+          1.657554317
+        ],
+        [
+          1.657554317,
+          1.657554317,
+          -1.657554317
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 9.196999999971922e-05,
+      "stability": 9.196999999971922e-05,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 1577325,
+      "calculation_id": 4133851,
+      "icsd_id": null,
+      "formationenergy_id": 5928248,
+      "duplicate_entry_id": 1214841,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I-43m",
+      "volume": 541.812,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          -5.135660593,
+          5.135660593,
+          5.135660593
+        ],
+        [
+          5.135660593,
+          -5.135660593,
+          5.135660593
+        ],
+        [
+          5.135660593,
+          5.135660593,
+          -5.135660593
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0",
+        "Ta @ 0.624 0 0",
+        "Ta @ 0.37 0.187 0",
+        "Ta @ 0.187 0.37 0",
+        "Ta @ 0.678 0.396 0",
+        "Ta @ 0 0.624 0",
+        "Ta @ 0.396 0.678 0",
+        "Ta @ 0.813 0.813 0.183",
+        "Ta @ 0.37 0 0.187",
+        "Ta @ 0 0.37 0.187",
+        "Ta @ 0.604 0.604 0.281",
+        "Ta @ 0.719 0.322 0.322",
+        "Ta @ 0.322 0.719 0.322",
+        "Ta @ 0.187 0 0.37",
+        "Ta @ 0 0.187 0.37",
+        "Ta @ 0.376 0.376 0.376",
+        "Ta @ 0.678 0 0.396",
+        "Ta @ 0 0.678 0.396",
+        "Ta @ 0.604 0.281 0.604",
+        "Ta @ 0.281 0.604 0.604",
+        "Ta @ 0 0 0.624",
+        "Ta @ 0.817 0.63 0.63",
+        "Ta @ 0.63 0.817 0.63",
+        "Ta @ 0.396 0 0.678",
+        "Ta @ 0 0.396 0.678",
+        "Ta @ 0.322 0.322 0.719",
+        "Ta @ 0.813 0.183 0.813",
+        "Ta @ 0.183 0.813 0.813",
+        "Ta @ 0.63 0.63 0.817"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.08818815586206874,
+      "stability": 0.08818815586206874,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 2030158,
+      "calculation_id": 5093702,
+      "icsd_id": 671066,
+      "formationenergy_id": 6218071,
+      "duplicate_entry_id": 1215732,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "In",
+      "spacegroup": "I4/mmm",
+      "volume": 18.5478,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.394540735,
+          1.394540735,
+          2.384349515
+        ],
+        [
+          1.394540735,
+          -1.394540735,
+          2.384349515
+        ],
+        [
+          1.394540735,
+          1.394540735,
+          -2.384349515
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1662740499999984,
+      "stability": 0.1662740499999984,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 2030258,
+      "calculation_id": 5093864,
+      "icsd_id": 671218,
+      "formationenergy_id": 6218313,
+      "duplicate_entry_id": 1215375,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "hcp#Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 37.2721,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.894847065,
+          0.0,
+          0.0
+        ],
+        [
+          -1.447423533,
+          2.507011099,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.135723889
+        ]
+      ],
+      "sites": [
+        "Ta @ 0.667 0.333 0.25",
+        "Ta @ 0.333 0.667 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.2801849049999987,
+      "stability": 0.2801849049999987,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 2030259,
+      "calculation_id": 5097038,
+      "icsd_id": 671219,
+      "formationenergy_id": 6218956,
+      "duplicate_entry_id": 2030259,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "CaHg2",
+      "spacegroup": "P6/mmm",
+      "volume": 55.6951,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          4.855596325,
+          0.0,
+          0.0
+        ],
+        [
+          -2.427798162,
+          4.205069768,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.727729664
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0",
+        "Ta @ 0.667 0.333 0.5",
+        "Ta @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.22569511999999925,
+      "stability": 0.22569511999999925,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 2030257,
+      "calculation_id": 5144103,
+      "icsd_id": 671216,
+      "formationenergy_id": 6234100,
+      "duplicate_entry_id": 1215019,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": "Cr3Si",
+      "spacegroup": "Pm-3n",
+      "volume": 149.565,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          5.30815608,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          5.30815608,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.30815608
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0",
+        "Ta @ 0.5 0.25 0",
+        "Ta @ 0.5 0.75 0",
+        "Ta @ 0 0.5 0.25",
+        "Ta @ 0.25 0 0.5",
+        "Ta @ 0.75 0 0.5",
+        "Ta @ 0.5 0.5 0.5",
+        "Ta @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.03138519124999917,
+      "stability": 0.03138519124999917,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 2162668,
+      "calculation_id": 5678538,
+      "icsd_id": null,
+      "formationenergy_id": 6389993,
+      "duplicate_entry_id": null,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 18.2192,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.657637696,
+          1.657637696,
+          1.657637696
+        ],
+        [
+          1.657637696,
+          -1.657637696,
+          1.657637696
+        ],
+        [
+          1.657637696,
+          1.657637696,
+          -1.657637696
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 7.193999999977052e-05,
+      "stability": 7.193999999977052e-05,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ta",
+      "entry_id": 2162725,
+      "calculation_id": 5678688,
+      "icsd_id": null,
+      "formationenergy_id": 6390001,
+      "duplicate_entry_id": null,
+      "composition": "Ta1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 18.2192,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.657638011,
+          1.657638011,
+          1.657638011
+        ],
+        [
+          1.657638011,
+          -1.657638011,
+          1.657638011
+        ],
+        [
+          1.657638011,
+          1.657638011,
+          -1.657638011
+        ]
+      ],
+      "sites": [
+        "Ta @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 7.186999999930777e-05,
+      "stability": 7.186999999930777e-05,
+      "fit": "standard",
+      "calculation_label": "static"
+    }
+  ],
+  "meta": {
+    "query": {
+      "representation": "http://oqmd.org/oqmdapi/formationenergy?composition=Ta&limit=200"
+    },
+    "api_version": "1.0",
+    "time_stamp": "2026-07-11 17:03:05",
+    "data_returned": 42,
+    "data_available": 42,
+    "comments": "",
+    "query_tree": "",
+    "more_data_available": false
+  },
+  "response_message": "OK"
+}

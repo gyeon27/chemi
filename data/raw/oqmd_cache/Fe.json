@@ -1,0 +1,1469 @@
+{
+  "links": {
+    "next": null,
+    "previous": null,
+    "base_url": {
+      "href": "https://oqmd.org/oqmdapi",
+      "meta": {
+        "_oqmd_version": "1.0"
+      }
+    }
+  },
+  "resource": {},
+  "data": [
+    {
+      "name": "Fe",
+      "entry_id": 22514,
+      "calculation_id": 3829,
+      "icsd_id": 183262,
+      "formationenergy_id": 4061217,
+      "duplicate_entry_id": 8568,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "W",
+      "spacegroup": "Im-3m",
+      "volume": 11.1739,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.408362,
+          1.408362,
+          1.408362
+        ],
+        [
+          1.408362,
+          -1.408362,
+          -1.408362
+        ],
+        [
+          -1.408362,
+          1.408362,
+          -1.408362
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000355089999999336,
+      "stability": 0.000355089999999336,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 7505,
+      "calculation_id": 3845,
+      "icsd_id": 41506,
+      "formationenergy_id": 4061223,
+      "duplicate_entry_id": 7505,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "Cu",
+      "spacegroup": "Fm-3m",
+      "volume": 10.198,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.721189,
+          -1.721189,
+          0.0
+        ],
+        [
+          -1.721189,
+          0.0,
+          -1.721189
+        ],
+        [
+          1.721189,
+          1.721189,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.161451849999999,
+      "stability": 0.161451849999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 8568,
+      "calculation_id": 4213,
+      "icsd_id": 44863,
+      "formationenergy_id": 4061394,
+      "duplicate_entry_id": 8568,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "W",
+      "spacegroup": "Im-3m",
+      "volume": 11.1914,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.4091,
+          1.4091,
+          1.4091
+        ],
+        [
+          1.4091,
+          -1.4091,
+          -1.4091
+        ],
+        [
+          -1.4091,
+          1.4091,
+          -1.4091
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 30158,
+      "calculation_id": 7144,
+      "icsd_id": 631726,
+      "formationenergy_id": 4063875,
+      "duplicate_entry_id": 51781,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 20.0449,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.44554,
+          0.0,
+          0.0
+        ],
+        [
+          -1.22277,
+          2.117838,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.870228
+        ]
+      ],
+      "sites": [
+        "Fe @ 0.333 0.667 0.25",
+        "Fe @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.087630429999999,
+      "stability": 0.087630429999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 21731,
+      "calculation_id": 9687,
+      "icsd_id": 171002,
+      "formationenergy_id": 4066245,
+      "duplicate_entry_id": 21731,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4/mmm",
+      "volume": 39.1367,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          -1.664215,
+          -1.664215,
+          0.0
+        ],
+        [
+          -1.664215,
+          1.664215,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -7.065374
+        ]
+      ],
+      "sites": [
+        "Fe @ 0.5 0.5 0.166",
+        "Fe @ 0.5 0.5 0.5",
+        "Fe @ 0.5 0.5 0.834"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.759901986666669,
+      "stability": 0.759901986666669,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 21053,
+      "calculation_id": 1054203,
+      "icsd_id": 165727,
+      "formationenergy_id": 4652565,
+      "duplicate_entry_id": 21053,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P42/mnm",
+      "volume": 325.91,
+      "ntypes": 1,
+      "natoms": 28,
+      "unit_cell": [
+        [
+          8.505323,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          8.505323,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.505225
+        ]
+      ],
+      "sites": [
+        "Fe @ 0.767 0.037 0",
+        "Fe @ 0.477 0.132 0",
+        "Fe @ 0.963 0.233 0",
+        "Fe @ 0.404 0.404 0",
+        "Fe @ 0.132 0.477 0",
+        "Fe @ 0.868 0.523 0",
+        "Fe @ 0.596 0.596 0",
+        "Fe @ 0.037 0.767 0",
+        "Fe @ 0.523 0.868 0",
+        "Fe @ 0.233 0.963 0",
+        "Fe @ 0.709 0.291 0.245",
+        "Fe @ 0.291 0.709 0.245",
+        "Fe @ 0.209 0.209 0.255",
+        "Fe @ 0.791 0.791 0.255",
+        "Fe @ 0.632 0.0226 0.5",
+        "Fe @ 0.904 0.0961 0.5",
+        "Fe @ 0.463 0.267 0.5",
+        "Fe @ 0.977 0.368 0.5",
+        "Fe @ 0.267 0.463 0.5",
+        "Fe @ 0.733 0.537 0.5",
+        "Fe @ 0.0226 0.632 0.5",
+        "Fe @ 0.537 0.733 0.5",
+        "Fe @ 0.0961 0.904 0.5",
+        "Fe @ 0.368 0.977 0.5",
+        "Fe @ 0.209 0.209 0.745",
+        "Fe @ 0.791 0.791 0.745",
+        "Fe @ 0.709 0.291 0.754",
+        "Fe @ 0.291 0.709 0.754"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.175520812857139,
+      "stability": 0.175520812857139,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 51781,
+      "calculation_id": 1233774,
+      "icsd_id": 53450,
+      "formationenergy_id": 4789497,
+      "duplicate_entry_id": 51781,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 20.1472,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.444731,
+          0.0,
+          0.0
+        ],
+        [
+          -1.222366,
+          2.117178,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.892469
+        ]
+      ],
+      "sites": [
+        "Fe @ 0.333 0.667 0.25",
+        "Fe @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0864137599999992,
+      "stability": 0.0864137599999992,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1214525,
+      "calculation_id": 2692272,
+      "icsd_id": null,
+      "formationenergy_id": 5567193,
+      "duplicate_entry_id": 7505,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A1_Cu",
+      "spacegroup": "Fm-3m",
+      "volume": 11.1608,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          1.773736,
+          -1.773736
+        ],
+        [
+          1.773736,
+          0.0,
+          1.773736
+        ],
+        [
+          0.0,
+          -1.773736,
+          -1.773736
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18893819,
+      "stability": 0.18893819,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1214614,
+      "calculation_id": 2692410,
+      "icsd_id": null,
+      "formationenergy_id": 5567261,
+      "duplicate_entry_id": 1214614,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A10_Hg",
+      "spacegroup": "R-3m",
+      "volume": 11.2914,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.315094,
+          -0.759271,
+          -1.884702
+        ],
+        [
+          0.0,
+          -1.51854,
+          1.884702
+        ],
+        [
+          -1.315095,
+          0.759271,
+          1.884702
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.174910709999999,
+      "stability": 0.174910709999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1214703,
+      "calculation_id": 2692582,
+      "icsd_id": null,
+      "formationenergy_id": 5567346,
+      "duplicate_entry_id": 1214703,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A11_Ga",
+      "spacegroup": "Cmca",
+      "volume": 44.0686,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          -1.760069,
+          -3.546875,
+          0.0
+        ],
+        [
+          -1.760069,
+          3.546875,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -3.529582
+        ]
+      ],
+      "sites": [
+        "Fe @ 0.149 0.851 0.999",
+        "Fe @ 0.851 0.149 0.00055",
+        "Fe @ 0.351 0.649 0.499",
+        "Fe @ 0.649 0.351 0.501"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.499331314999999,
+      "stability": 0.499331314999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1214792,
+      "calculation_id": 2692758,
+      "icsd_id": null,
+      "formationenergy_id": 5567433,
+      "duplicate_entry_id": 1214792,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A12_alpha_Mn",
+      "spacegroup": "I-43m",
+      "volume": 321.156,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          4.314051,
+          4.314051,
+          4.314051
+        ],
+        [
+          4.314051,
+          -4.314051,
+          -4.314051
+        ],
+        [
+          -4.314051,
+          4.314051,
+          -4.314051
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0",
+        "Fe @ 0.633 0 0",
+        "Fe @ 0.37 0.189 0",
+        "Fe @ 0.189 0.37 0",
+        "Fe @ 0.68 0.4 0",
+        "Fe @ 0 0.633 0",
+        "Fe @ 0.4 0.68 0",
+        "Fe @ 0.811 0.811 0.181",
+        "Fe @ 0.37 0 0.189",
+        "Fe @ 0 0.37 0.189",
+        "Fe @ 0.6 0.6 0.28",
+        "Fe @ 0.72 0.32 0.32",
+        "Fe @ 0.32 0.72 0.32",
+        "Fe @ 0.367 0.367 0.367",
+        "Fe @ 0.189 0 0.37",
+        "Fe @ 0 0.189 0.37",
+        "Fe @ 0.68 0 0.4",
+        "Fe @ 0 0.68 0.4",
+        "Fe @ 0.6 0.28 0.6",
+        "Fe @ 0.28 0.6 0.6",
+        "Fe @ 0.819 0.63 0.63",
+        "Fe @ 0.63 0.819 0.63",
+        "Fe @ 0 0 0.633",
+        "Fe @ 0.4 0 0.68",
+        "Fe @ 0 0.4 0.68",
+        "Fe @ 0.32 0.32 0.72",
+        "Fe @ 0.811 0.181 0.811",
+        "Fe @ 0.181 0.811 0.811",
+        "Fe @ 0.63 0.63 0.819"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.129041085517239,
+      "stability": 0.129041085517239,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1214881,
+      "calculation_id": 2692936,
+      "icsd_id": null,
+      "formationenergy_id": 5567521,
+      "duplicate_entry_id": 1214881,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A13_beta_Mn",
+      "spacegroup": "P4132",
+      "volume": 228.261,
+      "ntypes": 1,
+      "natoms": 20,
+      "unit_cell": [
+        [
+          6.111442,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          6.111442,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.111442
+        ]
+      ],
+      "sites": [
+        "Fe @ 0.875 0.703 0.0468",
+        "Fe @ 0.0628 0.0628 0.0628",
+        "Fe @ 0.203 0.453 0.125",
+        "Fe @ 0.813 0.313 0.187",
+        "Fe @ 0.453 0.125 0.203",
+        "Fe @ 0.547 0.625 0.297",
+        "Fe @ 0.187 0.813 0.313",
+        "Fe @ 0.797 0.953 0.375",
+        "Fe @ 0.937 0.563 0.437",
+        "Fe @ 0.125 0.203 0.453",
+        "Fe @ 0.625 0.297 0.547",
+        "Fe @ 0.437 0.937 0.563",
+        "Fe @ 0.297 0.547 0.625",
+        "Fe @ 0.687 0.687 0.687",
+        "Fe @ 0.0468 0.875 0.703",
+        "Fe @ 0.953 0.375 0.797",
+        "Fe @ 0.313 0.187 0.813",
+        "Fe @ 0.703 0.0468 0.875",
+        "Fe @ 0.563 0.437 0.937",
+        "Fe @ 0.375 0.797 0.953"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.138206476499999,
+      "stability": 0.138206476499999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1214970,
+      "calculation_id": 2693114,
+      "icsd_id": null,
+      "formationenergy_id": 5567607,
+      "duplicate_entry_id": 1214970,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A15_beta_W",
+      "spacegroup": "Pm-3n",
+      "volume": 90.02,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          4.481737,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          4.481737,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.481737
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0",
+        "Fe @ 0.5 0.25 0",
+        "Fe @ 0.5 0.75 0",
+        "Fe @ 0 0.5 0.25",
+        "Fe @ 0.25 0 0.5",
+        "Fe @ 0.75 0 0.5",
+        "Fe @ 0.5 0.5 0.5",
+        "Fe @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0886251737499997,
+      "stability": 0.0886251737499997,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1215059,
+      "calculation_id": 2693292,
+      "icsd_id": null,
+      "formationenergy_id": 5567695,
+      "duplicate_entry_id": 1215059,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A17_Black_P",
+      "spacegroup": "Cmca",
+      "volume": 46.1147,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          2.707386
+        ],
+        [
+          3.907978,
+          0.0,
+          0.0
+        ],
+        [
+          1.953989,
+          4.358496,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Fe @ 0.000451 0.368 0.264",
+        "Fe @ 0.5 0.868 0.264",
+        "Fe @ 0.5 0.132 0.736",
+        "Fe @ 1 0.632 0.736"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.348011505,
+      "stability": 0.348011505,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1215148,
+      "calculation_id": 2693534,
+      "icsd_id": null,
+      "formationenergy_id": 5567778,
+      "duplicate_entry_id": 8568,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A2_W",
+      "spacegroup": "Im-3m",
+      "volume": 11.1225,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.4062,
+          1.4062,
+          1.4062
+        ],
+        [
+          1.4062,
+          -1.4062,
+          -1.4062
+        ],
+        [
+          -1.4062,
+          1.4062,
+          -1.4062
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00160887999999915,
+      "stability": 0.00160887999999915,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1215237,
+      "calculation_id": 2693678,
+      "icsd_id": null,
+      "formationenergy_id": 5567849,
+      "duplicate_entry_id": 1215237,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A20_alpha_U",
+      "spacegroup": "Cmcm",
+      "volume": 22.9902,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.355425,
+          0.0,
+          0.0
+        ],
+        [
+          1.177713,
+          2.350549,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.152453
+        ]
+      ],
+      "sites": [
+        "Fe @ 0.861 0.277 0.25",
+        "Fe @ 0.139 0.723 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.169119004999999,
+      "stability": 0.169119004999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1215326,
+      "calculation_id": 2693848,
+      "icsd_id": null,
+      "formationenergy_id": 5567933,
+      "duplicate_entry_id": 51781,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A3_Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 23.2361,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.506043,
+          0.0,
+          0.0
+        ],
+        [
+          -1.253021,
+          2.170297,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.272242
+        ]
+      ],
+      "sites": [
+        "Fe @ 0.333 0.667 0.25",
+        "Fe @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.19817769,
+      "stability": 0.19817769,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1215391,
+      "calculation_id": 2693958,
+      "icsd_id": null,
+      "formationenergy_id": 5567986,
+      "duplicate_entry_id": 51781,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A3_Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 23.2361,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.506043,
+          0.0,
+          0.0
+        ],
+        [
+          -1.253021,
+          2.170297,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.272242
+        ]
+      ],
+      "sites": [
+        "Fe @ 0.333 0.667 0.25",
+        "Fe @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.19817769,
+      "stability": 0.19817769,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1215416,
+      "calculation_id": 2694006,
+      "icsd_id": null,
+      "formationenergy_id": 5568009,
+      "duplicate_entry_id": 1215416,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A3p_La",
+      "spacegroup": "P63/mmc",
+      "volume": 46.4706,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          2.526128,
+          0.0,
+          0.0
+        ],
+        [
+          -1.263064,
+          2.18769,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          8.408869
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0",
+        "Fe @ 0.333 0.667 0.25",
+        "Fe @ 0 0 0.5",
+        "Fe @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1773063225,
+      "stability": 0.1773063225,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1215505,
+      "calculation_id": 2694175,
+      "icsd_id": null,
+      "formationenergy_id": 5568088,
+      "duplicate_entry_id": 1215505,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A4_Diamond_C",
+      "spacegroup": "Fd-3m",
+      "volume": 28.1965,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          2.415769,
+          -2.415769
+        ],
+        [
+          2.415769,
+          0.0,
+          2.415769
+        ],
+        [
+          -1e-06,
+          -2.415767,
+          -2.415767
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0",
+        "Fe @ 0.25 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 1.24386298,
+      "stability": 1.24386298,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1215594,
+      "calculation_id": 2694347,
+      "icsd_id": null,
+      "formationenergy_id": 5568173,
+      "duplicate_entry_id": 1215594,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A5_Sn",
+      "spacegroup": "I41/amd",
+      "volume": 24.8282,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -2.429734
+        ],
+        [
+          2.260365,
+          2.260365,
+          1.214867
+        ],
+        [
+          2.260365,
+          -2.260365,
+          -1.214867
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0",
+        "Fe @ 0.25 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.516692849999999,
+      "stability": 0.516692849999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1215683,
+      "calculation_id": 2694521,
+      "icsd_id": null,
+      "formationenergy_id": 5568259,
+      "duplicate_entry_id": 1215683,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A6_In",
+      "spacegroup": "I4/mmm",
+      "volume": 11.4327,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          -2.415041,
+          0.0
+        ],
+        [
+          -2.415041,
+          0.0,
+          0.0
+        ],
+        [
+          1.20752,
+          1.20752,
+          -1.960193
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.111867879999998,
+      "stability": 0.111867879999998,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1215772,
+      "calculation_id": 2694687,
+      "icsd_id": null,
+      "formationenergy_id": 5568341,
+      "duplicate_entry_id": 1215505,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A7_As",
+      "spacegroup": "R-3m",
+      "volume": 21.975,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          1.369325,
+          2.371741,
+          0.0
+        ],
+        [
+          2.738651,
+          0.0,
+          0.0
+        ],
+        [
+          -1.369325,
+          -0.79058,
+          -3.383171
+        ]
+      ],
+      "sites": [
+        "Fe @ 0.75 0.75 0.25",
+        "Fe @ 0.25 0.25 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.365985194999999,
+      "stability": 0.365985194999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1215861,
+      "calculation_id": 2694865,
+      "icsd_id": null,
+      "formationenergy_id": 5568429,
+      "duplicate_entry_id": 1215861,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A8_Se",
+      "spacegroup": "R-3m",
+      "volume": 32.7829,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          3.898504,
+          1e-06,
+          1e-05
+        ],
+        [
+          -1.949251,
+          3.376201,
+          0.0
+        ],
+        [
+          6e-06,
+          3e-06,
+          2.490701
+        ]
+      ],
+      "sites": [
+        "Fe @ 0.667 0.667 0",
+        "Fe @ 0.333 0 0.333",
+        "Fe @ 0 0.333 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0177943599999999,
+      "stability": 0.0177943599999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1215950,
+      "calculation_id": 2695041,
+      "icsd_id": null,
+      "formationenergy_id": 5568514,
+      "duplicate_entry_id": 1215950,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "A9_Graphite_C",
+      "spacegroup": "P21/m",
+      "volume": 49.3966,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          3.686054,
+          0.00693,
+          0.0
+        ],
+        [
+          -1.836998,
+          3.167913,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.225607
+        ]
+      ],
+      "sites": [
+        "Fe @ 0.999 0.999 0.25",
+        "Fe @ 0.334 0.668 0.25",
+        "Fe @ 0.00146 0.00146 0.75",
+        "Fe @ 0.666 0.332 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 1.05892566,
+      "stability": 1.05892566,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1216039,
+      "calculation_id": 2695218,
+      "icsd_id": null,
+      "formationenergy_id": 5568600,
+      "duplicate_entry_id": 1216039,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "C19_alpha_Sm",
+      "spacegroup": "R-3m",
+      "volume": 34.792,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          1.257455,
+          -2.177977,
+          0.0
+        ],
+        [
+          1.257456,
+          2.177977,
+          0.0
+        ],
+        [
+          0.0,
+          -1.451985,
+          6.351897
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0",
+        "Fe @ 0.222 0.778 0.333",
+        "Fe @ 0.778 0.222 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.182048713333328,
+      "stability": 0.182048713333328,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1522121,
+      "calculation_id": 3976521,
+      "icsd_id": null,
+      "formationenergy_id": 5894243,
+      "duplicate_entry_id": 8568,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 11.2288,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.410668726,
+          1.410668726,
+          1.410668726
+        ],
+        [
+          1.410668726,
+          -1.410668726,
+          1.410668726
+        ],
+        [
+          1.410668726,
+          1.410668726,
+          -1.410668726
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1522123,
+      "calculation_id": 3976522,
+      "icsd_id": null,
+      "formationenergy_id": 5894244,
+      "duplicate_entry_id": 8568,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 11.2288,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.410668726,
+          1.410668726,
+          1.410668726
+        ],
+        [
+          1.410668726,
+          -1.410668726,
+          1.410668726
+        ],
+        [
+          1.410668726,
+          1.410668726,
+          -1.410668726
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 2020395,
+      "calculation_id": 5091231,
+      "icsd_id": 241333,
+      "formationenergy_id": 6217803,
+      "duplicate_entry_id": 2020395,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P6/mmm",
+      "volume": 27.4791,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          3.523721742,
+          0.0,
+          0.0
+        ],
+        [
+          -1.761860871,
+          3.051632544,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.555462046
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0",
+        "Fe @ 0.667 0.333 0.5",
+        "Fe @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.6383242499999993,
+      "stability": 0.6383242499999993,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 2031493,
+      "calculation_id": 5097489,
+      "icsd_id": 673016,
+      "formationenergy_id": 6219085,
+      "duplicate_entry_id": 2031493,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "CaHg2",
+      "spacegroup": "P6/mmm",
+      "volume": 35.3458,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          4.157637062,
+          0.0,
+          0.0
+        ],
+        [
+          -2.078818531,
+          3.600619315,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.361097935
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0",
+        "Fe @ 0.667 0.333 0.5",
+        "Fe @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.19823987999999915,
+      "stability": 0.19823987999999915,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 2031492,
+      "calculation_id": 5097612,
+      "icsd_id": 673015,
+      "formationenergy_id": 6219125,
+      "duplicate_entry_id": 2031492,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": "CaHg2",
+      "spacegroup": "P6/mmm",
+      "volume": 31.8187,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          3.920826206,
+          0.0,
+          0.0
+        ],
+        [
+          -1.960413103,
+          3.395535098,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.389990536
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0",
+        "Fe @ 0.667 0.333 0.5",
+        "Fe @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18131711000000017,
+      "stability": 0.18131711000000017,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 1908165,
+      "calculation_id": 5285108,
+      "icsd_id": null,
+      "formationenergy_id": 6275883,
+      "duplicate_entry_id": 1908165,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 100.738,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          3.985711482,
+          0.0,
+          0.0
+        ],
+        [
+          -1.992855741,
+          3.451727396,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          7.322359797
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0",
+        "Fe @ 0.667 0.333 0.111",
+        "Fe @ 0.333 0.667 0.222",
+        "Fe @ 0 0 0.333",
+        "Fe @ 0.667 0.333 0.444",
+        "Fe @ 0.333 0.667 0.556",
+        "Fe @ 0 0 0.667",
+        "Fe @ 0.667 0.333 0.778",
+        "Fe @ 0.333 0.667 0.889"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Fe",
+      "entry_id": 2163423,
+      "calculation_id": 5680727,
+      "icsd_id": null,
+      "formationenergy_id": 6390858,
+      "duplicate_entry_id": 8568,
+      "composition": "Fe1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 11.1706,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.408225515,
+          1.408225515,
+          1.408225515
+        ],
+        [
+          1.408225515,
+          -1.408225515,
+          1.408225515
+        ],
+        [
+          1.408225515,
+          1.408225515,
+          -1.408225515
+        ]
+      ],
+      "sites": [
+        "Fe @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0012683822222214758,
+      "stability": 0.0012683822222214758,
+      "fit": "standard",
+      "calculation_label": "static"
+    }
+  ],
+  "meta": {
+    "query": {
+      "representation": "http://oqmd.org/oqmdapi/formationenergy?composition=Fe&limit=200"
+    },
+    "api_version": "1.0",
+    "time_stamp": "2026-07-11 16:42:54",
+    "data_returned": 33,
+    "data_available": 33,
+    "comments": "",
+    "query_tree": "",
+    "more_data_available": false
+  },
+  "response_message": "OK"
+}

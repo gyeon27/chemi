@@ -1,0 +1,40 @@
+{
+  "Fe": {
+    "data": [
+      {
+        "entry_id": "mock-fe-bcc",
+        "name": "Fe bcc Im-3m spacegroup 229",
+        "energy_per_atom": -8.31
+      },
+      {
+        "entry_id": "mock-fe-fcc",
+        "name": "Fe fcc Fm-3m spacegroup 225",
+        "energy_per_atom": -8.25
+      },
+      {
+        "entry_id": "mock-fe-hcp",
+        "name": "Fe hcp P63/mmc spacegroup 194",
+        "energy_per_atom": -8.24
+      }
+    ]
+  },
+  "Cu": {
+    "data": [
+      {
+        "entry_id": "mock-cu-bcc",
+        "name": "Cu bcc Im-3m spacegroup 229",
+        "energy_per_atom": -3.45
+      },
+      {
+        "entry_id": "mock-cu-fcc",
+        "name": "Cu fcc Fm-3m spacegroup 225",
+        "energy_per_atom": -3.55
+      },
+      {
+        "entry_id": "mock-cu-hcp",
+        "name": "Cu hcp P63/mmc spacegroup 194",
+        "energy_per_atom": -3.52
+      }
+    ]
+  }
+}

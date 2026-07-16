@@ -1,0 +1,1276 @@
+{
+  "links": {
+    "next": null,
+    "previous": null,
+    "base_url": {
+      "href": "https://oqmd.org/oqmdapi",
+      "meta": {
+        "_oqmd_version": "1.0"
+      }
+    }
+  },
+  "resource": {},
+  "data": [
+    {
+      "name": "Mo",
+      "entry_id": 1215167,
+      "calculation_id": 1281683,
+      "icsd_id": null,
+      "formationenergy_id": 4814886,
+      "duplicate_entry_id": 676469,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "A2_W",
+      "spacegroup": "Im-3m",
+      "volume": 15.8,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.580759,
+          1.580759,
+          -1.580759
+        ],
+        [
+          1.580759,
+          -1.580759,
+          1.580759
+        ],
+        [
+          -1.580759,
+          -1.580759,
+          -1.580759
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1214544,
+      "calculation_id": 1281861,
+      "icsd_id": null,
+      "formationenergy_id": 4814958,
+      "duplicate_entry_id": 676152,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "A1_Cu",
+      "spacegroup": "Fm-3m",
+      "volume": 16.0215,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          2.000896,
+          -2.000896
+        ],
+        [
+          2.000896,
+          0.0,
+          2.000896
+        ],
+        [
+          0.0,
+          -2.000896,
+          -2.000896
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.415959930000001,
+      "stability": 0.415959930000001,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1214633,
+      "calculation_id": 2692444,
+      "icsd_id": null,
+      "formationenergy_id": 5567278,
+      "duplicate_entry_id": 1214633,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "A10_Hg",
+      "spacegroup": "R-3m",
+      "volume": 16.2412,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          1.740387,
+          -2.063839
+        ],
+        [
+          1.507219,
+          0.870193,
+          2.063839
+        ],
+        [
+          1.50722,
+          -0.870193,
+          -2.063839
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.36600011,
+      "stability": 0.36600011,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1214722,
+      "calculation_id": 2692618,
+      "icsd_id": null,
+      "formationenergy_id": 5567364,
+      "duplicate_entry_id": 1214722,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "A11_Ga",
+      "spacegroup": "Cmca",
+      "volume": 74.2427,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          -2.206021,
+          -3.80908,
+          0.0
+        ],
+        [
+          -2.206021,
+          3.80908,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -4.41768
+        ]
+      ],
+      "sites": [
+        "Mo @ 0.839 0.161 0.00174",
+        "Mo @ 0.339 0.661 0.498",
+        "Mo @ 0.661 0.339 0.502",
+        "Mo @ 0.161 0.839 0.998"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.937029042500001,
+      "stability": 0.937029042500001,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1214811,
+      "calculation_id": 2692796,
+      "icsd_id": null,
+      "formationenergy_id": 5567452,
+      "duplicate_entry_id": 1214811,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "A12_alpha_Mn",
+      "spacegroup": "I-43m",
+      "volume": 468.482,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          4.892653,
+          4.892653,
+          4.892653
+        ],
+        [
+          4.892653,
+          -4.892653,
+          -4.892653
+        ],
+        [
+          -4.892653,
+          4.892653,
+          -4.892653
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0",
+        "Mo @ 0.634 0 0",
+        "Mo @ 0.378 0.19 0",
+        "Mo @ 0.19 0.378 0",
+        "Mo @ 0.686 0.41 0",
+        "Mo @ 0 0.634 0",
+        "Mo @ 0.41 0.686 0",
+        "Mo @ 0.81 0.81 0.188",
+        "Mo @ 0.378 0 0.19",
+        "Mo @ 0 0.378 0.19",
+        "Mo @ 0.59 0.59 0.275",
+        "Mo @ 0.725 0.314 0.314",
+        "Mo @ 0.314 0.725 0.314",
+        "Mo @ 0.366 0.366 0.366",
+        "Mo @ 0.19 0 0.378",
+        "Mo @ 0 0.19 0.378",
+        "Mo @ 0.686 0 0.41",
+        "Mo @ 0 0.686 0.41",
+        "Mo @ 0.59 0.275 0.59",
+        "Mo @ 0.275 0.59 0.59",
+        "Mo @ 0.812 0.622 0.622",
+        "Mo @ 0.622 0.812 0.622",
+        "Mo @ 0 0 0.634",
+        "Mo @ 0.41 0 0.686",
+        "Mo @ 0 0.41 0.686",
+        "Mo @ 0.314 0.314 0.725",
+        "Mo @ 0.81 0.188 0.81",
+        "Mo @ 0.188 0.81 0.81",
+        "Mo @ 0.622 0.622 0.812"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.2678335551724,
+      "stability": 0.2678335551724,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1214900,
+      "calculation_id": 2692974,
+      "icsd_id": null,
+      "formationenergy_id": 5567539,
+      "duplicate_entry_id": 1214900,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "A13_beta_Mn",
+      "spacegroup": "P4132",
+      "volume": 324.977,
+      "ntypes": 1,
+      "natoms": 20,
+      "unit_cell": [
+        [
+          6.875183,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          6.875183,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.875183
+        ]
+      ],
+      "sites": [
+        "Mo @ 0.875 0.697 0.0533",
+        "Mo @ 0.0543 0.0543 0.0543",
+        "Mo @ 0.197 0.447 0.125",
+        "Mo @ 0.804 0.304 0.196",
+        "Mo @ 0.447 0.125 0.197",
+        "Mo @ 0.553 0.625 0.303",
+        "Mo @ 0.196 0.804 0.304",
+        "Mo @ 0.803 0.947 0.375",
+        "Mo @ 0.946 0.554 0.446",
+        "Mo @ 0.125 0.197 0.447",
+        "Mo @ 0.625 0.303 0.553",
+        "Mo @ 0.446 0.946 0.554",
+        "Mo @ 0.303 0.553 0.625",
+        "Mo @ 0.696 0.696 0.696",
+        "Mo @ 0.0533 0.875 0.697",
+        "Mo @ 0.947 0.375 0.803",
+        "Mo @ 0.304 0.196 0.804",
+        "Mo @ 0.697 0.0533 0.875",
+        "Mo @ 0.554 0.446 0.946",
+        "Mo @ 0.375 0.803 0.947"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.3076890715,
+      "stability": 0.3076890715,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1214989,
+      "calculation_id": 2693152,
+      "icsd_id": null,
+      "formationenergy_id": 5567626,
+      "duplicate_entry_id": 1214989,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "A15_beta_W",
+      "spacegroup": "Pm-3n",
+      "volume": 128.546,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          5.046843,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          5.046843,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.046843
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0",
+        "Mo @ 0.5 0.25 0",
+        "Mo @ 0.5 0.75 0",
+        "Mo @ 0 0.5 0.25",
+        "Mo @ 0.25 0 0.5",
+        "Mo @ 0.75 0 0.5",
+        "Mo @ 0.5 0.5 0.5",
+        "Mo @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0945207337500005,
+      "stability": 0.0945207337500005,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1215078,
+      "calculation_id": 2693330,
+      "icsd_id": null,
+      "formationenergy_id": 5567714,
+      "duplicate_entry_id": 1215078,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "A17_Black_P",
+      "spacegroup": "Cmca",
+      "volume": 65.5639,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          3.072593
+        ],
+        [
+          4.343559,
+          0.0,
+          0.0
+        ],
+        [
+          2.17178,
+          4.912632,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Mo @ 0.998 0.367 0.266",
+        "Mo @ 0.502 0.867 0.266",
+        "Mo @ 0.498 0.133 0.734",
+        "Mo @ 0.00209 0.633 0.734"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.542866637500001,
+      "stability": 0.542866637500001,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1215256,
+      "calculation_id": 2693716,
+      "icsd_id": null,
+      "formationenergy_id": 5567868,
+      "duplicate_entry_id": 1215256,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "A20_alpha_U",
+      "spacegroup": "Cmcm",
+      "volume": 32.1767,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.579897,
+          0.0,
+          0.0
+        ],
+        [
+          1.289949,
+          2.672884,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.666154
+        ]
+      ],
+      "sites": [
+        "Mo @ 0.854 0.292 0.25",
+        "Mo @ 0.146 0.708 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.362439735000001,
+      "stability": 0.362439735000001,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1215345,
+      "calculation_id": 2693878,
+      "icsd_id": null,
+      "formationenergy_id": 5567947,
+      "duplicate_entry_id": 1215345,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "A3_Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 32.1569,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.765791,
+          0.0,
+          0.0
+        ],
+        [
+          -1.382896,
+          2.395245,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.854051
+        ]
+      ],
+      "sites": [
+        "Mo @ 0.333 0.667 0.25",
+        "Mo @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.43431387,
+      "stability": 0.43431387,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1215435,
+      "calculation_id": 2694040,
+      "icsd_id": null,
+      "formationenergy_id": 5568025,
+      "duplicate_entry_id": 1215435,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "A3p_La",
+      "spacegroup": "P63/mmc",
+      "volume": 63.9931,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          2.786863,
+          0.0,
+          0.0
+        ],
+        [
+          -1.393432,
+          2.413495,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          9.514175
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0",
+        "Mo @ 0.333 0.667 0.25",
+        "Mo @ 0 0 0.5",
+        "Mo @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.422064015,
+      "stability": 0.422064015,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1215524,
+      "calculation_id": 2694213,
+      "icsd_id": null,
+      "formationenergy_id": 5568107,
+      "duplicate_entry_id": 1215524,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "A4_Diamond_C",
+      "spacegroup": "Fd-3m",
+      "volume": 46.2211,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          2.848417,
+          -2.848417
+        ],
+        [
+          2.848417,
+          0.0,
+          2.848417
+        ],
+        [
+          0.0,
+          -2.848417,
+          -2.848417
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0",
+        "Mo @ 0.25 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 2.2372543,
+      "stability": 2.2372543,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1215613,
+      "calculation_id": 2694383,
+      "icsd_id": null,
+      "formationenergy_id": 5568191,
+      "duplicate_entry_id": 1215613,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "A5_Sn",
+      "spacegroup": "I41/amd",
+      "volume": 33.8408,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -2.649006
+        ],
+        [
+          2.52734,
+          2.52734,
+          1.324503
+        ],
+        [
+          2.52734,
+          -2.52734,
+          -1.324503
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0",
+        "Mo @ 0.25 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.834959335000001,
+      "stability": 0.834959335000001,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1215702,
+      "calculation_id": 2694555,
+      "icsd_id": null,
+      "formationenergy_id": 5568276,
+      "duplicate_entry_id": 1215702,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "A6_In",
+      "spacegroup": "I4/mmm",
+      "volume": 16.0598,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -2.656443,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -2.656443,
+          0.0
+        ],
+        [
+          1.328221,
+          1.328221,
+          2.275833
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.334113090000001,
+      "stability": 0.334113090000001,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1215791,
+      "calculation_id": 2694725,
+      "icsd_id": null,
+      "formationenergy_id": 5568360,
+      "duplicate_entry_id": 1215524,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "A7_As",
+      "spacegroup": "R-3m",
+      "volume": 31.6823,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          -3.083528,
+          0.0,
+          0.0
+        ],
+        [
+          1.541764,
+          -2.670414,
+          0.0
+        ],
+        [
+          1.541764,
+          0.890138,
+          3.8476
+        ]
+      ],
+      "sites": [
+        "Mo @ 0.5 0.75 0.25",
+        "Mo @ 0.5 0.25 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.457958965000001,
+      "stability": 0.457958965000001,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1215880,
+      "calculation_id": 2694903,
+      "icsd_id": null,
+      "formationenergy_id": 5568446,
+      "duplicate_entry_id": 1215880,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "A8_Se",
+      "spacegroup": "R-3m",
+      "volume": 45.4025,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          4.243511,
+          0.0,
+          0.0
+        ],
+        [
+          -2.121755,
+          3.674989,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.911379
+        ]
+      ],
+      "sites": [
+        "Mo @ 0.667 0.667 0",
+        "Mo @ 0.333 0 0.333",
+        "Mo @ 0 0.333 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.123579546666701,
+      "stability": 0.123579546666701,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1215969,
+      "calculation_id": 2695079,
+      "icsd_id": null,
+      "formationenergy_id": 5568533,
+      "duplicate_entry_id": 1215969,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "A9_Graphite_C",
+      "spacegroup": "P63/mmc",
+      "volume": 76.2062,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          4.19537,
+          0.0,
+          0.0
+        ],
+        [
+          -2.097685,
+          3.633297,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.999414
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0.25",
+        "Mo @ 0.333 0.667 0.25",
+        "Mo @ 0 0 0.75",
+        "Mo @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 1.3027055975,
+      "stability": 1.3027055975,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1216061,
+      "calculation_id": 2695255,
+      "icsd_id": null,
+      "formationenergy_id": 5568618,
+      "duplicate_entry_id": 1216061,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "C19_alpha_Sm",
+      "spacegroup": "R-3m",
+      "volume": 47.7611,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          2.784434,
+          0.0,
+          0.0
+        ],
+        [
+          -1.392217,
+          -2.411391,
+          0.0
+        ],
+        [
+          1.392217,
+          -0.803797,
+          -7.11328
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0",
+        "Mo @ 0.447 0.224 0.329",
+        "Mo @ 0.553 0.776 0.671"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.428966556666701,
+      "stability": 0.428966556666701,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 676152,
+      "calculation_id": 2718649,
+      "icsd_id": 41513,
+      "formationenergy_id": 5578557,
+      "duplicate_entry_id": 676152,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 16.0608,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          2.002529,
+          -2.002529,
+          0.0
+        ],
+        [
+          -2.002529,
+          0.0,
+          -2.002529
+        ],
+        [
+          2.002529,
+          2.002529,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.415565020000001,
+      "stability": 0.415565020000001,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 676469,
+      "calculation_id": 2718726,
+      "icsd_id": 52267,
+      "formationenergy_id": 5578584,
+      "duplicate_entry_id": 676469,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 15.7802,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.580098,
+          1.580098,
+          -1.580098
+        ],
+        [
+          -1.580098,
+          -1.580098,
+          -1.580098
+        ],
+        [
+          -1.580098,
+          1.580098,
+          1.580098
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000262090000001436,
+      "stability": 0.000262090000001436,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1280332,
+      "calculation_id": 3130216,
+      "icsd_id": null,
+      "formationenergy_id": 5631418,
+      "duplicate_entry_id": 1214989,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pm-3n",
+      "volume": 128.527,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          3.568479,
+          2.060262,
+          2.913651
+        ],
+        [
+          -3.568479,
+          2.060262,
+          2.913651
+        ],
+        [
+          0.0,
+          -4.120524,
+          2.913651
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0",
+        "Mo @ 0.5 0.25 0",
+        "Mo @ 0.5 0.75 0",
+        "Mo @ 0 0.5 0.25",
+        "Mo @ 0.5 0.5 0.5",
+        "Mo @ 0.25 0 0.5",
+        "Mo @ 0.75 0 0.5",
+        "Mo @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0945094062500011,
+      "stability": 0.0945094062500011,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1522085,
+      "calculation_id": 3975789,
+      "icsd_id": null,
+      "formationenergy_id": 5894197,
+      "duplicate_entry_id": 676469,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 15.7897,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.58041673,
+          1.58041673,
+          1.58041673
+        ],
+        [
+          1.58041673,
+          -1.58041673,
+          1.58041673
+        ],
+        [
+          1.58041673,
+          1.58041673,
+          -1.58041673
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00012927000000040323,
+      "stability": 0.00012927000000040323,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 1522090,
+      "calculation_id": 3976510,
+      "icsd_id": null,
+      "formationenergy_id": 5894231,
+      "duplicate_entry_id": 676469,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 15.7897,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.58041673,
+          1.58041673,
+          1.58041673
+        ],
+        [
+          1.58041673,
+          -1.58041673,
+          1.58041673
+        ],
+        [
+          1.58041673,
+          1.58041673,
+          -1.58041673
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00012927000000040323,
+      "stability": 0.00012927000000040323,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 2030156,
+      "calculation_id": 5093698,
+      "icsd_id": 671064,
+      "formationenergy_id": 6218070,
+      "duplicate_entry_id": 1215702,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "In",
+      "spacegroup": "I4/mmm",
+      "volume": 16.1338,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.320908481,
+          1.320908481,
+          2.311694224
+        ],
+        [
+          1.320908481,
+          -1.320908481,
+          2.311694224
+        ],
+        [
+          1.320908481,
+          1.320908481,
+          -2.311694224
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.32985735000000105,
+      "stability": 0.32985735000000105,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 2030388,
+      "calculation_id": 5095210,
+      "icsd_id": 671409,
+      "formationenergy_id": 6218345,
+      "duplicate_entry_id": 1215345,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "hcp#Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 32.271,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.752934391,
+          0.0,
+          0.0
+        ],
+        [
+          -1.376467196,
+          2.384111118,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.91688282
+        ]
+      ],
+      "sites": [
+        "Mo @ 0.667 0.333 0.25",
+        "Mo @ 0.333 0.667 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.4334115900000004,
+      "stability": 0.4334115900000004,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 2031498,
+      "calculation_id": 5097498,
+      "icsd_id": 673021,
+      "formationenergy_id": 6219091,
+      "duplicate_entry_id": 2031498,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P6/mmm",
+      "volume": 48.4349,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          4.671321207,
+          0.0,
+          0.0
+        ],
+        [
+          -2.335660604,
+          4.045482835,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.562999818
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0",
+        "Mo @ 0.667 0.333 0.5",
+        "Mo @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.4056711533333335,
+      "stability": 0.4056711533333335,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 2030243,
+      "calculation_id": 5103813,
+      "icsd_id": 671193,
+      "formationenergy_id": 6220900,
+      "duplicate_entry_id": 2030243,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": "Nickeline#NiAs",
+      "spacegroup": "P63/mmc",
+      "volume": 64.5965,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          3.023203844,
+          0.0,
+          0.0
+        ],
+        [
+          -1.511601922,
+          2.61817133,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          8.160997435
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0",
+        "Mo @ 0.333 0.667 0.25",
+        "Mo @ 0 0 0.5",
+        "Mo @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.4208136275000012,
+      "stability": 0.4208136275000012,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 2166000,
+      "calculation_id": 5687304,
+      "icsd_id": null,
+      "formationenergy_id": 6393360,
+      "duplicate_entry_id": 676469,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 15.8012,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.580798392,
+          1.580798392,
+          1.580798392
+        ],
+        [
+          1.580798392,
+          -1.580798392,
+          1.580798392
+        ],
+        [
+          1.580798392,
+          1.580798392,
+          -1.580798392
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Mo",
+      "entry_id": 2166126,
+      "calculation_id": 5687307,
+      "icsd_id": null,
+      "formationenergy_id": 6393363,
+      "duplicate_entry_id": 676152,
+      "composition": "Mo1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 16.0431,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          2.001796195,
+          2.001796195
+        ],
+        [
+          2.001796195,
+          0.0,
+          2.001796195
+        ],
+        [
+          2.001796195,
+          2.001796195,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Mo @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.41626765999999904,
+      "stability": 0.41626765999999904,
+      "fit": "standard",
+      "calculation_label": "static"
+    }
+  ],
+  "meta": {
+    "query": {
+      "representation": "http://oqmd.org/oqmdapi/formationenergy?composition=Mo&limit=200"
+    },
+    "api_version": "1.0",
+    "time_stamp": "2026-07-11 16:45:23",
+    "data_returned": 29,
+    "data_available": 29,
+    "comments": "",
+    "query_tree": "",
+    "more_data_available": false
+  },
+  "response_message": "OK"
+}

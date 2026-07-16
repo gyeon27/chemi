@@ -1,0 +1,4421 @@
+{
+  "links": {
+    "next": null,
+    "previous": null,
+    "base_url": {
+      "href": "https://oqmd.org/oqmdapi",
+      "meta": {
+        "_oqmd_version": "1.0"
+      }
+    }
+  },
+  "resource": {},
+  "data": [
+    {
+      "name": "Co",
+      "entry_id": 592136,
+      "calculation_id": 1258495,
+      "icsd_id": 41507,
+      "formationenergy_id": 4801311,
+      "duplicate_entry_id": 594128,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 10.1215,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          1.716873,
+          1.716873
+        ],
+        [
+          1.716873,
+          0.0,
+          1.716873
+        ],
+        [
+          1.716873,
+          1.716873,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0440792800000001,
+      "stability": 0.060970379999999706,
+      "fit": "standard",
+      "calculation_label": "standard"
+    },
+    {
+      "name": "Co",
+      "entry_id": 592630,
+      "calculation_id": 1258571,
+      "icsd_id": 44990,
+      "formationenergy_id": 4801314,
+      "duplicate_entry_id": 637416,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 20.4807,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.446975,
+          -2.9e-05,
+          0.0
+        ],
+        [
+          -1.223513,
+          2.119127,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.949674
+        ]
+      ],
+      "sites": [
+        "Co @ 0.667 0.333 0.75",
+        "Co @ 0.333 0.667 0.25"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00951413000000034,
+      "stability": 0.026405229999999946,
+      "fit": "standard",
+      "calculation_label": "standard"
+    },
+    {
+      "name": "Co",
+      "entry_id": 594128,
+      "calculation_id": 1343339,
+      "icsd_id": 52934,
+      "formationenergy_id": 4862178,
+      "duplicate_entry_id": 594128,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 10.8331,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.7562,
+          -1.7562,
+          0.0
+        ],
+        [
+          -1.7562,
+          0.0,
+          -1.7562
+        ],
+        [
+          1.7562,
+          1.7562,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.016891099999999604,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 631034,
+      "calculation_id": 1353721,
+      "icsd_id": 165725,
+      "formationenergy_id": 4873764,
+      "duplicate_entry_id": 631034,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P42/mnm",
+      "volume": 313.147,
+      "ntypes": 1,
+      "natoms": 28,
+      "unit_cell": [
+        [
+          8.33686,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          8.33686,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.505502
+        ]
+      ],
+      "sites": [
+        "Co @ 0.755 0.0518 0",
+        "Co @ 0.475 0.138 0",
+        "Co @ 0.948 0.245 0",
+        "Co @ 0.406 0.406 0",
+        "Co @ 0.138 0.475 0",
+        "Co @ 0.862 0.525 0",
+        "Co @ 0.594 0.594 0",
+        "Co @ 0.0518 0.755 0",
+        "Co @ 0.525 0.862 0",
+        "Co @ 0.245 0.948 0",
+        "Co @ 0.69 0.31 0.249",
+        "Co @ 0.31 0.69 0.249",
+        "Co @ 0.19 0.19 0.251",
+        "Co @ 0.81 0.81 0.251",
+        "Co @ 0.638 0.0248 0.5",
+        "Co @ 0.906 0.094 0.5",
+        "Co @ 0.448 0.255 0.5",
+        "Co @ 0.975 0.362 0.5",
+        "Co @ 0.255 0.448 0.5",
+        "Co @ 0.745 0.552 0.5",
+        "Co @ 0.0248 0.638 0.5",
+        "Co @ 0.552 0.745 0.5",
+        "Co @ 0.094 0.906 0.5",
+        "Co @ 0.362 0.975 0.5",
+        "Co @ 0.19 0.19 0.749",
+        "Co @ 0.81 0.81 0.749",
+        "Co @ 0.69 0.31 0.751",
+        "Co @ 0.31 0.69 0.751"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.11178200357143,
+      "stability": 0.1286731035714296,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1214517,
+      "calculation_id": 2692262,
+      "icsd_id": null,
+      "formationenergy_id": 5567188,
+      "duplicate_entry_id": 594128,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "A1_Cu",
+      "spacegroup": "Fm-3m",
+      "volume": 10.7158,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          1.749839,
+          -1.749839
+        ],
+        [
+          1.749839,
+          0.0,
+          1.749839
+        ],
+        [
+          0.0,
+          -1.749839,
+          -1.749839
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.19523701,
+      "stability": 0.2121281099999996,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1214606,
+      "calculation_id": 2692394,
+      "icsd_id": null,
+      "formationenergy_id": 5567253,
+      "duplicate_entry_id": 1214606,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "A10_Hg",
+      "spacegroup": "R-3m",
+      "volume": 10.5455,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          -1.449311,
+          1.93238
+        ],
+        [
+          -1.255141,
+          0.724656,
+          1.93238
+        ],
+        [
+          -1.255141,
+          -0.724656,
+          -1.93238
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.216824880000001,
+      "stability": 0.2337159800000006,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1214695,
+      "calculation_id": 2692566,
+      "icsd_id": null,
+      "formationenergy_id": 5567338,
+      "duplicate_entry_id": 1214695,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "A11_Ga",
+      "spacegroup": "Cmca",
+      "volume": 46.5065,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          -1.739922,
+          -3.836127,
+          0.0
+        ],
+        [
+          -1.739922,
+          3.836127,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -3.483865
+        ]
+      ],
+      "sites": [
+        "Co @ 0.857 0.143 0.000126",
+        "Co @ 0.357 0.643 0.5",
+        "Co @ 0.643 0.357 0.5",
+        "Co @ 0.143 0.857 1"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.5490060875,
+      "stability": 0.5658971874999996,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1214784,
+      "calculation_id": 2692742,
+      "icsd_id": null,
+      "formationenergy_id": 5567425,
+      "duplicate_entry_id": 1214784,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "A12_alpha_Mn",
+      "spacegroup": "I-43m",
+      "volume": 314.287,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          4.283073,
+          4.283073,
+          4.283073
+        ],
+        [
+          4.283073,
+          -4.283073,
+          -4.283073
+        ],
+        [
+          -4.283073,
+          4.283073,
+          -4.283073
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0",
+        "Co @ 0.642 0 0",
+        "Co @ 0.373 0.191 0",
+        "Co @ 0.191 0.373 0",
+        "Co @ 0.683 0.399 0",
+        "Co @ 0 0.642 0",
+        "Co @ 0.399 0.683 0",
+        "Co @ 0.809 0.809 0.182",
+        "Co @ 0.373 0 0.191",
+        "Co @ 0 0.373 0.191",
+        "Co @ 0.601 0.601 0.283",
+        "Co @ 0.717 0.317 0.317",
+        "Co @ 0.317 0.717 0.317",
+        "Co @ 0.358 0.358 0.358",
+        "Co @ 0.191 0 0.373",
+        "Co @ 0 0.191 0.373",
+        "Co @ 0.683 0 0.399",
+        "Co @ 0 0.683 0.399",
+        "Co @ 0.601 0.283 0.601",
+        "Co @ 0.283 0.601 0.601",
+        "Co @ 0.818 0.627 0.627",
+        "Co @ 0.627 0.818 0.627",
+        "Co @ 0 0 0.642",
+        "Co @ 0.399 0 0.683",
+        "Co @ 0 0.399 0.683",
+        "Co @ 0.317 0.317 0.717",
+        "Co @ 0.809 0.182 0.809",
+        "Co @ 0.182 0.809 0.809",
+        "Co @ 0.627 0.627 0.818"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.324763770344831,
+      "stability": 0.3416548703448306,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1214873,
+      "calculation_id": 2692920,
+      "icsd_id": null,
+      "formationenergy_id": 5567513,
+      "duplicate_entry_id": 1214873,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "A13_beta_Mn",
+      "spacegroup": "P4132",
+      "volume": 216.881,
+      "ntypes": 1,
+      "natoms": 20,
+      "unit_cell": [
+        [
+          6.008148,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          6.008148,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.008148
+        ]
+      ],
+      "sites": [
+        "Co @ 0.875 0.699 0.0509",
+        "Co @ 0.0568 0.0568 0.0568",
+        "Co @ 0.199 0.449 0.125",
+        "Co @ 0.807 0.307 0.193",
+        "Co @ 0.449 0.125 0.199",
+        "Co @ 0.551 0.625 0.301",
+        "Co @ 0.193 0.807 0.307",
+        "Co @ 0.801 0.949 0.375",
+        "Co @ 0.943 0.557 0.443",
+        "Co @ 0.125 0.199 0.449",
+        "Co @ 0.625 0.301 0.551",
+        "Co @ 0.443 0.943 0.557",
+        "Co @ 0.301 0.551 0.625",
+        "Co @ 0.693 0.693 0.693",
+        "Co @ 0.0509 0.875 0.699",
+        "Co @ 0.949 0.375 0.801",
+        "Co @ 0.307 0.193 0.807",
+        "Co @ 0.699 0.0509 0.875",
+        "Co @ 0.557 0.443 0.943",
+        "Co @ 0.375 0.801 0.949"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0309987700000001,
+      "stability": 0.0478898699999997,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1214962,
+      "calculation_id": 2693098,
+      "icsd_id": null,
+      "formationenergy_id": 5567599,
+      "duplicate_entry_id": 1214962,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "A15_beta_W",
+      "spacegroup": "Pm-3n",
+      "volume": 86.9088,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          4.429499,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          4.429499,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.429499
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0",
+        "Co @ 0.5 0.25 0",
+        "Co @ 0.5 0.75 0",
+        "Co @ 0 0.5 0.25",
+        "Co @ 0.25 0 0.5",
+        "Co @ 0.75 0 0.5",
+        "Co @ 0.5 0.5 0.5",
+        "Co @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.3858303525,
+      "stability": 0.4027214524999996,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1215051,
+      "calculation_id": 2693276,
+      "icsd_id": null,
+      "formationenergy_id": 5567687,
+      "duplicate_entry_id": 1215051,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "A17_Black_P",
+      "spacegroup": "Cmca",
+      "volume": 44.7732,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          2.682438
+        ],
+        [
+          3.880422,
+          0.0,
+          0.0
+        ],
+        [
+          1.940211,
+          4.301393,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Co @ 0.998 0.366 0.269",
+        "Co @ 0.502 0.866 0.269",
+        "Co @ 0.498 0.134 0.731",
+        "Co @ 0.00182 0.634 0.731"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.3407140675,
+      "stability": 0.3576051674999996,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1215140,
+      "calculation_id": 2693524,
+      "icsd_id": null,
+      "formationenergy_id": 5567773,
+      "duplicate_entry_id": 1215140,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "A2_W",
+      "spacegroup": "Im-3m",
+      "volume": 10.8111,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.392954,
+          1.392954,
+          1.392954
+        ],
+        [
+          1.392954,
+          -1.392954,
+          -1.392954
+        ],
+        [
+          -1.392954,
+          1.392954,
+          -1.392954
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.427003,
+      "stability": 0.4438940999999996,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1215229,
+      "calculation_id": 2693664,
+      "icsd_id": null,
+      "formationenergy_id": 5567842,
+      "duplicate_entry_id": 1215229,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "A20_alpha_U",
+      "spacegroup": "Cmcm",
+      "volume": 21.1485,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.422259,
+          0.0,
+          0.0
+        ],
+        [
+          1.211129,
+          2.185221,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.995427
+        ]
+      ],
+      "sites": [
+        "Co @ 0.838 0.325 0.25",
+        "Co @ 0.162 0.675 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.214444875000001,
+      "stability": 0.2313359750000006,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1215318,
+      "calculation_id": 2693836,
+      "icsd_id": null,
+      "formationenergy_id": 5567927,
+      "duplicate_entry_id": 637416,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "A3_Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 21.2691,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.474995,
+          0.0,
+          0.0
+        ],
+        [
+          -1.237497,
+          2.143408,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.009304
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.25",
+        "Co @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.208989425,
+      "stability": 0.2258805249999996,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1215408,
+      "calculation_id": 2693992,
+      "icsd_id": null,
+      "formationenergy_id": 5568003,
+      "duplicate_entry_id": 1215408,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "A3p_La",
+      "spacegroup": "P63/mmc",
+      "volume": 42.7686,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          2.482248,
+          0.0,
+          0.0
+        ],
+        [
+          -1.241124,
+          2.14969,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          8.015001
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0",
+        "Co @ 0.333 0.667 0.25",
+        "Co @ 0 0 0.5",
+        "Co @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.2044835425,
+      "stability": 0.2213746424999996,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1215586,
+      "calculation_id": 2694331,
+      "icsd_id": null,
+      "formationenergy_id": 5568165,
+      "duplicate_entry_id": 1215586,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "A5_Sn",
+      "spacegroup": "I41/amd",
+      "volume": 23.5258,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -2.376471
+        ],
+        [
+          2.224798,
+          2.224798,
+          1.188236
+        ],
+        [
+          2.224798,
+          -2.224798,
+          -1.188236
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0",
+        "Co @ 0.25 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.74942492,
+      "stability": 0.7663160199999997,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1215675,
+      "calculation_id": 2694505,
+      "icsd_id": null,
+      "formationenergy_id": 5568251,
+      "duplicate_entry_id": 1215675,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "A6_In",
+      "spacegroup": "I4/mmm",
+      "volume": 10.6755,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          -2.453276,
+          0.0
+        ],
+        [
+          -2.453276,
+          0.0,
+          0.0
+        ],
+        [
+          1.226639,
+          1.226639,
+          -1.773766
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.195298370000001,
+      "stability": 0.2121894700000006,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1215764,
+      "calculation_id": 2694671,
+      "icsd_id": null,
+      "formationenergy_id": 5568333,
+      "duplicate_entry_id": null,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "A7_As",
+      "spacegroup": "R-3m",
+      "volume": 21.2351,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          1.35108,
+          -2.340138,
+          0.0
+        ],
+        [
+          -1.35108,
+          -2.340138,
+          0.0
+        ],
+        [
+          0.0,
+          1.560092,
+          -3.358165
+        ]
+      ],
+      "sites": [
+        "Co @ 0.75 0.75 0.25",
+        "Co @ 0.25 0.25 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.700411,
+      "stability": 0.7173020999999996,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1215853,
+      "calculation_id": 2694849,
+      "icsd_id": null,
+      "formationenergy_id": 5568421,
+      "duplicate_entry_id": 1215853,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "A8_Se",
+      "spacegroup": "P3121",
+      "volume": 32.4374,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          3.934477,
+          5.1e-05,
+          -3.8e-05
+        ],
+        [
+          -1.967194,
+          3.40737,
+          3.8e-05
+        ],
+        [
+          -2.4e-05,
+          1.5e-05,
+          2.419557
+        ]
+      ],
+      "sites": [
+        "Co @ 0.667 0.667 0",
+        "Co @ 0.333 0 0.333",
+        "Co @ 0 0.333 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0859197066666706,
+      "stability": 0.10281080666667021,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1215942,
+      "calculation_id": 2695025,
+      "icsd_id": null,
+      "formationenergy_id": 5568506,
+      "duplicate_entry_id": 1215942,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "A9_Graphite_C",
+      "spacegroup": "P63/mmc",
+      "volume": 41.5579,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          3.240089,
+          0.0,
+          0.0
+        ],
+        [
+          -1.620044,
+          2.805999,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.570979
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0.25",
+        "Co @ 0.333 0.667 0.25",
+        "Co @ 0 0 0.75",
+        "Co @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 2.2394796175,
+      "stability": 2.2563707174999994,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1216031,
+      "calculation_id": 2695202,
+      "icsd_id": null,
+      "formationenergy_id": 5568592,
+      "duplicate_entry_id": 1216031,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "C19_alpha_Sm",
+      "spacegroup": "R-3m",
+      "volume": 31.8675,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          -1.237314,
+          -2.143091,
+          0.0
+        ],
+        [
+          2.474628,
+          0.0,
+          0.0
+        ],
+        [
+          1.237314,
+          0.714364,
+          6.008934
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0",
+        "Co @ 0.778 0.222 0.334",
+        "Co @ 0.222 0.778 0.666"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.20528234333333,
+      "stability": 0.2221734433333296,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1280314,
+      "calculation_id": 3130180,
+      "icsd_id": null,
+      "formationenergy_id": 5631395,
+      "duplicate_entry_id": 1214962,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pm-3n",
+      "volume": 86.0606,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          3.121906,
+          1.802433,
+          2.549025
+        ],
+        [
+          -3.121906,
+          1.802433,
+          2.549025
+        ],
+        [
+          0.0,
+          -3.604866,
+          2.549025
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0",
+        "Co @ 0.5 0.25 0",
+        "Co @ 0.5 0.75 0",
+        "Co @ 0 0.5 0.25",
+        "Co @ 0.25 0 0.5",
+        "Co @ 0.5 0.5 0.5",
+        "Co @ 0.75 0 0.5",
+        "Co @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0864977075000004,
+      "stability": 0.1033888075,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 637416,
+      "calculation_id": 2369249,
+      "icsd_id": 184251,
+      "formationenergy_id": 5832639,
+      "duplicate_entry_id": 637416,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 21.4397,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.483155743,
+          0.0,
+          0.0
+        ],
+        [
+          -1.241577872,
+          2.150475955,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.01495696
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.25",
+        "Co @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": -0.016891099999999604,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1477104,
+      "calculation_id": 3794773,
+      "icsd_id": null,
+      "formationenergy_id": 5848890,
+      "duplicate_entry_id": 1477104,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "R-3m",
+      "volume": 145.035,
+      "ntypes": 1,
+      "natoms": 13,
+      "unit_cell": [
+        [
+          2.280414422,
+          1.316597881,
+          8.051072137
+        ],
+        [
+          -2.280414422,
+          1.316597881,
+          8.051072137
+        ],
+        [
+          0.0,
+          -2.633195761,
+          8.051072137
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0",
+        "Co @ 0.583 0.0901 0.0901",
+        "Co @ 0.0901 0.583 0.0901",
+        "Co @ 0.165 0.165 0.165",
+        "Co @ 0.349 0.349 0.349",
+        "Co @ 0.91 0.91 0.417",
+        "Co @ 0.453 0.453 0.453",
+        "Co @ 0.547 0.547 0.547",
+        "Co @ 0.0901 0.0901 0.583",
+        "Co @ 0.651 0.651 0.651",
+        "Co @ 0.835 0.835 0.835",
+        "Co @ 0.91 0.417 0.91",
+        "Co @ 0.417 0.91 0.91"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.11638897538461546,
+      "stability": 0.13328007538461506,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1485028,
+      "calculation_id": 3848185,
+      "icsd_id": null,
+      "formationenergy_id": 5860516,
+      "duplicate_entry_id": 1215675,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 10.6222,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.234879968,
+          1.234879968,
+          1.741418532
+        ],
+        [
+          1.234879968,
+          -1.234879968,
+          1.741418532
+        ],
+        [
+          1.234879968,
+          1.234879968,
+          -1.741418532
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.022315380000000218,
+      "stability": 0.03920647999999982,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1485147,
+      "calculation_id": 3848189,
+      "icsd_id": null,
+      "formationenergy_id": 5860527,
+      "duplicate_entry_id": 1485147,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fd-3m",
+      "volume": 68.0655,
+      "ntypes": 1,
+      "natoms": 6,
+      "unit_cell": [
+        [
+          0.0,
+          3.240651547,
+          3.240651547
+        ],
+        [
+          3.240651547,
+          0.0,
+          3.240651547
+        ],
+        [
+          3.240651547,
+          3.240651547,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0",
+        "Co @ 0.625 0.625 0.125",
+        "Co @ 0.25 0.25 0.25",
+        "Co @ 0.625 0.125 0.625",
+        "Co @ 0.125 0.625 0.625",
+        "Co @ 0.625 0.625 0.625"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.20043099666666642,
+      "stability": 0.21732209666666602,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1485781,
+      "calculation_id": 3854020,
+      "icsd_id": null,
+      "formationenergy_id": 5861911,
+      "duplicate_entry_id": 1485781,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 135.077,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          4.605666235,
+          0.0,
+          0.0
+        ],
+        [
+          -2.302833118,
+          3.988623961,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          7.353048186
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0",
+        "Co @ 0.333 0.667 0.0708",
+        "Co @ 0.346 0.173 0.25",
+        "Co @ 0.827 0.173 0.25",
+        "Co @ 0.827 0.654 0.25",
+        "Co @ 0.333 0.667 0.429",
+        "Co @ 0 0 0.5",
+        "Co @ 0.667 0.333 0.571",
+        "Co @ 0.173 0.346 0.75",
+        "Co @ 0.173 0.827 0.75",
+        "Co @ 0.654 0.827 0.75",
+        "Co @ 0.667 0.333 0.929"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1701509183333325,
+      "stability": 0.18704201833333212,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1487127,
+      "calculation_id": 3867980,
+      "icsd_id": null,
+      "formationenergy_id": 5864424,
+      "duplicate_entry_id": 1487127,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 270.499,
+      "ntypes": 1,
+      "natoms": 24,
+      "unit_cell": [
+        [
+          4.587008293,
+          0.0,
+          0.0
+        ],
+        [
+          -2.293504147,
+          3.972465709,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          14.844871335
+        ]
+      ],
+      "sites": [
+        "Co @ 0.5 0 0",
+        "Co @ 0 0.5 0",
+        "Co @ 0.5 0.5 0",
+        "Co @ 0 0 0.0891",
+        "Co @ 0.333 0.667 0.128",
+        "Co @ 0.667 0.333 0.156",
+        "Co @ 0.16 0.321 0.25",
+        "Co @ 0.16 0.84 0.25",
+        "Co @ 0.679 0.84 0.25",
+        "Co @ 0.667 0.333 0.344",
+        "Co @ 0.333 0.667 0.372",
+        "Co @ 0 0 0.411",
+        "Co @ 0.5 0 0.5",
+        "Co @ 0 0.5 0.5",
+        "Co @ 0.5 0.5 0.5",
+        "Co @ 0 0 0.589",
+        "Co @ 0.667 0.333 0.628",
+        "Co @ 0.333 0.667 0.656",
+        "Co @ 0.321 0.16 0.75",
+        "Co @ 0.84 0.16 0.75",
+        "Co @ 0.84 0.679 0.75",
+        "Co @ 0.333 0.667 0.844",
+        "Co @ 0.667 0.333 0.872",
+        "Co @ 0 0 0.911"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18256037333333275,
+      "stability": 0.19945147333333235,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1489243,
+      "calculation_id": 3873344,
+      "icsd_id": null,
+      "formationenergy_id": 5866622,
+      "duplicate_entry_id": 1489243,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P42/mnm",
+      "volume": 327.916,
+      "ntypes": 1,
+      "natoms": 30,
+      "unit_cell": [
+        [
+          8.537379992,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          8.537379992,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.498974623
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0",
+        "Co @ 0.737 0.066 0",
+        "Co @ 0.462 0.134 0",
+        "Co @ 0.934 0.263 0",
+        "Co @ 0.402 0.402 0",
+        "Co @ 0.134 0.462 0",
+        "Co @ 0.866 0.538 0",
+        "Co @ 0.598 0.598 0",
+        "Co @ 0.066 0.737 0",
+        "Co @ 0.538 0.866 0",
+        "Co @ 0.263 0.934 0",
+        "Co @ 0.682 0.318 0.249",
+        "Co @ 0.318 0.682 0.249",
+        "Co @ 0.182 0.182 0.251",
+        "Co @ 0.818 0.818 0.251",
+        "Co @ 0.634 0.0377 0.5",
+        "Co @ 0.902 0.0978 0.5",
+        "Co @ 0.434 0.237 0.5",
+        "Co @ 0.962 0.366 0.5",
+        "Co @ 0.237 0.434 0.5",
+        "Co @ 0.5 0.5 0.5",
+        "Co @ 0.763 0.566 0.5",
+        "Co @ 0.0377 0.634 0.5",
+        "Co @ 0.566 0.763 0.5",
+        "Co @ 0.0978 0.902 0.5",
+        "Co @ 0.366 0.962 0.5",
+        "Co @ 0.182 0.182 0.749",
+        "Co @ 0.818 0.818 0.749",
+        "Co @ 0.682 0.318 0.751",
+        "Co @ 0.318 0.682 0.751"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.05867847966666684,
+      "stability": 0.07556957966666644,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1522296,
+      "calculation_id": 3977901,
+      "icsd_id": null,
+      "formationenergy_id": 5894523,
+      "duplicate_entry_id": 1215140,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 10.8765,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.395756179,
+          1.395756179,
+          1.395756179
+        ],
+        [
+          1.395756179,
+          -1.395756179,
+          1.395756179
+        ],
+        [
+          1.395756179,
+          1.395756179,
+          -1.395756179
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.10104314999999975,
+      "stability": 0.11793424999999935,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1577561,
+      "calculation_id": 4214061,
+      "icsd_id": null,
+      "formationenergy_id": 5952709,
+      "duplicate_entry_id": 1214784,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I-43m",
+      "volume": 314.342,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          -4.283323694,
+          4.283323694,
+          4.283323694
+        ],
+        [
+          4.283323694,
+          -4.283323694,
+          4.283323694
+        ],
+        [
+          4.283323694,
+          4.283323694,
+          -4.283323694
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0",
+        "Co @ 0.642 0 0",
+        "Co @ 0.373 0.191 0",
+        "Co @ 0.191 0.373 0",
+        "Co @ 0.683 0.399 0",
+        "Co @ 0 0.642 0",
+        "Co @ 0.399 0.683 0",
+        "Co @ 0.809 0.809 0.182",
+        "Co @ 0.373 0 0.191",
+        "Co @ 0 0.373 0.191",
+        "Co @ 0.601 0.601 0.283",
+        "Co @ 0.717 0.317 0.317",
+        "Co @ 0.317 0.717 0.317",
+        "Co @ 0.358 0.358 0.358",
+        "Co @ 0.191 0 0.373",
+        "Co @ 0 0.191 0.373",
+        "Co @ 0.683 0 0.399",
+        "Co @ 0 0.683 0.399",
+        "Co @ 0.601 0.283 0.601",
+        "Co @ 0.283 0.601 0.601",
+        "Co @ 0.818 0.627 0.627",
+        "Co @ 0.627 0.818 0.627",
+        "Co @ 0 0 0.642",
+        "Co @ 0.399 0 0.683",
+        "Co @ 0 0.399 0.683",
+        "Co @ 0.317 0.317 0.717",
+        "Co @ 0.809 0.182 0.809",
+        "Co @ 0.182 0.809 0.809",
+        "Co @ 0.627 0.627 0.818"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0493161331034484,
+      "stability": 0.066207233103448,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1791473,
+      "calculation_id": 4621831,
+      "icsd_id": null,
+      "formationenergy_id": 6091275,
+      "duplicate_entry_id": 1791473,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4/mmm",
+      "volume": 175.552,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          5.600278,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          5.600278,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.597411
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0",
+        "Co @ 0.5 0 0",
+        "Co @ 0 0.5 0",
+        "Co @ 0.5 0.5 0",
+        "Co @ 0.25 0.25 0.25",
+        "Co @ 0.75 0.25 0.25",
+        "Co @ 0.25 0.75 0.25",
+        "Co @ 0.75 0.75 0.25",
+        "Co @ 0 0 0.5",
+        "Co @ 0.5 0 0.5",
+        "Co @ 0 0.5 0.5",
+        "Co @ 0.5 0.5 0.5",
+        "Co @ 0.25 0.25 0.75",
+        "Co @ 0.75 0.25 0.75",
+        "Co @ 0.25 0.75 0.75",
+        "Co @ 0.75 0.75 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.09835958812499968,
+      "stability": 0.11525068812499928,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1790951,
+      "calculation_id": 4639441,
+      "icsd_id": null,
+      "formationenergy_id": 6098040,
+      "duplicate_entry_id": 1790951,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 153.783,
+      "ntypes": 1,
+      "natoms": 14,
+      "unit_cell": [
+        [
+          4.503498,
+          0.0,
+          0.0
+        ],
+        [
+          0.950883,
+          6.028798,
+          0.0
+        ],
+        [
+          0.95071,
+          2.065943,
+          5.664052
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0",
+        "Co @ 0.5 0 0",
+        "Co @ 0.187 0.353 0.000337",
+        "Co @ 0.313 0.611 0.217",
+        "Co @ 0.638 0.22 0.22",
+        "Co @ 0.187 0.00035 0.353",
+        "Co @ 0.687 0.783 0.389",
+        "Co @ 0.886 0.395 0.395",
+        "Co @ 0.114 0.605 0.605",
+        "Co @ 0.313 0.217 0.611",
+        "Co @ 0.813 1 0.647",
+        "Co @ 0.362 0.78 0.78",
+        "Co @ 0.687 0.389 0.783",
+        "Co @ 0.813 0.647 1"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.09396874142857126,
+      "stability": 0.11085984142857086,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1972140,
+      "calculation_id": 4958923,
+      "icsd_id": null,
+      "formationenergy_id": 6179153,
+      "duplicate_entry_id": 1972140,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 77.6123,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.424973064,
+          0.0,
+          0.0
+        ],
+        [
+          -1.212486532,
+          2.100088277,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          15.240046327
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.0636",
+        "Co @ 0.667 0.333 0.936"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.6802391349999999,
+      "stability": 0.6971302349999995,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1972141,
+      "calculation_id": 4958914,
+      "icsd_id": null,
+      "formationenergy_id": 6179164,
+      "duplicate_entry_id": 1972141,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 104.53,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          2.460160942,
+          0.0,
+          0.0
+        ],
+        [
+          -1.230080471,
+          2.130561873,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          19.942609464
+        ]
+      ],
+      "sites": [
+        "Co @ 0.667 0.333 0.052",
+        "Co @ 0.333 0.667 0.15",
+        "Co @ 0.667 0.333 0.85",
+        "Co @ 0.333 0.667 0.948"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.3481012200000002,
+      "stability": 0.3649923199999998,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1972145,
+      "calculation_id": 4959186,
+      "icsd_id": null,
+      "formationenergy_id": 6179290,
+      "duplicate_entry_id": 1972145,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 189.923,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          2.469982094,
+          0.0,
+          0.0
+        ],
+        [
+          -1.234991047,
+          2.13906724,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          35.946719597
+        ]
+      ],
+      "sites": [
+        "Co @ 0.667 0.333 0.0269",
+        "Co @ 0.333 0.667 0.0842",
+        "Co @ 0.667 0.333 0.139",
+        "Co @ 0.333 0.667 0.195",
+        "Co @ 0.667 0.333 0.251",
+        "Co @ 0.333 0.667 0.306",
+        "Co @ 0.667 0.333 0.694",
+        "Co @ 0.333 0.667 0.749",
+        "Co @ 0.667 0.333 0.805",
+        "Co @ 0.333 0.667 0.861",
+        "Co @ 0.667 0.333 0.916",
+        "Co @ 0.333 0.667 0.973"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12279884583333356,
+      "stability": 0.13968994583333316,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1972142,
+      "calculation_id": 4959289,
+      "icsd_id": null,
+      "formationenergy_id": 6179350,
+      "duplicate_entry_id": 1972142,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 125.387,
+      "ntypes": 1,
+      "natoms": 6,
+      "unit_cell": [
+        [
+          2.464393062,
+          0.0,
+          0.0
+        ],
+        [
+          -1.232196531,
+          2.134226997,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          23.839675558
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.0415",
+        "Co @ 0.667 0.333 0.127",
+        "Co @ 0.333 0.667 0.209",
+        "Co @ 0.667 0.333 0.791",
+        "Co @ 0.333 0.667 0.873",
+        "Co @ 0.667 0.333 0.959"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.30514653333333275,
+      "stability": 0.32203763333333235,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1972143,
+      "calculation_id": 4959468,
+      "icsd_id": null,
+      "formationenergy_id": 6179474,
+      "duplicate_entry_id": 1972143,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 148.248,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          2.471143368,
+          0.0,
+          0.0
+        ],
+        [
+          -1.235571684,
+          2.140072933,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          28.032467816
+        ]
+      ],
+      "sites": [
+        "Co @ 0.667 0.333 0.036",
+        "Co @ 0.333 0.667 0.107",
+        "Co @ 0.667 0.333 0.18",
+        "Co @ 0.333 0.667 0.25",
+        "Co @ 0.667 0.333 0.75",
+        "Co @ 0.333 0.667 0.82",
+        "Co @ 0.667 0.333 0.893",
+        "Co @ 0.333 0.667 0.964"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.17666143499999976,
+      "stability": 0.19355253499999936,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2030127,
+      "calculation_id": 5094732,
+      "icsd_id": 671035,
+      "formationenergy_id": 6218058,
+      "duplicate_entry_id": 1215140,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "Pa#Sn(tI2)",
+      "spacegroup": "I4/mmm",
+      "volume": 10.8175,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.432672229,
+          1.432672229,
+          1.317568007
+        ],
+        [
+          1.432672229,
+          -1.432672229,
+          1.317568007
+        ],
+        [
+          1.432672229,
+          1.432672229,
+          -1.317568007
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.09780932999999958,
+      "stability": 0.11470042999999919,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2030128,
+      "calculation_id": 5095196,
+      "icsd_id": 671036,
+      "formationenergy_id": 6218336,
+      "duplicate_entry_id": 2030128,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "hcp#Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 21.2832,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.482317085,
+          0.0,
+          0.0
+        ],
+        [
+          -1.241158542,
+          2.149749655,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.988332419
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.25",
+        "Co @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0022171850000001214,
+      "stability": 0.019108284999999725,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2031488,
+      "calculation_id": 5097521,
+      "icsd_id": 673011,
+      "formationenergy_id": 6219108,
+      "duplicate_entry_id": 1215853,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": "CaHg2",
+      "spacegroup": "P6/mmm",
+      "volume": 32.3181,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          3.93286653,
+          0.0,
+          0.0
+        ],
+        [
+          -1.966433265,
+          3.405962325,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.412661442
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0",
+        "Co @ 0.667 0.333 0.5",
+        "Co @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.08673443333333353,
+      "stability": 0.10362553333333313,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2066484,
+      "calculation_id": 5223356,
+      "icsd_id": null,
+      "formationenergy_id": 6257139,
+      "duplicate_entry_id": 2066484,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4/nmm",
+      "volume": 230.873,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.430366174,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.430366174,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          39.086807748
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0.5 0.168",
+        "Co @ 0.5 0 0.212",
+        "Co @ 0 0.5 0.258",
+        "Co @ 0.5 0 0.301",
+        "Co @ 0 0.5 0.346",
+        "Co @ 0.5 0 0.39",
+        "Co @ 0 0.5 0.434",
+        "Co @ 0.5 0 0.478",
+        "Co @ 0 0.5 0.522",
+        "Co @ 0.5 0 0.566",
+        "Co @ 0 0.5 0.61",
+        "Co @ 0.5 0 0.654",
+        "Co @ 0 0.5 0.699",
+        "Co @ 0.5 0 0.742",
+        "Co @ 0 0.5 0.788",
+        "Co @ 0.5 0 0.832"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.2819878368749995,
+      "stability": 0.2988789368749991,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2066493,
+      "calculation_id": 5223357,
+      "icsd_id": null,
+      "formationenergy_id": 6257140,
+      "duplicate_entry_id": 2066493,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 253.774,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.45797565,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.454943779,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          29.883295299
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0.19",
+        "Co @ 0.5 0.5 0.227",
+        "Co @ 0 0 0.271",
+        "Co @ 0.5 0.5 0.313",
+        "Co @ 0 0 0.355",
+        "Co @ 0.5 0.5 0.395",
+        "Co @ 0 0 0.439",
+        "Co @ 0.5 0.5 0.479",
+        "Co @ 0 0 0.521",
+        "Co @ 0.5 0.5 0.561",
+        "Co @ 0 0 0.605",
+        "Co @ 0.5 0.5 0.645",
+        "Co @ 0 0 0.687",
+        "Co @ 0.5 0.5 0.729",
+        "Co @ 0 0 0.773",
+        "Co @ 0.5 0.5 0.81"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18967911687500028,
+      "stability": 0.20657021687499988,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2066502,
+      "calculation_id": 5223360,
+      "icsd_id": null,
+      "formationenergy_id": 6257143,
+      "duplicate_entry_id": 2066502,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P3m1",
+      "volume": 151.682,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.455973909,
+          0.0,
+          0.0
+        ],
+        [
+          -1.227986955,
+          2.126935797,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          29.037343533
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0.223",
+        "Co @ 0.667 0.333 0.291",
+        "Co @ 0.333 0.667 0.361",
+        "Co @ 0 0 0.431",
+        "Co @ 0.667 0.333 0.5",
+        "Co @ 0.333 0.667 0.57",
+        "Co @ 0 0 0.639",
+        "Co @ 0.667 0.333 0.709",
+        "Co @ 0.333 0.667 0.777"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1750789177777774,
+      "stability": 0.191970017777777,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069789,
+      "calculation_id": 5247010,
+      "icsd_id": null,
+      "formationenergy_id": 6264609,
+      "duplicate_entry_id": 2066502,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 162.616,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.460749065,
+          0.0,
+          0.0
+        ],
+        [
+          -1.230374533,
+          2.131071203,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.009773154
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.241",
+        "Co @ 0 0 0.305",
+        "Co @ 0.667 0.333 0.37",
+        "Co @ 0.333 0.667 0.435",
+        "Co @ 0 0 0.5",
+        "Co @ 0.667 0.333 0.565",
+        "Co @ 0.333 0.667 0.63",
+        "Co @ 0 0 0.695",
+        "Co @ 0.667 0.333 0.759"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1758182111111113,
+      "stability": 0.1927093111111109,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069801,
+      "calculation_id": 5247020,
+      "icsd_id": null,
+      "formationenergy_id": 6264612,
+      "duplicate_entry_id": 2066502,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 162.616,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.460749077,
+          0.0,
+          0.0
+        ],
+        [
+          -1.230374538,
+          2.131071213,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.009773305
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.241",
+        "Co @ 0 0 0.305",
+        "Co @ 0.667 0.333 0.37",
+        "Co @ 0.333 0.667 0.435",
+        "Co @ 0 0 0.5",
+        "Co @ 0.667 0.333 0.565",
+        "Co @ 0.333 0.667 0.63",
+        "Co @ 0 0 0.695",
+        "Co @ 0.667 0.333 0.759"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.17581820888888888,
+      "stability": 0.1927093088888885,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069804,
+      "calculation_id": 5247024,
+      "icsd_id": null,
+      "formationenergy_id": 6264613,
+      "duplicate_entry_id": 2066502,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 162.616,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.460749075,
+          0.0,
+          0.0
+        ],
+        [
+          -1.230374538,
+          2.131071212,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.009773292
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.241",
+        "Co @ 0 0 0.305",
+        "Co @ 0.667 0.333 0.37",
+        "Co @ 0.333 0.667 0.435",
+        "Co @ 0 0 0.5",
+        "Co @ 0.667 0.333 0.565",
+        "Co @ 0.333 0.667 0.63",
+        "Co @ 0 0 0.695",
+        "Co @ 0.667 0.333 0.759"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.17581820888888888,
+      "stability": 0.1927093088888885,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069807,
+      "calculation_id": 5247027,
+      "icsd_id": null,
+      "formationenergy_id": 6264614,
+      "duplicate_entry_id": 2066502,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 162.616,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.460749066,
+          0.0,
+          0.0
+        ],
+        [
+          -1.230374533,
+          2.131071203,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.009773159
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.241",
+        "Co @ 0 0 0.305",
+        "Co @ 0.667 0.333 0.37",
+        "Co @ 0.333 0.667 0.435",
+        "Co @ 0 0 0.5",
+        "Co @ 0.667 0.333 0.565",
+        "Co @ 0.333 0.667 0.63",
+        "Co @ 0 0 0.695",
+        "Co @ 0.667 0.333 0.759"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1758182111111113,
+      "stability": 0.1927093111111109,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069813,
+      "calculation_id": 5247034,
+      "icsd_id": null,
+      "formationenergy_id": 6264616,
+      "duplicate_entry_id": 2066502,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 162.616,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.460749067,
+          0.0,
+          0.0
+        ],
+        [
+          -1.230374533,
+          2.131071204,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.009773166
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.241",
+        "Co @ 0 0 0.305",
+        "Co @ 0.667 0.333 0.37",
+        "Co @ 0.333 0.667 0.435",
+        "Co @ 0 0 0.5",
+        "Co @ 0.667 0.333 0.565",
+        "Co @ 0.333 0.667 0.63",
+        "Co @ 0 0 0.695",
+        "Co @ 0.667 0.333 0.759"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1758182111111113,
+      "stability": 0.1927093111111109,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069792,
+      "calculation_id": 5247540,
+      "icsd_id": null,
+      "formationenergy_id": 6264815,
+      "duplicate_entry_id": 2066502,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 162.616,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.460749075,
+          0.0,
+          0.0
+        ],
+        [
+          -1.230374537,
+          2.131071211,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.009773278
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.241",
+        "Co @ 0 0 0.305",
+        "Co @ 0.667 0.333 0.37",
+        "Co @ 0.333 0.667 0.435",
+        "Co @ 0 0 0.5",
+        "Co @ 0.667 0.333 0.565",
+        "Co @ 0.333 0.667 0.63",
+        "Co @ 0 0 0.695",
+        "Co @ 0.667 0.333 0.759"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.17581820888888888,
+      "stability": 0.1927093088888885,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069810,
+      "calculation_id": 5247546,
+      "icsd_id": null,
+      "formationenergy_id": 6264821,
+      "duplicate_entry_id": 2066502,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 162.616,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.460749066,
+          0.0,
+          0.0
+        ],
+        [
+          -1.230374533,
+          2.131071203,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.009773157
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.241",
+        "Co @ 0 0 0.305",
+        "Co @ 0.667 0.333 0.37",
+        "Co @ 0.333 0.667 0.435",
+        "Co @ 0 0 0.5",
+        "Co @ 0.667 0.333 0.565",
+        "Co @ 0.333 0.667 0.63",
+        "Co @ 0 0 0.695",
+        "Co @ 0.667 0.333 0.759"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1758182111111113,
+      "stability": 0.1927093111111109,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069822,
+      "calculation_id": 5247551,
+      "icsd_id": null,
+      "formationenergy_id": 6264825,
+      "duplicate_entry_id": 2066502,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 162.616,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.460749075,
+          0.0,
+          0.0
+        ],
+        [
+          -1.230374537,
+          2.131071211,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.00977328
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.241",
+        "Co @ 0 0 0.305",
+        "Co @ 0.667 0.333 0.37",
+        "Co @ 0.333 0.667 0.435",
+        "Co @ 0 0 0.5",
+        "Co @ 0.667 0.333 0.565",
+        "Co @ 0.333 0.667 0.63",
+        "Co @ 0 0 0.695",
+        "Co @ 0.667 0.333 0.759"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.17581820888888888,
+      "stability": 0.1927093088888885,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069816,
+      "calculation_id": 5247548,
+      "icsd_id": null,
+      "formationenergy_id": 6264827,
+      "duplicate_entry_id": 2066502,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 162.616,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.460749065,
+          0.0,
+          0.0
+        ],
+        [
+          -1.230374533,
+          2.131071203,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.00977315
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.241",
+        "Co @ 0 0 0.305",
+        "Co @ 0.667 0.333 0.37",
+        "Co @ 0.333 0.667 0.435",
+        "Co @ 0 0 0.5",
+        "Co @ 0.667 0.333 0.565",
+        "Co @ 0.333 0.667 0.63",
+        "Co @ 0 0 0.695",
+        "Co @ 0.667 0.333 0.759"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1758182111111113,
+      "stability": 0.1927093111111109,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069798,
+      "calculation_id": 5247542,
+      "icsd_id": null,
+      "formationenergy_id": 6264831,
+      "duplicate_entry_id": 2066502,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 162.616,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.460749074,
+          0.0,
+          0.0
+        ],
+        [
+          -1.230374537,
+          2.13107121,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.009773269
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.241",
+        "Co @ 0 0 0.305",
+        "Co @ 0.667 0.333 0.37",
+        "Co @ 0.333 0.667 0.435",
+        "Co @ 0 0 0.5",
+        "Co @ 0.667 0.333 0.565",
+        "Co @ 0.333 0.667 0.63",
+        "Co @ 0 0 0.695",
+        "Co @ 0.667 0.333 0.759"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.17581820888888888,
+      "stability": 0.1927093088888885,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069819,
+      "calculation_id": 5247550,
+      "icsd_id": null,
+      "formationenergy_id": 6264840,
+      "duplicate_entry_id": 2066502,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 162.616,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.460749074,
+          0.0,
+          0.0
+        ],
+        [
+          -1.230374537,
+          2.13107121,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.009773277
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.241",
+        "Co @ 0 0 0.305",
+        "Co @ 0.667 0.333 0.37",
+        "Co @ 0.333 0.667 0.435",
+        "Co @ 0 0 0.5",
+        "Co @ 0.667 0.333 0.565",
+        "Co @ 0.333 0.667 0.63",
+        "Co @ 0 0 0.695",
+        "Co @ 0.667 0.333 0.759"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.17581820888888888,
+      "stability": 0.1927093088888885,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069795,
+      "calculation_id": 5247776,
+      "icsd_id": null,
+      "formationenergy_id": 6264934,
+      "duplicate_entry_id": 2066502,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 162.616,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.460749076,
+          0.0,
+          0.0
+        ],
+        [
+          -1.230374538,
+          2.131071212,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.009773294
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.241",
+        "Co @ 0 0 0.305",
+        "Co @ 0.667 0.333 0.37",
+        "Co @ 0.333 0.667 0.435",
+        "Co @ 0 0 0.5",
+        "Co @ 0.667 0.333 0.565",
+        "Co @ 0.333 0.667 0.63",
+        "Co @ 0 0 0.695",
+        "Co @ 0.667 0.333 0.759"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.17581820888888888,
+      "stability": 0.1927093088888885,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069825,
+      "calculation_id": 5247798,
+      "icsd_id": null,
+      "formationenergy_id": 6264935,
+      "duplicate_entry_id": 2066502,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 162.616,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.460749065,
+          0.0,
+          0.0
+        ],
+        [
+          -1.230374533,
+          2.131071203,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.00977315
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.241",
+        "Co @ 0 0 0.305",
+        "Co @ 0.667 0.333 0.37",
+        "Co @ 0.333 0.667 0.435",
+        "Co @ 0 0 0.5",
+        "Co @ 0.667 0.333 0.565",
+        "Co @ 0.333 0.667 0.63",
+        "Co @ 0 0 0.695",
+        "Co @ 0.667 0.333 0.759"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1758182111111113,
+      "stability": 0.1927093111111109,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 594127,
+      "calculation_id": 5247148,
+      "icsd_id": 52933,
+      "formationenergy_id": 6265687,
+      "duplicate_entry_id": 594127,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63mc",
+      "volume": 504.177,
+      "ntypes": 1,
+      "natoms": 46,
+      "unit_cell": [
+        [
+          7.828424522,
+          0.0,
+          0.0
+        ],
+        [
+          -3.914212261,
+          6.779614507,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          9.499558503
+        ]
+      ],
+      "sites": [
+        "Co @ 0.333 0.667 0.00474",
+        "Co @ 0.515 0.0309 0.0928",
+        "Co @ 0.515 0.485 0.0928",
+        "Co @ 0.969 0.485 0.0928",
+        "Co @ 0 0 0.0963",
+        "Co @ 0.225 0.449 0.22",
+        "Co @ 0.225 0.775 0.22",
+        "Co @ 0.551 0.775 0.22",
+        "Co @ 0.316 0.158 0.22",
+        "Co @ 0.842 0.158 0.22",
+        "Co @ 0.842 0.684 0.22",
+        "Co @ 0.667 0.333 0.222",
+        "Co @ 0 0 0.342",
+        "Co @ 0.515 0.0292 0.35",
+        "Co @ 0.515 0.485 0.35",
+        "Co @ 0.971 0.485 0.35",
+        "Co @ 0.333 0.667 0.435",
+        "Co @ 0.166 0.331 0.456",
+        "Co @ 0.166 0.834 0.456",
+        "Co @ 0.669 0.834 0.456",
+        "Co @ 0.331 0.165 0.485",
+        "Co @ 0.835 0.165 0.485",
+        "Co @ 0.835 0.669 0.485",
+        "Co @ 0.667 0.333 0.505",
+        "Co @ 0.0309 0.515 0.593",
+        "Co @ 0.485 0.515 0.593",
+        "Co @ 0.485 0.969 0.593",
+        "Co @ 0 0 0.596",
+        "Co @ 0.449 0.225 0.72",
+        "Co @ 0.775 0.225 0.72",
+        "Co @ 0.775 0.551 0.72",
+        "Co @ 0.158 0.316 0.72",
+        "Co @ 0.158 0.842 0.72",
+        "Co @ 0.684 0.842 0.72",
+        "Co @ 0.333 0.667 0.722",
+        "Co @ 0 0 0.842",
+        "Co @ 0.0292 0.515 0.85",
+        "Co @ 0.485 0.515 0.85",
+        "Co @ 0.485 0.971 0.85",
+        "Co @ 0.667 0.333 0.935",
+        "Co @ 0.331 0.166 0.956",
+        "Co @ 0.834 0.166 0.956",
+        "Co @ 0.834 0.669 0.956",
+        "Co @ 0.165 0.331 0.985",
+        "Co @ 0.165 0.835 0.985",
+        "Co @ 0.669 0.835 0.985"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.08574980782608677,
+      "stability": 0.10264090782608637,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069729,
+      "calculation_id": 5248275,
+      "icsd_id": null,
+      "formationenergy_id": 6266638,
+      "duplicate_entry_id": 2066484,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4/nmm",
+      "volume": 248.118,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.458556106,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.458556106,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          41.04860407
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0.5 0.182",
+        "Co @ 0.5 0 0.224",
+        "Co @ 0 0.5 0.267",
+        "Co @ 0.5 0 0.309",
+        "Co @ 0 0.5 0.352",
+        "Co @ 0.5 0 0.394",
+        "Co @ 0 0.5 0.436",
+        "Co @ 0.5 0 0.479",
+        "Co @ 0 0.5 0.521",
+        "Co @ 0.5 0 0.564",
+        "Co @ 0 0.5 0.606",
+        "Co @ 0.5 0 0.648",
+        "Co @ 0 0.5 0.691",
+        "Co @ 0.5 0 0.733",
+        "Co @ 0 0.5 0.776",
+        "Co @ 0.5 0 0.818"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.20272936687500032,
+      "stability": 0.21962046687499992,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069750,
+      "calculation_id": 5247528,
+      "icsd_id": null,
+      "formationenergy_id": 6266724,
+      "duplicate_entry_id": 2069750,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 283.763,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.456551867,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.474327193,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          33.247520837
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0.225",
+        "Co @ 0.5 0.5 0.258",
+        "Co @ 0 0 0.296",
+        "Co @ 0.5 0.5 0.333",
+        "Co @ 0 0 0.371",
+        "Co @ 0.5 0.5 0.408",
+        "Co @ 0 0 0.445",
+        "Co @ 0.5 0.5 0.481",
+        "Co @ 0 0 0.518",
+        "Co @ 0.5 0.5 0.555",
+        "Co @ 0 0 0.592",
+        "Co @ 0.5 0.5 0.629",
+        "Co @ 0 0 0.667",
+        "Co @ 0.5 0.5 0.704",
+        "Co @ 0 0 0.742",
+        "Co @ 0.5 0.5 0.775"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18935658437500003,
+      "stability": 0.20624768437499963,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069717,
+      "calculation_id": 5248962,
+      "icsd_id": null,
+      "formationenergy_id": 6267195,
+      "duplicate_entry_id": 2066484,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 247.405,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.454529215,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.454529215,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          41.065031871
+        ]
+      ],
+      "sites": [
+        "Co @ 0.5 0.5 0.182",
+        "Co @ 0 0 0.223",
+        "Co @ 0.5 0.5 0.267",
+        "Co @ 0 0 0.309",
+        "Co @ 0.5 0.5 0.352",
+        "Co @ 0 0 0.394",
+        "Co @ 0.5 0.5 0.436",
+        "Co @ 0 0 0.479",
+        "Co @ 0.5 0.5 0.521",
+        "Co @ 0 0 0.564",
+        "Co @ 0.5 0.5 0.606",
+        "Co @ 0 0 0.648",
+        "Co @ 0.5 0.5 0.691",
+        "Co @ 0 0 0.733",
+        "Co @ 0.5 0.5 0.777",
+        "Co @ 0 0 0.818"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.19123032437499976,
+      "stability": 0.20812142437499936,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069762,
+      "calculation_id": 5249810,
+      "icsd_id": null,
+      "formationenergy_id": 6267765,
+      "duplicate_entry_id": 2069750,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 283.762,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.456553667,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.474322499,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          33.247464058
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0.225",
+        "Co @ 0.5 0.5 0.258",
+        "Co @ 0 0 0.296",
+        "Co @ 0.5 0.5 0.333",
+        "Co @ 0 0 0.371",
+        "Co @ 0.5 0.5 0.408",
+        "Co @ 0 0 0.445",
+        "Co @ 0.5 0.5 0.481",
+        "Co @ 0 0 0.518",
+        "Co @ 0.5 0.5 0.555",
+        "Co @ 0 0 0.592",
+        "Co @ 0.5 0.5 0.629",
+        "Co @ 0 0 0.667",
+        "Co @ 0.5 0.5 0.704",
+        "Co @ 0 0 0.742",
+        "Co @ 0.5 0.5 0.775"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18935995437499997,
+      "stability": 0.20625105437499958,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069771,
+      "calculation_id": 5250104,
+      "icsd_id": null,
+      "formationenergy_id": 6267934,
+      "duplicate_entry_id": 2069750,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 283.762,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.456553667,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.474322499,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          33.247464058
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0.225",
+        "Co @ 0.5 0.5 0.258",
+        "Co @ 0 0 0.296",
+        "Co @ 0.5 0.5 0.333",
+        "Co @ 0 0 0.371",
+        "Co @ 0.5 0.5 0.408",
+        "Co @ 0 0 0.445",
+        "Co @ 0.5 0.5 0.481",
+        "Co @ 0 0 0.518",
+        "Co @ 0.5 0.5 0.555",
+        "Co @ 0 0 0.592",
+        "Co @ 0.5 0.5 0.629",
+        "Co @ 0 0 0.667",
+        "Co @ 0.5 0.5 0.704",
+        "Co @ 0 0 0.742",
+        "Co @ 0.5 0.5 0.775"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18935995437499997,
+      "stability": 0.20625105437499958,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069777,
+      "calculation_id": 5255564,
+      "icsd_id": null,
+      "formationenergy_id": 6267964,
+      "duplicate_entry_id": 2069750,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 284.287,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.46428499,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.47709391,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          33.177985118
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0.224",
+        "Co @ 0.5 0.5 0.257",
+        "Co @ 0 0 0.296",
+        "Co @ 0.5 0.5 0.333",
+        "Co @ 0 0 0.37",
+        "Co @ 0.5 0.5 0.407",
+        "Co @ 0 0 0.444",
+        "Co @ 0.5 0.5 0.481",
+        "Co @ 0 0 0.519",
+        "Co @ 0.5 0.5 0.556",
+        "Co @ 0 0 0.593",
+        "Co @ 0.5 0.5 0.63",
+        "Co @ 0 0 0.667",
+        "Co @ 0.5 0.5 0.704",
+        "Co @ 0 0 0.743",
+        "Co @ 0.5 0.5 0.776"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.16731446312499987,
+      "stability": 0.18420556312499947,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069759,
+      "calculation_id": 5255001,
+      "icsd_id": null,
+      "formationenergy_id": 6267992,
+      "duplicate_entry_id": 2069750,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 286.985,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.466529292,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.477176081,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          33.461613234
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0.225",
+        "Co @ 0.5 0.5 0.258",
+        "Co @ 0 0 0.296",
+        "Co @ 0.5 0.5 0.334",
+        "Co @ 0 0 0.371",
+        "Co @ 0.5 0.5 0.408",
+        "Co @ 0 0 0.445",
+        "Co @ 0.5 0.5 0.482",
+        "Co @ 0 0 0.518",
+        "Co @ 0.5 0.5 0.555",
+        "Co @ 0 0 0.592",
+        "Co @ 0.5 0.5 0.629",
+        "Co @ 0 0 0.666",
+        "Co @ 0.5 0.5 0.704",
+        "Co @ 0 0 0.742",
+        "Co @ 0.5 0.5 0.775"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18534381562500002,
+      "stability": 0.20223491562499962,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069756,
+      "calculation_id": 5255129,
+      "icsd_id": null,
+      "formationenergy_id": 6268266,
+      "duplicate_entry_id": 2069750,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 283.762,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.456553667,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.474322499,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          33.247464058
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0.225",
+        "Co @ 0.5 0.5 0.258",
+        "Co @ 0 0 0.296",
+        "Co @ 0.5 0.5 0.333",
+        "Co @ 0 0 0.371",
+        "Co @ 0.5 0.5 0.408",
+        "Co @ 0 0 0.445",
+        "Co @ 0.5 0.5 0.481",
+        "Co @ 0 0 0.518",
+        "Co @ 0.5 0.5 0.555",
+        "Co @ 0 0 0.592",
+        "Co @ 0.5 0.5 0.629",
+        "Co @ 0 0 0.667",
+        "Co @ 0.5 0.5 0.704",
+        "Co @ 0 0 0.742",
+        "Co @ 0.5 0.5 0.775"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18935995437499997,
+      "stability": 0.20625105437499958,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069711,
+      "calculation_id": 5249970,
+      "icsd_id": null,
+      "formationenergy_id": 6268296,
+      "duplicate_entry_id": 2066484,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 247.024,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.459846895,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.459846895,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          40.824747336
+        ]
+      ],
+      "sites": [
+        "Co @ 0.5 0.5 0.181",
+        "Co @ 0 0 0.222",
+        "Co @ 0.5 0.5 0.266",
+        "Co @ 0 0 0.308",
+        "Co @ 0.5 0.5 0.351",
+        "Co @ 0 0 0.394",
+        "Co @ 0.5 0.5 0.436",
+        "Co @ 0 0 0.479",
+        "Co @ 0.5 0.5 0.521",
+        "Co @ 0 0 0.564",
+        "Co @ 0.5 0.5 0.606",
+        "Co @ 0 0 0.649",
+        "Co @ 0.5 0.5 0.692",
+        "Co @ 0 0 0.734",
+        "Co @ 0.5 0.5 0.778",
+        "Co @ 0 0 0.819"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1994475824999995,
+      "stability": 0.2163386824999991,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069783,
+      "calculation_id": 5255195,
+      "icsd_id": null,
+      "formationenergy_id": 6268345,
+      "duplicate_entry_id": 2069750,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 283.763,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.456552857,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.47432822,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          33.247527489
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0.225",
+        "Co @ 0.5 0.5 0.258",
+        "Co @ 0 0 0.296",
+        "Co @ 0.5 0.5 0.333",
+        "Co @ 0 0 0.371",
+        "Co @ 0.5 0.5 0.408",
+        "Co @ 0 0 0.445",
+        "Co @ 0.5 0.5 0.481",
+        "Co @ 0 0 0.518",
+        "Co @ 0.5 0.5 0.555",
+        "Co @ 0 0 0.592",
+        "Co @ 0.5 0.5 0.629",
+        "Co @ 0 0 0.667",
+        "Co @ 0.5 0.5 0.704",
+        "Co @ 0 0 0.742",
+        "Co @ 0.5 0.5 0.775"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18935640124999953,
+      "stability": 0.20624750124999913,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069780,
+      "calculation_id": 5256006,
+      "icsd_id": null,
+      "formationenergy_id": 6268501,
+      "duplicate_entry_id": 2069750,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 283.762,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.456553667,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.474322499,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          33.247464058
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0.225",
+        "Co @ 0.5 0.5 0.258",
+        "Co @ 0 0 0.296",
+        "Co @ 0.5 0.5 0.333",
+        "Co @ 0 0 0.371",
+        "Co @ 0.5 0.5 0.408",
+        "Co @ 0 0 0.445",
+        "Co @ 0.5 0.5 0.481",
+        "Co @ 0 0 0.518",
+        "Co @ 0.5 0.5 0.555",
+        "Co @ 0 0 0.592",
+        "Co @ 0.5 0.5 0.629",
+        "Co @ 0 0 0.667",
+        "Co @ 0.5 0.5 0.704",
+        "Co @ 0 0 0.742",
+        "Co @ 0.5 0.5 0.775"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18935995437499997,
+      "stability": 0.20625105437499958,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069765,
+      "calculation_id": 5256611,
+      "icsd_id": null,
+      "formationenergy_id": 6268551,
+      "duplicate_entry_id": 2069750,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 286.829,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.469305622,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.479514825,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          33.383268899
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0.224",
+        "Co @ 0.5 0.5 0.257",
+        "Co @ 0 0 0.296",
+        "Co @ 0.5 0.5 0.333",
+        "Co @ 0 0 0.371",
+        "Co @ 0.5 0.5 0.407",
+        "Co @ 0 0 0.444",
+        "Co @ 0.5 0.5 0.481",
+        "Co @ 0 0 0.519",
+        "Co @ 0.5 0.5 0.556",
+        "Co @ 0 0 0.593",
+        "Co @ 0.5 0.5 0.629",
+        "Co @ 0 0 0.667",
+        "Co @ 0.5 0.5 0.704",
+        "Co @ 0 0 0.743",
+        "Co @ 0.5 0.5 0.776"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18460314749999984,
+      "stability": 0.20149424749999945,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069786,
+      "calculation_id": 5256223,
+      "icsd_id": null,
+      "formationenergy_id": 6268598,
+      "duplicate_entry_id": 2069750,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 283.762,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.456553664,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.474322575,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          33.247464913
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0.225",
+        "Co @ 0.5 0.5 0.258",
+        "Co @ 0 0 0.296",
+        "Co @ 0.5 0.5 0.333",
+        "Co @ 0 0 0.371",
+        "Co @ 0.5 0.5 0.408",
+        "Co @ 0 0 0.445",
+        "Co @ 0.5 0.5 0.481",
+        "Co @ 0 0 0.518",
+        "Co @ 0.5 0.5 0.555",
+        "Co @ 0 0 0.592",
+        "Co @ 0.5 0.5 0.629",
+        "Co @ 0 0 0.667",
+        "Co @ 0.5 0.5 0.704",
+        "Co @ 0 0 0.742",
+        "Co @ 0.5 0.5 0.775"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1893596999999998,
+      "stability": 0.2062507999999994,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069753,
+      "calculation_id": 5257955,
+      "icsd_id": null,
+      "formationenergy_id": 6268994,
+      "duplicate_entry_id": 2069750,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 283.762,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.456553667,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.474322499,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          33.247464058
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0.225",
+        "Co @ 0.5 0.5 0.258",
+        "Co @ 0 0 0.296",
+        "Co @ 0.5 0.5 0.333",
+        "Co @ 0 0 0.371",
+        "Co @ 0.5 0.5 0.408",
+        "Co @ 0 0 0.445",
+        "Co @ 0.5 0.5 0.481",
+        "Co @ 0 0 0.518",
+        "Co @ 0.5 0.5 0.555",
+        "Co @ 0 0 0.592",
+        "Co @ 0.5 0.5 0.629",
+        "Co @ 0 0 0.667",
+        "Co @ 0.5 0.5 0.704",
+        "Co @ 0 0 0.742",
+        "Co @ 0.5 0.5 0.775"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18935995437499997,
+      "stability": 0.20625105437499958,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069747,
+      "calculation_id": 5256504,
+      "icsd_id": null,
+      "formationenergy_id": 6269575,
+      "duplicate_entry_id": 2066484,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 248.753,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.457526386,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.457526386,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          41.18815919
+        ]
+      ],
+      "sites": [
+        "Co @ 0.5 0.5 0.182",
+        "Co @ 0 0 0.223",
+        "Co @ 0.5 0.5 0.267",
+        "Co @ 0 0 0.309",
+        "Co @ 0.5 0.5 0.352",
+        "Co @ 0 0 0.394",
+        "Co @ 0.5 0.5 0.436",
+        "Co @ 0 0 0.479",
+        "Co @ 0.5 0.5 0.521",
+        "Co @ 0 0 0.564",
+        "Co @ 0.5 0.5 0.606",
+        "Co @ 0 0 0.648",
+        "Co @ 0.5 0.5 0.691",
+        "Co @ 0 0 0.733",
+        "Co @ 0.5 0.5 0.777",
+        "Co @ 0 0 0.818"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.22079845312500002,
+      "stability": 0.23768955312499962,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069861,
+      "calculation_id": 5266333,
+      "icsd_id": null,
+      "formationenergy_id": 6271533,
+      "duplicate_entry_id": 2069828,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cm",
+      "volume": 377.427,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.879548428,
+          -1.736265251,
+          0.0
+        ],
+        [
+          3.879548428,
+          1.736265251,
+          0.0
+        ],
+        [
+          -0.146469745,
+          0.0,
+          28.015998276
+        ]
+      ],
+      "sites": [
+        "Co @ 0.051 0.051 0.265",
+        "Co @ 0.751 0.751 0.29",
+        "Co @ 0.45 0.45 0.316",
+        "Co @ 0.15 0.15 0.345",
+        "Co @ 0.849 0.849 0.374",
+        "Co @ 0.549 0.549 0.402",
+        "Co @ 0.25 0.25 0.43",
+        "Co @ 0.95 0.95 0.458",
+        "Co @ 0.65 0.65 0.486",
+        "Co @ 0.35 0.35 0.514",
+        "Co @ 0.0499 0.0499 0.542",
+        "Co @ 0.75 0.75 0.57",
+        "Co @ 0.451 0.451 0.598",
+        "Co @ 0.151 0.151 0.626",
+        "Co @ 0.85 0.85 0.655",
+        "Co @ 0.55 0.55 0.684",
+        "Co @ 0.249 0.249 0.71",
+        "Co @ 0.949 0.949 0.735"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.26772690888888917,
+      "stability": 0.2846180088888888,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069831,
+      "calculation_id": 5270337,
+      "icsd_id": null,
+      "formationenergy_id": 6271901,
+      "duplicate_entry_id": 2069828,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 378.773,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.879972042,
+          -1.735061642,
+          0.0
+        ],
+        [
+          3.879972042,
+          1.735061642,
+          0.0
+        ],
+        [
+          -0.127830835,
+          0.0,
+          28.132316399
+        ]
+      ],
+      "sites": [
+        "Co @ 0.0504 0.0504 0.266",
+        "Co @ 0.751 0.751 0.291",
+        "Co @ 0.449 0.449 0.318",
+        "Co @ 0.151 0.151 0.346",
+        "Co @ 0.849 0.849 0.374",
+        "Co @ 0.549 0.549 0.402",
+        "Co @ 0.25 0.25 0.43",
+        "Co @ 0.95 0.95 0.458",
+        "Co @ 0.65 0.65 0.486",
+        "Co @ 0.35 0.35 0.514",
+        "Co @ 0.0498 0.0498 0.542",
+        "Co @ 0.75 0.75 0.57",
+        "Co @ 0.451 0.451 0.598",
+        "Co @ 0.151 0.151 0.626",
+        "Co @ 0.849 0.849 0.654",
+        "Co @ 0.551 0.551 0.682",
+        "Co @ 0.249 0.249 0.709",
+        "Co @ 0.95 0.95 0.734"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.2680654688888886,
+      "stability": 0.2849565688888882,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069774,
+      "calculation_id": 5255372,
+      "icsd_id": null,
+      "formationenergy_id": 6271966,
+      "duplicate_entry_id": 2069750,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 283.762,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.456553667,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.474322499,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          33.247464058
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0.225",
+        "Co @ 0.5 0.5 0.258",
+        "Co @ 0 0 0.296",
+        "Co @ 0.5 0.5 0.333",
+        "Co @ 0 0 0.371",
+        "Co @ 0.5 0.5 0.408",
+        "Co @ 0 0 0.445",
+        "Co @ 0.5 0.5 0.481",
+        "Co @ 0 0 0.518",
+        "Co @ 0.5 0.5 0.555",
+        "Co @ 0 0 0.592",
+        "Co @ 0.5 0.5 0.629",
+        "Co @ 0 0 0.667",
+        "Co @ 0.5 0.5 0.704",
+        "Co @ 0 0 0.742",
+        "Co @ 0.5 0.5 0.775"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18935995437499997,
+      "stability": 0.20625105437499958,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069858,
+      "calculation_id": 5271241,
+      "icsd_id": null,
+      "formationenergy_id": 6272040,
+      "duplicate_entry_id": 2069828,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cm",
+      "volume": 373.324,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.86987358,
+          -1.731660406,
+          0.0
+        ],
+        [
+          3.86987358,
+          1.731660406,
+          0.0
+        ],
+        [
+          -0.158811166,
+          0.0,
+          27.854583725
+        ]
+      ],
+      "sites": [
+        "Co @ 0.0509 0.0509 0.264",
+        "Co @ 0.751 0.751 0.289",
+        "Co @ 0.449 0.449 0.316",
+        "Co @ 0.15 0.15 0.345",
+        "Co @ 0.849 0.849 0.373",
+        "Co @ 0.549 0.549 0.401",
+        "Co @ 0.25 0.25 0.43",
+        "Co @ 0.95 0.95 0.458",
+        "Co @ 0.65 0.65 0.486",
+        "Co @ 0.35 0.35 0.514",
+        "Co @ 0.0499 0.0499 0.542",
+        "Co @ 0.75 0.75 0.57",
+        "Co @ 0.451 0.451 0.599",
+        "Co @ 0.151 0.151 0.627",
+        "Co @ 0.85 0.85 0.655",
+        "Co @ 0.551 0.551 0.684",
+        "Co @ 0.249 0.249 0.711",
+        "Co @ 0.949 0.949 0.736"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.26976727777777754,
+      "stability": 0.28665837777777714,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069852,
+      "calculation_id": 5271427,
+      "icsd_id": null,
+      "formationenergy_id": 6272258,
+      "duplicate_entry_id": 2069828,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 378.773,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.879972048,
+          -1.735061644,
+          0.0
+        ],
+        [
+          3.879972048,
+          1.735061644,
+          0.0
+        ],
+        [
+          -0.127830819,
+          0.0,
+          28.132316235
+        ]
+      ],
+      "sites": [
+        "Co @ 0.0504 0.0504 0.266",
+        "Co @ 0.751 0.751 0.291",
+        "Co @ 0.449 0.449 0.318",
+        "Co @ 0.151 0.151 0.346",
+        "Co @ 0.849 0.849 0.374",
+        "Co @ 0.549 0.549 0.402",
+        "Co @ 0.25 0.25 0.43",
+        "Co @ 0.95 0.95 0.458",
+        "Co @ 0.65 0.65 0.486",
+        "Co @ 0.35 0.35 0.514",
+        "Co @ 0.0498 0.0498 0.542",
+        "Co @ 0.75 0.75 0.57",
+        "Co @ 0.451 0.451 0.598",
+        "Co @ 0.151 0.151 0.626",
+        "Co @ 0.849 0.849 0.654",
+        "Co @ 0.551 0.551 0.682",
+        "Co @ 0.249 0.249 0.709",
+        "Co @ 0.95 0.95 0.734"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.2680654683333339,
+      "stability": 0.2849565683333335,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069840,
+      "calculation_id": 5272825,
+      "icsd_id": null,
+      "formationenergy_id": 6272411,
+      "duplicate_entry_id": 2069828,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 370.67,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.869026253,
+          -1.730131505,
+          0.0
+        ],
+        [
+          3.869026253,
+          1.730131505,
+          0.0
+        ],
+        [
+          -0.233848616,
+          0.0,
+          27.687049284
+        ]
+      ],
+      "sites": [
+        "Co @ 0.35 0.35 0.0142",
+        "Co @ 0.05 0.05 0.0425",
+        "Co @ 0.75 0.75 0.0709",
+        "Co @ 0.451 0.451 0.1",
+        "Co @ 0.151 0.151 0.128",
+        "Co @ 0.85 0.85 0.157",
+        "Co @ 0.551 0.551 0.186",
+        "Co @ 0.249 0.249 0.213",
+        "Co @ 0.949 0.949 0.238",
+        "Co @ 0.0507 0.0507 0.762",
+        "Co @ 0.751 0.751 0.787",
+        "Co @ 0.449 0.449 0.814",
+        "Co @ 0.15 0.15 0.843",
+        "Co @ 0.849 0.849 0.872",
+        "Co @ 0.549 0.549 0.9",
+        "Co @ 0.25 0.25 0.929",
+        "Co @ 0.95 0.95 0.957",
+        "Co @ 0.65 0.65 0.986"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.2688060594444446,
+      "stability": 0.2856971594444442,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069843,
+      "calculation_id": 5277129,
+      "icsd_id": null,
+      "formationenergy_id": 6274007,
+      "duplicate_entry_id": 2069828,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 374.606,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.879115293,
+          -1.73571643,
+          0.0
+        ],
+        [
+          3.879115293,
+          1.73571643,
+          0.0
+        ],
+        [
+          -0.214490885,
+          0.0,
+          27.81850513
+        ]
+      ],
+      "sites": [
+        "Co @ 0.051 0.051 0.263",
+        "Co @ 0.751 0.751 0.287",
+        "Co @ 0.449 0.449 0.314",
+        "Co @ 0.15 0.15 0.343",
+        "Co @ 0.849 0.849 0.372",
+        "Co @ 0.549 0.549 0.4",
+        "Co @ 0.25 0.25 0.429",
+        "Co @ 0.95 0.95 0.458",
+        "Co @ 0.65 0.65 0.486",
+        "Co @ 0.35 0.35 0.514",
+        "Co @ 0.05 0.05 0.542",
+        "Co @ 0.75 0.75 0.571",
+        "Co @ 0.451 0.451 0.6",
+        "Co @ 0.151 0.151 0.628",
+        "Co @ 0.85 0.85 0.657",
+        "Co @ 0.551 0.551 0.686",
+        "Co @ 0.249 0.249 0.713",
+        "Co @ 0.949 0.949 0.737"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.2670815644444442,
+      "stability": 0.2839726644444438,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069732,
+      "calculation_id": 5273707,
+      "icsd_id": null,
+      "formationenergy_id": 6274061,
+      "duplicate_entry_id": 2066484,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 248.739,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.458229355,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.458229355,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          41.162260068
+        ]
+      ],
+      "sites": [
+        "Co @ 0.5 0.5 0.182",
+        "Co @ 0 0 0.223",
+        "Co @ 0.5 0.5 0.267",
+        "Co @ 0 0 0.309",
+        "Co @ 0.5 0.5 0.352",
+        "Co @ 0 0 0.394",
+        "Co @ 0.5 0.5 0.436",
+        "Co @ 0 0 0.479",
+        "Co @ 0.5 0.5 0.521",
+        "Co @ 0 0 0.564",
+        "Co @ 0.5 0.5 0.606",
+        "Co @ 0 0 0.648",
+        "Co @ 0.5 0.5 0.691",
+        "Co @ 0 0 0.733",
+        "Co @ 0.5 0.5 0.777",
+        "Co @ 0 0 0.818"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.19166968374999982,
+      "stability": 0.20856078374999942,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069837,
+      "calculation_id": 5278262,
+      "icsd_id": null,
+      "formationenergy_id": 6274606,
+      "duplicate_entry_id": 2069828,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cm",
+      "volume": 368.231,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.86624107,
+          -1.731695521,
+          0.0
+        ],
+        [
+          3.86624107,
+          1.731695521,
+          0.0
+        ],
+        [
+          -0.145823598,
+          0.0,
+          27.499835639
+        ]
+      ],
+      "sites": [
+        "Co @ 0.0513 0.0513 0.26",
+        "Co @ 0.752 0.752 0.285",
+        "Co @ 0.449 0.449 0.313",
+        "Co @ 0.151 0.151 0.342",
+        "Co @ 0.849 0.849 0.371",
+        "Co @ 0.549 0.549 0.4",
+        "Co @ 0.25 0.25 0.429",
+        "Co @ 0.95 0.95 0.457",
+        "Co @ 0.65 0.65 0.486",
+        "Co @ 0.35 0.35 0.514",
+        "Co @ 0.05 0.05 0.543",
+        "Co @ 0.75 0.75 0.571",
+        "Co @ 0.451 0.451 0.6",
+        "Co @ 0.151 0.151 0.629",
+        "Co @ 0.849 0.849 0.658",
+        "Co @ 0.551 0.551 0.687",
+        "Co @ 0.248 0.248 0.715",
+        "Co @ 0.949 0.949 0.74"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.26915831944444424,
+      "stability": 0.28604941944444384,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069828,
+      "calculation_id": 5282076,
+      "icsd_id": null,
+      "formationenergy_id": 6275907,
+      "duplicate_entry_id": 2069828,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cm",
+      "volume": 373.322,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.869868522,
+          -1.731656864,
+          0.0
+        ],
+        [
+          3.869868522,
+          1.731656864,
+          0.0
+        ],
+        [
+          -0.158766338,
+          0.0,
+          27.854517013
+        ]
+      ],
+      "sites": [
+        "Co @ 0.0509 0.0509 0.264",
+        "Co @ 0.751 0.751 0.289",
+        "Co @ 0.449 0.449 0.316",
+        "Co @ 0.15 0.15 0.345",
+        "Co @ 0.849 0.849 0.373",
+        "Co @ 0.549 0.549 0.401",
+        "Co @ 0.25 0.25 0.43",
+        "Co @ 0.95 0.95 0.458",
+        "Co @ 0.65 0.65 0.486",
+        "Co @ 0.35 0.35 0.514",
+        "Co @ 0.0499 0.0499 0.542",
+        "Co @ 0.75 0.75 0.57",
+        "Co @ 0.451 0.451 0.599",
+        "Co @ 0.151 0.151 0.627",
+        "Co @ 0.85 0.85 0.655",
+        "Co @ 0.551 0.551 0.684",
+        "Co @ 0.249 0.249 0.711",
+        "Co @ 0.949 0.949 0.736"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.2697693972222215,
+      "stability": 0.2866604972222211,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 1908163,
+      "calculation_id": 5285600,
+      "icsd_id": null,
+      "formationenergy_id": 6276069,
+      "duplicate_entry_id": 1908163,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 98.4397,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          3.954770339,
+          0.0,
+          0.0
+        ],
+        [
+          -1.97738517,
+          3.42493158,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          7.267698536
+        ]
+      ],
+      "sites": [
+        "Co @ 0 0 0",
+        "Co @ 0.667 0.333 0.112",
+        "Co @ 0.333 0.667 0.221",
+        "Co @ 0 0 0.333",
+        "Co @ 0.667 0.333 0.445",
+        "Co @ 0.333 0.667 0.555",
+        "Co @ 0 0 0.667",
+        "Co @ 0.667 0.333 0.779",
+        "Co @ 0.333 0.667 0.888"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.09922951444444461,
+      "stability": 0.11612061444444421,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069846,
+      "calculation_id": 5287328,
+      "icsd_id": null,
+      "formationenergy_id": 6276665,
+      "duplicate_entry_id": 2069828,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cm",
+      "volume": 368.002,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.883875586,
+          -1.735154886,
+          0.0
+        ],
+        [
+          3.883875586,
+          1.735154886,
+          0.0
+        ],
+        [
+          -0.155858789,
+          0.0,
+          27.30337299
+        ]
+      ],
+      "sites": [
+        "Co @ 0.0513 0.0513 0.26",
+        "Co @ 0.751 0.751 0.285",
+        "Co @ 0.45 0.45 0.312",
+        "Co @ 0.151 0.151 0.341",
+        "Co @ 0.849 0.849 0.37",
+        "Co @ 0.549 0.549 0.399",
+        "Co @ 0.25 0.25 0.428",
+        "Co @ 0.95 0.95 0.457",
+        "Co @ 0.65 0.65 0.486",
+        "Co @ 0.35 0.35 0.514",
+        "Co @ 0.0499 0.0499 0.543",
+        "Co @ 0.75 0.75 0.572",
+        "Co @ 0.451 0.451 0.601",
+        "Co @ 0.151 0.151 0.63",
+        "Co @ 0.849 0.849 0.659",
+        "Co @ 0.55 0.55 0.688",
+        "Co @ 0.249 0.249 0.715",
+        "Co @ 0.949 0.949 0.74"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.2679334122222219,
+      "stability": 0.2848245122222215,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069849,
+      "calculation_id": 5287330,
+      "icsd_id": null,
+      "formationenergy_id": 6276807,
+      "duplicate_entry_id": 2069828,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 374.618,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.879147789,
+          -1.735732305,
+          0.0
+        ],
+        [
+          3.879147789,
+          1.735732305,
+          0.0
+        ],
+        [
+          -0.214482541,
+          0.0,
+          27.818847396
+        ]
+      ],
+      "sites": [
+        "Co @ 0.051 0.051 0.263",
+        "Co @ 0.751 0.751 0.287",
+        "Co @ 0.449 0.449 0.314",
+        "Co @ 0.15 0.15 0.343",
+        "Co @ 0.849 0.849 0.372",
+        "Co @ 0.549 0.549 0.4",
+        "Co @ 0.25 0.25 0.429",
+        "Co @ 0.95 0.95 0.458",
+        "Co @ 0.65 0.65 0.486",
+        "Co @ 0.35 0.35 0.514",
+        "Co @ 0.05 0.05 0.542",
+        "Co @ 0.75 0.75 0.571",
+        "Co @ 0.451 0.451 0.6",
+        "Co @ 0.151 0.151 0.628",
+        "Co @ 0.85 0.85 0.657",
+        "Co @ 0.551 0.551 0.686",
+        "Co @ 0.249 0.249 0.713",
+        "Co @ 0.949 0.949 0.737"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.26707407722222243,
+      "stability": 0.28396517722222203,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Co",
+      "entry_id": 2069864,
+      "calculation_id": 5287727,
+      "icsd_id": null,
+      "formationenergy_id": 6277023,
+      "duplicate_entry_id": 2069828,
+      "composition": "Co1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cm",
+      "volume": 377.426,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.879542424,
+          -1.73626169,
+          0.0
+        ],
+        [
+          3.879542424,
+          1.73626169,
+          0.0
+        ],
+        [
+          -0.146473876,
+          0.0,
+          28.016035764
+        ]
+      ],
+      "sites": [
+        "Co @ 0.051 0.051 0.265",
+        "Co @ 0.751 0.751 0.29",
+        "Co @ 0.45 0.45 0.316",
+        "Co @ 0.15 0.15 0.345",
+        "Co @ 0.849 0.849 0.374",
+        "Co @ 0.549 0.549 0.402",
+        "Co @ 0.25 0.25 0.43",
+        "Co @ 0.95 0.95 0.458",
+        "Co @ 0.65 0.65 0.486",
+        "Co @ 0.35 0.35 0.514",
+        "Co @ 0.0499 0.0499 0.542",
+        "Co @ 0.75 0.75 0.57",
+        "Co @ 0.451 0.451 0.598",
+        "Co @ 0.151 0.151 0.626",
+        "Co @ 0.85 0.85 0.655",
+        "Co @ 0.55 0.55 0.684",
+        "Co @ 0.249 0.249 0.71",
+        "Co @ 0.949 0.949 0.735"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.2677277155555551,
+      "stability": 0.2846188155555547,
+      "fit": "standard",
+      "calculation_label": "static"
+    }
+  ],
+  "meta": {
+    "query": {
+      "representation": "http://oqmd.org/oqmdapi/formationenergy?composition=Co&limit=200"
+    },
+    "api_version": "1.0",
+    "time_stamp": "2026-07-11 16:44:28",
+    "data_returned": 87,
+    "data_available": 87,
+    "comments": "",
+    "query_tree": "",
+    "more_data_available": false
+  },
+  "response_message": "OK"
+}

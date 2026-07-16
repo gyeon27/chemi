@@ -1,0 +1,2868 @@
+{
+  "links": {
+    "next": null,
+    "previous": null,
+    "base_url": {
+      "href": "https://oqmd.org/oqmdapi",
+      "meta": {
+        "_oqmd_version": "1.0"
+      }
+    }
+  },
+  "resource": {},
+  "data": [
+    {
+      "name": "Zr",
+      "entry_id": 9320,
+      "calculation_id": 3726,
+      "icsd_id": 52544,
+      "formationenergy_id": 4061190,
+      "duplicate_entry_id": 9320,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "W",
+      "spacegroup": "Im-3m",
+      "volume": 22.8061,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.786475,
+          1.786475,
+          1.786475
+        ],
+        [
+          1.786475,
+          -1.786475,
+          -1.786475
+        ],
+        [
+          -1.786475,
+          1.786475,
+          -1.786475
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0796308700000008,
+      "stability": 0.07980277500000099,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 7509,
+      "calculation_id": 3977,
+      "icsd_id": 41511,
+      "formationenergy_id": 4061250,
+      "duplicate_entry_id": 7509,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "Cu",
+      "spacegroup": "Fm-3m",
+      "volume": 23.1853,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          2.263224,
+          -2.263224,
+          0.0
+        ],
+        [
+          -2.263224,
+          0.0,
+          -2.263224
+        ],
+        [
+          2.263224,
+          2.263224,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0396869400000011,
+      "stability": 0.039858845000001294,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 8196,
+      "calculation_id": 5706,
+      "icsd_id": 43700,
+      "formationenergy_id": 4062462,
+      "duplicate_entry_id": 67408,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 46.7469,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          3.233948,
+          0.0,
+          0.0
+        ],
+        [
+          -1.616974,
+          2.800652,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.161323
+        ]
+      ],
+      "sites": [
+        "Zr @ 0.333 0.667 0.25",
+        "Zr @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000177385000000641,
+      "stability": 0.00034929000000083525,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 67408,
+      "calculation_id": 1234054,
+      "icsd_id": 76143,
+      "formationenergy_id": 4790085,
+      "duplicate_entry_id": 67408,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 46.8923,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          3.235323,
+          0.0,
+          0.0
+        ],
+        [
+          -1.617662,
+          2.801816,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.173023
+        ]
+      ],
+      "sites": [
+        "Zr @ 0.333 0.667 0.25",
+        "Zr @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.00017190500000019426,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 117515,
+      "calculation_id": 1234103,
+      "icsd_id": 183410,
+      "formationenergy_id": 4790139,
+      "duplicate_entry_id": 67408,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 46.6966,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          3.228109,
+          0.0,
+          0.0
+        ],
+        [
+          -1.614055,
+          2.795588,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.174442
+        ]
+      ],
+      "sites": [
+        "Zr @ 0.333 0.667 0.25",
+        "Zr @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000331940000000586,
+      "stability": 0.0005038450000007802,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758449,
+      "calculation_id": 1629532,
+      "icsd_id": null,
+      "formationenergy_id": 5076303,
+      "duplicate_entry_id": 67408,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 46.8058,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          -3.220423,
+          0.0
+        ],
+        [
+          -2.788967,
+          -1.610211,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -5.211272
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.333 0.333 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000432565000000551,
+      "stability": 0.0006044700000007452,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758453,
+      "calculation_id": 1629552,
+      "icsd_id": null,
+      "formationenergy_id": 5076312,
+      "duplicate_entry_id": 67408,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 46.7011,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          -2.78922,
+          -1.610356,
+          0.0
+        ],
+        [
+          -2.78922,
+          1.610356,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -5.198672
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.667 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000446755000000465,
+      "stability": 0.0006186600000006592,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758475,
+      "calculation_id": 1629635,
+      "icsd_id": null,
+      "formationenergy_id": 5076327,
+      "duplicate_entry_id": 67408,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 46.7822,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.792445,
+          1.612219,
+          0.0
+        ],
+        [
+          -2.792445,
+          1.612219,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.19567
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000188190000001143,
+      "stability": 0.00036009500000133726,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758471,
+      "calculation_id": 1629661,
+      "icsd_id": null,
+      "formationenergy_id": 5076342,
+      "duplicate_entry_id": 67408,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 46.7143,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          -2.788618,
+          -1.610009,
+          0.0
+        ],
+        [
+          -2.788618,
+          1.610009,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -5.202381
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.667 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000478994999999927,
+      "stability": 0.0006509000000001213,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758464,
+      "calculation_id": 1629665,
+      "icsd_id": null,
+      "formationenergy_id": 5076345,
+      "duplicate_entry_id": 67408,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 46.7106,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.793669,
+          1.612925,
+          0.0
+        ],
+        [
+          -2.793669,
+          1.612925,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.183178
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000228610000000629,
+      "stability": 0.0004005150000008233,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758462,
+      "calculation_id": 1629670,
+      "icsd_id": null,
+      "formationenergy_id": 5076351,
+      "duplicate_entry_id": 67408,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 46.7097,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.793936,
+          -1.61308,
+          0.0
+        ],
+        [
+          0.0,
+          3.226159,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.182087
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.667 0.333 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000221899999999664,
+      "stability": 0.0003938049999998583,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758457,
+      "calculation_id": 1629686,
+      "icsd_id": null,
+      "formationenergy_id": 5076363,
+      "duplicate_entry_id": 67408,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 46.6706,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.792841,
+          1.612446,
+          0.0
+        ],
+        [
+          -2.792841,
+          1.612446,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.181818
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00032461500000025,
+      "stability": 0.0004965200000004443,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758474,
+      "calculation_id": 1629687,
+      "icsd_id": null,
+      "formationenergy_id": 5076366,
+      "duplicate_entry_id": 67408,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 46.6738,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.792932,
+          1.612499,
+          0.0
+        ],
+        [
+          -2.792932,
+          1.612499,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.18183
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000315255000000292,
+      "stability": 0.00048716000000048626,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758456,
+      "calculation_id": 1629783,
+      "icsd_id": null,
+      "formationenergy_id": 5076396,
+      "duplicate_entry_id": 67408,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 46.7077,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.789149,
+          -1.610352,
+          0.0
+        ],
+        [
+          2.789117,
+          1.610297,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.19967
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.333 0.333 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000446665000000124,
+      "stability": 0.0006185700000003182,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758463,
+      "calculation_id": 1629796,
+      "icsd_id": null,
+      "formationenergy_id": 5076402,
+      "duplicate_entry_id": 67408,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 46.7546,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.79126,
+          -1.611563,
+          0.0
+        ],
+        [
+          2.791236,
+          1.611521,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.197015
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.333 0.333 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000276265000000109,
+      "stability": 0.00044817000000030327,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758466,
+      "calculation_id": 1629799,
+      "icsd_id": null,
+      "formationenergy_id": 5076405,
+      "duplicate_entry_id": 67408,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 46.7478,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.790918,
+          -1.611364,
+          0.0
+        ],
+        [
+          2.790895,
+          1.611325,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.197534
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.333 0.333 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000300530000000521,
+      "stability": 0.00047243500000071525,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758445,
+      "calculation_id": 1634416,
+      "icsd_id": null,
+      "formationenergy_id": 5079141,
+      "duplicate_entry_id": 758445,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 93.7729,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          -3.231195,
+          0.0
+        ],
+        [
+          -5.596618,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -5.185476
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.5 0.5 0",
+        "Zr @ 0.5 0.167 0.5",
+        "Zr @ 0 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 7.49925000000928e-05,
+      "stability": 0.0002468975000002871,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758455,
+      "calculation_id": 1634433,
+      "icsd_id": null,
+      "formationenergy_id": 5079159,
+      "duplicate_entry_id": 758445,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 93.7725,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          -3.23119,
+          0.0
+        ],
+        [
+          -5.59661,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -5.185469
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.5 0.5 0",
+        "Zr @ 0.5 0.167 0.5",
+        "Zr @ 0 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 7.6027500000464e-05,
+      "stability": 0.00024793250000065825,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758448,
+      "calculation_id": 1634655,
+      "icsd_id": null,
+      "formationenergy_id": 5079312,
+      "duplicate_entry_id": 758445,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 93.4317,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          -3.225008,
+          0.0
+        ],
+        [
+          -5.585671,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -5.186664
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.5 0.5 0",
+        "Zr @ 0.5 0.167 0.5",
+        "Zr @ 0 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00042022500000094,
+      "stability": 0.0005921300000011342,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758465,
+      "calculation_id": 1634656,
+      "icsd_id": null,
+      "formationenergy_id": 5079315,
+      "duplicate_entry_id": 758445,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 93.428,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          -3.224974,
+          0.0
+        ],
+        [
+          -5.585575,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -5.186601
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.5 0.5 0",
+        "Zr @ 0.5 0.167 0.5",
+        "Zr @ 0 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000425480000000533,
+      "stability": 0.0005973850000007273,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758450,
+      "calculation_id": 1634922,
+      "icsd_id": null,
+      "formationenergy_id": 5079543,
+      "duplicate_entry_id": 758445,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 93.4278,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          -3.224994,
+          0.0
+        ],
+        [
+          -5.585675,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -5.186466
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.5 0.5 0",
+        "Zr @ 0.5 0.167 0.5",
+        "Zr @ 0 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000424587499999518,
+      "stability": 0.0005964924999997123,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758470,
+      "calculation_id": 1635043,
+      "icsd_id": null,
+      "formationenergy_id": 5079639,
+      "duplicate_entry_id": 758445,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 93.4096,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          -3.224843,
+          0.0
+        ],
+        [
+          -5.585414,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -5.185942
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.5 0.5 0",
+        "Zr @ 0.5 0.167 0.5",
+        "Zr @ 0 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000443032499999774,
+      "stability": 0.0006149374999999683,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758460,
+      "calculation_id": 1638797,
+      "icsd_id": null,
+      "formationenergy_id": 5082840,
+      "duplicate_entry_id": 758460,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 139.949,
+      "ntypes": 1,
+      "natoms": 6,
+      "unit_cell": [
+        [
+          2.793577,
+          4.838764,
+          0.0
+        ],
+        [
+          -2.793577,
+          4.838764,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.1766
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.333 0.333 0",
+        "Zr @ 0.667 0.667 0",
+        "Zr @ 0.667 0 0.5",
+        "Zr @ 0 0.333 0.5",
+        "Zr @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000502298333330486,
+      "stability": 0.0006742033333306803,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758458,
+      "calculation_id": 1651502,
+      "icsd_id": null,
+      "formationenergy_id": 5092080,
+      "duplicate_entry_id": 758458,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 186.583,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          11.165769,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.223729,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.183515
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.5 0 0",
+        "Zr @ 0.25 0.5 0",
+        "Zr @ 0.75 0.5 0",
+        "Zr @ 0.166 0 0.5",
+        "Zr @ 0.667 0 0.5",
+        "Zr @ 0.417 0.5 0.5",
+        "Zr @ 0.917 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000500195000000758,
+      "stability": 0.0006721000000009523,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758451,
+      "calculation_id": 1675040,
+      "icsd_id": null,
+      "formationenergy_id": 5106204,
+      "duplicate_entry_id": 758451,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 233.61,
+      "ntypes": 1,
+      "natoms": 10,
+      "unit_cell": [
+        [
+          2.792856,
+          4.83735,
+          0.0
+        ],
+        [
+          -5.584789,
+          6.449266,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.188158
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.4 0.2 0",
+        "Zr @ 0.8 0.4 0",
+        "Zr @ 0.2 0.6 0",
+        "Zr @ 0.6 0.8 0",
+        "Zr @ 0.667 0 0.5",
+        "Zr @ 0.0667 0.2 0.5",
+        "Zr @ 0.467 0.4 0.5",
+        "Zr @ 0.867 0.6 0.5",
+        "Zr @ 0.267 0.8 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00050102700000032,
+      "stability": 0.0006729320000005142,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758454,
+      "calculation_id": 1675787,
+      "icsd_id": null,
+      "formationenergy_id": 5106582,
+      "duplicate_entry_id": 758451,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 233.582,
+      "ntypes": 1,
+      "natoms": 10,
+      "unit_cell": [
+        [
+          2.792984,
+          4.837586,
+          0.0
+        ],
+        [
+          -5.585094,
+          6.449611,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.187027
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.4 0.2 0",
+        "Zr @ 0.8 0.4 0",
+        "Zr @ 0.2 0.6 0",
+        "Zr @ 0.6 0.8 0",
+        "Zr @ 0.667 0 0.5",
+        "Zr @ 0.0667 0.2 0.5",
+        "Zr @ 0.467 0.4 0.5",
+        "Zr @ 0.867 0.6 0.5",
+        "Zr @ 0.267 0.8 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000501810000001157,
+      "stability": 0.0006737150000013512,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758459,
+      "calculation_id": 1702260,
+      "icsd_id": null,
+      "formationenergy_id": 5121210,
+      "duplicate_entry_id": 758447,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 326.978,
+      "ntypes": 1,
+      "natoms": 14,
+      "unit_cell": [
+        [
+          5.586744,
+          6.45099,
+          0.0
+        ],
+        [
+          -2.793418,
+          8.063777,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.184314
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.571 0.143 0",
+        "Zr @ 0.143 0.286 0",
+        "Zr @ 0.714 0.429 0",
+        "Zr @ 0.286 0.571 0",
+        "Zr @ 0.857 0.714 0",
+        "Zr @ 0.429 0.857 0",
+        "Zr @ 0.381 0.0952 0.5",
+        "Zr @ 0.952 0.238 0.5",
+        "Zr @ 0.524 0.381 0.5",
+        "Zr @ 0.0952 0.524 0.5",
+        "Zr @ 0.667 0.667 0.5",
+        "Zr @ 0.238 0.81 0.5",
+        "Zr @ 0.81 0.952 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000563656428569814,
+      "stability": 0.0007355614285700083,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758447,
+      "calculation_id": 1702584,
+      "icsd_id": null,
+      "formationenergy_id": 5121384,
+      "duplicate_entry_id": 758447,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 326.972,
+      "ntypes": 1,
+      "natoms": 14,
+      "unit_cell": [
+        [
+          5.586703,
+          6.450928,
+          0.0
+        ],
+        [
+          -2.793405,
+          8.063705,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.184303
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.571 0.143 0",
+        "Zr @ 0.143 0.286 0",
+        "Zr @ 0.714 0.429 0",
+        "Zr @ 0.286 0.571 0",
+        "Zr @ 0.857 0.714 0",
+        "Zr @ 0.429 0.857 0",
+        "Zr @ 0.381 0.0952 0.5",
+        "Zr @ 0.952 0.238 0.5",
+        "Zr @ 0.524 0.381 0.5",
+        "Zr @ 0.0952 0.524 0.5",
+        "Zr @ 0.667 0.667 0.5",
+        "Zr @ 0.238 0.81 0.5",
+        "Zr @ 0.81 0.952 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000566526428571024,
+      "stability": 0.0007384314285712182,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758468,
+      "calculation_id": 1712311,
+      "icsd_id": null,
+      "formationenergy_id": 5125164,
+      "duplicate_entry_id": 758460,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 140.21,
+      "ntypes": 1,
+      "natoms": 6,
+      "unit_cell": [
+        [
+          2.794507,
+          4.840247,
+          0.0
+        ],
+        [
+          -2.794507,
+          4.840247,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.182954
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.333 0.333 0",
+        "Zr @ 0.667 0.667 0",
+        "Zr @ 0.667 0 0.5",
+        "Zr @ 0 0.333 0.5",
+        "Zr @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0195124933333304,
+      "stability": 0.019684398333330595,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758452,
+      "calculation_id": 1800244,
+      "icsd_id": null,
+      "formationenergy_id": 5197095,
+      "duplicate_entry_id": 758446,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 280.243,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          8.374929,
+          -1.611832,
+          0.0
+        ],
+        [
+          0.000114,
+          6.447911,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.18959
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.667 0.167 0",
+        "Zr @ 0.333 0.333 0",
+        "Zr @ 0 0.5 0",
+        "Zr @ 0.667 0.667 0",
+        "Zr @ 0.333 0.833 0",
+        "Zr @ 0.222 0.0556 0.5",
+        "Zr @ 0.889 0.222 0.5",
+        "Zr @ 0.556 0.389 0.5",
+        "Zr @ 0.222 0.556 0.5",
+        "Zr @ 0.889 0.722 0.5",
+        "Zr @ 0.556 0.889 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000520800000000321,
+      "stability": 0.0006927050000005153,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758473,
+      "calculation_id": 1800343,
+      "icsd_id": null,
+      "formationenergy_id": 5197185,
+      "duplicate_entry_id": 758446,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 280.243,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          8.374929,
+          -1.611832,
+          0.0
+        ],
+        [
+          0.000114,
+          6.447911,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.18959
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.667 0.167 0",
+        "Zr @ 0.333 0.333 0",
+        "Zr @ 0 0.5 0",
+        "Zr @ 0.667 0.667 0",
+        "Zr @ 0.333 0.833 0",
+        "Zr @ 0.222 0.0556 0.5",
+        "Zr @ 0.889 0.222 0.5",
+        "Zr @ 0.556 0.389 0.5",
+        "Zr @ 0.222 0.556 0.5",
+        "Zr @ 0.889 0.722 0.5",
+        "Zr @ 0.556 0.889 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000520800000000321,
+      "stability": 0.0006927050000005153,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758446,
+      "calculation_id": 1800544,
+      "icsd_id": null,
+      "formationenergy_id": 5197341,
+      "duplicate_entry_id": 758446,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 280.224,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          8.374943,
+          -1.61184,
+          0.0
+        ],
+        [
+          0.000111,
+          6.447934,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.18922
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.667 0.167 0",
+        "Zr @ 0.333 0.333 0",
+        "Zr @ 0 0.5 0",
+        "Zr @ 0.667 0.667 0",
+        "Zr @ 0.333 0.833 0",
+        "Zr @ 0.222 0.0555 0.5",
+        "Zr @ 0.889 0.222 0.5",
+        "Zr @ 0.556 0.389 0.5",
+        "Zr @ 0.222 0.556 0.5",
+        "Zr @ 0.889 0.722 0.5",
+        "Zr @ 0.556 0.889 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000525423333330721,
+      "stability": 0.0006973283333309153,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758461,
+      "calculation_id": 1800674,
+      "icsd_id": null,
+      "formationenergy_id": 5197416,
+      "duplicate_entry_id": 758444,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 280.407,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          16.768966,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.229646,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.177589
+        ]
+      ],
+      "sites": [
+        "Zr @ 0.333 0 0",
+        "Zr @ 0.667 0 0",
+        "Zr @ 0.999 0 0",
+        "Zr @ 0.166 0.5 0",
+        "Zr @ 0.5 0.5 0",
+        "Zr @ 0.833 0.5 0",
+        "Zr @ 0.111 0 0.5",
+        "Zr @ 0.444 0 0.5",
+        "Zr @ 0.778 0 0.5",
+        "Zr @ 0.277 0.5 0.5",
+        "Zr @ 0.611 0.5 0.5",
+        "Zr @ 0.945 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000460232500000046,
+      "stability": 0.0006321375000002403,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758472,
+      "calculation_id": 1800755,
+      "icsd_id": null,
+      "formationenergy_id": 5197509,
+      "duplicate_entry_id": 758444,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 280.407,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          16.768966,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.229646,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.177589
+        ]
+      ],
+      "sites": [
+        "Zr @ 0.333 0 0",
+        "Zr @ 0.667 0 0",
+        "Zr @ 0.999 0 0",
+        "Zr @ 0.166 0.5 0",
+        "Zr @ 0.5 0.5 0",
+        "Zr @ 0.833 0.5 0",
+        "Zr @ 0.111 0 0.5",
+        "Zr @ 0.444 0 0.5",
+        "Zr @ 0.778 0 0.5",
+        "Zr @ 0.277 0.5 0.5",
+        "Zr @ 0.611 0.5 0.5",
+        "Zr @ 0.945 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000460231666670197,
+      "stability": 0.0006321366666703912,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 758444,
+      "calculation_id": 1806970,
+      "icsd_id": null,
+      "formationenergy_id": 5202537,
+      "duplicate_entry_id": 758444,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 279.977,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          0.0,
+          -3.230131,
+          0.0
+        ],
+        [
+          -16.741363,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -5.177387
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.5 0.167 0",
+        "Zr @ 0 0.334 0",
+        "Zr @ 0.5 0.501 0",
+        "Zr @ 0 0.667 0",
+        "Zr @ 0.5 0.833 0",
+        "Zr @ 0.5 0.0554 0.5",
+        "Zr @ 0 0.222 0.5",
+        "Zr @ 0.5 0.389 0.5",
+        "Zr @ 0 0.555 0.5",
+        "Zr @ 0.5 0.722 0.5",
+        "Zr @ 0 0.889 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000540865833329462,
+      "stability": 0.0007127708333296563,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1214589,
+      "calculation_id": 2692362,
+      "icsd_id": null,
+      "formationenergy_id": 5567237,
+      "duplicate_entry_id": 7509,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "A1_Cu",
+      "spacegroup": "Fm-3m",
+      "volume": 23.1725,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          2.262808,
+          -2.262808
+        ],
+        [
+          2.262808,
+          0.0,
+          2.262808
+        ],
+        [
+          0.0,
+          -2.262808,
+          -2.262808
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0397379900000008,
+      "stability": 0.03990989500000099,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1214678,
+      "calculation_id": 2692532,
+      "icsd_id": null,
+      "formationenergy_id": 5567321,
+      "duplicate_entry_id": 1214678,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "A10_Hg",
+      "spacegroup": "R-3m",
+      "volume": 22.6844,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.614514,
+          -0.93214,
+          -2.51219
+        ],
+        [
+          0.0,
+          1.864281,
+          -2.51219
+        ],
+        [
+          1.614515,
+          0.93214,
+          2.51219
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.056013720000001,
+      "stability": 0.056185625000001196,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1214767,
+      "calculation_id": 2692708,
+      "icsd_id": null,
+      "formationenergy_id": 5567408,
+      "duplicate_entry_id": 1214767,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "A11_Ga",
+      "spacegroup": "Cmca",
+      "volume": 89.707,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          -2.528647,
+          -4.905271,
+          0.0
+        ],
+        [
+          -2.528647,
+          4.905271,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -3.616141
+        ]
+      ],
+      "sites": [
+        "Zr @ 0.137 0.863 1",
+        "Zr @ 0.863 0.137 0.000481",
+        "Zr @ 0.363 0.637 0.5",
+        "Zr @ 0.637 0.363 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.297792395,
+      "stability": 0.2979643000000002,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1214856,
+      "calculation_id": 2692886,
+      "icsd_id": null,
+      "formationenergy_id": 5567496,
+      "duplicate_entry_id": 1214856,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "A12_alpha_Mn",
+      "spacegroup": "I-43m",
+      "volume": 661.058,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          5.487736,
+          5.487736,
+          5.487736
+        ],
+        [
+          5.487736,
+          -5.487736,
+          -5.487736
+        ],
+        [
+          -5.487736,
+          5.487736,
+          -5.487736
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.623 0 0",
+        "Zr @ 0.365 0.188 0",
+        "Zr @ 0.188 0.365 0",
+        "Zr @ 0.673 0.389 0",
+        "Zr @ 0 0.623 0",
+        "Zr @ 0.389 0.673 0",
+        "Zr @ 0.812 0.812 0.177",
+        "Zr @ 0.365 0 0.188",
+        "Zr @ 0 0.365 0.188",
+        "Zr @ 0.611 0.611 0.284",
+        "Zr @ 0.716 0.327 0.327",
+        "Zr @ 0.327 0.716 0.327",
+        "Zr @ 0.188 0 0.365",
+        "Zr @ 0 0.188 0.365",
+        "Zr @ 0.377 0.377 0.377",
+        "Zr @ 0.673 0 0.389",
+        "Zr @ 0 0.673 0.389",
+        "Zr @ 0.611 0.284 0.611",
+        "Zr @ 0.284 0.611 0.611",
+        "Zr @ 0 0 0.623",
+        "Zr @ 0.823 0.635 0.635",
+        "Zr @ 0.635 0.823 0.635",
+        "Zr @ 0.389 0 0.673",
+        "Zr @ 0 0.389 0.673",
+        "Zr @ 0.327 0.327 0.716",
+        "Zr @ 0.812 0.177 0.812",
+        "Zr @ 0.177 0.812 0.812",
+        "Zr @ 0.635 0.635 0.823"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.133859730000001,
+      "stability": 0.1340316350000012,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1214945,
+      "calculation_id": 2693064,
+      "icsd_id": null,
+      "formationenergy_id": 5567582,
+      "duplicate_entry_id": 1214945,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "A13_beta_Mn",
+      "spacegroup": "P4132",
+      "volume": 467.116,
+      "ntypes": 1,
+      "natoms": 20,
+      "unit_cell": [
+        [
+          7.759045,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          7.759045,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          7.759045
+        ]
+      ],
+      "sites": [
+        "Zr @ 0.875 0.708 0.0419",
+        "Zr @ 0.078 0.078 0.078",
+        "Zr @ 0.208 0.458 0.125",
+        "Zr @ 0.828 0.328 0.172",
+        "Zr @ 0.458 0.125 0.208",
+        "Zr @ 0.542 0.625 0.292",
+        "Zr @ 0.172 0.828 0.328",
+        "Zr @ 0.792 0.958 0.375",
+        "Zr @ 0.922 0.578 0.422",
+        "Zr @ 0.125 0.208 0.458",
+        "Zr @ 0.625 0.292 0.542",
+        "Zr @ 0.422 0.922 0.578",
+        "Zr @ 0.292 0.542 0.625",
+        "Zr @ 0.672 0.672 0.672",
+        "Zr @ 0.0419 0.875 0.708",
+        "Zr @ 0.958 0.375 0.792",
+        "Zr @ 0.328 0.172 0.828",
+        "Zr @ 0.708 0.0419 0.875",
+        "Zr @ 0.578 0.422 0.922",
+        "Zr @ 0.375 0.792 0.958"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0907968140000008,
+      "stability": 0.09096871900000099,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1215034,
+      "calculation_id": 2693242,
+      "icsd_id": null,
+      "formationenergy_id": 5567670,
+      "duplicate_entry_id": 1215034,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "A15_beta_W",
+      "spacegroup": "Pm-3n",
+      "volume": 183.135,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          5.678809,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          5.678809,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.678809
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.5 0.25 0",
+        "Zr @ 0.5 0.75 0",
+        "Zr @ 0 0.5 0.25",
+        "Zr @ 0.25 0 0.5",
+        "Zr @ 0.75 0 0.5",
+        "Zr @ 0.5 0.5 0.5",
+        "Zr @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.13634949875,
+      "stability": 0.1365214037500002,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1215123,
+      "calculation_id": 2693420,
+      "icsd_id": null,
+      "formationenergy_id": 5567758,
+      "duplicate_entry_id": 1215123,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "A17_Black_P",
+      "spacegroup": "Cmca",
+      "volume": 92.8085,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          3.252658
+        ],
+        [
+          5.228165,
+          0.0,
+          0.0
+        ],
+        [
+          2.614083,
+          5.457581,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Zr @ 0.999 0.366 0.269",
+        "Zr @ 0.501 0.866 0.269",
+        "Zr @ 0.499 0.134 0.731",
+        "Zr @ 0.00138 0.634 0.731"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1841828875,
+      "stability": 0.1843547925000002,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1215212,
+      "calculation_id": 2693630,
+      "icsd_id": null,
+      "formationenergy_id": 5567825,
+      "duplicate_entry_id": 9320,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "A2_W",
+      "spacegroup": "Im-3m",
+      "volume": 22.7455,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.784892,
+          1.784892,
+          -1.784892
+        ],
+        [
+          1.784892,
+          -1.784892,
+          1.784892
+        ],
+        [
+          -1.784892,
+          -1.784892,
+          -1.784892
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0798909500000011,
+      "stability": 0.08006285500000129,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1215301,
+      "calculation_id": 2693804,
+      "icsd_id": null,
+      "formationenergy_id": 5567911,
+      "duplicate_entry_id": 1215301,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "A20_alpha_U",
+      "spacegroup": "Cmcm",
+      "volume": 46.3317,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          3.206604,
+          0.0,
+          0.0
+        ],
+        [
+          1.603302,
+          2.78752,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.183398
+        ]
+      ],
+      "sites": [
+        "Zr @ 0.828 0.345 0.25",
+        "Zr @ 0.172 0.655 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00285704000000031,
+      "stability": 0.0030289450000005043,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1215390,
+      "calculation_id": 2693956,
+      "icsd_id": null,
+      "formationenergy_id": 5567985,
+      "duplicate_entry_id": 67408,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "A3_Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 46.7083,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          3.228086,
+          0.0,
+          0.0
+        ],
+        [
+          -1.614043,
+          2.795605,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.175751
+        ]
+      ],
+      "sites": [
+        "Zr @ 0.333 0.667 0.25",
+        "Zr @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000183370000000238,
+      "stability": 0.0003552750000004323,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1215480,
+      "calculation_id": 2694126,
+      "icsd_id": null,
+      "formationenergy_id": 5568064,
+      "duplicate_entry_id": 1215480,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "A3p_La",
+      "spacegroup": "P63/mmc",
+      "volume": 93.6107,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          3.224908,
+          0.0,
+          0.0
+        ],
+        [
+          -1.612454,
+          2.792852,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          10.393457
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.333 0.667 0.25",
+        "Zr @ 0 0 0.5",
+        "Zr @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0481923599999998,
+      "stability": 0.048364265,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1215569,
+      "calculation_id": 2694299,
+      "icsd_id": null,
+      "formationenergy_id": 5568149,
+      "duplicate_entry_id": 1215569,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "A4_Diamond_C",
+      "spacegroup": "Fd-3m",
+      "volume": 61.2685,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          3.128978,
+          -3.128978
+        ],
+        [
+          3.128978,
+          0.0,
+          3.128978
+        ],
+        [
+          0.0,
+          -3.128978,
+          -3.128978
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.25 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 2.409630745,
+      "stability": 2.40980265,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1215658,
+      "calculation_id": 2694471,
+      "icsd_id": null,
+      "formationenergy_id": 5568234,
+      "duplicate_entry_id": 1215658,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "A5_Sn",
+      "spacegroup": "I41/amd",
+      "volume": 47.1087,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -3.046436
+        ],
+        [
+          2.780605,
+          2.780605,
+          1.523218
+        ],
+        [
+          2.780605,
+          -2.780605,
+          -1.523218
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.25 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.48382258,
+      "stability": 0.4839944850000002,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1215747,
+      "calculation_id": 2694639,
+      "icsd_id": null,
+      "formationenergy_id": 5568317,
+      "duplicate_entry_id": 1215747,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "A6_In",
+      "spacegroup": "I4/mmm",
+      "volume": 23.1424,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          -3.157244,
+          0.0
+        ],
+        [
+          -3.157244,
+          0.0,
+          0.0
+        ],
+        [
+          1.578621,
+          1.578621,
+          -2.321629
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0423904700000008,
+      "stability": 0.04256237500000099,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1215836,
+      "calculation_id": 2694815,
+      "icsd_id": null,
+      "formationenergy_id": 5568404,
+      "duplicate_entry_id": 1215836,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "A7_As",
+      "spacegroup": "R-3m",
+      "volume": 45.7569,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          3.244189,
+          0.0,
+          0.0
+        ],
+        [
+          -1.622094,
+          2.80955,
+          0.0
+        ],
+        [
+          -1.622094,
+          0.936517,
+          5.02011
+        ]
+      ],
+      "sites": [
+        "Zr @ 0.75 0.25 0.25",
+        "Zr @ 0.25 0.75 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0559926449999999,
+      "stability": 0.0561645500000001,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1215925,
+      "calculation_id": 2694991,
+      "icsd_id": null,
+      "formationenergy_id": 5568489,
+      "duplicate_entry_id": 1215925,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "A8_Se",
+      "spacegroup": "P3121",
+      "volume": 68.408,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          5.030012,
+          0.0,
+          0.0
+        ],
+        [
+          -2.515005,
+          4.356117,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.122039
+        ]
+      ],
+      "sites": [
+        "Zr @ 0.667 0.667 0",
+        "Zr @ 0.333 0 0.333",
+        "Zr @ 0 0.333 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0803352033333304,
+      "stability": 0.0805071083333306,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1216014,
+      "calculation_id": 2695168,
+      "icsd_id": null,
+      "formationenergy_id": 5568575,
+      "duplicate_entry_id": 1216014,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "A9_Graphite_C",
+      "spacegroup": "P63/mmc",
+      "volume": 106.97,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          4.989593,
+          0.0,
+          0.0
+        ],
+        [
+          -2.494797,
+          4.321115,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.961379
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0.25",
+        "Zr @ 0.333 0.667 0.25",
+        "Zr @ 0 0 0.75",
+        "Zr @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 1.13936717,
+      "stability": 1.1395390750000003,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1216106,
+      "calculation_id": 2695342,
+      "icsd_id": null,
+      "formationenergy_id": 5568660,
+      "duplicate_entry_id": 1216106,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "C19_alpha_Sm",
+      "spacegroup": "R-3m",
+      "volume": 70.0247,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          -1.609115,
+          -2.787071,
+          0.0
+        ],
+        [
+          3.218232,
+          0.0,
+          0.0
+        ],
+        [
+          1.609115,
+          0.929023,
+          7.807036
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.777 0.223 0.332",
+        "Zr @ 0.223 0.777 0.668"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0262317866666706,
+      "stability": 0.026403691666670795,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1277957,
+      "calculation_id": 3126192,
+      "icsd_id": null,
+      "formationenergy_id": 5629553,
+      "duplicate_entry_id": 1277957,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3c",
+      "volume": 675.327,
+      "ntypes": 1,
+      "natoms": 28,
+      "unit_cell": [
+        [
+          6.963507,
+          -6.963507,
+          0.0
+        ],
+        [
+          6.963507,
+          6.963507,
+          0.0
+        ],
+        [
+          -6.963507,
+          0.0,
+          6.963507
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.694 0.0587 0",
+        "Zr @ 0.441 0.194 0",
+        "Zr @ 0.941 0.306 0",
+        "Zr @ 0.194 0.441 0",
+        "Zr @ 0.5 0.5 0",
+        "Zr @ 0.806 0.559 0",
+        "Zr @ 0.0587 0.694 0",
+        "Zr @ 0.559 0.806 0",
+        "Zr @ 0.306 0.941 0",
+        "Zr @ 0.306 0.306 0.247",
+        "Zr @ 0.806 0.441 0.247",
+        "Zr @ 0.441 0.806 0.247",
+        "Zr @ 0.941 0.941 0.247",
+        "Zr @ 0.306 0.0588 0.365",
+        "Zr @ 0.0588 0.306 0.365",
+        "Zr @ 0.559 0.559 0.365",
+        "Zr @ 0.806 0.806 0.365",
+        "Zr @ 0.75 0.25 0.5",
+        "Zr @ 0.25 0.75 0.5",
+        "Zr @ 0.194 0.194 0.635",
+        "Zr @ 0.441 0.441 0.635",
+        "Zr @ 0.941 0.694 0.635",
+        "Zr @ 0.694 0.941 0.635",
+        "Zr @ 0.0588 0.0588 0.753",
+        "Zr @ 0.559 0.194 0.753",
+        "Zr @ 0.194 0.559 0.753",
+        "Zr @ 0.694 0.694 0.753"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.438527665000001,
+      "stability": 0.4386995700000012,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1280432,
+      "calculation_id": 3130416,
+      "icsd_id": null,
+      "formationenergy_id": 5631497,
+      "duplicate_entry_id": 1215034,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pm-3n",
+      "volume": 182.642,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          4.011915,
+          2.31628,
+          3.275715
+        ],
+        [
+          -4.011915,
+          2.31628,
+          3.275715
+        ],
+        [
+          0.0,
+          -4.63256,
+          3.275715
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.5 0.25 0",
+        "Zr @ 0.5 0.75 0",
+        "Zr @ 0 0.5 0.25",
+        "Zr @ 0.5 0.5 0.5",
+        "Zr @ 0.25 0 0.5",
+        "Zr @ 0.75 0 0.5",
+        "Zr @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.13673467375,
+      "stability": 0.1369065787500002,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1280431,
+      "calculation_id": 3130414,
+      "icsd_id": null,
+      "formationenergy_id": 5631523,
+      "duplicate_entry_id": 1215034,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pm-3n",
+      "volume": 183.076,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          4.015094,
+          2.318116,
+          3.278311
+        ],
+        [
+          -4.015094,
+          2.318116,
+          3.278311
+        ],
+        [
+          0.0,
+          -4.636231,
+          3.278311
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.5 0.25 0",
+        "Zr @ 0.5 0.75 0",
+        "Zr @ 0 0.5 0.25",
+        "Zr @ 0.75 0 0.5",
+        "Zr @ 0.25 0 0.5",
+        "Zr @ 0.5 0.5 0.5",
+        "Zr @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.13639125125,
+      "stability": 0.1365631562500002,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1801137,
+      "calculation_id": 4607582,
+      "icsd_id": null,
+      "formationenergy_id": 6085512,
+      "duplicate_entry_id": 1215925,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P6/mmm",
+      "volume": 69.0036,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          2.517959,
+          -4.361187,
+          0.0
+        ],
+        [
+          2.517959,
+          4.361187,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.14187
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.667 0.333 0.5",
+        "Zr @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.001322289999999171,
+      "stability": 0.0014941949999993653,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1791927,
+      "calculation_id": 4608731,
+      "icsd_id": null,
+      "formationenergy_id": 6085947,
+      "duplicate_entry_id": 1791927,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 140.461,
+      "ntypes": 1,
+      "natoms": 6,
+      "unit_cell": [
+        [
+          5.892701,
+          -1.61508,
+          0.0
+        ],
+        [
+          5.892701,
+          1.61508,
+          0.0
+        ],
+        [
+          -1.873579,
+          0.0,
+          7.379312
+        ]
+      ],
+      "sites": [
+        "Zr @ 0.139 0.139 0.0274",
+        "Zr @ 0.528 0.528 0.306",
+        "Zr @ 0.805 0.805 0.361",
+        "Zr @ 0.195 0.195 0.639",
+        "Zr @ 0.472 0.472 0.694",
+        "Zr @ 0.861 0.861 0.973"
+      ],
+      "band_gap": 0.0,
+      "delta_e": -0.00017190500000019426,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 1926822,
+      "calculation_id": 4980326,
+      "icsd_id": null,
+      "formationenergy_id": 6184639,
+      "duplicate_entry_id": 1926822,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-62m",
+      "volume": 140.025,
+      "ntypes": 1,
+      "natoms": 6,
+      "unit_cell": [
+        [
+          5.596974877,
+          0.0,
+          0.0
+        ],
+        [
+          -2.798487438,
+          4.847122428,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.161418489
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.667 0.333 0",
+        "Zr @ 0.333 0.667 0",
+        "Zr @ 0.667 0 0.5",
+        "Zr @ 0.333 0.333 0.5",
+        "Zr @ 0 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0006178416666671183,
+      "stability": 0.0007897466666673125,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 2030147,
+      "calculation_id": 5095100,
+      "icsd_id": 671055,
+      "formationenergy_id": 6218312,
+      "duplicate_entry_id": 2030147,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "hcp#Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 46.7276,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          3.231684175,
+          0.0,
+          0.0
+        ],
+        [
+          -1.615842088,
+          2.798720593,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.166358888
+        ]
+      ],
+      "sites": [
+        "Zr @ 0.333 0.667 0.25",
+        "Zr @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000343725000000461,
+      "stability": 0.0005156300000006553,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 2031515,
+      "calculation_id": 5097639,
+      "icsd_id": 673038,
+      "formationenergy_id": 6219133,
+      "duplicate_entry_id": 1215925,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": "CaHg2",
+      "spacegroup": "P6/mmm",
+      "volume": 69.2407,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          5.039736851,
+          0.0,
+          0.0
+        ],
+        [
+          -2.519868426,
+          4.364540142,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.147855622
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.667 0.333 0.5",
+        "Zr @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.001023965000001681,
+      "stability": 0.0011958700000018752,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Zr",
+      "entry_id": 2167999,
+      "calculation_id": 5692946,
+      "icsd_id": null,
+      "formationenergy_id": 6395319,
+      "duplicate_entry_id": 2167999,
+      "composition": "Zr1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Immm",
+      "volume": 1661.36,
+      "ntypes": 1,
+      "natoms": 71,
+      "unit_cell": [
+        [
+          -7.248735484,
+          7.537151583,
+          7.60210512
+        ],
+        [
+          7.248735484,
+          -7.537151583,
+          7.60210512
+        ],
+        [
+          7.248735484,
+          7.537151583,
+          -7.60210512
+        ]
+      ],
+      "sites": [
+        "Zr @ 0 0 0",
+        "Zr @ 0.336 0.336 0",
+        "Zr @ 0.664 0.664 0",
+        "Zr @ 0.606 0.397 0.00341",
+        "Zr @ 0.157 0.465 0.0504",
+        "Zr @ 0.586 0.893 0.0504",
+        "Zr @ 0.172 0.884 0.0561",
+        "Zr @ 0.284 0.164 0.12",
+        "Zr @ 0.955 0.836 0.12",
+        "Zr @ 0.332 0.788 0.12",
+        "Zr @ 0.707 0.195 0.124",
+        "Zr @ 0.929 0.416 0.124",
+        "Zr @ 0.109 0.284 0.175",
+        "Zr @ 0.891 0.0667 0.175",
+        "Zr @ 0.489 0.0655 0.193",
+        "Zr @ 0.128 0.704 0.193",
+        "Zr @ 0.543 0.339 0.204",
+        "Zr @ 0.864 0.661 0.204",
+        "Zr @ 0.606 0.603 0.209",
+        "Zr @ 0.172 0.116 0.289",
+        "Zr @ 0.402 0.691 0.289",
+        "Zr @ 0.598 0.887 0.289",
+        "Zr @ 0.414 0.465 0.308",
+        "Zr @ 0.843 0.893 0.308",
+        "Zr @ 0.819 0.5 0.319",
+        "Zr @ 0.215 0.546 0.331",
+        "Zr @ 0.785 0.116 0.331",
+        "Zr @ 0.353 0 0.353",
+        "Zr @ 0 0.371 0.371",
+        "Zr @ 0.728 0.329 0.399",
+        "Zr @ 0.0696 0.671 0.399",
+        "Zr @ 0.489 0.296 0.424",
+        "Zr @ 0.128 0.935 0.424",
+        "Zr @ 0.668 0.788 0.456",
+        "Zr @ 0.0711 0.195 0.487",
+        "Zr @ 0.293 0.416 0.487",
+        "Zr @ 0.642 0.142 0.5",
+        "Zr @ 0.358 0.858 0.5",
+        "Zr @ 0.707 0.584 0.513",
+        "Zr @ 0.929 0.805 0.513",
+        "Zr @ 0.332 0.212 0.544",
+        "Zr @ 0.872 0.0655 0.576",
+        "Zr @ 0.511 0.704 0.576",
+        "Zr @ 0.93 0.329 0.601",
+        "Zr @ 0.272 0.671 0.601",
+        "Zr @ 0 0.629 0.629",
+        "Zr @ 0.647 0 0.647",
+        "Zr @ 0.785 0.454 0.669",
+        "Zr @ 0.215 0.884 0.669",
+        "Zr @ 0.181 0.5 0.681",
+        "Zr @ 0.157 0.107 0.692",
+        "Zr @ 0.586 0.535 0.692",
+        "Zr @ 0.402 0.113 0.711",
+        "Zr @ 0.598 0.309 0.711",
+        "Zr @ 0.828 0.884 0.711",
+        "Zr @ 0.394 0.397 0.791",
+        "Zr @ 0.136 0.339 0.796",
+        "Zr @ 0.457 0.661 0.796",
+        "Zr @ 0.872 0.296 0.807",
+        "Zr @ 0.511 0.935 0.807",
+        "Zr @ 0.891 0.716 0.825",
+        "Zr @ 0.109 0.933 0.825",
+        "Zr @ 0.0711 0.584 0.876",
+        "Zr @ 0.293 0.805 0.876",
+        "Zr @ 0.668 0.212 0.88",
+        "Zr @ 0.0446 0.164 0.88",
+        "Zr @ 0.716 0.836 0.88",
+        "Zr @ 0.828 0.116 0.944",
+        "Zr @ 0.414 0.107 0.95",
+        "Zr @ 0.843 0.535 0.95",
+        "Zr @ 0.394 0.603 0.997"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12076226950704338,
+      "stability": 0.12093417450704358,
+      "fit": "standard",
+      "calculation_label": "static"
+    }
+  ],
+  "meta": {
+    "query": {
+      "representation": "http://oqmd.org/oqmdapi/formationenergy?composition=Zr&limit=200"
+    },
+    "api_version": "1.0",
+    "time_stamp": "2026-07-11 16:45:04",
+    "data_returned": 62,
+    "data_available": 62,
+    "comments": "",
+    "query_tree": "",
+    "more_data_available": false
+  },
+  "response_message": "OK"
+}

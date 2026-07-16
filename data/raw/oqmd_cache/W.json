@@ -1,0 +1,1500 @@
+{
+  "links": {
+    "next": null,
+    "previous": null,
+    "base_url": {
+      "href": "https://oqmd.org/oqmdapi",
+      "meta": {
+        "_oqmd_version": "1.0"
+      }
+    }
+  },
+  "resource": {},
+  "data": [
+    {
+      "name": "W",
+      "entry_id": 9254,
+      "calculation_id": 30194,
+      "icsd_id": 52344,
+      "formationenergy_id": 4079583,
+      "duplicate_entry_id": 9254,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "Cr3Si",
+      "spacegroup": "Pm-3n",
+      "volume": 131.19,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          5.081212,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          5.081212,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.081212
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0",
+        "W @ 0.5 0.25 0",
+        "W @ 0.5 0.75 0",
+        "W @ 0 0.5 0.25",
+        "W @ 0.25 0 0.5",
+        "W @ 0.75 0 0.5",
+        "W @ 0.5 0.5 0.5",
+        "W @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0893817712500002,
+      "stability": 0.0893817712500002,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1215207,
+      "calculation_id": 1281761,
+      "icsd_id": null,
+      "formationenergy_id": 4814922,
+      "duplicate_entry_id": 676232,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "A2_W",
+      "spacegroup": "Im-3m",
+      "volume": 16.14,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.592018,
+          1.592018,
+          1.592018
+        ],
+        [
+          1.592018,
+          -1.592018,
+          -1.592018
+        ],
+        [
+          -1.592018,
+          1.592018,
+          -1.592018
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1214584,
+      "calculation_id": 1281939,
+      "icsd_id": null,
+      "formationenergy_id": 4814994,
+      "duplicate_entry_id": 676155,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "A1_Cu",
+      "spacegroup": "Fm-3m",
+      "volume": 16.4492,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          2.018544,
+          -2.018544
+        ],
+        [
+          2.018544,
+          0.0,
+          2.018544
+        ],
+        [
+          0.0,
+          -2.018544,
+          -2.018544
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.478628840000001,
+      "stability": 0.478628840000001,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1214673,
+      "calculation_id": 2692522,
+      "icsd_id": null,
+      "formationenergy_id": 5567316,
+      "duplicate_entry_id": 1214673,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "A10_Hg",
+      "spacegroup": "R-3m",
+      "volume": 16.5233,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.503634,
+          0.868124,
+          2.109709
+        ],
+        [
+          1.503635,
+          -0.868124,
+          -2.109709
+        ],
+        [
+          0.0,
+          1.736248,
+          -2.109709
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.40948534,
+      "stability": 0.40948534,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1214762,
+      "calculation_id": 2692698,
+      "icsd_id": null,
+      "formationenergy_id": 5567403,
+      "duplicate_entry_id": 1214762,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "A11_Ga",
+      "spacegroup": "Cmca",
+      "volume": 76.6614,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          -2.203588,
+          -4.172514,
+          0.0
+        ],
+        [
+          -2.203588,
+          4.172514,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -4.168871
+        ]
+      ],
+      "sites": [
+        "W @ 0.154 0.846 0.0594",
+        "W @ 0.654 0.346 0.441",
+        "W @ 0.346 0.654 0.559",
+        "W @ 0.846 0.154 0.941"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 1.2004202225,
+      "stability": 1.2004202225,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1214851,
+      "calculation_id": 2692876,
+      "icsd_id": null,
+      "formationenergy_id": 5567491,
+      "duplicate_entry_id": 1214851,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "A12_alpha_Mn",
+      "spacegroup": "I-43m",
+      "volume": 482.312,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          4.940331,
+          4.940331,
+          -4.940331
+        ],
+        [
+          4.940331,
+          -4.940331,
+          4.940331
+        ],
+        [
+          -4.940331,
+          -4.940331,
+          -4.940331
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0",
+        "W @ 0.361 0 0",
+        "W @ 0.592 0.314 0",
+        "W @ 0 0.361 0",
+        "W @ 0.314 0.592 0",
+        "W @ 0.809 0.62 0",
+        "W @ 0.62 0.809 0",
+        "W @ 0.38 0.38 0.189",
+        "W @ 0.811 0.191 0.191",
+        "W @ 0.191 0.811 0.191",
+        "W @ 0.686 0.686 0.278",
+        "W @ 0.592 0 0.314",
+        "W @ 0 0.592 0.314",
+        "W @ 0 0 0.361",
+        "W @ 0.38 0.189 0.38",
+        "W @ 0.189 0.38 0.38",
+        "W @ 0.722 0.408 0.408",
+        "W @ 0.408 0.722 0.408",
+        "W @ 0.314 0 0.592",
+        "W @ 0 0.314 0.592",
+        "W @ 0.809 0 0.62",
+        "W @ 0 0.809 0.62",
+        "W @ 0.639 0.639 0.639",
+        "W @ 0.686 0.278 0.686",
+        "W @ 0.278 0.686 0.686",
+        "W @ 0.408 0.408 0.722",
+        "W @ 0.62 0 0.809",
+        "W @ 0 0.62 0.809",
+        "W @ 0.191 0.191 0.811"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.2863494341379,
+      "stability": 0.2863494341379,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1214940,
+      "calculation_id": 2693054,
+      "icsd_id": null,
+      "formationenergy_id": 5567577,
+      "duplicate_entry_id": 1214940,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "A13_beta_Mn",
+      "spacegroup": "P4132",
+      "volume": 333.28,
+      "ntypes": 1,
+      "natoms": 20,
+      "unit_cell": [
+        [
+          6.933241,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          6.933241,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.933241
+        ]
+      ],
+      "sites": [
+        "W @ 0.0535 0.0535 0.0535",
+        "W @ 0.875 0.693 0.0567",
+        "W @ 0.193 0.443 0.125",
+        "W @ 0.443 0.125 0.193",
+        "W @ 0.804 0.304 0.196",
+        "W @ 0.196 0.804 0.304",
+        "W @ 0.557 0.625 0.307",
+        "W @ 0.807 0.943 0.375",
+        "W @ 0.125 0.193 0.443",
+        "W @ 0.946 0.554 0.446",
+        "W @ 0.446 0.946 0.554",
+        "W @ 0.625 0.307 0.557",
+        "W @ 0.307 0.557 0.625",
+        "W @ 0.0567 0.875 0.693",
+        "W @ 0.696 0.696 0.696",
+        "W @ 0.304 0.196 0.804",
+        "W @ 0.943 0.375 0.807",
+        "W @ 0.693 0.0567 0.875",
+        "W @ 0.375 0.807 0.943",
+        "W @ 0.554 0.446 0.946"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.324786572000001,
+      "stability": 0.324786572000001,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1215029,
+      "calculation_id": 2693232,
+      "icsd_id": null,
+      "formationenergy_id": 5567665,
+      "duplicate_entry_id": 9254,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "A15_beta_W",
+      "spacegroup": "Pm-3n",
+      "volume": 131.186,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          5.081151,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          5.081151,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.081151
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0",
+        "W @ 0.5 0.25 0",
+        "W @ 0.5 0.75 0",
+        "W @ 0 0.5 0.25",
+        "W @ 0.25 0 0.5",
+        "W @ 0.75 0 0.5",
+        "W @ 0.5 0.5 0.5",
+        "W @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0893895937499991,
+      "stability": 0.0893895937499991,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1215118,
+      "calculation_id": 2693410,
+      "icsd_id": null,
+      "formationenergy_id": 5567753,
+      "duplicate_entry_id": 1215118,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "A17_Black_P",
+      "spacegroup": "Cmca",
+      "volume": 67.6609,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          3.09497
+        ],
+        [
+          4.384845,
+          0.0,
+          0.0
+        ],
+        [
+          2.192422,
+          4.985711,
+          0.0
+        ]
+      ],
+      "sites": [
+        "W @ 0.999 0.367 0.266",
+        "W @ 0.501 0.867 0.266",
+        "W @ 0.499 0.133 0.734",
+        "W @ 0.00107 0.633 0.734"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.728480427499999,
+      "stability": 0.728480427499999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1215296,
+      "calculation_id": 2693794,
+      "icsd_id": null,
+      "formationenergy_id": 5567906,
+      "duplicate_entry_id": 1215296,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "A20_alpha_U",
+      "spacegroup": "Cmcm",
+      "volume": 32.9615,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.625532,
+          0.0,
+          0.0
+        ],
+        [
+          1.312766,
+          2.624068,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.784261
+        ]
+      ],
+      "sites": [
+        "W @ 0.847 0.306 0.25",
+        "W @ 0.153 0.694 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.442207495,
+      "stability": 0.442207495,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1215385,
+      "calculation_id": 2693948,
+      "icsd_id": null,
+      "formationenergy_id": 5567981,
+      "duplicate_entry_id": 1215385,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "A3_Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 32.9363,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.781622,
+          0.0,
+          0.0
+        ],
+        [
+          -1.39081,
+          2.408955,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.915271
+        ]
+      ],
+      "sites": [
+        "W @ 0.333 0.667 0.25",
+        "W @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.498086494999999,
+      "stability": 0.498086494999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1215475,
+      "calculation_id": 2694116,
+      "icsd_id": null,
+      "formationenergy_id": 5568059,
+      "duplicate_entry_id": 1215475,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "A3p_La",
+      "spacegroup": "P63/mmc",
+      "volume": 65.8269,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          2.790298,
+          0.0,
+          0.0
+        ],
+        [
+          -1.395149,
+          2.416468,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          9.762746
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0",
+        "W @ 0.333 0.667 0.25",
+        "W @ 0 0 0.5",
+        "W @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.477391147500001,
+      "stability": 0.477391147500001,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1215564,
+      "calculation_id": 2694289,
+      "icsd_id": null,
+      "formationenergy_id": 5568144,
+      "duplicate_entry_id": 1215564,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "A4_Diamond_C",
+      "spacegroup": "Fd-3m",
+      "volume": 49.369,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          2.911666,
+          -2.911666
+        ],
+        [
+          2.911666,
+          0.0,
+          2.911666
+        ],
+        [
+          0.0,
+          -2.911666,
+          -2.911666
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0",
+        "W @ 0.25 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 2.632237,
+      "stability": 2.632237,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1215653,
+      "calculation_id": 2694461,
+      "icsd_id": null,
+      "formationenergy_id": 5568229,
+      "duplicate_entry_id": 1215653,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "A5_Sn",
+      "spacegroup": "I41/amd",
+      "volume": 35.194,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -2.695526
+        ],
+        [
+          2.555039,
+          2.555039,
+          1.347764
+        ],
+        [
+          2.555039,
+          -2.555039,
+          -1.347764
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0",
+        "W @ 0.25 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 1.116436765,
+      "stability": 1.116436765,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1215742,
+      "calculation_id": 2694629,
+      "icsd_id": null,
+      "formationenergy_id": 5568312,
+      "duplicate_entry_id": 1215742,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "A6_In",
+      "spacegroup": "I4/mmm",
+      "volume": 16.4661,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          -2.703931,
+          0.0
+        ],
+        [
+          -2.703931,
+          0.0,
+          0.0
+        ],
+        [
+          1.351966,
+          1.351966,
+          -2.252165
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.38158299,
+      "stability": 0.38158299,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1215831,
+      "calculation_id": 2694805,
+      "icsd_id": null,
+      "formationenergy_id": 5568399,
+      "duplicate_entry_id": 1215564,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "A7_As",
+      "spacegroup": "R-3m",
+      "volume": 32.2958,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          1.53512,
+          2.658907,
+          0.0
+        ],
+        [
+          3.070241,
+          0.0,
+          0.0
+        ],
+        [
+          -1.53512,
+          -0.886302,
+          -3.956127
+        ]
+      ],
+      "sites": [
+        "W @ 0.75 0.75 0.251",
+        "W @ 0.25 0.25 0.749"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.517854695,
+      "stability": 0.517854695,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1215920,
+      "calculation_id": 2694981,
+      "icsd_id": null,
+      "formationenergy_id": 5568484,
+      "duplicate_entry_id": 1215920,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "A8_Se",
+      "spacegroup": "P3121",
+      "volume": 46.1834,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          4.31459,
+          0.0,
+          0.0
+        ],
+        [
+          -2.157296,
+          3.736545,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.864679
+        ]
+      ],
+      "sites": [
+        "W @ 0.667 0.667 0",
+        "W @ 0.333 0 0.333",
+        "W @ 0 0.333 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1085422033333,
+      "stability": 0.1085422033333,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1216009,
+      "calculation_id": 2695158,
+      "icsd_id": null,
+      "formationenergy_id": 5568570,
+      "duplicate_entry_id": 1216009,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "A9_Graphite_C",
+      "spacegroup": "P63/mmc",
+      "volume": 81.4512,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          4.351819,
+          3e-06,
+          0.0
+        ],
+        [
+          -2.175907,
+          3.768786,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.96621
+        ]
+      ],
+      "sites": [
+        "W @ 0.333 0.667 0.25",
+        "W @ 0 0 0.25",
+        "W @ 0.667 0.333 0.75",
+        "W @ 0 0 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 1.65661747,
+      "stability": 1.65661747,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1216101,
+      "calculation_id": 2695332,
+      "icsd_id": null,
+      "formationenergy_id": 5568655,
+      "duplicate_entry_id": 1216101,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "C19_alpha_Sm",
+      "spacegroup": "R-3m",
+      "volume": 49.4405,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          1.396409,
+          -2.418651,
+          0.0
+        ],
+        [
+          1.396409,
+          2.418651,
+          0.0
+        ],
+        [
+          0.0,
+          -1.612434,
+          7.319263
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0",
+        "W @ 0.223 0.777 0.332",
+        "W @ 0.777 0.223 0.668"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.4838688866667,
+      "stability": 0.4838688866667,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 676155,
+      "calculation_id": 2718898,
+      "icsd_id": 41521,
+      "formationenergy_id": 5578641,
+      "duplicate_entry_id": 676155,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 16.4675,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          2.019291,
+          -2.019291,
+          0.0
+        ],
+        [
+          -2.019291,
+          0.0,
+          -2.019291
+        ],
+        [
+          2.019291,
+          2.019291,
+          0.0
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.478504429999999,
+      "stability": 0.478504429999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 676232,
+      "calculation_id": 2718950,
+      "icsd_id": 43421,
+      "formationenergy_id": 5578660,
+      "duplicate_entry_id": 676232,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 16.1226,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.591444,
+          1.591444,
+          1.591444
+        ],
+        [
+          1.591444,
+          -1.591444,
+          -1.591444
+        ],
+        [
+          -1.591444,
+          1.591444,
+          -1.591444
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000199070000000745,
+      "stability": 0.000199070000000745,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1477146,
+      "calculation_id": 3787588,
+      "icsd_id": null,
+      "formationenergy_id": 5849030,
+      "duplicate_entry_id": 1477146,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "R-3m",
+      "volume": 217.509,
+      "ntypes": 1,
+      "natoms": 13,
+      "unit_cell": [
+        [
+          2.596292912,
+          1.498970412,
+          9.314931064
+        ],
+        [
+          -2.596292912,
+          1.498970412,
+          9.314931064
+        ],
+        [
+          0.0,
+          -2.997940823,
+          9.314931064
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0",
+        "W @ 0.586 0.0897 0.0897",
+        "W @ 0.0897 0.586 0.0897",
+        "W @ 0.167 0.167 0.167",
+        "W @ 0.348 0.348 0.348",
+        "W @ 0.91 0.91 0.414",
+        "W @ 0.454 0.454 0.454",
+        "W @ 0.546 0.546 0.546",
+        "W @ 0.0897 0.0897 0.586",
+        "W @ 0.652 0.652 0.652",
+        "W @ 0.833 0.833 0.833",
+        "W @ 0.91 0.414 0.91",
+        "W @ 0.414 0.91 0.91"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.35808261769230754,
+      "stability": 0.35808261769230754,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1485066,
+      "calculation_id": 3847381,
+      "icsd_id": null,
+      "formationenergy_id": 5860176,
+      "duplicate_entry_id": 1215742,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 16.4671,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.347489149,
+          1.347489149,
+          2.267283629
+        ],
+        [
+          1.347489149,
+          -1.347489149,
+          2.267283629
+        ],
+        [
+          1.347489149,
+          1.347489149,
+          -2.267283629
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.38039668999999954,
+      "stability": 0.38039668999999954,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1485172,
+      "calculation_id": 3848190,
+      "icsd_id": null,
+      "formationenergy_id": 5860542,
+      "duplicate_entry_id": 1485172,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fd-3m",
+      "volume": 100.917,
+      "ntypes": 1,
+      "natoms": 6,
+      "unit_cell": [
+        [
+          0.0,
+          3.695261707,
+          3.695261707
+        ],
+        [
+          3.695261707,
+          0.0,
+          3.695261707
+        ],
+        [
+          3.695261707,
+          3.695261707,
+          0.0
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0",
+        "W @ 0.625 0.625 0.125",
+        "W @ 0.25 0.25 0.25",
+        "W @ 0.625 0.125 0.625",
+        "W @ 0.125 0.625 0.625",
+        "W @ 0.625 0.625 0.625"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.4561044383333339,
+      "stability": 0.4561044383333339,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1485443,
+      "calculation_id": 3849806,
+      "icsd_id": null,
+      "formationenergy_id": 5860928,
+      "duplicate_entry_id": 1485443,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 202.901,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          5.223138564,
+          0.0,
+          0.0
+        ],
+        [
+          -2.611569282,
+          4.523370684,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          8.587956274
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0",
+        "W @ 0.333 0.667 0.0433",
+        "W @ 0.34 0.17 0.25",
+        "W @ 0.83 0.17 0.25",
+        "W @ 0.83 0.66 0.25",
+        "W @ 0.333 0.667 0.457",
+        "W @ 0 0 0.5",
+        "W @ 0.667 0.333 0.543",
+        "W @ 0.17 0.34 0.75",
+        "W @ 0.17 0.83 0.75",
+        "W @ 0.66 0.83 0.75",
+        "W @ 0.667 0.333 0.957"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.4628980733333332,
+      "stability": 0.4628980733333332,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1487167,
+      "calculation_id": 3862881,
+      "icsd_id": null,
+      "formationenergy_id": 5863851,
+      "duplicate_entry_id": 1487167,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 405.286,
+      "ntypes": 1,
+      "natoms": 24,
+      "unit_cell": [
+        [
+          5.219375181,
+          0.0,
+          0.0
+        ],
+        [
+          -2.60968759,
+          4.520111498,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          17.178851875
+        ]
+      ],
+      "sites": [
+        "W @ 0.5 0 0",
+        "W @ 0 0.5 0",
+        "W @ 0.5 0.5 0",
+        "W @ 0 0 0.104",
+        "W @ 0.333 0.667 0.125",
+        "W @ 0.667 0.333 0.148",
+        "W @ 0.163 0.327 0.25",
+        "W @ 0.163 0.837 0.25",
+        "W @ 0.673 0.837 0.25",
+        "W @ 0.667 0.333 0.352",
+        "W @ 0.333 0.667 0.375",
+        "W @ 0 0 0.396",
+        "W @ 0.5 0 0.5",
+        "W @ 0 0.5 0.5",
+        "W @ 0.5 0.5 0.5",
+        "W @ 0 0 0.604",
+        "W @ 0.667 0.333 0.625",
+        "W @ 0.333 0.667 0.648",
+        "W @ 0.327 0.163 0.75",
+        "W @ 0.837 0.163 0.75",
+        "W @ 0.837 0.673 0.75",
+        "W @ 0.333 0.667 0.852",
+        "W @ 0.667 0.333 0.875",
+        "W @ 0 0 0.896"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.4521042587499995,
+      "stability": 0.4521042587499995,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1489285,
+      "calculation_id": 3880004,
+      "icsd_id": null,
+      "formationenergy_id": 5866662,
+      "duplicate_entry_id": 1489285,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P42/mnm",
+      "volume": 493.116,
+      "ntypes": 1,
+      "natoms": 30,
+      "unit_cell": [
+        [
+          9.79153892,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          9.79153892,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.14336777
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0",
+        "W @ 0.741 0.0629 0",
+        "W @ 0.466 0.131 0",
+        "W @ 0.937 0.259 0",
+        "W @ 0.399 0.399 0",
+        "W @ 0.131 0.466 0",
+        "W @ 0.869 0.534 0",
+        "W @ 0.601 0.601 0",
+        "W @ 0.0629 0.741 0",
+        "W @ 0.534 0.869 0",
+        "W @ 0.259 0.937 0",
+        "W @ 0.686 0.314 0.249",
+        "W @ 0.314 0.686 0.249",
+        "W @ 0.186 0.186 0.251",
+        "W @ 0.814 0.814 0.251",
+        "W @ 0.631 0.0343 0.5",
+        "W @ 0.899 0.101 0.5",
+        "W @ 0.437 0.241 0.5",
+        "W @ 0.966 0.369 0.5",
+        "W @ 0.241 0.437 0.5",
+        "W @ 0.5 0.5 0.5",
+        "W @ 0.759 0.563 0.5",
+        "W @ 0.0343 0.631 0.5",
+        "W @ 0.563 0.759 0.5",
+        "W @ 0.101 0.899 0.5",
+        "W @ 0.369 0.966 0.5",
+        "W @ 0.186 0.186 0.749",
+        "W @ 0.814 0.814 0.749",
+        "W @ 0.686 0.314 0.751",
+        "W @ 0.314 0.686 0.751"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.172978302333334,
+      "stability": 0.172978302333334,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1522115,
+      "calculation_id": 3976837,
+      "icsd_id": null,
+      "formationenergy_id": 5894347,
+      "duplicate_entry_id": 676232,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 16.1383,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.591960527,
+          1.591960527,
+          1.591960527
+        ],
+        [
+          1.591960527,
+          -1.591960527,
+          1.591960527
+        ],
+        [
+          1.591960527,
+          1.591960527,
+          -1.591960527
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 1.5989999999632687e-05,
+      "stability": 1.5989999999632687e-05,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1522118,
+      "calculation_id": 3976841,
+      "icsd_id": null,
+      "formationenergy_id": 5894348,
+      "duplicate_entry_id": 676232,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 16.1383,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.591960527,
+          1.591960527,
+          1.591960527
+        ],
+        [
+          1.591960527,
+          -1.591960527,
+          1.591960527
+        ],
+        [
+          1.591960527,
+          1.591960527,
+          -1.591960527
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 1.5989999999632687e-05,
+      "stability": 1.5989999999632687e-05,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 1577223,
+      "calculation_id": 4153157,
+      "icsd_id": null,
+      "formationenergy_id": 5932706,
+      "duplicate_entry_id": 1214851,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I-43m",
+      "volume": 480.422,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          -4.933868903,
+          4.933868903,
+          4.933868903
+        ],
+        [
+          4.933868903,
+          -4.933868903,
+          4.933868903
+        ],
+        [
+          4.933868903,
+          4.933868903,
+          -4.933868903
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0",
+        "W @ 0.639 0 0",
+        "W @ 0.38 0.191 0",
+        "W @ 0.191 0.38 0",
+        "W @ 0.686 0.408 0",
+        "W @ 0 0.639 0",
+        "W @ 0.408 0.686 0",
+        "W @ 0.809 0.809 0.188",
+        "W @ 0.38 0 0.191",
+        "W @ 0 0.38 0.191",
+        "W @ 0.592 0.592 0.279",
+        "W @ 0.721 0.314 0.314",
+        "W @ 0.314 0.721 0.314",
+        "W @ 0.361 0.361 0.361",
+        "W @ 0.191 0 0.38",
+        "W @ 0 0.191 0.38",
+        "W @ 0.686 0 0.408",
+        "W @ 0 0.686 0.408",
+        "W @ 0.592 0.279 0.592",
+        "W @ 0.279 0.592 0.592",
+        "W @ 0.812 0.62 0.62",
+        "W @ 0.62 0.812 0.62",
+        "W @ 0 0 0.639",
+        "W @ 0.408 0 0.686",
+        "W @ 0 0.408 0.686",
+        "W @ 0.314 0.314 0.721",
+        "W @ 0.809 0.188 0.809",
+        "W @ 0.188 0.809 0.809",
+        "W @ 0.62 0.62 0.812"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.28667520931034574,
+      "stability": 0.28667520931034574,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 2030160,
+      "calculation_id": 5094752,
+      "icsd_id": 671068,
+      "formationenergy_id": 6218104,
+      "duplicate_entry_id": 1215742,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "In",
+      "spacegroup": "I4/mmm",
+      "volume": 16.4999,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.353021052,
+          1.353021052,
+          2.253265046
+        ],
+        [
+          1.353021052,
+          -1.353021052,
+          2.253265046
+        ],
+        [
+          1.353021052,
+          1.353021052,
+          -2.253265046
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.3814437799999997,
+      "stability": 0.3814437799999997,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "W",
+      "entry_id": 2031513,
+      "calculation_id": 5097620,
+      "icsd_id": 673036,
+      "formationenergy_id": 6219127,
+      "duplicate_entry_id": 2031513,
+      "composition": "W1",
+      "composition_generic": "A",
+      "prototype": "CaHg2",
+      "spacegroup": "P6/mmm",
+      "volume": 49.6427,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          4.692081957,
+          0.0,
+          0.0
+        ],
+        [
+          -2.346040978,
+          4.063462171,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.60371323
+        ]
+      ],
+      "sites": [
+        "W @ 0 0 0",
+        "W @ 0.667 0.333 0.5",
+        "W @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.5425745000000006,
+      "stability": 0.5425745000000006,
+      "fit": "standard",
+      "calculation_label": "static"
+    }
+  ],
+  "meta": {
+    "query": {
+      "representation": "http://oqmd.org/oqmdapi/formationenergy?composition=W&limit=200"
+    },
+    "api_version": "1.0",
+    "time_stamp": "2026-07-11 16:45:38",
+    "data_returned": 32,
+    "data_available": 32,
+    "comments": "",
+    "query_tree": "",
+    "more_data_available": false
+  },
+  "response_message": "OK"
+}

@@ -1,0 +1,1277 @@
+{
+  "links": {
+    "next": null,
+    "previous": null,
+    "base_url": {
+      "href": "https://oqmd.org/oqmdapi",
+      "meta": {
+        "_oqmd_version": "1.0"
+      }
+    }
+  },
+  "resource": {},
+  "data": [
+    {
+      "name": "Na",
+      "entry_id": 8534,
+      "calculation_id": 4208,
+      "icsd_id": 44757,
+      "formationenergy_id": 4061391,
+      "duplicate_entry_id": 8534,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "W",
+      "spacegroup": "Im-3m",
+      "volume": 33.1271,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          2.023211,
+          2.023211,
+          2.023211
+        ],
+        [
+          2.023211,
+          -2.023211,
+          -2.023211
+        ],
+        [
+          -2.023211,
+          2.023211,
+          -2.023211
+        ]
+      ],
+      "sites": [
+        "Na @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00305485000000005,
+      "stability": 0.00305485000000005,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 8535,
+      "calculation_id": 6747,
+      "icsd_id": 44758,
+      "formationenergy_id": 4063536,
+      "duplicate_entry_id": 8535,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 66.8269,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          3.6179,
+          0.0,
+          0.0
+        ],
+        [
+          -1.80895,
+          3.13304,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.895615
+        ]
+      ],
+      "sites": [
+        "Na @ 0.333 0.667 0.25",
+        "Na @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 30779,
+      "calculation_id": 7834,
+      "icsd_id": 644902,
+      "formationenergy_id": 4064355,
+      "duplicate_entry_id": 30779,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "R-3m",
+      "volume": 99.9027,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          -1.805165,
+          3.126637,
+          0.0
+        ],
+        [
+          3.610329,
+          0.0,
+          0.0
+        ],
+        [
+          1.805165,
+          -1.042212,
+          -8.850198
+        ]
+      ],
+      "sites": [
+        "Na @ 0 0 0",
+        "Na @ 0.778 0.222 0.333",
+        "Na @ 0.222 0.778 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00136123666666998,
+      "stability": 0.00136123666666998,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1214546,
+      "calculation_id": 2692302,
+      "icsd_id": null,
+      "formationenergy_id": 5567208,
+      "duplicate_entry_id": 1214546,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "A1_Cu",
+      "spacegroup": "Fm-3m",
+      "volume": 33.1001,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          2.548394,
+          -2.548394
+        ],
+        [
+          2.548394,
+          0.0,
+          2.548394
+        ],
+        [
+          0.0,
+          -2.548394,
+          -2.548394
+        ]
+      ],
+      "sites": [
+        "Na @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00276070000000006,
+      "stability": 0.00276070000000006,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1214635,
+      "calculation_id": 2692448,
+      "icsd_id": null,
+      "formationenergy_id": 5567280,
+      "duplicate_entry_id": 1214635,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "A10_Hg",
+      "spacegroup": "R-3m",
+      "volume": 32.6719,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.88879,
+          1.090493,
+          2.643729
+        ],
+        [
+          -1.88879,
+          -1.090493,
+          -2.643729
+        ],
+        [
+          0.0,
+          -2.180987,
+          2.643729
+        ]
+      ],
+      "sites": [
+        "Na @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0265256200000001,
+      "stability": 0.0265256200000001,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1214724,
+      "calculation_id": 2692622,
+      "icsd_id": null,
+      "formationenergy_id": 5567366,
+      "duplicate_entry_id": 1214724,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "A11_Ga",
+      "spacegroup": "Cmca",
+      "volume": 133.576,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          -2.625996,
+          -4.909288,
+          0.0
+        ],
+        [
+          -2.625996,
+          4.909288,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -5.180686
+        ]
+      ],
+      "sites": [
+        "Na @ 0.147 0.853 0.0429",
+        "Na @ 0.647 0.353 0.457",
+        "Na @ 0.353 0.647 0.543",
+        "Na @ 0.853 0.147 0.957"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1724577025,
+      "stability": 0.1724577025,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1214813,
+      "calculation_id": 2692800,
+      "icsd_id": null,
+      "formationenergy_id": 5567454,
+      "duplicate_entry_id": 1214813,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "A12_alpha_Mn",
+      "spacegroup": "I-43m",
+      "volume": 957.677,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          6.209448,
+          6.209448,
+          6.209448
+        ],
+        [
+          6.209448,
+          -6.209448,
+          -6.209448
+        ],
+        [
+          -6.209448,
+          6.209448,
+          -6.209448
+        ]
+      ],
+      "sites": [
+        "Na @ 0 0 0",
+        "Na @ 0.636 0 0",
+        "Na @ 0.373 0.189 0",
+        "Na @ 0.189 0.373 0",
+        "Na @ 0.682 0.404 0",
+        "Na @ 0 0.636 0",
+        "Na @ 0.404 0.682 0",
+        "Na @ 0.811 0.811 0.183",
+        "Na @ 0.373 0 0.189",
+        "Na @ 0 0.373 0.189",
+        "Na @ 0.596 0.596 0.279",
+        "Na @ 0.721 0.318 0.318",
+        "Na @ 0.318 0.721 0.318",
+        "Na @ 0.364 0.364 0.364",
+        "Na @ 0.189 0 0.373",
+        "Na @ 0 0.189 0.373",
+        "Na @ 0.682 0 0.404",
+        "Na @ 0 0.682 0.404",
+        "Na @ 0.596 0.279 0.596",
+        "Na @ 0.279 0.596 0.596",
+        "Na @ 0.817 0.627 0.627",
+        "Na @ 0.627 0.817 0.627",
+        "Na @ 0 0 0.636",
+        "Na @ 0.404 0 0.682",
+        "Na @ 0 0.404 0.682",
+        "Na @ 0.318 0.318 0.721",
+        "Na @ 0.811 0.183 0.811",
+        "Na @ 0.183 0.811 0.811",
+        "Na @ 0.627 0.627 0.817"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.01717326482759,
+      "stability": 0.01717326482759,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1214902,
+      "calculation_id": 2692978,
+      "icsd_id": null,
+      "formationenergy_id": 5567541,
+      "duplicate_entry_id": 1214902,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "A13_beta_Mn",
+      "spacegroup": "P4132",
+      "volume": 667.321,
+      "ntypes": 1,
+      "natoms": 20,
+      "unit_cell": [
+        [
+          8.738662,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          8.738662,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          8.738662
+        ]
+      ],
+      "sites": [
+        "Na @ 0.875 0.702 0.0477",
+        "Na @ 0.0635 0.0635 0.0635",
+        "Na @ 0.202 0.452 0.125",
+        "Na @ 0.813 0.313 0.187",
+        "Na @ 0.452 0.125 0.202",
+        "Na @ 0.548 0.625 0.298",
+        "Na @ 0.187 0.813 0.313",
+        "Na @ 0.798 0.952 0.375",
+        "Na @ 0.937 0.563 0.437",
+        "Na @ 0.125 0.202 0.452",
+        "Na @ 0.625 0.298 0.548",
+        "Na @ 0.437 0.937 0.563",
+        "Na @ 0.298 0.548 0.625",
+        "Na @ 0.687 0.687 0.687",
+        "Na @ 0.0477 0.875 0.702",
+        "Na @ 0.952 0.375 0.798",
+        "Na @ 0.313 0.187 0.813",
+        "Na @ 0.702 0.0477 0.875",
+        "Na @ 0.563 0.437 0.937",
+        "Na @ 0.375 0.798 0.952"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.016154853,
+      "stability": 0.016154853,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1214991,
+      "calculation_id": 2693156,
+      "icsd_id": null,
+      "formationenergy_id": 5567628,
+      "duplicate_entry_id": 1214991,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "A15_beta_W",
+      "spacegroup": "Pm-3n",
+      "volume": 264.688,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          6.420639,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          6.420639,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.420639
+        ]
+      ],
+      "sites": [
+        "Na @ 0 0 0",
+        "Na @ 0.5 0.25 0",
+        "Na @ 0.5 0.75 0",
+        "Na @ 0 0.5 0.25",
+        "Na @ 0.25 0 0.5",
+        "Na @ 0.75 0 0.5",
+        "Na @ 0.5 0.5 0.5",
+        "Na @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0191493775,
+      "stability": 0.0191493775,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1215080,
+      "calculation_id": 2693334,
+      "icsd_id": null,
+      "formationenergy_id": 5567716,
+      "duplicate_entry_id": 1215080,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "A17_Black_P",
+      "spacegroup": "Cmca",
+      "volume": 132.628,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          3.919789
+        ],
+        [
+          5.442411,
+          0.0,
+          0.0
+        ],
+        [
+          2.721205,
+          6.21701,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Na @ 0.506 0.868 0.264",
+        "Na @ 0.994 0.368 0.264",
+        "Na @ 0.00556 0.632 0.736",
+        "Na @ 0.494 0.132 0.736"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.053870775,
+      "stability": 0.053870775,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1215169,
+      "calculation_id": 2693570,
+      "icsd_id": null,
+      "formationenergy_id": 5567796,
+      "duplicate_entry_id": 8534,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "A2_W",
+      "spacegroup": "Im-3m",
+      "volume": 32.8447,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          2.017446,
+          2.017446,
+          2.017446
+        ],
+        [
+          2.017446,
+          -2.017446,
+          -2.017446
+        ],
+        [
+          -2.017446,
+          2.017446,
+          -2.017446
+        ]
+      ],
+      "sites": [
+        "Na @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00500349,
+      "stability": 0.00500349,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1215258,
+      "calculation_id": 2693720,
+      "icsd_id": null,
+      "formationenergy_id": 5567870,
+      "duplicate_entry_id": 1215258,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "A20_alpha_U",
+      "spacegroup": "Cmcm",
+      "volume": 65.5519,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          3.400735,
+          0.0,
+          0.0
+        ],
+        [
+          1.700368,
+          3.315381,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.814052
+        ]
+      ],
+      "sites": [
+        "Na @ 0.861 0.278 0.25",
+        "Na @ 0.139 0.722 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.011156215,
+      "stability": 0.011156215,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1215347,
+      "calculation_id": 2693882,
+      "icsd_id": null,
+      "formationenergy_id": 5567949,
+      "duplicate_entry_id": 8535,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "A3_Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 66.0828,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          3.609119,
+          0.0,
+          0.0
+        ],
+        [
+          -1.80456,
+          3.125589,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.858081
+        ]
+      ],
+      "sites": [
+        "Na @ 0.333 0.667 0.25",
+        "Na @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00253997500000014,
+      "stability": 0.00253997500000014,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1215437,
+      "calculation_id": 2694044,
+      "icsd_id": null,
+      "formationenergy_id": 5568026,
+      "duplicate_entry_id": 1215437,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "A3p_La",
+      "spacegroup": "P63/mmc",
+      "volume": 131.848,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          3.623601,
+          0.0,
+          0.0
+        ],
+        [
+          -1.811801,
+          3.13813,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          11.594786
+        ]
+      ],
+      "sites": [
+        "Na @ 0 0 0",
+        "Na @ 0.333 0.667 0.25",
+        "Na @ 0 0 0.5",
+        "Na @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00368610500000011,
+      "stability": 0.00368610500000011,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1215526,
+      "calculation_id": 2694217,
+      "icsd_id": null,
+      "formationenergy_id": 5568109,
+      "duplicate_entry_id": 1215526,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "A4_Diamond_C",
+      "spacegroup": "Fd-3m",
+      "volume": 75.1916,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          3.350012,
+          -3.350012
+        ],
+        [
+          3.350012,
+          0.0,
+          3.350012
+        ],
+        [
+          0.0,
+          -3.350012,
+          -3.350012
+        ]
+      ],
+      "sites": [
+        "Na @ 0 0 0",
+        "Na @ 0.25 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.407532635,
+      "stability": 0.407532635,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1215615,
+      "calculation_id": 2694387,
+      "icsd_id": null,
+      "formationenergy_id": 5568193,
+      "duplicate_entry_id": 1215615,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "A5_Sn",
+      "spacegroup": "I41/amd",
+      "volume": 66.7387,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -3.408922
+        ],
+        [
+          -3.12871,
+          -3.12871,
+          1.704461
+        ],
+        [
+          -3.12871,
+          3.12871,
+          -1.704461
+        ]
+      ],
+      "sites": [
+        "Na @ 0 0 0",
+        "Na @ 0.25 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0809503250000001,
+      "stability": 0.0809503250000001,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1215704,
+      "calculation_id": 2694559,
+      "icsd_id": null,
+      "formationenergy_id": 5568278,
+      "duplicate_entry_id": 1215704,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "A6_In",
+      "spacegroup": "I4/mmm",
+      "volume": 33.0016,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          -3.517456,
+          0.0
+        ],
+        [
+          -3.517456,
+          0.0,
+          0.0
+        ],
+        [
+          1.758727,
+          1.758727,
+          -2.667337
+        ]
+      ],
+      "sites": [
+        "Na @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00410039000000006,
+      "stability": 0.00410039000000006,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1215793,
+      "calculation_id": 2694729,
+      "icsd_id": null,
+      "formationenergy_id": 5568362,
+      "duplicate_entry_id": 1215793,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "A7_As",
+      "spacegroup": "R-3m",
+      "volume": 69.2125,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.194407,
+          -3.800824,
+          0.0
+        ],
+        [
+          -2.194407,
+          -3.800824,
+          0.0
+        ],
+        [
+          0.0,
+          2.533883,
+          -4.149153
+        ]
+      ],
+      "sites": [
+        "Na @ 0.749 0.749 0.246",
+        "Na @ 0.251 0.251 0.754"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.11256323,
+      "stability": 0.11256323,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1215882,
+      "calculation_id": 2694907,
+      "icsd_id": null,
+      "formationenergy_id": 5568448,
+      "duplicate_entry_id": 1215882,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "A8_Se",
+      "spacegroup": "P3121",
+      "volume": 99.8887,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          4.781787,
+          0.0,
+          0.0
+        ],
+        [
+          -2.390893,
+          4.141148,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.044353
+        ]
+      ],
+      "sites": [
+        "Na @ 0.66 0.66 0",
+        "Na @ 0.34 0 0.333",
+        "Na @ 0 0.34 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12342789333333,
+      "stability": 0.12342789333333,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1215971,
+      "calculation_id": 2695083,
+      "icsd_id": null,
+      "formationenergy_id": 5568535,
+      "duplicate_entry_id": 1215971,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "A9_Graphite_C",
+      "spacegroup": "P63/mmc",
+      "volume": 135.084,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          5.196531,
+          0.0,
+          0.0
+        ],
+        [
+          -2.598265,
+          4.500329,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.776273
+        ]
+      ],
+      "sites": [
+        "Na @ 0 0 0.25",
+        "Na @ 0.333 0.667 0.25",
+        "Na @ 0 0 0.75",
+        "Na @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.2544679875,
+      "stability": 0.2544679875,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1216063,
+      "calculation_id": 2695259,
+      "icsd_id": null,
+      "formationenergy_id": 5568620,
+      "duplicate_entry_id": 30779,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "C19_alpha_Sm",
+      "spacegroup": "R-3m",
+      "volume": 98.9479,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          -1.809095,
+          -3.133445,
+          0.0
+        ],
+        [
+          -1.809096,
+          3.133445,
+          0.0
+        ],
+        [
+          0.0,
+          2.088963,
+          -8.727563
+        ]
+      ],
+      "sites": [
+        "Na @ 0 0 0",
+        "Na @ 0.778 0.222 0.333",
+        "Na @ 0.222 0.778 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00377956333332996,
+      "stability": 0.00377956333332996,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 1277928,
+      "calculation_id": 3126134,
+      "icsd_id": null,
+      "formationenergy_id": 5629534,
+      "duplicate_entry_id": 1277928,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3c",
+      "volume": 955.041,
+      "ntypes": 1,
+      "natoms": 28,
+      "unit_cell": [
+        [
+          7.816231,
+          -7.816231,
+          0.0
+        ],
+        [
+          7.816231,
+          7.816231,
+          0.0
+        ],
+        [
+          -7.816231,
+          0.0,
+          7.816231
+        ]
+      ],
+      "sites": [
+        "Na @ 0 0 0",
+        "Na @ 0.697 0.0605 0",
+        "Na @ 0.44 0.197 0",
+        "Na @ 0.94 0.303 0",
+        "Na @ 0.197 0.44 0",
+        "Na @ 0.5 0.5 0",
+        "Na @ 0.803 0.56 0",
+        "Na @ 0.0605 0.697 0",
+        "Na @ 0.56 0.803 0",
+        "Na @ 0.303 0.94 0",
+        "Na @ 0.303 0.303 0.243",
+        "Na @ 0.803 0.44 0.243",
+        "Na @ 0.44 0.803 0.243",
+        "Na @ 0.94 0.94 0.243",
+        "Na @ 0.303 0.0605 0.364",
+        "Na @ 0.0605 0.303 0.364",
+        "Na @ 0.56 0.56 0.364",
+        "Na @ 0.803 0.803 0.364",
+        "Na @ 0.75 0.25 0.5",
+        "Na @ 0.25 0.75 0.5",
+        "Na @ 0.197 0.197 0.636",
+        "Na @ 0.44 0.44 0.636",
+        "Na @ 0.94 0.697 0.636",
+        "Na @ 0.697 0.94 0.636",
+        "Na @ 0.0605 0.0605 0.757",
+        "Na @ 0.56 0.197 0.757",
+        "Na @ 0.197 0.56 0.757",
+        "Na @ 0.697 0.697 0.757"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.08329516428571,
+      "stability": 0.08329516428571,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 2030325,
+      "calculation_id": 5094871,
+      "icsd_id": 671302,
+      "formationenergy_id": 6218170,
+      "duplicate_entry_id": 1214546,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 28.7941,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          2.432715884,
+          2.432715884
+        ],
+        [
+          2.432715884,
+          0.0,
+          2.432715884
+        ],
+        [
+          2.432715884,
+          2.432715884,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Na @ 0.5 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.05708985000000011,
+      "stability": 0.05708985000000011,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 2030329,
+      "calculation_id": 5104090,
+      "icsd_id": 671306,
+      "formationenergy_id": 6220969,
+      "duplicate_entry_id": 2030329,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "Nickeline#NiAs",
+      "spacegroup": "P63/mmc",
+      "volume": 124.803,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          4.244067257,
+          0.0,
+          0.0
+        ],
+        [
+          -2.122033629,
+          3.67547006,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          8.000766889
+        ]
+      ],
+      "sites": [
+        "Na @ 0 0 0",
+        "Na @ 0.333 0.667 0.25",
+        "Na @ 0 0 0.5",
+        "Na @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.15723769250000008,
+      "stability": 0.15723769250000008,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 2015716,
+      "calculation_id": 5141182,
+      "icsd_id": 189460,
+      "formationenergy_id": 6232987,
+      "duplicate_entry_id": 2015716,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": "MnP#FeAs",
+      "spacegroup": "Pnma",
+      "volume": 237.191,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          6.327272303,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          5.389167535,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.955993376
+        ]
+      ],
+      "sites": [
+        "Na @ 0.091 0.25 0.125",
+        "Na @ 0.404 0.75 0.125",
+        "Na @ 0.904 0.75 0.375",
+        "Na @ 0.591 0.25 0.375",
+        "Na @ 0.409 0.75 0.625",
+        "Na @ 0.0956 0.25 0.625",
+        "Na @ 0.596 0.25 0.875",
+        "Na @ 0.909 0.75 0.875"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.047671967500000134,
+      "stability": 0.047671967500000134,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 2030326,
+      "calculation_id": 5145047,
+      "icsd_id": 671303,
+      "formationenergy_id": 6234356,
+      "duplicate_entry_id": 2030326,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mcm",
+      "volume": 246.149,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          -4.444494892,
+          4.444494892,
+          3.115249379
+        ],
+        [
+          4.444494892,
+          -4.444494892,
+          3.115249379
+        ],
+        [
+          4.444494892,
+          4.444494892,
+          -3.115249379
+        ]
+      ],
+      "sites": [
+        "Na @ 0.5 0.75 0.25",
+        "Na @ 0.25 1 0.25",
+        "Na @ 0.000255 0.25 0.25",
+        "Na @ 0.75 0.5 0.25",
+        "Na @ 0.25 0.5 0.75",
+        "Na @ 1 0.75 0.75",
+        "Na @ 0.75 0.000255 0.75",
+        "Na @ 0.5 0.25 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.16692762500000002,
+      "stability": 0.16692762500000002,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Na",
+      "entry_id": 2054101,
+      "calculation_id": 5267390,
+      "icsd_id": 683473,
+      "formationenergy_id": 6271871,
+      "duplicate_entry_id": 2054101,
+      "composition": "Na1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mcm",
+      "volume": 1525.4,
+      "ntypes": 1,
+      "natoms": 48,
+      "unit_cell": [
+        [
+          -5.206954268,
+          5.206954268,
+          14.065569103
+        ],
+        [
+          5.206954268,
+          -5.206954268,
+          14.065569103
+        ],
+        [
+          5.206954268,
+          5.206954268,
+          -14.065569103
+        ]
+      ],
+      "sites": [
+        "Na @ 0.2 0.91 0.11",
+        "Na @ 0.41 0.7 0.11",
+        "Na @ 0.816 0.106 0.118",
+        "Na @ 0.0125 0.302 0.118",
+        "Na @ 0.606 0.316 0.118",
+        "Na @ 0.802 0.512 0.118",
+        "Na @ 0.406 0.116 0.124",
+        "Na @ 0.218 0.508 0.124",
+        "Na @ 0.00764 0.718 0.124",
+        "Na @ 0.616 0.906 0.124",
+        "Na @ 0.884 0.00764 0.289",
+        "Na @ 0.508 0.384 0.289",
+        "Na @ 0.282 0.406 0.289",
+        "Na @ 0.906 0.782 0.289",
+        "Na @ 0.302 0.184 0.29",
+        "Na @ 0.488 0.606 0.29",
+        "Na @ 0.684 0.802 0.29",
+        "Na @ 0.106 0.988 0.29",
+        "Na @ 0.0899 0.2 0.29",
+        "Na @ 0.7 0.59 0.29",
+        "Na @ 0.5 0 0.5",
+        "Na @ 0.628 0.128 0.5",
+        "Na @ 0.75 0.25 0.5",
+        "Na @ 0.872 0.372 0.5",
+        "Na @ 0 0.5 0.5",
+        "Na @ 0.128 0.628 0.5",
+        "Na @ 0.25 0.75 0.5",
+        "Na @ 0.372 0.872 0.5",
+        "Na @ 0.3 0.41 0.71",
+        "Na @ 0.91 0.8 0.71",
+        "Na @ 0.894 0.0125 0.71",
+        "Na @ 0.316 0.198 0.71",
+        "Na @ 0.512 0.394 0.71",
+        "Na @ 0.698 0.816 0.71",
+        "Na @ 0.0943 0.218 0.711",
+        "Na @ 0.718 0.594 0.711",
+        "Na @ 0.492 0.616 0.711",
+        "Na @ 0.116 0.992 0.711",
+        "Na @ 0.384 0.0943 0.876",
+        "Na @ 0.992 0.282 0.876",
+        "Na @ 0.782 0.492 0.876",
+        "Na @ 0.594 0.884 0.876",
+        "Na @ 0.198 0.488 0.882",
+        "Na @ 0.394 0.684 0.882",
+        "Na @ 0.988 0.698 0.882",
+        "Na @ 0.184 0.894 0.882",
+        "Na @ 0.59 0.3 0.89",
+        "Na @ 0.8 0.0899 0.89"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1380798329166666,
+      "stability": 0.1380798329166666,
+      "fit": "standard",
+      "calculation_label": "static"
+    }
+  ],
+  "meta": {
+    "query": {
+      "representation": "http://oqmd.org/oqmdapi/formationenergy?composition=Na&limit=200"
+    },
+    "api_version": "1.0",
+    "time_stamp": "2026-07-11 17:03:54",
+    "data_returned": 27,
+    "data_available": 27,
+    "comments": "",
+    "query_tree": "",
+    "more_data_available": false
+  },
+  "response_message": "OK"
+}

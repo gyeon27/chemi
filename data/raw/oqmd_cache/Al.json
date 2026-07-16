@@ -1,0 +1,1539 @@
+{
+  "links": {
+    "next": null,
+    "previous": null,
+    "base_url": {
+      "href": "https://oqmd.org/oqmdapi",
+      "meta": {
+        "_oqmd_version": "1.0"
+      }
+    }
+  },
+  "resource": {},
+  "data": [
+    {
+      "name": "Al",
+      "entry_id": 8100,
+      "calculation_id": 3638,
+      "icsd_id": 43492,
+      "formationenergy_id": 4061175,
+      "duplicate_entry_id": 8100,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "Cu",
+      "spacegroup": "Fm-3m",
+      "volume": 16.4826,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          2.019908,
+          -2.019908,
+          0.0
+        ],
+        [
+          -2.019908,
+          0.0,
+          -2.019908
+        ],
+        [
+          2.019908,
+          2.019908,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000788779999999711,
+      "stability": 0.000788779999999711,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1214503,
+      "calculation_id": 2692236,
+      "icsd_id": null,
+      "formationenergy_id": 5567175,
+      "duplicate_entry_id": 8100,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "A1_Cu",
+      "spacegroup": "Fm-3m",
+      "volume": 16.48,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          2.019803,
+          -2.019803
+        ],
+        [
+          2.019803,
+          0.0,
+          2.019803
+        ],
+        [
+          0.0,
+          -2.019803,
+          -2.019803
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000788839999999791,
+      "stability": 0.000788839999999791,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1214592,
+      "calculation_id": 2692368,
+      "icsd_id": null,
+      "formationenergy_id": 5567240,
+      "duplicate_entry_id": 1214592,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "A10_Hg",
+      "spacegroup": "R-3m",
+      "volume": 16.5503,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          -1.659754,
+          2.312423
+        ],
+        [
+          -1.437389,
+          0.829877,
+          2.312423
+        ],
+        [
+          -1.43739,
+          -0.829877,
+          -2.312423
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0018258999999996,
+      "stability": 0.0018258999999996,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1214681,
+      "calculation_id": 2692538,
+      "icsd_id": null,
+      "formationenergy_id": 5567324,
+      "duplicate_entry_id": 1214681,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "A11_Ga",
+      "spacegroup": "Cmca",
+      "volume": 82.0389,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          -2.222073,
+          -4.031471,
+          0.0
+        ],
+        [
+          -2.222073,
+          4.031471,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -4.57897
+        ]
+      ],
+      "sites": [
+        "Al @ 0.156 0.844 0.0688",
+        "Al @ 0.656 0.344 0.431",
+        "Al @ 0.344 0.656 0.569",
+        "Al @ 0.844 0.156 0.931"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18226135,
+      "stability": 0.18226135,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1214770,
+      "calculation_id": 2692714,
+      "icsd_id": null,
+      "formationenergy_id": 5567411,
+      "duplicate_entry_id": 1214770,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "A12_alpha_Mn",
+      "spacegroup": "I-43m",
+      "volume": 493.659,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          4.978775,
+          4.978775,
+          4.978775
+        ],
+        [
+          4.978775,
+          -4.978775,
+          -4.978775
+        ],
+        [
+          -4.978775,
+          4.978775,
+          -4.978775
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0",
+        "Al @ 0.664 0 0",
+        "Al @ 0.381 0.191 0",
+        "Al @ 0.191 0.381 0",
+        "Al @ 0.689 0.413 0",
+        "Al @ 0 0.664 0",
+        "Al @ 0.413 0.689 0",
+        "Al @ 0.809 0.809 0.19",
+        "Al @ 0.381 0 0.191",
+        "Al @ 0 0.381 0.191",
+        "Al @ 0.587 0.587 0.275",
+        "Al @ 0.725 0.311 0.311",
+        "Al @ 0.311 0.725 0.311",
+        "Al @ 0.336 0.336 0.336",
+        "Al @ 0.191 0 0.381",
+        "Al @ 0 0.191 0.381",
+        "Al @ 0.689 0 0.413",
+        "Al @ 0 0.689 0.413",
+        "Al @ 0.587 0.275 0.587",
+        "Al @ 0.275 0.587 0.587",
+        "Al @ 0.81 0.619 0.619",
+        "Al @ 0.619 0.81 0.619",
+        "Al @ 0 0 0.664",
+        "Al @ 0.413 0 0.689",
+        "Al @ 0 0.413 0.689",
+        "Al @ 0.311 0.311 0.725",
+        "Al @ 0.809 0.19 0.809",
+        "Al @ 0.19 0.809 0.809",
+        "Al @ 0.619 0.619 0.81"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0556848268965497,
+      "stability": 0.0556848268965497,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1214859,
+      "calculation_id": 2692892,
+      "icsd_id": null,
+      "formationenergy_id": 5567499,
+      "duplicate_entry_id": 1214859,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "A13_beta_Mn",
+      "spacegroup": "P4132",
+      "volume": 340.322,
+      "ntypes": 1,
+      "natoms": 20,
+      "unit_cell": [
+        [
+          6.981738,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          6.981738,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.981738
+        ]
+      ],
+      "sites": [
+        "Al @ 0.0533 0.0533 0.0533",
+        "Al @ 0.875 0.695 0.0545",
+        "Al @ 0.195 0.445 0.125",
+        "Al @ 0.445 0.125 0.195",
+        "Al @ 0.803 0.303 0.197",
+        "Al @ 0.197 0.803 0.303",
+        "Al @ 0.555 0.625 0.305",
+        "Al @ 0.805 0.945 0.375",
+        "Al @ 0.125 0.195 0.445",
+        "Al @ 0.947 0.553 0.447",
+        "Al @ 0.447 0.947 0.553",
+        "Al @ 0.625 0.305 0.555",
+        "Al @ 0.305 0.555 0.625",
+        "Al @ 0.0545 0.875 0.695",
+        "Al @ 0.697 0.697 0.697",
+        "Al @ 0.303 0.197 0.803",
+        "Al @ 0.945 0.375 0.805",
+        "Al @ 0.695 0.0545 0.875",
+        "Al @ 0.375 0.805 0.945",
+        "Al @ 0.553 0.447 0.947"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0616434164999999,
+      "stability": 0.0616434164999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1214948,
+      "calculation_id": 2693070,
+      "icsd_id": null,
+      "formationenergy_id": 5567585,
+      "duplicate_entry_id": 1214948,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "A15_beta_W",
+      "spacegroup": "Pm-3n",
+      "volume": 135.544,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          5.136808,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          5.136808,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.136808
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0",
+        "Al @ 0.5 0.25 0",
+        "Al @ 0.5 0.75 0",
+        "Al @ 0 0.5 0.25",
+        "Al @ 0.25 0 0.5",
+        "Al @ 0.75 0 0.5",
+        "Al @ 0.5 0.5 0.5",
+        "Al @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0787322537499997,
+      "stability": 0.0787322537499997,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1215037,
+      "calculation_id": 2693248,
+      "icsd_id": null,
+      "formationenergy_id": 5567673,
+      "duplicate_entry_id": 1215037,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "A17_Black_P",
+      "spacegroup": "Cmca",
+      "volume": 71.6696,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          2.824004
+        ],
+        [
+          4.89435,
+          0.0,
+          0.0
+        ],
+        [
+          2.447175,
+          5.185308,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Al @ 0.999 0.368 0.265",
+        "Al @ 0.501 0.868 0.265",
+        "Al @ 0.499 0.132 0.735",
+        "Al @ 0.000528 0.632 0.735"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1297105575,
+      "stability": 0.1297105575,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1215126,
+      "calculation_id": 2693500,
+      "icsd_id": null,
+      "formationenergy_id": 5567761,
+      "duplicate_entry_id": 1215126,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "A2_W",
+      "spacegroup": "Im-3m",
+      "volume": 16.9352,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.617745,
+          1.617745,
+          1.617745
+        ],
+        [
+          1.617745,
+          -1.617745,
+          -1.617745
+        ],
+        [
+          -1.617745,
+          1.617745,
+          -1.617745
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0955510899999998,
+      "stability": 0.0955510899999998,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1215215,
+      "calculation_id": 2693636,
+      "icsd_id": null,
+      "formationenergy_id": 5567828,
+      "duplicate_entry_id": 1215215,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "A20_alpha_U",
+      "spacegroup": "Cmcm",
+      "volume": 33.3422,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.87758,
+          0.0,
+          0.0
+        ],
+        [
+          1.438791,
+          2.488894,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.655437
+        ]
+      ],
+      "sites": [
+        "Al @ 0.834 0.333 0.25",
+        "Al @ 0.166 0.667 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.033116825,
+      "stability": 0.033116825,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1215304,
+      "calculation_id": 2693810,
+      "icsd_id": null,
+      "formationenergy_id": 5567914,
+      "duplicate_entry_id": 1215304,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "A3_Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 33.2735,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.870201,
+          0.0,
+          0.0
+        ],
+        [
+          -1.4351,
+          2.485667,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.663842
+        ]
+      ],
+      "sites": [
+        "Al @ 0.333 0.667 0.25",
+        "Al @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0328243449999999,
+      "stability": 0.0328243449999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1215394,
+      "calculation_id": 2693964,
+      "icsd_id": null,
+      "formationenergy_id": 5567989,
+      "duplicate_entry_id": 1215394,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "A3p_La",
+      "spacegroup": "P63/mmc",
+      "volume": 66.4343,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          2.876313,
+          0.0,
+          0.0
+        ],
+        [
+          -1.438157,
+          2.49096,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          9.272337
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0",
+        "Al @ 0.333 0.667 0.25",
+        "Al @ 0 0 0.5",
+        "Al @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0142352199999998,
+      "stability": 0.0142352199999998,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1215483,
+      "calculation_id": 2694132,
+      "icsd_id": null,
+      "formationenergy_id": 5568067,
+      "duplicate_entry_id": 1215483,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "A4_Diamond_C",
+      "spacegroup": "Fd-3m",
+      "volume": 55.2235,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          3.022489,
+          -3.022489
+        ],
+        [
+          3.022489,
+          0.0,
+          3.022489
+        ],
+        [
+          0.0,
+          -3.022489,
+          -3.022489
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0",
+        "Al @ 0.25 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.746714345,
+      "stability": 0.746714345,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1215572,
+      "calculation_id": 2694305,
+      "icsd_id": null,
+      "formationenergy_id": 5568152,
+      "duplicate_entry_id": 1215572,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "A5_Sn",
+      "spacegroup": "I41/amd",
+      "volume": 38.4101,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -2.73287
+        ],
+        [
+          -2.65093,
+          -2.65093,
+          1.366435
+        ],
+        [
+          -2.65093,
+          2.65093,
+          -1.366435
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0",
+        "Al @ 0.25 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.279595085,
+      "stability": 0.279595085,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1215661,
+      "calculation_id": 2694477,
+      "icsd_id": null,
+      "formationenergy_id": 5568237,
+      "duplicate_entry_id": 1215661,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "A6_In",
+      "spacegroup": "I4/mmm",
+      "volume": 16.4987,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          -2.848007,
+          0.0
+        ],
+        [
+          -2.848007,
+          0.0,
+          0.0
+        ],
+        [
+          1.424004,
+          1.424004,
+          -2.034084
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000973409999999841,
+      "stability": 0.000973409999999841,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1215750,
+      "calculation_id": 2694645,
+      "icsd_id": null,
+      "formationenergy_id": 5568320,
+      "duplicate_entry_id": 1215483,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "A7_As",
+      "spacegroup": "R-3m",
+      "volume": 32.9763,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          -2.84284,
+          0.0,
+          0.0
+        ],
+        [
+          -1.42142,
+          -2.461972,
+          0.0
+        ],
+        [
+          1.421419,
+          0.820658,
+          4.71158
+        ]
+      ],
+      "sites": [
+        "Al @ 0.75 0.75 0.25",
+        "Al @ 0.25 0.25 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1215839,
+      "calculation_id": 2694821,
+      "icsd_id": null,
+      "formationenergy_id": 5568407,
+      "duplicate_entry_id": 1215839,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "A8_Se",
+      "spacegroup": "P3121",
+      "volume": 49.3394,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          2.891432,
+          0.0,
+          0.0
+        ],
+        [
+          -1.445716,
+          2.504054,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.814546
+        ]
+      ],
+      "sites": [
+        "Al @ 0.666 0.666 0",
+        "Al @ 0.334 0 0.333",
+        "Al @ 0 0.334 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0043001699999996,
+      "stability": 0.0043001699999996,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1215928,
+      "calculation_id": 2694997,
+      "icsd_id": null,
+      "formationenergy_id": 5568492,
+      "duplicate_entry_id": 1215928,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "A9_Graphite_C",
+      "spacegroup": "P63/mmc",
+      "volume": 92.1966,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          4.527434,
+          0.0,
+          0.0
+        ],
+        [
+          -2.263717,
+          3.920872,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.193738
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0.25",
+        "Al @ 0.333 0.667 0.25",
+        "Al @ 0 0 0.75",
+        "Al @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.50084302,
+      "stability": 0.50084302,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1216017,
+      "calculation_id": 2695174,
+      "icsd_id": null,
+      "formationenergy_id": 5568578,
+      "duplicate_entry_id": 1216017,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "C19_alpha_Sm",
+      "spacegroup": "R-3m",
+      "volume": 49.9414,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          1.43925,
+          -2.492854,
+          0.0
+        ],
+        [
+          1.43925,
+          2.492854,
+          0.0
+        ],
+        [
+          0.0,
+          -1.661903,
+          6.959818
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0",
+        "Al @ 0.222 0.778 0.333",
+        "Al @ 0.778 0.222 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0201509633333297,
+      "stability": 0.0201509633333297,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1280406,
+      "calculation_id": 3130364,
+      "icsd_id": null,
+      "formationenergy_id": 5631383,
+      "duplicate_entry_id": 1214948,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pm-3n",
+      "volume": 135.507,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          3.631943,
+          2.096903,
+          2.965469
+        ],
+        [
+          -3.631943,
+          2.096903,
+          2.965469
+        ],
+        [
+          0.0,
+          -4.193807,
+          2.965469
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0",
+        "Al @ 0.5 0.25 0",
+        "Al @ 0.5 0.75 0",
+        "Al @ 0 0.5 0.25",
+        "Al @ 0.75 0 0.5",
+        "Al @ 0.5 0.5 0.5",
+        "Al @ 0.25 0 0.5",
+        "Al @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0787335349999996,
+      "stability": 0.0787335349999996,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1477121,
+      "calculation_id": 3787000,
+      "icsd_id": null,
+      "formationenergy_id": 5848790,
+      "duplicate_entry_id": 1477121,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "R-3m",
+      "volume": 225.109,
+      "ntypes": 1,
+      "natoms": 13,
+      "unit_cell": [
+        [
+          2.671499963,
+          1.542391223,
+          9.105267494
+        ],
+        [
+          -2.671499963,
+          1.542391223,
+          9.105267494
+        ],
+        [
+          0.0,
+          -3.084782445,
+          9.105267494
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0",
+        "Al @ 0.583 0.0881 0.0881",
+        "Al @ 0.0881 0.583 0.0881",
+        "Al @ 0.166 0.166 0.166",
+        "Al @ 0.345 0.345 0.345",
+        "Al @ 0.912 0.912 0.417",
+        "Al @ 0.451 0.451 0.451",
+        "Al @ 0.549 0.549 0.549",
+        "Al @ 0.0881 0.0881 0.583",
+        "Al @ 0.655 0.655 0.655",
+        "Al @ 0.834 0.834 0.834",
+        "Al @ 0.912 0.417 0.912",
+        "Al @ 0.417 0.912 0.912"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.10337158923076917,
+      "stability": 0.10337158923076917,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1485144,
+      "calculation_id": 3847572,
+      "icsd_id": null,
+      "formationenergy_id": 5860207,
+      "duplicate_entry_id": 1485144,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fd-3m",
+      "volume": 104.641,
+      "ntypes": 1,
+      "natoms": 6,
+      "unit_cell": [
+        [
+          0.0,
+          3.740163605,
+          3.740163605
+        ],
+        [
+          3.740163605,
+          0.0,
+          3.740163605
+        ],
+        [
+          3.740163605,
+          3.740163605,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0",
+        "Al @ 0.625 0.625 0.125",
+        "Al @ 0.25 0.25 0.25",
+        "Al @ 0.625 0.125 0.625",
+        "Al @ 0.125 0.625 0.625",
+        "Al @ 0.625 0.625 0.625"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.16185640166666637,
+      "stability": 0.16185640166666637,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1485019,
+      "calculation_id": 3847279,
+      "icsd_id": null,
+      "formationenergy_id": 5860683,
+      "duplicate_entry_id": 1215661,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 16.4589,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.424145542,
+          1.424145542,
+          2.028765747
+        ],
+        [
+          1.424145542,
+          -1.424145542,
+          2.028765747
+        ],
+        [
+          1.424145542,
+          1.424145542,
+          -2.028765747
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.000934149999999967,
+      "stability": 0.000934149999999967,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1485619,
+      "calculation_id": 3849628,
+      "icsd_id": null,
+      "formationenergy_id": 5860865,
+      "duplicate_entry_id": 1485619,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 209.648,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          5.331062562,
+          0.0,
+          0.0
+        ],
+        [
+          -2.665531281,
+          4.616835608,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          8.517904222
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0",
+        "Al @ 0.333 0.667 0.0693",
+        "Al @ 0.343 0.171 0.25",
+        "Al @ 0.829 0.171 0.25",
+        "Al @ 0.829 0.657 0.25",
+        "Al @ 0.333 0.667 0.431",
+        "Al @ 0 0 0.5",
+        "Al @ 0.667 0.333 0.569",
+        "Al @ 0.171 0.343 0.75",
+        "Al @ 0.171 0.829 0.75",
+        "Al @ 0.657 0.829 0.75",
+        "Al @ 0.667 0.333 0.931"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1474515233333329,
+      "stability": 0.1474515233333329,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1487142,
+      "calculation_id": 3858590,
+      "icsd_id": null,
+      "formationenergy_id": 5862732,
+      "duplicate_entry_id": 1487142,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 418.984,
+      "ntypes": 1,
+      "natoms": 24,
+      "unit_cell": [
+        [
+          5.292585125,
+          0.0,
+          0.0
+        ],
+        [
+          -2.646292562,
+          4.58351317,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          17.271522234
+        ]
+      ],
+      "sites": [
+        "Al @ 0.5 0 0",
+        "Al @ 0 0.5 0",
+        "Al @ 0.5 0.5 0",
+        "Al @ 0 0 0.0893",
+        "Al @ 0.333 0.667 0.126",
+        "Al @ 0.667 0.333 0.156",
+        "Al @ 0.163 0.325 0.25",
+        "Al @ 0.163 0.837 0.25",
+        "Al @ 0.675 0.837 0.25",
+        "Al @ 0.667 0.333 0.344",
+        "Al @ 0.333 0.667 0.374",
+        "Al @ 0 0 0.411",
+        "Al @ 0.5 0 0.5",
+        "Al @ 0 0.5 0.5",
+        "Al @ 0.5 0.5 0.5",
+        "Al @ 0 0 0.589",
+        "Al @ 0.667 0.333 0.626",
+        "Al @ 0.333 0.667 0.656",
+        "Al @ 0.325 0.163 0.75",
+        "Al @ 0.837 0.163 0.75",
+        "Al @ 0.837 0.675 0.75",
+        "Al @ 0.333 0.667 0.844",
+        "Al @ 0.667 0.333 0.874",
+        "Al @ 0 0 0.911"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.15463774916666617,
+      "stability": 0.15463774916666617,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1489260,
+      "calculation_id": 3871815,
+      "icsd_id": null,
+      "formationenergy_id": 5864947,
+      "duplicate_entry_id": 1489260,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P42/mnm",
+      "volume": 506.23,
+      "ntypes": 1,
+      "natoms": 30,
+      "unit_cell": [
+        [
+          9.885553024,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          9.885553024,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.18019684
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0",
+        "Al @ 0.736 0.0654 0",
+        "Al @ 0.461 0.133 0",
+        "Al @ 0.935 0.264 0",
+        "Al @ 0.402 0.402 0",
+        "Al @ 0.133 0.461 0",
+        "Al @ 0.867 0.539 0",
+        "Al @ 0.598 0.598 0",
+        "Al @ 0.0654 0.736 0",
+        "Al @ 0.539 0.867 0",
+        "Al @ 0.264 0.935 0",
+        "Al @ 0.683 0.317 0.25",
+        "Al @ 0.317 0.683 0.25",
+        "Al @ 0.183 0.183 0.25",
+        "Al @ 0.817 0.817 0.25",
+        "Al @ 0.633 0.0387 0.5",
+        "Al @ 0.902 0.098 0.5",
+        "Al @ 0.435 0.236 0.5",
+        "Al @ 0.961 0.367 0.5",
+        "Al @ 0.236 0.435 0.5",
+        "Al @ 0.5 0.5 0.5",
+        "Al @ 0.764 0.565 0.5",
+        "Al @ 0.0387 0.633 0.5",
+        "Al @ 0.565 0.764 0.5",
+        "Al @ 0.098 0.902 0.5",
+        "Al @ 0.367 0.961 0.5",
+        "Al @ 0.183 0.183 0.75",
+        "Al @ 0.817 0.817 0.75",
+        "Al @ 0.683 0.317 0.75",
+        "Al @ 0.317 0.683 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0642296413333332,
+      "stability": 0.0642296413333332,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1521872,
+      "calculation_id": 3975279,
+      "icsd_id": null,
+      "formationenergy_id": 5894093,
+      "duplicate_entry_id": 1215126,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 16.9337,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.617697883,
+          1.617697883,
+          1.617697883
+        ],
+        [
+          1.617697883,
+          -1.617697883,
+          1.617697883
+        ],
+        [
+          1.617697883,
+          1.617697883,
+          -1.617697883
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.09554854999999973,
+      "stability": 0.09554854999999973,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1521877,
+      "calculation_id": 3975286,
+      "icsd_id": null,
+      "formationenergy_id": 5894094,
+      "duplicate_entry_id": 1215126,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 16.9337,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.617697883,
+          1.617697883,
+          1.617697883
+        ],
+        [
+          1.617697883,
+          -1.617697883,
+          1.617697883
+        ],
+        [
+          1.617697883,
+          1.617697883,
+          -1.617697883
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.09554854999999973,
+      "stability": 0.09554854999999973,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 1577399,
+      "calculation_id": 4130244,
+      "icsd_id": null,
+      "formationenergy_id": 5928006,
+      "duplicate_entry_id": 1214770,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I-43m",
+      "volume": 493.588,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          -4.978534705,
+          4.978534705,
+          4.978534705
+        ],
+        [
+          4.978534705,
+          -4.978534705,
+          4.978534705
+        ],
+        [
+          4.978534705,
+          4.978534705,
+          -4.978534705
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0",
+        "Al @ 0.664 0 0",
+        "Al @ 0.381 0.191 0",
+        "Al @ 0.191 0.381 0",
+        "Al @ 0.689 0.413 0",
+        "Al @ 0 0.664 0",
+        "Al @ 0.413 0.689 0",
+        "Al @ 0.809 0.809 0.19",
+        "Al @ 0.381 0 0.191",
+        "Al @ 0 0.381 0.191",
+        "Al @ 0.587 0.587 0.275",
+        "Al @ 0.725 0.311 0.311",
+        "Al @ 0.311 0.725 0.311",
+        "Al @ 0.336 0.336 0.336",
+        "Al @ 0.191 0 0.381",
+        "Al @ 0 0.191 0.381",
+        "Al @ 0.689 0 0.413",
+        "Al @ 0 0.689 0.413",
+        "Al @ 0.587 0.275 0.587",
+        "Al @ 0.275 0.587 0.587",
+        "Al @ 0.81 0.619 0.619",
+        "Al @ 0.619 0.81 0.619",
+        "Al @ 0 0 0.664",
+        "Al @ 0.413 0 0.689",
+        "Al @ 0 0.413 0.689",
+        "Al @ 0.311 0.311 0.725",
+        "Al @ 0.809 0.19 0.809",
+        "Al @ 0.19 0.809 0.809",
+        "Al @ 0.619 0.619 0.81"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.05568816758620665,
+      "stability": 0.05568816758620665,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 2015051,
+      "calculation_id": 5090118,
+      "icsd_id": 187080,
+      "formationenergy_id": 6217368,
+      "duplicate_entry_id": 1215126,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "bcc#W",
+      "spacegroup": "Im-3m",
+      "volume": 16.9338,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.617701758,
+          1.617701758,
+          1.617701758
+        ],
+        [
+          1.617701758,
+          -1.617701758,
+          1.617701758
+        ],
+        [
+          1.617701758,
+          1.617701758,
+          -1.617701758
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.09554880999999993,
+      "stability": 0.09554880999999993,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 2029852,
+      "calculation_id": 5093812,
+      "icsd_id": 670697,
+      "formationenergy_id": 6218269,
+      "duplicate_entry_id": 1215304,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": "hcp#Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 33.2818,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.865963755,
+          0.0,
+          0.0
+        ],
+        [
+          -1.432981878,
+          2.481997418,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.678799395
+        ]
+      ],
+      "sites": [
+        "Al @ 0.333 0.667 0.25",
+        "Al @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.03255263999999958,
+      "stability": 0.03255263999999958,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 2166275,
+      "calculation_id": 5687309,
+      "icsd_id": null,
+      "formationenergy_id": 6393365,
+      "duplicate_entry_id": 8100,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 16.4785,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          2.019740592,
+          2.019740592
+        ],
+        [
+          2.019740592,
+          0.0,
+          2.019740592
+        ],
+        [
+          2.019740592,
+          2.019740592,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0012873999999998276,
+      "stability": 0.0012873999999998276,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Al",
+      "entry_id": 2182567,
+      "calculation_id": 5729700,
+      "icsd_id": null,
+      "formationenergy_id": 6404852,
+      "duplicate_entry_id": 1215126,
+      "composition": "Al1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 16.9337,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.617698942,
+          1.617698942,
+          1.617698942
+        ],
+        [
+          1.617698942,
+          -1.617698942,
+          1.617698942
+        ],
+        [
+          1.617698942,
+          1.617698942,
+          -1.617698942
+        ]
+      ],
+      "sites": [
+        "Al @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.09554856999999961,
+      "stability": 0.09554856999999961,
+      "fit": "standard",
+      "calculation_label": "static"
+    }
+  ],
+  "meta": {
+    "query": {
+      "representation": "http://oqmd.org/oqmdapi/formationenergy?composition=Al&limit=200"
+    },
+    "api_version": "1.0",
+    "time_stamp": "2026-07-11 16:51:10",
+    "data_returned": 33,
+    "data_available": 33,
+    "comments": "",
+    "query_tree": "",
+    "more_data_available": false
+  },
+  "response_message": "OK"
+}

@@ -1,0 +1,2946 @@
+{
+  "links": {
+    "next": null,
+    "previous": null,
+    "base_url": {
+      "href": "https://oqmd.org/oqmdapi",
+      "meta": {
+        "_oqmd_version": "1.0"
+      }
+    }
+  },
+  "resource": {},
+  "data": [
+    {
+      "name": "Ti",
+      "entry_id": 8390,
+      "calculation_id": 4108,
+      "icsd_id": 44391,
+      "formationenergy_id": 4061340,
+      "duplicate_entry_id": 8390,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "W",
+      "spacegroup": "Im-3m",
+      "volume": 16.8486,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.614984,
+          1.614984,
+          1.614984
+        ],
+        [
+          1.614984,
+          -1.614984,
+          -1.614984
+        ],
+        [
+          -1.614984,
+          1.614984,
+          -1.614984
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.11433330666667,
+      "stability": 0.11433330666667,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 8079,
+      "calculation_id": 6446,
+      "icsd_id": 43416,
+      "formationenergy_id": 4063158,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 34.0939,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.917395,
+          0.0,
+          0.0
+        ],
+        [
+          -1.458698,
+          2.526509,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.625522
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.333 0.667 0.25",
+        "Ti @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0135505366666706,
+      "stability": 0.0135505366666706,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 87084,
+      "calculation_id": 1233806,
+      "icsd_id": 99778,
+      "formationenergy_id": 4789554,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 33.9945,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.916479,
+          0.0,
+          0.0
+        ],
+        [
+          -1.45824,
+          2.525569,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.615196
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.333 0.667 0.25",
+        "Ti @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0138940916666703,
+      "stability": 0.0138940916666703,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 110171,
+      "calculation_id": 1234016,
+      "icsd_id": 168830,
+      "formationenergy_id": 4790016,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 34.0011,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.914172,
+          0.0,
+          0.0
+        ],
+        [
+          -1.457086,
+          2.523691,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.62319
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.333 0.667 0.25",
+        "Ti @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.01389245666667,
+      "stability": 0.01389245666667,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 52003,
+      "calculation_id": 1234019,
+      "icsd_id": 53784,
+      "formationenergy_id": 4790019,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 34.0584,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.916859,
+          0.0,
+          0.0
+        ],
+        [
+          -1.458429,
+          2.525988,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.622512
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.333 0.667 0.25",
+        "Ti @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0136652566666697,
+      "stability": 0.0136652566666697,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 117243,
+      "calculation_id": 1234028,
+      "icsd_id": 182487,
+      "formationenergy_id": 4790046,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 34.0178,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.914364,
+          0.0,
+          0.0
+        ],
+        [
+          -1.457182,
+          2.52389,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.624789
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.333 0.667 0.25",
+        "Ti @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0138500216666699,
+      "stability": 0.0138500216666699,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 117514,
+      "calculation_id": 1234039,
+      "icsd_id": 183409,
+      "formationenergy_id": 4790067,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 34.045,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.917196,
+          0.0,
+          0.0
+        ],
+        [
+          -1.458598,
+          2.526199,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.619768
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.333 0.667 0.25",
+        "Ti @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0137846116666704,
+      "stability": 0.0137846116666704,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 9315,
+      "calculation_id": 1276149,
+      "icsd_id": 52521,
+      "formationenergy_id": 4813035,
+      "duplicate_entry_id": 9315,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "BiIn2",
+      "spacegroup": "P6/mmm",
+      "volume": 50.3763,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          4.550057,
+          4e-05,
+          0.0
+        ],
+        [
+          -2.274994,
+          3.940485,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.809682
+        ]
+      ],
+      "sites": [
+        "Ti @ 4.74e-06 5.08e-06 0",
+        "Ti @ 0.667 0.333 0.5",
+        "Ti @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1214579,
+      "calculation_id": 1281963,
+      "icsd_id": null,
+      "formationenergy_id": 4815000,
+      "duplicate_entry_id": 676147,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "A1_Cu",
+      "spacegroup": "Fm-3m",
+      "volume": 16.9799,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          2.040023,
+          -2.040023
+        ],
+        [
+          2.040023,
+          0.0,
+          2.040023
+        ],
+        [
+          0.0,
+          -2.040023,
+          -2.040023
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0700547166666698,
+      "stability": 0.0700547166666698,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755825,
+      "calculation_id": 1630162,
+      "icsd_id": null,
+      "formationenergy_id": 5076564,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 33.9671,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.521893,
+          1.456018,
+          0.0
+        ],
+        [
+          -2.521893,
+          1.456018,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.625245
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0138807516666706,
+      "stability": 0.0138807516666706,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755833,
+      "calculation_id": 1630183,
+      "icsd_id": null,
+      "formationenergy_id": 5076576,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 34.0272,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.522636,
+          1.456447,
+          0.0
+        ],
+        [
+          -2.522636,
+          1.456447,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.6307
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0137539366666699,
+      "stability": 0.0137539366666699,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755838,
+      "calculation_id": 1630184,
+      "icsd_id": null,
+      "formationenergy_id": 5076579,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 34.0138,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.522021,
+          -1.45609,
+          0.0
+        ],
+        [
+          0.0,
+          2.91218,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.631141
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.667 0.333 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0138000766666702,
+      "stability": 0.0138000766666702,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755850,
+      "calculation_id": 1630230,
+      "icsd_id": null,
+      "formationenergy_id": 5076621,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 34.0272,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.522636,
+          1.456447,
+          0.0
+        ],
+        [
+          -2.522636,
+          1.456447,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.6307
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0137539366666699,
+      "stability": 0.0137539366666699,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755839,
+      "calculation_id": 1630282,
+      "icsd_id": null,
+      "formationenergy_id": 5076651,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 34.0782,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          4e-05,
+          -2.910436,
+          0.0
+        ],
+        [
+          -2.520452,
+          -1.455183,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -4.645551
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.333 0.333 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.01385732166667,
+      "stability": 0.01385732166667,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755842,
+      "calculation_id": 1630304,
+      "icsd_id": null,
+      "formationenergy_id": 5076672,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 34.0782,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          4e-05,
+          -2.910436,
+          0.0
+        ],
+        [
+          -2.520452,
+          -1.455183,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -4.645551
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.333 0.333 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.01385732166667,
+      "stability": 0.01385732166667,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755851,
+      "calculation_id": 1630698,
+      "icsd_id": null,
+      "formationenergy_id": 5076891,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 34.1061,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          -2.911183,
+          0.0
+        ],
+        [
+          -2.521161,
+          -1.455591,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -4.646887
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.333 0.333 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0137337516666705,
+      "stability": 0.0137337516666705,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755829,
+      "calculation_id": 1631271,
+      "icsd_id": null,
+      "formationenergy_id": 5077146,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 33.9749,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          -2.522315,
+          -1.45626,
+          0.0
+        ],
+        [
+          -2.522315,
+          1.45626,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -4.624767
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.667 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0138500166666704,
+      "stability": 0.0138500166666704,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755840,
+      "calculation_id": 1631288,
+      "icsd_id": null,
+      "formationenergy_id": 5077155,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 34.0272,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.522636,
+          1.456447,
+          0.0
+        ],
+        [
+          -2.522636,
+          1.456447,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.6307
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0137539366666699,
+      "stability": 0.0137539366666699,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755832,
+      "calculation_id": 1631307,
+      "icsd_id": null,
+      "formationenergy_id": 5077167,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 33.9741,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.522248,
+          -1.456307,
+          0.0
+        ],
+        [
+          2.522175,
+          1.45618,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.624898
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.333 0.333 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0138492366666698,
+      "stability": 0.0138492366666698,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755847,
+      "calculation_id": 1631312,
+      "icsd_id": null,
+      "formationenergy_id": 5077173,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 33.9959,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          -2.522905,
+          -1.456601,
+          0.0
+        ],
+        [
+          -2.522905,
+          1.456601,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -4.62546
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.667 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.01379016666667,
+      "stability": 0.01379016666667,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755824,
+      "calculation_id": 1632498,
+      "icsd_id": null,
+      "formationenergy_id": 5077902,
+      "duplicate_entry_id": 755821,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cmcm",
+      "volume": 67.96,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          -2.912898,
+          0.0
+        ],
+        [
+          -5.044112,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -4.625335
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0.000121 0",
+        "Ti @ 0.5 0.5 0",
+        "Ti @ 0.5 0.167 0.5",
+        "Ti @ 0 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0138379991666699,
+      "stability": 0.0138379991666699,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755826,
+      "calculation_id": 1632617,
+      "icsd_id": null,
+      "formationenergy_id": 5077974,
+      "duplicate_entry_id": 755821,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cmcm",
+      "volume": 67.9601,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          -2.9129,
+          0.0
+        ],
+        [
+          -5.044116,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -4.625337
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0.000121 0",
+        "Ti @ 0.5 0.5 0",
+        "Ti @ 0.5 0.167 0.5",
+        "Ti @ 0 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0138377866666701,
+      "stability": 0.0138377866666701,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755846,
+      "calculation_id": 1632656,
+      "icsd_id": null,
+      "formationenergy_id": 5077998,
+      "duplicate_entry_id": 755821,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cmcm",
+      "volume": 67.9601,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          -2.9129,
+          0.0
+        ],
+        [
+          -5.044116,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -4.625337
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0.000121 0",
+        "Ti @ 0.5 0.5 0",
+        "Ti @ 0.5 0.167 0.5",
+        "Ti @ 0 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0138377866666701,
+      "stability": 0.0138377866666701,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755821,
+      "calculation_id": 1632687,
+      "icsd_id": null,
+      "formationenergy_id": 5078025,
+      "duplicate_entry_id": 755821,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 68.0022,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          -2.914657,
+          0.0
+        ],
+        [
+          -5.04867,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -4.621243
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.5 0.5 0",
+        "Ti @ 0.5 0.167 0.5",
+        "Ti @ 0 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0137579916666706,
+      "stability": 0.0137579916666706,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755841,
+      "calculation_id": 1632744,
+      "icsd_id": null,
+      "formationenergy_id": 5078067,
+      "duplicate_entry_id": 755821,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cmcm",
+      "volume": 67.9607,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          -2.912911,
+          0.0
+        ],
+        [
+          -5.044134,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -4.625347
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0.000121 0",
+        "Ti @ 0.5 0.5 0",
+        "Ti @ 0.5 0.167 0.5",
+        "Ti @ 0 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0138388791666699,
+      "stability": 0.0138388791666699,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755831,
+      "calculation_id": 1632921,
+      "icsd_id": null,
+      "formationenergy_id": 5078163,
+      "duplicate_entry_id": 755821,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 68.0111,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          -2.914821,
+          0.0
+        ],
+        [
+          -5.0489,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -4.621371
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.5 0.5 0",
+        "Ti @ 0.5 0.167 0.5",
+        "Ti @ 0 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0137364416666701,
+      "stability": 0.0137364416666701,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755836,
+      "calculation_id": 1637781,
+      "icsd_id": null,
+      "formationenergy_id": 5081913,
+      "duplicate_entry_id": 755836,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 102.065,
+      "ntypes": 1,
+      "natoms": 6,
+      "unit_cell": [
+        [
+          2.52528,
+          4.373901,
+          0.0
+        ],
+        [
+          -2.52528,
+          4.373901,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.620271
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.333 0.333 0",
+        "Ti @ 0.667 0.667 0",
+        "Ti @ 0.667 0 0.5",
+        "Ti @ 0 0.333 0.5",
+        "Ti @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0136762583333399,
+      "stability": 0.0136762583333399,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755834,
+      "calculation_id": 1646432,
+      "icsd_id": null,
+      "formationenergy_id": 5088210,
+      "duplicate_entry_id": 755834,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cmcm",
+      "volume": 135.918,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          10.088507,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.912704,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.625455
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.5 0 0",
+        "Ti @ 0.25 0.5 0",
+        "Ti @ 0.75 0.5 0",
+        "Ti @ 0.167 0 0.5",
+        "Ti @ 0.667 0 0.5",
+        "Ti @ 0.417 0.5 0.5",
+        "Ti @ 0.917 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0138594104166705,
+      "stability": 0.0138594104166705,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755830,
+      "calculation_id": 1665771,
+      "icsd_id": null,
+      "formationenergy_id": 5100909,
+      "duplicate_entry_id": 755827,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 169.805,
+      "ntypes": 1,
+      "natoms": 10,
+      "unit_cell": [
+        [
+          2.521618,
+          4.367484,
+          0.0
+        ],
+        [
+          -5.043579,
+          5.823511,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.625265
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.4 0.2 0",
+        "Ti @ 0.8 0.4 0",
+        "Ti @ 0.2 0.6 0",
+        "Ti @ 0.6 0.8 0",
+        "Ti @ 0.667 0 0.5",
+        "Ti @ 0.0666 0.2 0.5",
+        "Ti @ 0.467 0.4 0.5",
+        "Ti @ 0.867 0.6 0.5",
+        "Ti @ 0.267 0.8 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0139268096666703,
+      "stability": 0.0139268096666703,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755827,
+      "calculation_id": 1667653,
+      "icsd_id": null,
+      "formationenergy_id": 5101875,
+      "duplicate_entry_id": 755827,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 169.805,
+      "ntypes": 1,
+      "natoms": 10,
+      "unit_cell": [
+        [
+          2.521618,
+          4.367484,
+          0.0
+        ],
+        [
+          -5.043579,
+          5.823511,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.625265
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.4 0.2 0",
+        "Ti @ 0.8 0.4 0",
+        "Ti @ 0.2 0.6 0",
+        "Ti @ 0.6 0.8 0",
+        "Ti @ 0.667 0 0.5",
+        "Ti @ 0.0666 0.2 0.5",
+        "Ti @ 0.467 0.4 0.5",
+        "Ti @ 0.867 0.6 0.5",
+        "Ti @ 0.267 0.8 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0139270906666704,
+      "stability": 0.0139270906666704,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755845,
+      "calculation_id": 1712185,
+      "icsd_id": null,
+      "formationenergy_id": 5125101,
+      "duplicate_entry_id": 755845,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 408.998,
+      "ntypes": 1,
+      "natoms": 24,
+      "unit_cell": [
+        [
+          5.052366,
+          11.66814,
+          0.0
+        ],
+        [
+          -5.051649,
+          5.833761,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.625753
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.583 0.0833 0",
+        "Ti @ 0.167 0.167 0",
+        "Ti @ 0.75 0.25 0",
+        "Ti @ 0.333 0.333 0",
+        "Ti @ 0.917 0.417 0",
+        "Ti @ 0.5 0.5 0",
+        "Ti @ 0.0833 0.583 0",
+        "Ti @ 0.667 0.667 0",
+        "Ti @ 0.25 0.75 0",
+        "Ti @ 0.833 0.833 0",
+        "Ti @ 0.417 0.917 0",
+        "Ti @ 0.861 0.0278 0.5",
+        "Ti @ 0.444 0.111 0.5",
+        "Ti @ 0.0278 0.194 0.5",
+        "Ti @ 0.611 0.278 0.5",
+        "Ti @ 0.194 0.361 0.5",
+        "Ti @ 0.778 0.444 0.5",
+        "Ti @ 0.361 0.528 0.5",
+        "Ti @ 0.944 0.611 0.5",
+        "Ti @ 0.528 0.694 0.5",
+        "Ti @ 0.111 0.778 0.5",
+        "Ti @ 0.694 0.861 0.5",
+        "Ti @ 0.278 0.944 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0135421754166698,
+      "stability": 0.0135421754166698,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755844,
+      "calculation_id": 1712760,
+      "icsd_id": null,
+      "formationenergy_id": 5125638,
+      "duplicate_entry_id": 755836,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 102.028,
+      "ntypes": 1,
+      "natoms": 6,
+      "unit_cell": [
+        [
+          2.524204,
+          4.372041,
+          0.0
+        ],
+        [
+          -2.524204,
+          4.372041,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.622522
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.333 0.333 0",
+        "Ti @ 0.667 0.667 0",
+        "Ti @ 0.667 0 0.5",
+        "Ti @ 0 0.333 0.5",
+        "Ti @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0137152350000003,
+      "stability": 0.0137152350000003,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755822,
+      "calculation_id": 1786558,
+      "icsd_id": null,
+      "formationenergy_id": 5185275,
+      "duplicate_entry_id": 755822,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pm",
+      "volume": 203.842,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          7.565593,
+          -1.455035,
+          0.0
+        ],
+        [
+          0.000998,
+          5.825329,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.625045
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.667 0.167 0",
+        "Ti @ 0.333 0.333 0",
+        "Ti @ 1 0.5 0",
+        "Ti @ 0.667 0.667 0",
+        "Ti @ 0.333 0.833 0",
+        "Ti @ 0 1 0",
+        "Ti @ 0.222 0.0557 0.5",
+        "Ti @ 0.889 0.222 0.5",
+        "Ti @ 0.556 0.389 0.5",
+        "Ti @ 0.222 0.556 0.5",
+        "Ti @ 0.889 0.722 0.5",
+        "Ti @ 0.556 0.889 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0139628849999998,
+      "stability": 0.0139628849999998,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755828,
+      "calculation_id": 1786600,
+      "icsd_id": null,
+      "formationenergy_id": 5185296,
+      "duplicate_entry_id": 755822,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cmcm",
+      "volume": 203.842,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          7.565619,
+          -1.45504,
+          0.0
+        ],
+        [
+          0.000999,
+          5.825353,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.625001
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.667 0.167 0",
+        "Ti @ 0.333 0.333 0",
+        "Ti @ 1 0.5 0",
+        "Ti @ 0.667 0.667 0",
+        "Ti @ 0.333 0.833 0",
+        "Ti @ 1 1 0",
+        "Ti @ 0.222 0.0557 0.5",
+        "Ti @ 0.889 0.222 0.5",
+        "Ti @ 0.556 0.389 0.5",
+        "Ti @ 0.222 0.556 0.5",
+        "Ti @ 0.889 0.722 0.5",
+        "Ti @ 0.556 0.889 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0139457008333403,
+      "stability": 0.0139457008333403,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755849,
+      "calculation_id": 1786696,
+      "icsd_id": null,
+      "formationenergy_id": 5185353,
+      "duplicate_entry_id": 755822,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pm",
+      "volume": 203.842,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          7.565593,
+          -1.455035,
+          0.0
+        ],
+        [
+          0.000998,
+          5.825329,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.625045
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.667 0.167 0",
+        "Ti @ 0.333 0.333 0",
+        "Ti @ 1 0.5 0",
+        "Ti @ 0.667 0.667 0",
+        "Ti @ 0.333 0.833 0",
+        "Ti @ 0 1 0",
+        "Ti @ 0.222 0.0557 0.5",
+        "Ti @ 0.889 0.222 0.5",
+        "Ti @ 0.556 0.389 0.5",
+        "Ti @ 0.222 0.556 0.5",
+        "Ti @ 0.889 0.722 0.5",
+        "Ti @ 0.556 0.889 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0139628849999998,
+      "stability": 0.0139628849999998,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755837,
+      "calculation_id": 1786785,
+      "icsd_id": null,
+      "formationenergy_id": 5185443,
+      "duplicate_entry_id": null,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 203.992,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          15.14823,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.914479,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.620523
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.333 0 0",
+        "Ti @ 0.667 0 0",
+        "Ti @ 0.167 0.5 0",
+        "Ti @ 0.5 0.5 0",
+        "Ti @ 0.833 0.5 0",
+        "Ti @ 0.111 0 0.5",
+        "Ti @ 0.444 0 0.5",
+        "Ti @ 0.778 0 0.5",
+        "Ti @ 0.278 0.5 0.5",
+        "Ti @ 0.611 0.5 0.5",
+        "Ti @ 0.944 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0138245350000004,
+      "stability": 0.0138245350000004,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755848,
+      "calculation_id": 1787393,
+      "icsd_id": null,
+      "formationenergy_id": 5185965,
+      "duplicate_entry_id": null,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 204.14,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          15.152493,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.91533,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.62121
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.000148 0 0",
+        "Ti @ 0.333 0 0",
+        "Ti @ 0.667 0 0",
+        "Ti @ 0.167 0.5 0",
+        "Ti @ 0.5 0.5 0",
+        "Ti @ 0.833 0.5 0",
+        "Ti @ 0.111 0 0.5",
+        "Ti @ 0.444 0 0.5",
+        "Ti @ 0.778 0 0.5",
+        "Ti @ 0.278 0.5 0.5",
+        "Ti @ 0.611 0.5 0.5",
+        "Ti @ 0.944 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0137711408333399,
+      "stability": 0.0137711408333399,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755835,
+      "calculation_id": 1839174,
+      "icsd_id": null,
+      "formationenergy_id": 5231832,
+      "duplicate_entry_id": 755823,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 237.989,
+      "ntypes": 1,
+      "natoms": 14,
+      "unit_cell": [
+        [
+          5.046699,
+          5.827411,
+          0.0
+        ],
+        [
+          -2.523412,
+          7.284317,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.62414
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.571 0.143 0",
+        "Ti @ 0.143 0.286 0",
+        "Ti @ 0.714 0.429 0",
+        "Ti @ 0.286 0.571 0",
+        "Ti @ 0.857 0.714 0",
+        "Ti @ 0.429 0.857 0",
+        "Ti @ 0.381 0.0952 0.5",
+        "Ti @ 0.952 0.238 0.5",
+        "Ti @ 0.524 0.381 0.5",
+        "Ti @ 0.0952 0.524 0.5",
+        "Ti @ 0.667 0.667 0.5",
+        "Ti @ 0.238 0.81 0.5",
+        "Ti @ 0.81 0.952 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0138612695238098,
+      "stability": 0.0138612695238098,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 755823,
+      "calculation_id": 1839251,
+      "icsd_id": null,
+      "formationenergy_id": 5231877,
+      "duplicate_entry_id": 755823,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 237.993,
+      "ntypes": 1,
+      "natoms": 14,
+      "unit_cell": [
+        [
+          5.046879,
+          5.82762,
+          0.0
+        ],
+        [
+          -2.523509,
+          7.284585,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.623876
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.571 0.143 0",
+        "Ti @ 0.143 0.286 0",
+        "Ti @ 0.714 0.429 0",
+        "Ti @ 0.286 0.571 0",
+        "Ti @ 0.857 0.714 0",
+        "Ti @ 0.429 0.857 0",
+        "Ti @ 0.381 0.0952 0.5",
+        "Ti @ 0.952 0.238 0.5",
+        "Ti @ 0.524 0.381 0.5",
+        "Ti @ 0.0952 0.524 0.5",
+        "Ti @ 0.667 0.667 0.5",
+        "Ti @ 0.238 0.81 0.5",
+        "Ti @ 0.81 0.952 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0138561659523804,
+      "stability": 0.0138561659523804,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1214668,
+      "calculation_id": 2692512,
+      "icsd_id": null,
+      "formationenergy_id": 5567311,
+      "duplicate_entry_id": 1214668,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "A10_Hg",
+      "spacegroup": "R-3m",
+      "volume": 16.8677,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          -1.675452,
+          2.312805
+        ],
+        [
+          -1.450984,
+          0.837725,
+          2.312805
+        ],
+        [
+          -1.450985,
+          -0.837725,
+          -2.312805
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0739351666666703,
+      "stability": 0.0739351666666703,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1214757,
+      "calculation_id": 2692688,
+      "icsd_id": null,
+      "formationenergy_id": 5567398,
+      "duplicate_entry_id": 1214757,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "A11_Ga",
+      "spacegroup": "Cmca",
+      "volume": 68.7585,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          -2.127075,
+          -4.602545,
+          0.0
+        ],
+        [
+          -2.127075,
+          4.602545,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -3.511687
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.855 0.145 0.000518",
+        "Ti @ 0.355 0.645 0.499",
+        "Ti @ 0.645 0.355 0.501",
+        "Ti @ 0.145 0.855 0.999"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.24152142166667,
+      "stability": 0.24152142166667,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1214846,
+      "calculation_id": 2692866,
+      "icsd_id": null,
+      "formationenergy_id": 5567486,
+      "duplicate_entry_id": 1214846,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "A12_alpha_Mn",
+      "spacegroup": "I-43m",
+      "volume": 495.179,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          4.983878,
+          4.983878,
+          4.983878
+        ],
+        [
+          4.983878,
+          -4.983878,
+          -4.983878
+        ],
+        [
+          -4.983878,
+          4.983878,
+          -4.983878
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.623 0 0",
+        "Ti @ 0.368 0.185 0",
+        "Ti @ 0.185 0.368 0",
+        "Ti @ 0.675 0.407 0",
+        "Ti @ 0 0.623 0",
+        "Ti @ 0.407 0.675 0",
+        "Ti @ 0.815 0.815 0.183",
+        "Ti @ 0.368 0 0.185",
+        "Ti @ 0 0.368 0.185",
+        "Ti @ 0.593 0.593 0.269",
+        "Ti @ 0.731 0.325 0.325",
+        "Ti @ 0.325 0.731 0.325",
+        "Ti @ 0.185 0 0.368",
+        "Ti @ 0 0.185 0.368",
+        "Ti @ 0.377 0.377 0.377",
+        "Ti @ 0.675 0 0.407",
+        "Ti @ 0 0.675 0.407",
+        "Ti @ 0.593 0.269 0.593",
+        "Ti @ 0.269 0.593 0.593",
+        "Ti @ 0 0 0.623",
+        "Ti @ 0.817 0.632 0.632",
+        "Ti @ 0.632 0.817 0.632",
+        "Ti @ 0.407 0 0.675",
+        "Ti @ 0 0.407 0.675",
+        "Ti @ 0.325 0.325 0.731",
+        "Ti @ 0.815 0.183 0.815",
+        "Ti @ 0.183 0.815 0.815",
+        "Ti @ 0.632 0.632 0.817"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.19769102011495,
+      "stability": 0.19769102011495,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1214935,
+      "calculation_id": 2693044,
+      "icsd_id": null,
+      "formationenergy_id": 5567572,
+      "duplicate_entry_id": 1214935,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "A13_beta_Mn",
+      "spacegroup": "P4132",
+      "volume": 342.245,
+      "ntypes": 1,
+      "natoms": 20,
+      "unit_cell": [
+        [
+          6.99486,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          6.99486,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.99486
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.875 0.71 0.0403",
+        "Ti @ 0.0826 0.0826 0.0826",
+        "Ti @ 0.21 0.46 0.125",
+        "Ti @ 0.833 0.333 0.167",
+        "Ti @ 0.46 0.125 0.21",
+        "Ti @ 0.54 0.625 0.29",
+        "Ti @ 0.167 0.833 0.333",
+        "Ti @ 0.79 0.96 0.375",
+        "Ti @ 0.917 0.583 0.417",
+        "Ti @ 0.125 0.21 0.46",
+        "Ti @ 0.625 0.29 0.54",
+        "Ti @ 0.417 0.917 0.583",
+        "Ti @ 0.29 0.54 0.625",
+        "Ti @ 0.667 0.667 0.667",
+        "Ti @ 0.0403 0.875 0.71",
+        "Ti @ 0.96 0.375 0.79",
+        "Ti @ 0.333 0.167 0.833",
+        "Ti @ 0.71 0.0403 0.875",
+        "Ti @ 0.583 0.417 0.917",
+        "Ti @ 0.375 0.79 0.96"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12433342716667,
+      "stability": 0.12433342716667,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1215024,
+      "calculation_id": 2693222,
+      "icsd_id": null,
+      "formationenergy_id": 5567660,
+      "duplicate_entry_id": 1215024,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "A15_beta_W",
+      "spacegroup": "Pm-3n",
+      "volume": 136.737,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          5.151832,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          5.151832,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.151832
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.5 0.25 0",
+        "Ti @ 0.5 0.75 0",
+        "Ti @ 0 0.5 0.25",
+        "Ti @ 0.25 0 0.5",
+        "Ti @ 0.75 0 0.5",
+        "Ti @ 0.5 0.5 0.5",
+        "Ti @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.192539507916671,
+      "stability": 0.192539507916671,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1215113,
+      "calculation_id": 2693400,
+      "icsd_id": null,
+      "formationenergy_id": 5567748,
+      "duplicate_entry_id": 1215113,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "A17_Black_P",
+      "spacegroup": "Cmca",
+      "volume": 67.7279,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          2.947157
+        ],
+        [
+          4.785098,
+          0.0,
+          0.0
+        ],
+        [
+          2.392549,
+          4.802567,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ti @ 1 0.365 0.27",
+        "Ti @ 0.5 0.865 0.27",
+        "Ti @ 0.5 0.135 0.73",
+        "Ti @ 0.000448 0.635 0.73"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.15663587416667,
+      "stability": 0.15663587416667,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1215202,
+      "calculation_id": 2693616,
+      "icsd_id": null,
+      "formationenergy_id": 5567818,
+      "duplicate_entry_id": 8390,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "A2_W",
+      "spacegroup": "Im-3m",
+      "volume": 16.8627,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.615434,
+          1.615434,
+          -1.615434
+        ],
+        [
+          1.615434,
+          -1.615434,
+          1.615434
+        ],
+        [
+          -1.615434,
+          -1.615434,
+          -1.615434
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.11445808666667,
+      "stability": 0.11445808666667,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1215291,
+      "calculation_id": 2693786,
+      "icsd_id": null,
+      "formationenergy_id": 5567902,
+      "duplicate_entry_id": 1215291,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "A20_alpha_U",
+      "spacegroup": "Cmcm",
+      "volume": 33.8089,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.873344,
+          0.0,
+          0.0
+        ],
+        [
+          1.436673,
+          2.549895,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.614464
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.839 0.323 0.25",
+        "Ti @ 0.161 0.677 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0159250466666698,
+      "stability": 0.0159250466666698,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1215380,
+      "calculation_id": 2693940,
+      "icsd_id": null,
+      "formationenergy_id": 5567977,
+      "duplicate_entry_id": 8079,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "A3_Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 33.9982,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.915213,
+          0.0,
+          0.0
+        ],
+        [
+          -1.457607,
+          2.524649,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.619392
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.333 0.667 0.25",
+        "Ti @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0137553166666704,
+      "stability": 0.0137553166666704,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1215559,
+      "calculation_id": 2694279,
+      "icsd_id": null,
+      "formationenergy_id": 5568139,
+      "duplicate_entry_id": 1215559,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "A4_Diamond_C",
+      "spacegroup": "Fd-3m",
+      "volume": 52.1375,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          2.965104,
+          -2.965104
+        ],
+        [
+          2.965104,
+          0.0,
+          2.965104
+        ],
+        [
+          0.0,
+          -2.965104,
+          -2.965104
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.25 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 2.11615516666667,
+      "stability": 2.11615516666667,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1215648,
+      "calculation_id": 2694451,
+      "icsd_id": null,
+      "formationenergy_id": 5568224,
+      "duplicate_entry_id": 1215648,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "A5_Sn",
+      "spacegroup": "I41/amd",
+      "volume": 33.906,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -2.797865
+        ],
+        [
+          2.461558,
+          2.461558,
+          1.398932
+        ],
+        [
+          2.461558,
+          -2.461558,
+          -1.398932
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.25 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.40515465166667,
+      "stability": 0.40515465166667,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1215737,
+      "calculation_id": 2694621,
+      "icsd_id": null,
+      "formationenergy_id": 5568308,
+      "duplicate_entry_id": 1215737,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "A6_In",
+      "spacegroup": "I4/mmm",
+      "volume": 17.0066,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          -2.871292,
+          0.0
+        ],
+        [
+          -2.871292,
+          0.0,
+          0.0
+        ],
+        [
+          1.435647,
+          1.435647,
+          -2.062822
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.07022933666667,
+      "stability": 0.07022933666667,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1215826,
+      "calculation_id": 2694795,
+      "icsd_id": null,
+      "formationenergy_id": 5568394,
+      "duplicate_entry_id": 1215559,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "A7_As",
+      "spacegroup": "R-3m",
+      "volume": 32.5539,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          -2.956786,
+          0.0,
+          0.0
+        ],
+        [
+          1.478393,
+          -2.560652,
+          0.0
+        ],
+        [
+          1.478393,
+          0.85355,
+          4.299639
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.5 0.75 0.25",
+        "Ti @ 0.5 0.25 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 3.15878563666667,
+      "stability": 3.15878563666667,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1215915,
+      "calculation_id": 2694971,
+      "icsd_id": null,
+      "formationenergy_id": 5568479,
+      "duplicate_entry_id": 1215915,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "A8_Se",
+      "spacegroup": "P3121",
+      "volume": 50.5216,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          2.896625,
+          0.0,
+          0.0
+        ],
+        [
+          -1.448312,
+          2.508551,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.952833
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.665 0.665 0",
+        "Ti @ 0.335 0 0.333",
+        "Ti @ 0 0.335 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0727527166666704,
+      "stability": 0.0727527166666704,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1216004,
+      "calculation_id": 2695148,
+      "icsd_id": null,
+      "formationenergy_id": 5568566,
+      "duplicate_entry_id": 1216004,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "A9_Graphite_C",
+      "spacegroup": "P63/mmc",
+      "volume": 74.8503,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          4.586001,
+          0.0,
+          0.0
+        ],
+        [
+          -2.293002,
+          3.971594,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.10955
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0.25",
+        "Ti @ 0.333 0.667 0.25",
+        "Ti @ 0 0 0.75",
+        "Ti @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.896102831666671,
+      "stability": 0.896102831666671,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1216096,
+      "calculation_id": 2695324,
+      "icsd_id": null,
+      "formationenergy_id": 5568651,
+      "duplicate_entry_id": 1216096,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "C19_alpha_Sm",
+      "spacegroup": "R-3m",
+      "volume": 51.1162,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          -1.45335,
+          -2.517276,
+          0.0
+        ],
+        [
+          -1.45335,
+          2.517276,
+          0.0
+        ],
+        [
+          0.0,
+          1.678184,
+          -6.985977
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.778 0.222 0.333",
+        "Ti @ 0.222 0.778 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0385903566666705,
+      "stability": 0.0385903566666705,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 676147,
+      "calculation_id": 2719046,
+      "icsd_id": 41503,
+      "formationenergy_id": 5578694,
+      "duplicate_entry_id": 676147,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 16.979,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          2.039987,
+          -2.039987,
+          0.0
+        ],
+        [
+          -2.039987,
+          0.0,
+          -2.039987
+        ],
+        [
+          2.039987,
+          2.039987,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0700586966666705,
+      "stability": 0.0700586966666705,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1280389,
+      "calculation_id": 3130330,
+      "icsd_id": null,
+      "formationenergy_id": 5631468,
+      "duplicate_entry_id": 1215024,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pm-3n",
+      "volume": 136.688,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          3.642459,
+          2.102974,
+          2.974055
+        ],
+        [
+          -3.642459,
+          2.102974,
+          2.974055
+        ],
+        [
+          0.0,
+          -4.205949,
+          2.974055
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.5 0.25 0",
+        "Ti @ 0.5 0.75 0",
+        "Ti @ 0 0.5 0.25",
+        "Ti @ 0.75 0 0.5",
+        "Ti @ 0.5 0.5 0.5",
+        "Ti @ 0.25 0 0.5",
+        "Ti @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.19254947541667,
+      "stability": 0.19254947541667,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1485151,
+      "calculation_id": 3847923,
+      "icsd_id": null,
+      "formationenergy_id": 5860364,
+      "duplicate_entry_id": 1485151,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fd-3m",
+      "volume": 106.781,
+      "ntypes": 1,
+      "natoms": 6,
+      "unit_cell": [
+        [
+          0.0,
+          3.765492458,
+          3.765492458
+        ],
+        [
+          3.765492458,
+          0.0,
+          3.765492458
+        ],
+        [
+          3.765492458,
+          3.765492458,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.625 0.625 0.125",
+        "Ti @ 0.25 0.25 0.25",
+        "Ti @ 0.625 0.125 0.625",
+        "Ti @ 0.125 0.625 0.625",
+        "Ti @ 0.625 0.625 0.625"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.2686426600000038,
+      "stability": 0.2686426600000038,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1484872,
+      "calculation_id": 3847988,
+      "icsd_id": null,
+      "formationenergy_id": 5860446,
+      "duplicate_entry_id": 1215737,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 16.9917,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.439233855,
+          1.439233855,
+          2.050752872
+        ],
+        [
+          1.439233855,
+          -1.439233855,
+          2.050752872
+        ],
+        [
+          1.439233855,
+          1.439233855,
+          -2.050752872
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0701138966666699,
+      "stability": 0.0701138966666699,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1485752,
+      "calculation_id": 3852989,
+      "icsd_id": null,
+      "formationenergy_id": 5861702,
+      "duplicate_entry_id": 1485752,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 205.819,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          5.198193852,
+          0.0,
+          0.0
+        ],
+        [
+          -2.599096926,
+          4.50176793,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          8.795305009
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.333 0.667 0.0532",
+        "Ti @ 0.349 0.175 0.25",
+        "Ti @ 0.825 0.175 0.25",
+        "Ti @ 0.825 0.651 0.25",
+        "Ti @ 0.333 0.667 0.447",
+        "Ti @ 0 0 0.5",
+        "Ti @ 0.667 0.333 0.553",
+        "Ti @ 0.175 0.349 0.75",
+        "Ti @ 0.175 0.825 0.75",
+        "Ti @ 0.651 0.825 0.75",
+        "Ti @ 0.667 0.333 0.947"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.28281375583333723,
+      "stability": 0.28281375583333723,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1484703,
+      "calculation_id": 4131653,
+      "icsd_id": null,
+      "formationenergy_id": 5927698,
+      "duplicate_entry_id": 1484703,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "R-3m",
+      "volume": 225.99,
+      "ntypes": 1,
+      "natoms": 13,
+      "unit_cell": [
+        [
+          2.716661344,
+          1.568465158,
+          8.839511161
+        ],
+        [
+          -2.716661344,
+          1.568465158,
+          8.839511161
+        ],
+        [
+          0.0,
+          -3.136930317,
+          8.839511161
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.577 0.0925 0.0925",
+        "Ti @ 0.0925 0.577 0.0925",
+        "Ti @ 0.165 0.165 0.165",
+        "Ti @ 0.354 0.354 0.354",
+        "Ti @ 0.907 0.907 0.423",
+        "Ti @ 0.455 0.455 0.455",
+        "Ti @ 0.545 0.545 0.545",
+        "Ti @ 0.0925 0.0925 0.577",
+        "Ti @ 0.646 0.646 0.646",
+        "Ti @ 0.835 0.835 0.835",
+        "Ti @ 0.907 0.423 0.907",
+        "Ti @ 0.423 0.907 0.907"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.25324054435897736,
+      "stability": 0.25324054435897736,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 1577532,
+      "calculation_id": 4145867,
+      "icsd_id": null,
+      "formationenergy_id": 5930979,
+      "duplicate_entry_id": 1214846,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I-43m",
+      "volume": 495.034,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          -4.983391371,
+          4.983391371,
+          4.983391371
+        ],
+        [
+          4.983391371,
+          -4.983391371,
+          4.983391371
+        ],
+        [
+          4.983391371,
+          4.983391371,
+          -4.983391371
+        ]
+      ],
+      "sites": [
+        "Ti @ 0 0 0",
+        "Ti @ 0.622 0 0",
+        "Ti @ 0.368 0.185 0",
+        "Ti @ 0.185 0.368 0",
+        "Ti @ 0.675 0.406 0",
+        "Ti @ 0 0.622 0",
+        "Ti @ 0.406 0.675 0",
+        "Ti @ 0.815 0.815 0.183",
+        "Ti @ 0.368 0 0.185",
+        "Ti @ 0 0.368 0.185",
+        "Ti @ 0.594 0.594 0.269",
+        "Ti @ 0.731 0.325 0.325",
+        "Ti @ 0.325 0.731 0.325",
+        "Ti @ 0.185 0 0.368",
+        "Ti @ 0 0.185 0.368",
+        "Ti @ 0.378 0.378 0.378",
+        "Ti @ 0.675 0 0.406",
+        "Ti @ 0 0.675 0.406",
+        "Ti @ 0.594 0.269 0.594",
+        "Ti @ 0.269 0.594 0.594",
+        "Ti @ 0 0 0.622",
+        "Ti @ 0.817 0.632 0.632",
+        "Ti @ 0.632 0.817 0.632",
+        "Ti @ 0.406 0 0.675",
+        "Ti @ 0 0.406 0.675",
+        "Ti @ 0.325 0.325 0.731",
+        "Ti @ 0.815 0.183 0.815",
+        "Ti @ 0.183 0.815 0.815",
+        "Ti @ 0.632 0.632 0.817"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.19659417632184262,
+      "stability": 0.19659417632184262,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 2016208,
+      "calculation_id": 5089785,
+      "icsd_id": 191187,
+      "formationenergy_id": 6217359,
+      "duplicate_entry_id": 755845,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "hcp#Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 34.0973,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.91531153,
+          0.0,
+          0.0
+        ],
+        [
+          -1.457655765,
+          2.524733845,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.632537629
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.333 0.667 0.25",
+        "Ti @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.013603066666670216,
+      "stability": 0.013603066666670216,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 2030140,
+      "calculation_id": 5095090,
+      "icsd_id": 671048,
+      "formationenergy_id": 6218300,
+      "duplicate_entry_id": 2030140,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": "hcp#Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 34.0309,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.931339951,
+          0.0,
+          0.0
+        ],
+        [
+          -1.465669976,
+          2.538614865,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.573091056
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.333 0.667 0.25",
+        "Ti @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.01449176666667018,
+      "stability": 0.01449176666667018,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ti",
+      "entry_id": 2031311,
+      "calculation_id": 5128798,
+      "icsd_id": 672745,
+      "formationenergy_id": 6229609,
+      "duplicate_entry_id": 1485151,
+      "composition": "Ti1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Ibam",
+      "volume": 102.368,
+      "ntypes": 1,
+      "natoms": 6,
+      "unit_cell": [
+        [
+          -2.478574484,
+          3.709444529,
+          2.783512581
+        ],
+        [
+          2.478574484,
+          -3.709444529,
+          2.783512581
+        ],
+        [
+          2.478574484,
+          3.709444529,
+          -2.783512581
+        ]
+      ],
+      "sites": [
+        "Ti @ 0.25 0.25 0",
+        "Ti @ 0.75 0.75 0",
+        "Ti @ 0.823 0.417 0.24",
+        "Ti @ 0.323 0.0833 0.406",
+        "Ti @ 0.677 0.917 0.594",
+        "Ti @ 0.177 0.583 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.002616801666669666,
+      "stability": 0.002616801666669666,
+      "fit": "standard",
+      "calculation_label": "static"
+    }
+  ],
+  "meta": {
+    "query": {
+      "representation": "http://oqmd.org/oqmdapi/formationenergy?composition=Ti&limit=200"
+    },
+    "api_version": "1.0",
+    "time_stamp": "2026-07-11 16:43:50",
+    "data_returned": 65,
+    "data_available": 65,
+    "comments": "",
+    "query_tree": "",
+    "more_data_available": false
+  },
+  "response_message": "OK"
+}

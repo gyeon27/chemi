@@ -1,0 +1,2138 @@
+{
+  "links": {
+    "next": null,
+    "previous": null,
+    "base_url": {
+      "href": "https://oqmd.org/oqmdapi",
+      "meta": {
+        "_oqmd_version": "1.0"
+      }
+    }
+  },
+  "resource": {},
+  "data": [
+    {
+      "name": "Ca",
+      "entry_id": 592557,
+      "calculation_id": 1232205,
+      "icsd_id": 44348,
+      "formationenergy_id": 4788786,
+      "duplicate_entry_id": 594524,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 40.2623,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          2.720338,
+          -2.720338,
+          0.0
+        ],
+        [
+          -2.720338,
+          0.0,
+          -2.720338
+        ],
+        [
+          2.720338,
+          2.720338,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00041698999999995,
+      "stability": 0.00041698999999995,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 592558,
+      "calculation_id": 1232207,
+      "icsd_id": 44349,
+      "formationenergy_id": 4788789,
+      "duplicate_entry_id": 592558,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 40.7957,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          2.168626,
+          2.168626,
+          2.168626
+        ],
+        [
+          2.168626,
+          -2.168626,
+          -2.168626
+        ],
+        [
+          -2.168626,
+          2.168626,
+          -2.168626
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0146880999999999,
+      "stability": 0.0146880999999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 594031,
+      "calculation_id": 1232253,
+      "icsd_id": 52748,
+      "formationenergy_id": 4788819,
+      "duplicate_entry_id": 594031,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pm-3m",
+      "volume": 37.8246,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          3.356794,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.356794,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.356794
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.41893149,
+      "stability": 0.41893149,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 593872,
+      "calculation_id": 1232288,
+      "icsd_id": 52270,
+      "formationenergy_id": 4788837,
+      "duplicate_entry_id": 594030,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 80.8097,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          3.837411,
+          0.0,
+          0.0
+        ],
+        [
+          -1.918705,
+          3.323136,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.336906
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.333 0.667 0.25",
+        "Ca @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00283949499999991,
+      "stability": 0.00283949499999991,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 592609,
+      "calculation_id": 1232299,
+      "icsd_id": 44728,
+      "formationenergy_id": 4788840,
+      "duplicate_entry_id": 592558,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 40.4337,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          2.162194,
+          2.162194,
+          2.162194
+        ],
+        [
+          2.162194,
+          -2.162194,
+          -2.162194
+        ],
+        [
+          -2.162194,
+          2.162194,
+          -2.162194
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0159459799999999,
+      "stability": 0.0159459799999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 592608,
+      "calculation_id": 1232326,
+      "icsd_id": 44727,
+      "formationenergy_id": 4788867,
+      "duplicate_entry_id": 594524,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 40.1447,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          2.717686,
+          -2.717686,
+          0.0
+        ],
+        [
+          -2.717686,
+          0.0,
+          -2.717686
+        ],
+        [
+          2.717686,
+          2.717686,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00101781999999995,
+      "stability": 0.00101781999999995,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 594030,
+      "calculation_id": 1232347,
+      "icsd_id": 52747,
+      "formationenergy_id": 4788894,
+      "duplicate_entry_id": 594030,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 80.8807,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          3.837161,
+          0.0,
+          0.0
+        ],
+        [
+          -1.91858,
+          3.322925,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.343288
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.333 0.667 0.25",
+        "Ca @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00260940499999984,
+      "stability": 0.00260940499999984,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 594032,
+      "calculation_id": 1232487,
+      "icsd_id": 52749,
+      "formationenergy_id": 4788975,
+      "duplicate_entry_id": 592558,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 38.5946,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          2.128902,
+          2.128902,
+          -2.128902
+        ],
+        [
+          -2.128902,
+          -2.128902,
+          -2.128902
+        ],
+        [
+          -2.128902,
+          2.128902,
+          2.128902
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.02818279,
+      "stability": 0.02818279,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 594524,
+      "calculation_id": 1232519,
+      "icsd_id": 53768,
+      "formationenergy_id": 4789005,
+      "duplicate_entry_id": 594524,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 40.3282,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          2.721822,
+          -2.721822,
+          0.0
+        ],
+        [
+          -2.721822,
+          0.0,
+          -2.721822
+        ],
+        [
+          2.721822,
+          2.721822,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 629199,
+      "calculation_id": 1232972,
+      "icsd_id": 162253,
+      "formationenergy_id": 4789245,
+      "duplicate_entry_id": 629199,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P41212",
+      "volume": 311.807,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          4.438657,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          4.438657,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          15.826443
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.502 0.00492 0.0624",
+        "Ca @ 0.998 0.505 0.188",
+        "Ca @ 0.495 0.00205 0.312",
+        "Ca @ 0.995 0.498 0.438",
+        "Ca @ 0.498 0.995 0.562",
+        "Ca @ 0.00205 0.495 0.688",
+        "Ca @ 0.505 0.998 0.812",
+        "Ca @ 0.00492 0.502 0.938"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0251400675,
+      "stability": 0.0251400675,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 629877,
+      "calculation_id": 1233004,
+      "icsd_id": 163540,
+      "formationenergy_id": 4789248,
+      "duplicate_entry_id": 592558,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 38.7059,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -3.871367
+        ],
+        [
+          2.235843,
+          2.235843,
+          1.935684
+        ],
+        [
+          2.235843,
+          -2.235843,
+          -1.935684
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0311328899999999,
+      "stability": 0.0311328899999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 629876,
+      "calculation_id": 1233015,
+      "icsd_id": 163539,
+      "formationenergy_id": 4789254,
+      "duplicate_entry_id": 629868,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mcm",
+      "volume": 165.59,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          -8.6e-05,
+          6.38884
+        ],
+        [
+          3.600034,
+          -3.599831,
+          3.194469
+        ],
+        [
+          3.600029,
+          3.599826,
+          -3.194468
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.328 0.5 0.157",
+        "Ca @ 0.828 0.843 0.5",
+        "Ca @ 0.172 0.157 0.5",
+        "Ca @ 0.672 0.5 0.843"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.167000915,
+      "stability": 0.167000915,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 629875,
+      "calculation_id": 1233069,
+      "icsd_id": 163538,
+      "formationenergy_id": 4789269,
+      "duplicate_entry_id": 592558,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 38.695,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -3.862893
+        ],
+        [
+          -2.23798,
+          -2.23798,
+          1.931448
+        ],
+        [
+          -2.23798,
+          2.23798,
+          -1.931448
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.03189935,
+      "stability": 0.03189935,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 629871,
+      "calculation_id": 1233070,
+      "icsd_id": 163534,
+      "formationenergy_id": 4789272,
+      "duplicate_entry_id": 592558,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 38.9407,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -3.885572
+        ],
+        [
+          2.238512,
+          2.238512,
+          1.942787
+        ],
+        [
+          2.238512,
+          -2.238512,
+          -1.942787
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0283817099999999,
+      "stability": 0.0283817099999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 629879,
+      "calculation_id": 1233071,
+      "icsd_id": 163542,
+      "formationenergy_id": 4789275,
+      "duplicate_entry_id": 592558,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 38.6351,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -3.863202
+        ],
+        [
+          -2.236158,
+          -2.236158,
+          1.931601
+        ],
+        [
+          -2.236158,
+          2.236158,
+          -1.931601
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.03237282,
+      "stability": 0.03237282,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 629873,
+      "calculation_id": 1233078,
+      "icsd_id": 163536,
+      "formationenergy_id": 4789278,
+      "duplicate_entry_id": 592558,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 38.7691,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -3.867925
+        ],
+        [
+          2.238664,
+          2.238664,
+          1.933963
+        ],
+        [
+          2.238664,
+          -2.238664,
+          -1.933963
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.03093144,
+      "stability": 0.03093144,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 629869,
+      "calculation_id": 1233113,
+      "icsd_id": 163532,
+      "formationenergy_id": 4789293,
+      "duplicate_entry_id": 592558,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 38.9946,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -3.889342
+        ],
+        [
+          2.238974,
+          2.238974,
+          1.944672
+        ],
+        [
+          2.238974,
+          -2.238974,
+          -1.944672
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.02773549,
+      "stability": 0.02773549,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 632881,
+      "calculation_id": 1233117,
+      "icsd_id": 168759,
+      "formationenergy_id": 4789296,
+      "duplicate_entry_id": 632881,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cmmm",
+      "volume": 37.1227,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -3.332771
+        ],
+        [
+          -2.820563,
+          -1.974549,
+          0.0
+        ],
+        [
+          -2.820563,
+          1.974549,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.31257735,
+      "stability": 0.31257735,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 632880,
+      "calculation_id": 1233121,
+      "icsd_id": 168758,
+      "formationenergy_id": 4789299,
+      "duplicate_entry_id": 632879,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 77.3844,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          3.878489,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -5.02024,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -3.974351
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.749 0.25 0.381",
+        "Ca @ 0.251 0.75 0.881"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.01744645,
+      "stability": 0.01744645,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 636454,
+      "calculation_id": 1233245,
+      "icsd_id": 181067,
+      "formationenergy_id": 4789347,
+      "duplicate_entry_id": 594524,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 39.1171,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          2.694297,
+          -2.694297,
+          0.0
+        ],
+        [
+          -2.694297,
+          0.0,
+          -2.694297
+        ],
+        [
+          2.694297,
+          2.694297,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00870090999999995,
+      "stability": 0.00870090999999995,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 636455,
+      "calculation_id": 1233246,
+      "icsd_id": 181068,
+      "formationenergy_id": 4789350,
+      "duplicate_entry_id": 592558,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 38.7062,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          2.130951,
+          2.130951,
+          2.130951
+        ],
+        [
+          2.130951,
+          -2.130951,
+          -2.130951
+        ],
+        [
+          -2.130951,
+          2.130951,
+          -2.130951
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0271434899999998,
+      "stability": 0.0271434899999998,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 636456,
+      "calculation_id": 1233250,
+      "icsd_id": 181069,
+      "formationenergy_id": 4789353,
+      "duplicate_entry_id": 594030,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 79.2959,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          3.799722,
+          0.0,
+          0.0
+        ],
+        [
+          -1.899861,
+          3.290552,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.34206
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.333 0.667 0.25",
+        "Ca @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00778480999999998,
+      "stability": 0.00778480999999998,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 632879,
+      "calculation_id": 1279386,
+      "icsd_id": 168757,
+      "formationenergy_id": 4813845,
+      "duplicate_entry_id": 632879,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmmn",
+      "volume": 77.793,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          3.872602,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -5.048768,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -3.978799
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.749 0.25 0.385",
+        "Ca @ 0.251 0.75 0.885"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0151147249999999,
+      "stability": 0.0151147249999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 629868,
+      "calculation_id": 1280159,
+      "icsd_id": 163531,
+      "formationenergy_id": 4814451,
+      "duplicate_entry_id": 629868,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mcm",
+      "volume": 167.492,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          6.409544
+        ],
+        [
+          3.614671,
+          -3.614671,
+          3.204773
+        ],
+        [
+          3.614671,
+          3.614671,
+          -3.204773
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.328 0.5 0.156",
+        "Ca @ 0.172 0.156 0.5",
+        "Ca @ 0.828 0.844 0.5",
+        "Ca @ 0.672 0.5 0.844"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.162881395,
+      "stability": 0.162881395,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 629870,
+      "calculation_id": 1333035,
+      "icsd_id": 163533,
+      "formationenergy_id": 4850580,
+      "duplicate_entry_id": 629870,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mcm",
+      "volume": 167.138,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          6.402077
+        ],
+        [
+          3.612949,
+          -3.612949,
+          3.201037
+        ],
+        [
+          3.612949,
+          3.612949,
+          -3.201037
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.328 0.5 0.156",
+        "Ca @ 0.828 0.844 0.5",
+        "Ca @ 0.172 0.156 0.5",
+        "Ca @ 0.672 0.5 0.844"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1637786275,
+      "stability": 0.1637786275,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1214513,
+      "calculation_id": 2692254,
+      "icsd_id": null,
+      "formationenergy_id": 5567184,
+      "duplicate_entry_id": 594524,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "A1_Cu",
+      "spacegroup": "Fm-3m",
+      "volume": 39.9582,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          2.713472,
+          -2.713472
+        ],
+        [
+          2.713472,
+          0.0,
+          2.713472
+        ],
+        [
+          0.0,
+          -2.713472,
+          -2.713472
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00221370999999992,
+      "stability": 0.00221370999999992,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1214602,
+      "calculation_id": 2692386,
+      "icsd_id": null,
+      "formationenergy_id": 5567249,
+      "duplicate_entry_id": 1214602,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "A10_Hg",
+      "spacegroup": "R-3m",
+      "volume": 38.891,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.956573,
+          -1.129628,
+          -2.932689
+        ],
+        [
+          0.0,
+          -2.259257,
+          2.932689
+        ],
+        [
+          -1.956574,
+          1.129628,
+          2.932689
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0280023599999999,
+      "stability": 0.0280023599999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1214691,
+      "calculation_id": 2692558,
+      "icsd_id": null,
+      "formationenergy_id": 5567334,
+      "duplicate_entry_id": 1214691,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "A11_Ga",
+      "spacegroup": "Fmmm",
+      "volume": 150.013,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          -2.936348,
+          -6.262061,
+          -2e-06
+        ],
+        [
+          -2.936348,
+          6.262061,
+          2e-06
+        ],
+        [
+          0.0,
+          0.0,
+          -4.079183
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.132 0.868 0",
+        "Ca @ 0.632 0.368 0.5",
+        "Ca @ 0.368 0.632 0.5",
+        "Ca @ 0.868 0.132 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18394783,
+      "stability": 0.18394783,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1214780,
+      "calculation_id": 2692734,
+      "icsd_id": null,
+      "formationenergy_id": 5567421,
+      "duplicate_entry_id": 1214780,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "A12_alpha_Mn",
+      "spacegroup": "I-43m",
+      "volume": 1167.01,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          6.632417,
+          6.632417,
+          6.632417
+        ],
+        [
+          6.632417,
+          -6.632417,
+          -6.632417
+        ],
+        [
+          -6.632417,
+          6.632417,
+          -6.632417
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.634 0 0",
+        "Ca @ 0 0 0",
+        "Ca @ 0.376 0.19 0",
+        "Ca @ 0.19 0.376 0",
+        "Ca @ 0.682 0.407 0",
+        "Ca @ 0 0.634 0",
+        "Ca @ 0.407 0.682 0",
+        "Ca @ 0.81 0.81 0.186",
+        "Ca @ 0.376 0 0.19",
+        "Ca @ 0 0.376 0.19",
+        "Ca @ 0.593 0.593 0.275",
+        "Ca @ 0.725 0.318 0.318",
+        "Ca @ 0.318 0.725 0.318",
+        "Ca @ 0.366 0.366 0.366",
+        "Ca @ 0.19 0 0.376",
+        "Ca @ 0 0.19 0.376",
+        "Ca @ 0.682 0 0.407",
+        "Ca @ 0 0.682 0.407",
+        "Ca @ 0.593 0.275 0.593",
+        "Ca @ 0.275 0.593 0.593",
+        "Ca @ 0.814 0.624 0.624",
+        "Ca @ 0.624 0.814 0.624",
+        "Ca @ 0 0 0.634",
+        "Ca @ 0.407 0 0.682",
+        "Ca @ 0 0.407 0.682",
+        "Ca @ 0.318 0.318 0.725",
+        "Ca @ 0.81 0.186 0.81",
+        "Ca @ 0.186 0.81 0.81",
+        "Ca @ 0.624 0.624 0.814"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0490816337930999,
+      "stability": 0.0490816337930999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1214869,
+      "calculation_id": 2692912,
+      "icsd_id": null,
+      "formationenergy_id": 5567509,
+      "duplicate_entry_id": 1214869,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "A13_beta_Mn",
+      "spacegroup": "P4132",
+      "volume": 813.022,
+      "ntypes": 1,
+      "natoms": 20,
+      "unit_cell": [
+        [
+          9.333275,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          9.333275,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          9.333275
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.875 0.701 0.0489",
+        "Ca @ 0.0615 0.0615 0.0615",
+        "Ca @ 0.201 0.451 0.125",
+        "Ca @ 0.811 0.311 0.189",
+        "Ca @ 0.451 0.125 0.201",
+        "Ca @ 0.549 0.625 0.299",
+        "Ca @ 0.189 0.811 0.311",
+        "Ca @ 0.799 0.951 0.375",
+        "Ca @ 0.939 0.561 0.439",
+        "Ca @ 0.125 0.201 0.451",
+        "Ca @ 0.625 0.299 0.549",
+        "Ca @ 0.439 0.939 0.561",
+        "Ca @ 0.299 0.549 0.625",
+        "Ca @ 0.689 0.689 0.689",
+        "Ca @ 0.0489 0.875 0.701",
+        "Ca @ 0.951 0.375 0.799",
+        "Ca @ 0.311 0.189 0.811",
+        "Ca @ 0.701 0.0489 0.875",
+        "Ca @ 0.561 0.439 0.939",
+        "Ca @ 0.375 0.799 0.951"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0378453614999998,
+      "stability": 0.0378453614999998,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1214958,
+      "calculation_id": 2693090,
+      "icsd_id": null,
+      "formationenergy_id": 5567595,
+      "duplicate_entry_id": 1214958,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "A15_beta_W",
+      "spacegroup": "Pm-3n",
+      "volume": 319.55,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          6.836697,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          6.836697,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.836697
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0",
+        "Ca @ 0.5 0.25 0",
+        "Ca @ 0.5 0.75 0",
+        "Ca @ 0 0.5 0.25",
+        "Ca @ 0.25 0 0.5",
+        "Ca @ 0.75 0 0.5",
+        "Ca @ 0.5 0.5 0.5",
+        "Ca @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0403326849999999,
+      "stability": 0.0403326849999999,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1215047,
+      "calculation_id": 2693268,
+      "icsd_id": null,
+      "formationenergy_id": 5567683,
+      "duplicate_entry_id": 1215047,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "A17_Black_P",
+      "spacegroup": "Cmca",
+      "volume": 159.216,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          4.067574
+        ],
+        [
+          5.94315,
+          0.0,
+          0.0
+        ],
+        [
+          2.971574,
+          6.586188,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.501 0.868 0.264",
+        "Ca @ 0.999 0.368 0.264",
+        "Ca @ 0.0015 0.632 0.736",
+        "Ca @ 0.499 0.132 0.736"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.147536535,
+      "stability": 0.147536535,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1215136,
+      "calculation_id": 2693518,
+      "icsd_id": null,
+      "formationenergy_id": 5567770,
+      "duplicate_entry_id": 592558,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "A2_W",
+      "spacegroup": "Im-3m",
+      "volume": 40.0202,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          2.154798,
+          2.154798,
+          2.154798
+        ],
+        [
+          2.154798,
+          -2.154798,
+          -2.154798
+        ],
+        [
+          -2.154798,
+          2.154798,
+          -2.154798
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.01781776,
+      "stability": 0.01781776,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1215225,
+      "calculation_id": 2693656,
+      "icsd_id": null,
+      "formationenergy_id": 5567838,
+      "duplicate_entry_id": 1215225,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "A20_alpha_U",
+      "spacegroup": "Cmcm",
+      "volume": 79.3041,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          3.69638,
+          0.0,
+          0.0
+        ],
+        [
+          1.848189,
+          3.4109,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.289995
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.846 0.308 0.25",
+        "Ca @ 0.154 0.692 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.013245065,
+      "stability": 0.013245065,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1215314,
+      "calculation_id": 2693828,
+      "icsd_id": null,
+      "formationenergy_id": 5567923,
+      "duplicate_entry_id": 594030,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "A3_Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 80.4513,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          3.832125,
+          0.0,
+          0.0
+        ],
+        [
+          -1.916062,
+          3.318717,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.325915
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.333 0.667 0.25",
+        "Ca @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00386524499999985,
+      "stability": 0.00386524499999985,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1215404,
+      "calculation_id": 2693984,
+      "icsd_id": null,
+      "formationenergy_id": 5567999,
+      "duplicate_entry_id": 1215404,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "A3p_La",
+      "spacegroup": "P63/mmc",
+      "volume": 159.634,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          3.83256,
+          0.0,
+          0.0
+        ],
+        [
+          -1.91628,
+          3.319094,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          12.549233
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0",
+        "Ca @ 0.333 0.667 0.25",
+        "Ca @ 0 0 0.5",
+        "Ca @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00599855499999991,
+      "stability": 0.00599855499999991,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1215493,
+      "calculation_id": 2694152,
+      "icsd_id": null,
+      "formationenergy_id": 5568077,
+      "duplicate_entry_id": 1215493,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "A4_Diamond_C",
+      "spacegroup": "Fd-3m",
+      "volume": 137.149,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          4.093118,
+          -4.093118
+        ],
+        [
+          4.093118,
+          0.0,
+          4.093118
+        ],
+        [
+          0.0,
+          -4.093118,
+          -4.093118
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0",
+        "Ca @ 0.25 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 1.07261996,
+      "stability": 1.07261996,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1215582,
+      "calculation_id": 2694323,
+      "icsd_id": null,
+      "formationenergy_id": 5568161,
+      "duplicate_entry_id": 1215582,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "A5_Sn",
+      "spacegroup": "I41/amd",
+      "volume": 80.0087,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -3.620104
+        ],
+        [
+          3.324245,
+          3.324245,
+          1.810052
+        ],
+        [
+          3.324245,
+          -3.324245,
+          -1.810052
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0",
+        "Ca @ 0.25 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.26398518,
+      "stability": 0.26398518,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1215671,
+      "calculation_id": 2694497,
+      "icsd_id": null,
+      "formationenergy_id": 5568247,
+      "duplicate_entry_id": 1215671,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "A6_In",
+      "spacegroup": "I4/mmm",
+      "volume": 40.1694,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -3.765482,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -3.765482,
+          0.0
+        ],
+        [
+          1.88274,
+          1.88274,
+          2.833053
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00375639999999988,
+      "stability": 0.00375639999999988,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1215760,
+      "calculation_id": 2694663,
+      "icsd_id": null,
+      "formationenergy_id": 5568329,
+      "duplicate_entry_id": 1215760,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "A7_As",
+      "spacegroup": "R-3m",
+      "volume": 75.4161,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          1.970893,
+          -3.413686,
+          0.0
+        ],
+        [
+          -1.970893,
+          -3.413686,
+          0.0
+        ],
+        [
+          0.0,
+          2.275791,
+          -5.604634
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.75 0.75 0.25",
+        "Ca @ 0.25 0.25 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.07172373,
+      "stability": 0.07172373,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1215849,
+      "calculation_id": 2694841,
+      "icsd_id": null,
+      "formationenergy_id": 5568417,
+      "duplicate_entry_id": 1215849,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "A8_Se",
+      "spacegroup": "P3121",
+      "volume": 116.358,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          5.967397,
+          0.0,
+          0.0
+        ],
+        [
+          -2.983699,
+          5.167917,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.773078
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.667 0.667 0",
+        "Ca @ 0.333 0 0.333",
+        "Ca @ 0 0.333 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0508435733333299,
+      "stability": 0.0508435733333299,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1215938,
+      "calculation_id": 2695017,
+      "icsd_id": null,
+      "formationenergy_id": 5568502,
+      "duplicate_entry_id": 1215938,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "A9_Graphite_C",
+      "spacegroup": "P63/mmc",
+      "volume": 193.917,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          5.983241,
+          0.0,
+          0.0
+        ],
+        [
+          -2.991622,
+          5.18164,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.254779
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0.25",
+        "Ca @ 0.333 0.667 0.25",
+        "Ca @ 0 0 0.75",
+        "Ca @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.67918971,
+      "stability": 0.67918971,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1216027,
+      "calculation_id": 2695194,
+      "icsd_id": null,
+      "formationenergy_id": 5568588,
+      "duplicate_entry_id": 1216027,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": "C19_alpha_Sm",
+      "spacegroup": "R-3m",
+      "volume": 118.096,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          -1.916939,
+          -3.320237,
+          0.0
+        ],
+        [
+          3.833879,
+          0.0,
+          0.0
+        ],
+        [
+          1.916939,
+          1.106746,
+          9.277401
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0",
+        "Ca @ 0.778 0.222 0.333",
+        "Ca @ 0.222 0.778 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0123144366666699,
+      "stability": 0.0123144366666699,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1277932,
+      "calculation_id": 3126142,
+      "icsd_id": null,
+      "formationenergy_id": 5629509,
+      "duplicate_entry_id": 1277932,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3c",
+      "volume": 1214.91,
+      "ntypes": 1,
+      "natoms": 28,
+      "unit_cell": [
+        [
+          8.469106,
+          -8.469106,
+          0.0
+        ],
+        [
+          8.469106,
+          8.469106,
+          0.0
+        ],
+        [
+          -8.469106,
+          0.0,
+          8.469106
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0",
+        "Ca @ 0.702 0.0621 0",
+        "Ca @ 0.438 0.202 0",
+        "Ca @ 0.938 0.298 0",
+        "Ca @ 0.202 0.438 0",
+        "Ca @ 0.5 0.5 0",
+        "Ca @ 0.798 0.562 0",
+        "Ca @ 0.0621 0.702 0",
+        "Ca @ 0.562 0.798 0",
+        "Ca @ 0.298 0.938 0",
+        "Ca @ 0.298 0.298 0.236",
+        "Ca @ 0.798 0.438 0.236",
+        "Ca @ 0.438 0.798 0.236",
+        "Ca @ 0.938 0.938 0.236",
+        "Ca @ 0.298 0.0621 0.36",
+        "Ca @ 0.0621 0.298 0.36",
+        "Ca @ 0.562 0.562 0.36",
+        "Ca @ 0.798 0.798 0.36",
+        "Ca @ 0.75 0.25 0.5",
+        "Ca @ 0.25 0.75 0.5",
+        "Ca @ 0.202 0.202 0.64",
+        "Ca @ 0.438 0.438 0.64",
+        "Ca @ 0.938 0.702 0.64",
+        "Ca @ 0.702 0.938 0.64",
+        "Ca @ 0.0621 0.0621 0.764",
+        "Ca @ 0.562 0.202 0.764",
+        "Ca @ 0.202 0.562 0.764",
+        "Ca @ 0.702 0.702 0.764"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18410432035714,
+      "stability": 0.18410432035714,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1520815,
+      "calculation_id": 3984126,
+      "icsd_id": null,
+      "formationenergy_id": 5895893,
+      "duplicate_entry_id": 1520815,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cmcm",
+      "volume": 310.347,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          1.907935177,
+          -7.091165702,
+          0.0
+        ],
+        [
+          1.907935177,
+          7.091165702,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          11.469276504
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.873 0.127 0.0192",
+        "Ca @ 0.52 0.48 0.25",
+        "Ca @ 0.252 0.748 0.25",
+        "Ca @ 0.873 0.127 0.481",
+        "Ca @ 0.127 0.873 0.519",
+        "Ca @ 0.748 0.252 0.75",
+        "Ca @ 0.48 0.52 0.75",
+        "Ca @ 0.127 0.873 0.981"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.045547439999999995,
+      "stability": 0.045547439999999995,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 1520127,
+      "calculation_id": 3992156,
+      "icsd_id": null,
+      "formationenergy_id": 5897513,
+      "duplicate_entry_id": 1520127,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4/mbm",
+      "volume": 400.1,
+      "ntypes": 1,
+      "natoms": 10,
+      "unit_cell": [
+        [
+          9.702673923,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          9.702673923,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.249965329
+        ]
+      ],
+      "sites": [
+        "Ca @ 0 0 0",
+        "Ca @ 0.369 0.131 0",
+        "Ca @ 0.869 0.369 0",
+        "Ca @ 0.5 0.5 0",
+        "Ca @ 0.131 0.631 0",
+        "Ca @ 0.631 0.869 0",
+        "Ca @ 0.667 0.167 0.5",
+        "Ca @ 0.167 0.333 0.5",
+        "Ca @ 0.833 0.667 0.5",
+        "Ca @ 0.333 0.833 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.13338331699999983,
+      "stability": 0.13338331699999983,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 2012382,
+      "calculation_id": 5100923,
+      "icsd_id": 107511,
+      "formationenergy_id": 6219998,
+      "duplicate_entry_id": 2012382,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cmcm",
+      "volume": 77.7774,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          2.336350786,
+          -2.901917678,
+          0.0
+        ],
+        [
+          2.336350786,
+          2.901917678,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.735884406
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.752 0.248 0.25",
+        "Ca @ 0.248 0.752 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.021209929999999932,
+      "stability": 0.021209929999999932,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 629872,
+      "calculation_id": 5199087,
+      "icsd_id": 163535,
+      "formationenergy_id": 6249381,
+      "duplicate_entry_id": 629872,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mcm",
+      "volume": 166.251,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          -3.608896392,
+          3.608896392,
+          3.191214257
+        ],
+        [
+          3.608896392,
+          -3.608896392,
+          3.191214257
+        ],
+        [
+          3.608896392,
+          3.608896392,
+          -3.191214257
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.329 0.829 0.157",
+        "Ca @ 0.171 0.329 0.5",
+        "Ca @ 0.829 0.671 0.5",
+        "Ca @ 0.671 0.171 0.843"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.16577420499999995,
+      "stability": 0.16577420499999995,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ca",
+      "entry_id": 629200,
+      "calculation_id": 5199161,
+      "icsd_id": 162254,
+      "formationenergy_id": 6249382,
+      "duplicate_entry_id": 629200,
+      "composition": "Ca1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P41212",
+      "volume": 311.439,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          4.437997063,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          4.437997063,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          15.812439907
+        ]
+      ],
+      "sites": [
+        "Ca @ 0.497 0.993 0.0625",
+        "Ca @ 0.00285 0.493 0.187",
+        "Ca @ 0.507 0.997 0.313",
+        "Ca @ 0.00729 0.503 0.437",
+        "Ca @ 0.503 0.00729 0.563",
+        "Ca @ 0.997 0.507 0.687",
+        "Ca @ 0.493 0.00285 0.813",
+        "Ca @ 0.993 0.497 0.937"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.02578437,
+      "stability": 0.02578437,
+      "fit": "standard",
+      "calculation_label": "static"
+    }
+  ],
+  "meta": {
+    "query": {
+      "representation": "http://oqmd.org/oqmdapi/formationenergy?composition=Ca&limit=200"
+    },
+    "api_version": "1.0",
+    "time_stamp": "2026-07-11 16:51:40",
+    "data_returned": 49,
+    "data_available": 49,
+    "comments": "",
+    "query_tree": "",
+    "more_data_available": false
+  },
+  "response_message": "OK"
+}

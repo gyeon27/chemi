@@ -1,0 +1,2924 @@
+{
+  "links": {
+    "next": null,
+    "previous": null,
+    "base_url": {
+      "href": "https://oqmd.org/oqmdapi",
+      "meta": {
+        "_oqmd_version": "1.0"
+      }
+    }
+  },
+  "resource": {},
+  "data": [
+    {
+      "name": "Ni",
+      "entry_id": 22516,
+      "calculation_id": 3833,
+      "icsd_id": 183264,
+      "formationenergy_id": 4061220,
+      "duplicate_entry_id": 22516,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "W",
+      "spacegroup": "Im-3m",
+      "volume": 10.8604,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.395067,
+          1.395067,
+          -1.395067
+        ],
+        [
+          1.395067,
+          -1.395067,
+          1.395067
+        ],
+        [
+          -1.395067,
+          -1.395067,
+          -1.395067
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0907972999999993,
+      "stability": 0.09194080999999965,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1214550,
+      "calculation_id": 1281931,
+      "icsd_id": null,
+      "formationenergy_id": 4814988,
+      "duplicate_entry_id": 676148,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "A1_Cu",
+      "spacegroup": "Fm-3m",
+      "volume": 10.699,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          1.748923,
+          -1.748923
+        ],
+        [
+          1.748923,
+          0.0,
+          1.748923
+        ],
+        [
+          0.0,
+          -1.748923,
+          -1.748923
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0011435100000003473,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1215351,
+      "calculation_id": 1282624,
+      "icsd_id": null,
+      "formationenergy_id": 4815042,
+      "duplicate_entry_id": 677944,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "A3_Mg",
+      "spacegroup": "P63/mmc",
+      "volume": 21.5297,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.475316,
+          0.0,
+          0.0
+        ],
+        [
+          -1.237658,
+          2.143686,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.057385
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.333 0.667 0.25",
+        "Ni @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0223216050000001,
+      "stability": 0.023465115000000446,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1214639,
+      "calculation_id": 2692456,
+      "icsd_id": null,
+      "formationenergy_id": 5567284,
+      "duplicate_entry_id": 1214639,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "A10_Hg",
+      "spacegroup": "R-3m",
+      "volume": 10.5142,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.256214,
+          -0.725276,
+          -1.923352
+        ],
+        [
+          0.0,
+          1.450551,
+          -1.923352
+        ],
+        [
+          1.256215,
+          0.725276,
+          1.923352
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0331802099999994,
+      "stability": 0.034323719999999745,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1214728,
+      "calculation_id": 2692630,
+      "icsd_id": null,
+      "formationenergy_id": 5567370,
+      "duplicate_entry_id": 1214728,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "A11_Ga",
+      "spacegroup": "Cmca",
+      "volume": 46.5231,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          -1.722302,
+          -3.913303,
+          0.0
+        ],
+        [
+          -1.722302,
+          3.913303,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -3.451327
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.857 0.143 0.000101",
+        "Ni @ 0.357 0.643 0.5",
+        "Ni @ 0.643 0.357 0.5",
+        "Ni @ 0.143 0.857 1"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.351642125,
+      "stability": 0.3527856350000004,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1214817,
+      "calculation_id": 2692808,
+      "icsd_id": null,
+      "formationenergy_id": 5567458,
+      "duplicate_entry_id": 1214817,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "A12_alpha_Mn",
+      "spacegroup": "I-43m",
+      "volume": 315.577,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          4.288925,
+          4.288925,
+          4.288925
+        ],
+        [
+          4.288925,
+          -4.288925,
+          -4.288925
+        ],
+        [
+          -4.288925,
+          4.288925,
+          -4.288925
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0",
+        "Ni @ 0.645 0 0",
+        "Ni @ 0.376 0.19 0",
+        "Ni @ 0.19 0.376 0",
+        "Ni @ 0.685 0.408 0",
+        "Ni @ 0 0.645 0",
+        "Ni @ 0.408 0.685 0",
+        "Ni @ 0.81 0.81 0.185",
+        "Ni @ 0.376 0 0.19",
+        "Ni @ 0 0.376 0.19",
+        "Ni @ 0.592 0.592 0.277",
+        "Ni @ 0.723 0.315 0.315",
+        "Ni @ 0.315 0.723 0.315",
+        "Ni @ 0.355 0.355 0.355",
+        "Ni @ 0.19 0 0.376",
+        "Ni @ 0 0.19 0.376",
+        "Ni @ 0.685 0 0.408",
+        "Ni @ 0 0.685 0.408",
+        "Ni @ 0.592 0.277 0.592",
+        "Ni @ 0.277 0.592 0.592",
+        "Ni @ 0.815 0.624 0.624",
+        "Ni @ 0.624 0.815 0.624",
+        "Ni @ 0 0 0.645",
+        "Ni @ 0.408 0 0.685",
+        "Ni @ 0 0.408 0.685",
+        "Ni @ 0.315 0.315 0.723",
+        "Ni @ 0.81 0.185 0.81",
+        "Ni @ 0.185 0.81 0.81",
+        "Ni @ 0.624 0.624 0.815"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0933214365517196,
+      "stability": 0.09446494655171994,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1214906,
+      "calculation_id": 2692986,
+      "icsd_id": null,
+      "formationenergy_id": 5567545,
+      "duplicate_entry_id": 1214906,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "A13_beta_Mn",
+      "spacegroup": "P4132",
+      "volume": 218.07,
+      "ntypes": 1,
+      "natoms": 20,
+      "unit_cell": [
+        [
+          6.019108,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          6.019108,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.019108
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.875 0.7 0.0501",
+        "Ni @ 0.0583 0.0583 0.0583",
+        "Ni @ 0.2 0.45 0.125",
+        "Ni @ 0.808 0.308 0.192",
+        "Ni @ 0.45 0.125 0.2",
+        "Ni @ 0.55 0.625 0.3",
+        "Ni @ 0.192 0.808 0.308",
+        "Ni @ 0.8 0.95 0.375",
+        "Ni @ 0.942 0.558 0.442",
+        "Ni @ 0.125 0.2 0.45",
+        "Ni @ 0.625 0.3 0.55",
+        "Ni @ 0.442 0.942 0.558",
+        "Ni @ 0.3 0.55 0.625",
+        "Ni @ 0.692 0.692 0.692",
+        "Ni @ 0.0501 0.875 0.7",
+        "Ni @ 0.95 0.375 0.8",
+        "Ni @ 0.308 0.192 0.808",
+        "Ni @ 0.7 0.0501 0.875",
+        "Ni @ 0.558 0.442 0.942",
+        "Ni @ 0.375 0.8 0.95"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0845218884999994,
+      "stability": 0.08566539849999975,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1214995,
+      "calculation_id": 2693164,
+      "icsd_id": null,
+      "formationenergy_id": 5567632,
+      "duplicate_entry_id": 1214995,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "A15_beta_W",
+      "spacegroup": "Pm-3n",
+      "volume": 87.279,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          4.435779,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          4.435779,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.435779
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0",
+        "Ni @ 0.5 0.25 0",
+        "Ni @ 0.5 0.75 0",
+        "Ni @ 0 0.5 0.25",
+        "Ni @ 0.25 0 0.5",
+        "Ni @ 0.75 0 0.5",
+        "Ni @ 0.5 0.5 0.5",
+        "Ni @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.136736444999999,
+      "stability": 0.13787995499999936,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1215084,
+      "calculation_id": 2693342,
+      "icsd_id": null,
+      "formationenergy_id": 5567720,
+      "duplicate_entry_id": 1215084,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "A17_Black_P",
+      "spacegroup": "Cmca",
+      "volume": 43.7645,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          2.544087
+        ],
+        [
+          3.960254,
+          0.0,
+          0.0
+        ],
+        [
+          1.980127,
+          4.343772,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.501 0.868 0.263",
+        "Ni @ 0.999 0.368 0.263",
+        "Ni @ 0.0009 0.632 0.737",
+        "Ni @ 0.499 0.132 0.737"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.262121895,
+      "stability": 0.26326540500000034,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1215173,
+      "calculation_id": 2693574,
+      "icsd_id": null,
+      "formationenergy_id": 5567798,
+      "duplicate_entry_id": 22516,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "A2_W",
+      "spacegroup": "Im-3m",
+      "volume": 10.7759,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.391442,
+          1.391442,
+          1.391442
+        ],
+        [
+          1.391442,
+          -1.391442,
+          -1.391442
+        ],
+        [
+          -1.391442,
+          1.391442,
+          -1.391442
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0928592500000001,
+      "stability": 0.09400276000000045,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1215262,
+      "calculation_id": 2693728,
+      "icsd_id": null,
+      "formationenergy_id": 5567874,
+      "duplicate_entry_id": 1215262,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "A20_alpha_U",
+      "spacegroup": "Cmcm",
+      "volume": 21.2587,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.419287,
+          0.0,
+          0.0
+        ],
+        [
+          1.209644,
+          2.173686,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.042527
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.837 0.325 0.25",
+        "Ni @ 0.163 0.675 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0313097949999994,
+      "stability": 0.032453304999999745,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1215441,
+      "calculation_id": 2694052,
+      "icsd_id": null,
+      "formationenergy_id": 5568030,
+      "duplicate_entry_id": 1215441,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "A3p_La",
+      "spacegroup": "P63/mmc",
+      "volume": 42.8679,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          2.475446,
+          0.0,
+          0.0
+        ],
+        [
+          -1.237723,
+          2.143799,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          8.077829
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0",
+        "Ni @ 0.333 0.667 0.25",
+        "Ni @ 0 0 0.5",
+        "Ni @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0100222924999995,
+      "stability": 0.011165802499999848,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1215530,
+      "calculation_id": 2694225,
+      "icsd_id": null,
+      "formationenergy_id": 5568113,
+      "duplicate_entry_id": 1215530,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "A4_Diamond_C",
+      "spacegroup": "Fd-3m",
+      "volume": 31.922,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          2.517794,
+          -2.517794
+        ],
+        [
+          2.517794,
+          0.0,
+          2.517794
+        ],
+        [
+          0.0,
+          -2.517794,
+          -2.517794
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0",
+        "Ni @ 0.25 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 1.19713757,
+      "stability": 1.1982810800000003,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1215619,
+      "calculation_id": 2694395,
+      "icsd_id": null,
+      "formationenergy_id": 5568197,
+      "duplicate_entry_id": 1215619,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "A5_Sn",
+      "spacegroup": "I41/amd",
+      "volume": 23.1801,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          0.0,
+          0.0,
+          -2.389489
+        ],
+        [
+          -2.20237,
+          -2.20237,
+          1.194745
+        ],
+        [
+          -2.20237,
+          2.20237,
+          -1.194745
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0",
+        "Ni @ 0.25 0.5 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.45784403,
+      "stability": 0.45898754000000036,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1215708,
+      "calculation_id": 2694567,
+      "icsd_id": null,
+      "formationenergy_id": 5568282,
+      "duplicate_entry_id": 1215708,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "A6_In",
+      "spacegroup": "I4/mmm",
+      "volume": 10.6488,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -2.464052,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -2.464052,
+          0.0
+        ],
+        [
+          1.232026,
+          1.232026,
+          1.753887
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00177762999999942,
+      "stability": 0.0029211399999997676,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1215797,
+      "calculation_id": 2694737,
+      "icsd_id": null,
+      "formationenergy_id": 5568366,
+      "duplicate_entry_id": 1215530,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "A7_As",
+      "spacegroup": "R-3m",
+      "volume": 20.9342,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          1.344903,
+          -2.329441,
+          0.0
+        ],
+        [
+          -1.344903,
+          -2.329441,
+          0.0
+        ],
+        [
+          0.0,
+          1.55296,
+          -3.341053
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.75 0.75 0.25",
+        "Ni @ 0.25 0.25 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.402030255,
+      "stability": 0.40317376500000035,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1215886,
+      "calculation_id": 2694915,
+      "icsd_id": null,
+      "formationenergy_id": 5568452,
+      "duplicate_entry_id": 1215886,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "A8_Se",
+      "spacegroup": "P3121",
+      "volume": 30.9991,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          3.807979,
+          0.0,
+          0.0
+        ],
+        [
+          -1.90399,
+          3.297806,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.46848
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.666 0.666 0",
+        "Ni @ 0.334 0 0.333",
+        "Ni @ 0 0.334 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.14164462666667,
+      "stability": 0.14278813666667034,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1215975,
+      "calculation_id": 2695091,
+      "icsd_id": null,
+      "formationenergy_id": 5568539,
+      "duplicate_entry_id": 1215975,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "A9_Graphite_C",
+      "spacegroup": "P63/mmc",
+      "volume": 41.6605,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          3.27547,
+          0.0,
+          0.0
+        ],
+        [
+          -1.637735,
+          2.836639,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.48381
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0.25",
+        "Ni @ 0.333 0.667 0.25",
+        "Ni @ 0 0 0.75",
+        "Ni @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 2.180173535,
+      "stability": 2.1813170450000006,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1216067,
+      "calculation_id": 2695267,
+      "icsd_id": null,
+      "formationenergy_id": 5568624,
+      "duplicate_entry_id": 1216067,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "C19_alpha_Sm",
+      "spacegroup": "R-3m",
+      "volume": 32.1065,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          -2.472941,
+          0.0,
+          0.0
+        ],
+        [
+          1.23647,
+          -2.14163,
+          0.0
+        ],
+        [
+          -1.23647,
+          0.713876,
+          6.062272
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0",
+        "Ni @ 0.222 0.778 0.333",
+        "Ni @ 0.778 0.222 0.667"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0144570599999998,
+      "stability": 0.015600570000000147,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 676148,
+      "calculation_id": 2718787,
+      "icsd_id": 41508,
+      "formationenergy_id": 5578603,
+      "duplicate_entry_id": 676148,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 10.5883,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          1.742869,
+          -1.742869,
+          0.0
+        ],
+        [
+          -1.742869,
+          0.0,
+          -1.742869
+        ],
+        [
+          1.742869,
+          1.742869,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.00400955000000014,
+      "stability": 0.0051530600000004876,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 677944,
+      "calculation_id": 2719082,
+      "icsd_id": 76668,
+      "formationenergy_id": 5578705,
+      "duplicate_entry_id": 677944,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 21.5067,
+      "ntypes": 1,
+      "natoms": 2,
+      "unit_cell": [
+        [
+          2.471684,
+          0.0,
+          0.0
+        ],
+        [
+          -1.235842,
+          2.140483,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.065086
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.333 0.667 0.25",
+        "Ni @ 0.667 0.333 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0225706999999993,
+      "stability": 0.023714209999999646,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1280360,
+      "calculation_id": 3130272,
+      "icsd_id": null,
+      "formationenergy_id": 5631433,
+      "duplicate_entry_id": 1214995,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pm-3n",
+      "volume": 86.58,
+      "ntypes": 1,
+      "natoms": 8,
+      "unit_cell": [
+        [
+          3.128174,
+          1.806052,
+          2.554143
+        ],
+        [
+          -3.128174,
+          1.806052,
+          2.554143
+        ],
+        [
+          0.0,
+          -3.612104,
+          2.554143
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0",
+        "Ni @ 0.5 0.25 0",
+        "Ni @ 0.5 0.75 0",
+        "Ni @ 0 0.5 0.25",
+        "Ni @ 0.25 0 0.5",
+        "Ni @ 0.75 0 0.5",
+        "Ni @ 0.5 0.5 0.5",
+        "Ni @ 0 0.5 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.13996394625,
+      "stability": 0.14110745625000035,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1484491,
+      "calculation_id": 3846672,
+      "icsd_id": null,
+      "formationenergy_id": 5860019,
+      "duplicate_entry_id": 1484491,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "R-3m",
+      "volume": 145.725,
+      "ntypes": 1,
+      "natoms": 13,
+      "unit_cell": [
+        [
+          2.292973673,
+          1.323848967,
+          8.001024873
+        ],
+        [
+          -2.292973673,
+          1.323848967,
+          8.001024873
+        ],
+        [
+          0.0,
+          -2.647697934,
+          8.001024873
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0",
+        "Ni @ 0.584 0.089 0.089",
+        "Ni @ 0.089 0.584 0.089",
+        "Ni @ 0.166 0.166 0.166",
+        "Ni @ 0.348 0.348 0.348",
+        "Ni @ 0.911 0.911 0.416",
+        "Ni @ 0.452 0.452 0.452",
+        "Ni @ 0.548 0.548 0.548",
+        "Ni @ 0.089 0.089 0.584",
+        "Ni @ 0.652 0.652 0.652",
+        "Ni @ 0.834 0.834 0.834",
+        "Ni @ 0.911 0.416 0.911",
+        "Ni @ 0.416 0.911 0.911"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.16198250923076873,
+      "stability": 0.16312601923076908,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1485118,
+      "calculation_id": 3847887,
+      "icsd_id": null,
+      "formationenergy_id": 5860339,
+      "duplicate_entry_id": 1485118,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fd-3m",
+      "volume": 68.015,
+      "ntypes": 1,
+      "natoms": 6,
+      "unit_cell": [
+        [
+          0.0,
+          3.239849253,
+          3.239849253
+        ],
+        [
+          3.239849253,
+          0.0,
+          3.239849253
+        ],
+        [
+          3.239849253,
+          3.239849253,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0",
+        "Ni @ 0.625 0.625 0.125",
+        "Ni @ 0.25 0.25 0.25",
+        "Ni @ 0.625 0.125 0.625",
+        "Ni @ 0.125 0.625 0.625",
+        "Ni @ 0.625 0.625 0.625"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.2246516766666664,
+      "stability": 0.22579518666666676,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1485065,
+      "calculation_id": 3847937,
+      "icsd_id": null,
+      "formationenergy_id": 5860357,
+      "duplicate_entry_id": 1215708,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I4/mmm",
+      "volume": 10.7423,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.238008372,
+          1.238008372,
+          1.752230195
+        ],
+        [
+          1.238008372,
+          -1.238008372,
+          1.752230195
+        ],
+        [
+          1.238008372,
+          1.238008372,
+          -1.752230195
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": -0.0011435100000003473,
+      "stability": 0.0,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1485286,
+      "calculation_id": 3850453,
+      "icsd_id": null,
+      "formationenergy_id": 5861103,
+      "duplicate_entry_id": 1485286,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 135.549,
+      "ntypes": 1,
+      "natoms": 12,
+      "unit_cell": [
+        [
+          4.596977237,
+          0.0,
+          0.0
+        ],
+        [
+          -2.298488618,
+          3.981099068,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          7.406654062
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0",
+        "Ni @ 0.333 0.667 0.063",
+        "Ni @ 0.342 0.171 0.25",
+        "Ni @ 0.829 0.171 0.25",
+        "Ni @ 0.829 0.658 0.25",
+        "Ni @ 0.333 0.667 0.437",
+        "Ni @ 0 0 0.5",
+        "Ni @ 0.667 0.333 0.563",
+        "Ni @ 0.171 0.342 0.75",
+        "Ni @ 0.171 0.829 0.75",
+        "Ni @ 0.658 0.829 0.75",
+        "Ni @ 0.667 0.333 0.937"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.20006116916666716,
+      "stability": 0.2012046791666675,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1487534,
+      "calculation_id": 3867422,
+      "icsd_id": null,
+      "formationenergy_id": 5863881,
+      "duplicate_entry_id": 1487534,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P63/mmc",
+      "volume": 271.929,
+      "ntypes": 1,
+      "natoms": 24,
+      "unit_cell": [
+        [
+          4.588973777,
+          0.0,
+          0.0
+        ],
+        [
+          -2.294486889,
+          3.974167868,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          14.910574154
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.5 0 0",
+        "Ni @ 0 0.5 0",
+        "Ni @ 0.5 0.5 0",
+        "Ni @ 0 0 0.0931",
+        "Ni @ 0.333 0.667 0.126",
+        "Ni @ 0.667 0.333 0.156",
+        "Ni @ 0.162 0.325 0.25",
+        "Ni @ 0.162 0.838 0.25",
+        "Ni @ 0.675 0.838 0.25",
+        "Ni @ 0.667 0.333 0.344",
+        "Ni @ 0.333 0.667 0.374",
+        "Ni @ 0 0 0.407",
+        "Ni @ 0.5 0 0.5",
+        "Ni @ 0 0.5 0.5",
+        "Ni @ 0.5 0.5 0.5",
+        "Ni @ 0 0 0.593",
+        "Ni @ 0.667 0.333 0.626",
+        "Ni @ 0.333 0.667 0.656",
+        "Ni @ 0.325 0.162 0.75",
+        "Ni @ 0.838 0.162 0.75",
+        "Ni @ 0.838 0.675 0.75",
+        "Ni @ 0.333 0.667 0.844",
+        "Ni @ 0.667 0.333 0.874",
+        "Ni @ 0 0 0.907"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.21419180874999988,
+      "stability": 0.21533531875000023,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1515642,
+      "calculation_id": 3889584,
+      "icsd_id": null,
+      "formationenergy_id": 5874348,
+      "duplicate_entry_id": 1515642,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P42/mnm",
+      "volume": 328.089,
+      "ntypes": 1,
+      "natoms": 30,
+      "unit_cell": [
+        [
+          8.525146911,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          8.525146911,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.514278548
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0",
+        "Ni @ 0.735 0.0662 0",
+        "Ni @ 0.463 0.133 0",
+        "Ni @ 0.934 0.265 0",
+        "Ni @ 0.401 0.401 0",
+        "Ni @ 0.133 0.463 0",
+        "Ni @ 0.867 0.537 0",
+        "Ni @ 0.599 0.599 0",
+        "Ni @ 0.0662 0.735 0",
+        "Ni @ 0.537 0.867 0",
+        "Ni @ 0.265 0.934 0",
+        "Ni @ 0.682 0.318 0.249",
+        "Ni @ 0.318 0.682 0.249",
+        "Ni @ 0.182 0.182 0.251",
+        "Ni @ 0.818 0.818 0.251",
+        "Ni @ 0.633 0.0372 0.5",
+        "Ni @ 0.901 0.0989 0.5",
+        "Ni @ 0.434 0.235 0.5",
+        "Ni @ 0.963 0.367 0.5",
+        "Ni @ 0.235 0.434 0.5",
+        "Ni @ 0.5 0.5 0.5",
+        "Ni @ 0.765 0.566 0.5",
+        "Ni @ 0.0372 0.633 0.5",
+        "Ni @ 0.566 0.765 0.5",
+        "Ni @ 0.0989 0.901 0.5",
+        "Ni @ 0.367 0.963 0.5",
+        "Ni @ 0.182 0.182 0.749",
+        "Ni @ 0.818 0.818 0.749",
+        "Ni @ 0.682 0.318 0.751",
+        "Ni @ 0.318 0.682 0.751"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.09821655466666712,
+      "stability": 0.09936006466666747,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1520202,
+      "calculation_id": 3993312,
+      "icsd_id": null,
+      "formationenergy_id": 5897788,
+      "duplicate_entry_id": 1520202,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4/mbm",
+      "volume": 113.669,
+      "ntypes": 1,
+      "natoms": 10,
+      "unit_cell": [
+        [
+          6.709081526,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          6.709081526,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.525314155
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0",
+        "Ni @ 0.373 0.127 0",
+        "Ni @ 0.873 0.373 0",
+        "Ni @ 0.5 0.5 0",
+        "Ni @ 0.127 0.627 0",
+        "Ni @ 0.627 0.873 0",
+        "Ni @ 0.67 0.17 0.5",
+        "Ni @ 0.17 0.33 0.5",
+        "Ni @ 0.83 0.67 0.5",
+        "Ni @ 0.33 0.83 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.22915297000000034,
+      "stability": 0.2302964800000007,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 1577066,
+      "calculation_id": 4127695,
+      "icsd_id": null,
+      "formationenergy_id": 5926660,
+      "duplicate_entry_id": 1214817,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I-43m",
+      "volume": 316.241,
+      "ntypes": 1,
+      "natoms": 29,
+      "unit_cell": [
+        [
+          -4.291932835,
+          4.291932835,
+          4.291932835
+        ],
+        [
+          4.291932835,
+          -4.291932835,
+          4.291932835
+        ],
+        [
+          4.291932835,
+          4.291932835,
+          -4.291932835
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0",
+        "Ni @ 0.643 0 0",
+        "Ni @ 0.375 0.19 0",
+        "Ni @ 0.19 0.375 0",
+        "Ni @ 0.684 0.407 0",
+        "Ni @ 0 0.643 0",
+        "Ni @ 0.407 0.684 0",
+        "Ni @ 0.81 0.81 0.185",
+        "Ni @ 0.375 0 0.19",
+        "Ni @ 0 0.375 0.19",
+        "Ni @ 0.593 0.593 0.277",
+        "Ni @ 0.723 0.316 0.316",
+        "Ni @ 0.316 0.723 0.316",
+        "Ni @ 0.357 0.357 0.357",
+        "Ni @ 0.19 0 0.375",
+        "Ni @ 0 0.19 0.375",
+        "Ni @ 0.684 0 0.407",
+        "Ni @ 0 0.684 0.407",
+        "Ni @ 0.593 0.277 0.593",
+        "Ni @ 0.277 0.593 0.593",
+        "Ni @ 0.815 0.625 0.625",
+        "Ni @ 0.625 0.815 0.625",
+        "Ni @ 0 0 0.643",
+        "Ni @ 0.407 0 0.684",
+        "Ni @ 0 0.407 0.684",
+        "Ni @ 0.316 0.316 0.723",
+        "Ni @ 0.81 0.185 0.81",
+        "Ni @ 0.185 0.81 0.81",
+        "Ni @ 0.625 0.625 0.815"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.09387469310344887,
+      "stability": 0.09501820310344922,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2031500,
+      "calculation_id": 5097501,
+      "icsd_id": 673023,
+      "formationenergy_id": 6219095,
+      "duplicate_entry_id": 1215886,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": "CaHg2",
+      "spacegroup": "P6/mmm",
+      "volume": 32.765,
+      "ntypes": 1,
+      "natoms": 3,
+      "unit_cell": [
+        [
+          3.973174044,
+          0.0,
+          0.0
+        ],
+        [
+          -1.986587022,
+          3.440869656,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.396648162
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0",
+        "Ni @ 0.667 0.333 0.5",
+        "Ni @ 0.333 0.667 0.5"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12098389666666698,
+      "stability": 0.12212740666666733,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2030356,
+      "calculation_id": 5104119,
+      "icsd_id": 671336,
+      "formationenergy_id": 6220976,
+      "duplicate_entry_id": 2030356,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "I41/amd",
+      "volume": 46.5136,
+      "ntypes": 1,
+      "natoms": 4,
+      "unit_cell": [
+        [
+          -3.138663616,
+          3.138663616,
+          1.18040448
+        ],
+        [
+          3.138663616,
+          -3.138663616,
+          1.18040448
+        ],
+        [
+          3.138663616,
+          3.138663616,
+          -1.18040448
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.875 0.125 0.25",
+        "Ni @ 0.375 0.125 0.25",
+        "Ni @ 0.875 0.125 0.75",
+        "Ni @ 0.875 0.625 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.5172667674999998,
+      "stability": 0.5184102775000001,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2066500,
+      "calculation_id": 5223359,
+      "icsd_id": null,
+      "formationenergy_id": 6257142,
+      "duplicate_entry_id": 2066500,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P3m1",
+      "volume": 151.828,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.452260022,
+          0.0,
+          0.0
+        ],
+        [
+          -1.226130011,
+          2.123719476,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          29.153358706
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.667 0.333 0.224",
+        "Ni @ 0.333 0.667 0.292",
+        "Ni @ 0 0 0.362",
+        "Ni @ 0.667 0.333 0.431",
+        "Ni @ 0.333 0.667 0.5",
+        "Ni @ 0 0 0.569",
+        "Ni @ 0.667 0.333 0.638",
+        "Ni @ 0.333 0.667 0.707",
+        "Ni @ 0 0 0.777"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.16100696555555594,
+      "stability": 0.16215047555555628,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2066509,
+      "calculation_id": 5223262,
+      "icsd_id": null,
+      "formationenergy_id": 6257144,
+      "duplicate_entry_id": 2066509,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cm",
+      "volume": 352.263,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.846801765,
+          -1.728617913,
+          0.0
+        ],
+        [
+          3.846801765,
+          1.728617913,
+          0.0
+        ],
+        [
+          -0.023599275,
+          0.0,
+          26.487335366
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.00155 0.00155 0.252",
+        "Ni @ 0.7 0.7 0.278",
+        "Ni @ 0.398 0.398 0.306",
+        "Ni @ 0.1 0.1 0.337",
+        "Ni @ 0.801 0.801 0.367",
+        "Ni @ 0.5 0.5 0.396",
+        "Ni @ 0.2 0.2 0.426",
+        "Ni @ 0.9 0.9 0.455",
+        "Ni @ 0.6 0.6 0.484",
+        "Ni @ 0.3 0.3 0.514",
+        "Ni @ 0.000323 0.000323 0.544",
+        "Ni @ 0.701 0.701 0.574",
+        "Ni @ 0.401 0.401 0.603",
+        "Ni @ 0.0995 0.0995 0.633",
+        "Ni @ 0.801 0.801 0.664",
+        "Ni @ 0.501 0.501 0.696",
+        "Ni @ 0.2 0.2 0.723",
+        "Ni @ 0.897 0.897 0.75"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.2463033205555556,
+      "stability": 0.24744683055555594,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2066482,
+      "calculation_id": 5226638,
+      "icsd_id": null,
+      "formationenergy_id": 6258688,
+      "duplicate_entry_id": 2066482,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 237.355,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.452388743,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.452388743,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          39.465766407
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.5 0.5 0.168",
+        "Ni @ 0 0 0.212",
+        "Ni @ 0.5 0.5 0.257",
+        "Ni @ 0 0 0.301",
+        "Ni @ 0.5 0.5 0.346",
+        "Ni @ 0 0 0.39",
+        "Ni @ 0.5 0.5 0.434",
+        "Ni @ 0 0 0.478",
+        "Ni @ 0.5 0.5 0.522",
+        "Ni @ 0 0 0.566",
+        "Ni @ 0.5 0.5 0.61",
+        "Ni @ 0 0 0.655",
+        "Ni @ 0.5 0.5 0.699",
+        "Ni @ 0 0 0.743",
+        "Ni @ 0.5 0.5 0.789",
+        "Ni @ 0 0 0.832"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12360560187500003,
+      "stability": 0.12474911187500037,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069787,
+      "calculation_id": 5246410,
+      "icsd_id": null,
+      "formationenergy_id": 6264383,
+      "duplicate_entry_id": 2066500,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 164.121,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.467203818,
+          0.0,
+          0.0
+        ],
+        [
+          -1.233601909,
+          2.136661183,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.133271023
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.333 0.667 0.24",
+        "Ni @ 0 0 0.305",
+        "Ni @ 0.667 0.333 0.37",
+        "Ni @ 0.333 0.667 0.435",
+        "Ni @ 0 0 0.5",
+        "Ni @ 0.667 0.333 0.565",
+        "Ni @ 0.333 0.667 0.63",
+        "Ni @ 0 0 0.695",
+        "Ni @ 0.667 0.333 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.13992536888888907,
+      "stability": 0.14106887888888942,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069805,
+      "calculation_id": 5246481,
+      "icsd_id": null,
+      "formationenergy_id": 6264385,
+      "duplicate_entry_id": 2066500,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 163.483,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.466569853,
+          0.0,
+          0.0
+        ],
+        [
+          -1.233284927,
+          2.136112153,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.028025802
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.333 0.667 0.24",
+        "Ni @ 0 0 0.305",
+        "Ni @ 0.667 0.333 0.37",
+        "Ni @ 0.333 0.667 0.435",
+        "Ni @ 0 0 0.5",
+        "Ni @ 0.667 0.333 0.565",
+        "Ni @ 0.333 0.667 0.63",
+        "Ni @ 0 0 0.695",
+        "Ni @ 0.667 0.333 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.14088441444444477,
+      "stability": 0.14202792444444512,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069808,
+      "calculation_id": 5246499,
+      "icsd_id": null,
+      "formationenergy_id": 6264386,
+      "duplicate_entry_id": 2066500,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 164.121,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.467203803,
+          0.0,
+          0.0
+        ],
+        [
+          -1.233601902,
+          2.13666117,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.133270694
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.333 0.667 0.24",
+        "Ni @ 0 0 0.305",
+        "Ni @ 0.667 0.333 0.37",
+        "Ni @ 0.333 0.667 0.435",
+        "Ni @ 0 0 0.5",
+        "Ni @ 0.667 0.333 0.565",
+        "Ni @ 0.333 0.667 0.63",
+        "Ni @ 0 0 0.695",
+        "Ni @ 0.667 0.333 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.13992941555555571,
+      "stability": 0.14107292555555606,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069817,
+      "calculation_id": 5246538,
+      "icsd_id": null,
+      "formationenergy_id": 6264387,
+      "duplicate_entry_id": 2066500,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 164.121,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.467203808,
+          0.0,
+          0.0
+        ],
+        [
+          -1.233601904,
+          2.136661174,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.133270913
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.333 0.667 0.24",
+        "Ni @ 0 0 0.305",
+        "Ni @ 0.667 0.333 0.37",
+        "Ni @ 0.333 0.667 0.435",
+        "Ni @ 0 0 0.5",
+        "Ni @ 0.667 0.333 0.565",
+        "Ni @ 0.333 0.667 0.63",
+        "Ni @ 0 0 0.695",
+        "Ni @ 0.667 0.333 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1399346133333328,
+      "stability": 0.14107812333333314,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069820,
+      "calculation_id": 5246551,
+      "icsd_id": null,
+      "formationenergy_id": 6264388,
+      "duplicate_entry_id": 2066500,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 164.121,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.467203804,
+          0.0,
+          0.0
+        ],
+        [
+          -1.233601902,
+          2.136661171,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.133270782
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.333 0.667 0.24",
+        "Ni @ 0 0 0.305",
+        "Ni @ 0.667 0.333 0.37",
+        "Ni @ 0.333 0.667 0.435",
+        "Ni @ 0 0 0.5",
+        "Ni @ 0.667 0.333 0.565",
+        "Ni @ 0.333 0.667 0.63",
+        "Ni @ 0 0 0.695",
+        "Ni @ 0.667 0.333 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.13993460777777766,
+      "stability": 0.141078117777778,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069823,
+      "calculation_id": 5246575,
+      "icsd_id": null,
+      "formationenergy_id": 6264389,
+      "duplicate_entry_id": 2066500,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P-3m1",
+      "volume": 164.121,
+      "ntypes": 1,
+      "natoms": 9,
+      "unit_cell": [
+        [
+          2.467203815,
+          0.0,
+          0.0
+        ],
+        [
+          -1.233601908,
+          2.13666118,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.133270974
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.333 0.667 0.24",
+        "Ni @ 0 0 0.305",
+        "Ni @ 0.667 0.333 0.37",
+        "Ni @ 0.333 0.667 0.435",
+        "Ni @ 0 0 0.5",
+        "Ni @ 0.667 0.333 0.565",
+        "Ni @ 0.333 0.667 0.63",
+        "Ni @ 0 0 0.695",
+        "Ni @ 0.667 0.333 0.76"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.13992527999999993,
+      "stability": 0.14106879000000028,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2066491,
+      "calculation_id": 5245798,
+      "icsd_id": null,
+      "formationenergy_id": 6264489,
+      "duplicate_entry_id": 2066491,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 270.033,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.458936805,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.464350902,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          31.699200748
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0.21",
+        "Ni @ 0.5 0.5 0.245",
+        "Ni @ 0 0 0.287",
+        "Ni @ 0.5 0.5 0.325",
+        "Ni @ 0 0 0.364",
+        "Ni @ 0.5 0.5 0.403",
+        "Ni @ 0 0 0.442",
+        "Ni @ 0.5 0.5 0.481",
+        "Ni @ 0 0 0.52",
+        "Ni @ 0.5 0.5 0.558",
+        "Ni @ 0 0 0.597",
+        "Ni @ 0.5 0.5 0.636",
+        "Ni @ 0 0 0.674",
+        "Ni @ 0.5 0.5 0.714",
+        "Ni @ 0 0 0.754",
+        "Ni @ 0.5 0.5 0.79"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.18861388937500045,
+      "stability": 0.1897573993750008,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069748,
+      "calculation_id": 5248259,
+      "icsd_id": null,
+      "formationenergy_id": 6266101,
+      "duplicate_entry_id": 2066491,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 285.633,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.460091995,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.485349162,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          33.312810989
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0.224",
+        "Ni @ 0.5 0.5 0.259",
+        "Ni @ 0 0 0.297",
+        "Ni @ 0.5 0.5 0.334",
+        "Ni @ 0 0 0.371",
+        "Ni @ 0.5 0.5 0.408",
+        "Ni @ 0 0 0.445",
+        "Ni @ 0.5 0.5 0.482",
+        "Ni @ 0 0 0.518",
+        "Ni @ 0.5 0.5 0.555",
+        "Ni @ 0 0 0.592",
+        "Ni @ 0.5 0.5 0.629",
+        "Ni @ 0 0 0.666",
+        "Ni @ 0.5 0.5 0.703",
+        "Ni @ 0 0 0.742",
+        "Ni @ 0.5 0.5 0.776"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.17836888250000005,
+      "stability": 0.1795123925000004,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069772,
+      "calculation_id": 5249811,
+      "icsd_id": null,
+      "formationenergy_id": 6267915,
+      "duplicate_entry_id": 2066491,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 286.295,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.460946244,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.488013326,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          33.352885829
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0.224",
+        "Ni @ 0.5 0.5 0.258",
+        "Ni @ 0 0 0.297",
+        "Ni @ 0.5 0.5 0.334",
+        "Ni @ 0 0 0.371",
+        "Ni @ 0.5 0.5 0.408",
+        "Ni @ 0 0 0.445",
+        "Ni @ 0.5 0.5 0.482",
+        "Ni @ 0 0 0.518",
+        "Ni @ 0.5 0.5 0.555",
+        "Ni @ 0 0 0.592",
+        "Ni @ 0.5 0.5 0.629",
+        "Ni @ 0 0 0.666",
+        "Ni @ 0.5 0.5 0.703",
+        "Ni @ 0 0 0.742",
+        "Ni @ 0.5 0.5 0.776"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.12494406874999964,
+      "stability": 0.12608757874999998,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069838,
+      "calculation_id": 5257630,
+      "icsd_id": null,
+      "formationenergy_id": 6269903,
+      "duplicate_entry_id": 2066509,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 378.83,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.883385777,
+          -1.734018811,
+          0.0
+        ],
+        [
+          3.883385777,
+          1.734018811,
+          0.0
+        ],
+        [
+          -0.127531053,
+          0.0,
+          28.128732502
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.35 0.35 0.0139",
+        "Ni @ 0.0502 0.0502 0.0417",
+        "Ni @ 0.751 0.751 0.0698",
+        "Ni @ 0.45 0.45 0.0978",
+        "Ni @ 0.148 0.148 0.125",
+        "Ni @ 0.849 0.849 0.154",
+        "Ni @ 0.553 0.553 0.183",
+        "Ni @ 0.25 0.25 0.209",
+        "Ni @ 0.948 0.948 0.234",
+        "Ni @ 0.0516 0.0516 0.766",
+        "Ni @ 0.75 0.75 0.791",
+        "Ni @ 0.447 0.447 0.817",
+        "Ni @ 0.151 0.151 0.846",
+        "Ni @ 0.852 0.852 0.875",
+        "Ni @ 0.55 0.55 0.902",
+        "Ni @ 0.249 0.249 0.93",
+        "Ni @ 0.95 0.95 0.958",
+        "Ni @ 0.65 0.65 0.986"
+      ],
+      "band_gap": null,
+      "delta_e": 0.2271298900000005,
+      "stability": 0.22827340000000085,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069847,
+      "calculation_id": 5258408,
+      "icsd_id": null,
+      "formationenergy_id": 6269981,
+      "duplicate_entry_id": 2066509,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 376.088,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.874307337,
+          -1.729585789,
+          0.0
+        ],
+        [
+          3.874307337,
+          1.729585789,
+          0.0
+        ],
+        [
+          -0.136428686,
+          0.0,
+          28.062312425
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.35 0.35 0.014",
+        "Ni @ 0.0502 0.0502 0.0418",
+        "Ni @ 0.75 0.75 0.0699",
+        "Ni @ 0.45 0.45 0.098",
+        "Ni @ 0.149 0.149 0.126",
+        "Ni @ 0.849 0.849 0.154",
+        "Ni @ 0.552 0.552 0.183",
+        "Ni @ 0.25 0.25 0.21",
+        "Ni @ 0.948 0.948 0.235",
+        "Ni @ 0.0515 0.0515 0.765",
+        "Ni @ 0.75 0.75 0.79",
+        "Ni @ 0.448 0.448 0.817",
+        "Ni @ 0.151 0.151 0.846",
+        "Ni @ 0.851 0.851 0.874",
+        "Ni @ 0.55 0.55 0.902",
+        "Ni @ 0.25 0.25 0.93",
+        "Ni @ 0.95 0.95 0.958",
+        "Ni @ 0.65 0.65 0.986"
+      ],
+      "band_gap": null,
+      "delta_e": 0.22892619611111176,
+      "stability": 0.2300697061111121,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069850,
+      "calculation_id": 5262625,
+      "icsd_id": null,
+      "formationenergy_id": 6270322,
+      "duplicate_entry_id": 2066509,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cm",
+      "volume": 375.872,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.882387562,
+          -1.73128118,
+          0.0
+        ],
+        [
+          3.882387562,
+          1.73128118,
+          0.0
+        ],
+        [
+          -0.173587255,
+          0.0,
+          27.960401971
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.0513 0.0513 0.264",
+        "Ni @ 0.749 0.749 0.289",
+        "Ni @ 0.448 0.448 0.316",
+        "Ni @ 0.15 0.15 0.345",
+        "Ni @ 0.851 0.851 0.374",
+        "Ni @ 0.55 0.55 0.401",
+        "Ni @ 0.25 0.25 0.43",
+        "Ni @ 0.95 0.95 0.458",
+        "Ni @ 0.65 0.65 0.486",
+        "Ni @ 0.35 0.35 0.514",
+        "Ni @ 0.05 0.05 0.542",
+        "Ni @ 0.75 0.75 0.57",
+        "Ni @ 0.45 0.45 0.599",
+        "Ni @ 0.149 0.149 0.626",
+        "Ni @ 0.85 0.85 0.655",
+        "Ni @ 0.552 0.552 0.684",
+        "Ni @ 0.251 0.251 0.711",
+        "Ni @ 0.949 0.949 0.736"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.21227429222222227,
+      "stability": 0.21341780222222262,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069853,
+      "calculation_id": 5259165,
+      "icsd_id": null,
+      "formationenergy_id": 6270330,
+      "duplicate_entry_id": 2066509,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 377.165,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.874102189,
+          -1.733091246,
+          0.0
+        ],
+        [
+          3.874102189,
+          1.733091246,
+          0.0
+        ],
+        [
+          -0.095782345,
+          0.0,
+          28.08724449
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.35 0.35 0.0141",
+        "Ni @ 0.0501 0.0501 0.042",
+        "Ni @ 0.75 0.75 0.07",
+        "Ni @ 0.45 0.45 0.0981",
+        "Ni @ 0.149 0.149 0.126",
+        "Ni @ 0.85 0.85 0.154",
+        "Ni @ 0.552 0.552 0.183",
+        "Ni @ 0.251 0.251 0.21",
+        "Ni @ 0.948 0.948 0.235",
+        "Ni @ 0.0516 0.0516 0.765",
+        "Ni @ 0.749 0.749 0.79",
+        "Ni @ 0.448 0.448 0.817",
+        "Ni @ 0.15 0.15 0.846",
+        "Ni @ 0.851 0.851 0.874",
+        "Ni @ 0.55 0.55 0.902",
+        "Ni @ 0.25 0.25 0.93",
+        "Ni @ 0.95 0.95 0.958",
+        "Ni @ 0.65 0.65 0.986"
+      ],
+      "band_gap": null,
+      "delta_e": 0.2277508966666666,
+      "stability": 0.22889440666666694,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069835,
+      "calculation_id": 5260158,
+      "icsd_id": null,
+      "formationenergy_id": 6270403,
+      "duplicate_entry_id": 2066509,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cm",
+      "volume": 375.852,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.871654417,
+          -1.730089031,
+          0.0
+        ],
+        [
+          3.871654417,
+          1.730089031,
+          0.0
+        ],
+        [
+          -0.123471782,
+          0.0,
+          28.05577295
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.0516 0.0516 0.265",
+        "Ni @ 0.749 0.749 0.29",
+        "Ni @ 0.448 0.448 0.316",
+        "Ni @ 0.151 0.151 0.346",
+        "Ni @ 0.851 0.851 0.374",
+        "Ni @ 0.55 0.55 0.402",
+        "Ni @ 0.25 0.25 0.43",
+        "Ni @ 0.95 0.95 0.458",
+        "Ni @ 0.65 0.65 0.486",
+        "Ni @ 0.35 0.35 0.514",
+        "Ni @ 0.05 0.05 0.542",
+        "Ni @ 0.75 0.75 0.57",
+        "Ni @ 0.45 0.45 0.598",
+        "Ni @ 0.149 0.149 0.626",
+        "Ni @ 0.849 0.849 0.654",
+        "Ni @ 0.552 0.552 0.683",
+        "Ni @ 0.251 0.251 0.71",
+        "Ni @ 0.948 0.948 0.735"
+      ],
+      "band_gap": null,
+      "delta_e": 0.24236417722222292,
+      "stability": 0.24350768722222327,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069733,
+      "calculation_id": 5266192,
+      "icsd_id": null,
+      "formationenergy_id": 6271862,
+      "duplicate_entry_id": 2066482,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "P4mm",
+      "volume": 257.571,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.669871899,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.669871899,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          36.134073353
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.5 0.5 0.182",
+        "Ni @ 0 0 0.224",
+        "Ni @ 0.5 0.5 0.267",
+        "Ni @ 0 0 0.309",
+        "Ni @ 0.5 0.5 0.352",
+        "Ni @ 0 0 0.394",
+        "Ni @ 0.5 0.5 0.436",
+        "Ni @ 0 0 0.479",
+        "Ni @ 0.5 0.5 0.521",
+        "Ni @ 0 0 0.564",
+        "Ni @ 0.5 0.5 0.606",
+        "Ni @ 0 0 0.649",
+        "Ni @ 0.5 0.5 0.691",
+        "Ni @ 0 0 0.733",
+        "Ni @ 0.5 0.5 0.777",
+        "Ni @ 0 0 0.818"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.1891746999999997,
+      "stability": 0.19031821000000004,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069769,
+      "calculation_id": 5264940,
+      "icsd_id": null,
+      "formationenergy_id": 6271965,
+      "duplicate_entry_id": 2066491,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 284.989,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.468922559,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.501730001,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          32.963850496
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0.224",
+        "Ni @ 0.5 0.5 0.258",
+        "Ni @ 0 0 0.297",
+        "Ni @ 0.5 0.5 0.334",
+        "Ni @ 0 0 0.371",
+        "Ni @ 0.5 0.5 0.408",
+        "Ni @ 0 0 0.445",
+        "Ni @ 0.5 0.5 0.481",
+        "Ni @ 0 0 0.518",
+        "Ni @ 0.5 0.5 0.556",
+        "Ni @ 0 0 0.592",
+        "Ni @ 0.5 0.5 0.629",
+        "Ni @ 0 0 0.666",
+        "Ni @ 0.5 0.5 0.703",
+        "Ni @ 0 0 0.742",
+        "Ni @ 0.5 0.5 0.775"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.16975563250000025,
+      "stability": 0.1708991425000006,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069841,
+      "calculation_id": 5256748,
+      "icsd_id": null,
+      "formationenergy_id": 6271967,
+      "duplicate_entry_id": 2066509,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 380.141,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.889628892,
+          -1.736258923,
+          0.0
+        ],
+        [
+          3.889628892,
+          1.736258923,
+          0.0
+        ],
+        [
+          -0.125318672,
+          0.0,
+          28.144400086
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.0515 0.0515 0.266",
+        "Ni @ 0.75 0.75 0.291",
+        "Ni @ 0.447 0.447 0.317",
+        "Ni @ 0.151 0.151 0.347",
+        "Ni @ 0.852 0.852 0.375",
+        "Ni @ 0.55 0.55 0.402",
+        "Ni @ 0.249 0.249 0.43",
+        "Ni @ 0.95 0.95 0.458",
+        "Ni @ 0.65 0.65 0.486",
+        "Ni @ 0.35 0.35 0.514",
+        "Ni @ 0.0502 0.0502 0.542",
+        "Ni @ 0.751 0.751 0.57",
+        "Ni @ 0.45 0.45 0.598",
+        "Ni @ 0.148 0.148 0.625",
+        "Ni @ 0.849 0.849 0.653",
+        "Ni @ 0.553 0.553 0.683",
+        "Ni @ 0.25 0.25 0.709",
+        "Ni @ 0.948 0.948 0.734"
+      ],
+      "band_gap": null,
+      "delta_e": 0.2263609694444444,
+      "stability": 0.22750447944444474,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069856,
+      "calculation_id": 5256420,
+      "icsd_id": null,
+      "formationenergy_id": 6271969,
+      "duplicate_entry_id": 2066509,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 379.001,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.886536756,
+          -1.733996894,
+          0.0
+        ],
+        [
+          3.886536756,
+          1.733996894,
+          0.0
+        ],
+        [
+          -0.140513685,
+          0.0,
+          28.118953854
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.35 0.35 0.0139",
+        "Ni @ 0.0503 0.0503 0.0416",
+        "Ni @ 0.751 0.751 0.0698",
+        "Ni @ 0.45 0.45 0.0977",
+        "Ni @ 0.148 0.148 0.125",
+        "Ni @ 0.849 0.849 0.153",
+        "Ni @ 0.553 0.553 0.183",
+        "Ni @ 0.25 0.25 0.209",
+        "Ni @ 0.948 0.948 0.234",
+        "Ni @ 0.0516 0.0516 0.766",
+        "Ni @ 0.75 0.75 0.791",
+        "Ni @ 0.447 0.447 0.817",
+        "Ni @ 0.151 0.151 0.847",
+        "Ni @ 0.852 0.852 0.875",
+        "Ni @ 0.55 0.55 0.902",
+        "Ni @ 0.249 0.249 0.93",
+        "Ni @ 0.95 0.95 0.958",
+        "Ni @ 0.65 0.65 0.986"
+      ],
+      "band_gap": null,
+      "delta_e": 0.2273717116666667,
+      "stability": 0.22851522166666705,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069829,
+      "calculation_id": 5278524,
+      "icsd_id": null,
+      "formationenergy_id": 6275218,
+      "duplicate_entry_id": 2066509,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "C2/m",
+      "volume": 369.104,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.884186564,
+          -1.732839037,
+          0.0
+        ],
+        [
+          3.884186564,
+          1.732839037,
+          0.0
+        ],
+        [
+          -0.113750175,
+          0.0,
+          27.419560549
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.051 0.051 0.26",
+        "Ni @ 0.75 0.75 0.286",
+        "Ni @ 0.448 0.448 0.313",
+        "Ni @ 0.151 0.151 0.343",
+        "Ni @ 0.852 0.852 0.372",
+        "Ni @ 0.55 0.55 0.4",
+        "Ni @ 0.25 0.25 0.429",
+        "Ni @ 0.95 0.95 0.457",
+        "Ni @ 0.65 0.65 0.486",
+        "Ni @ 0.35 0.35 0.514",
+        "Ni @ 0.05 0.05 0.543",
+        "Ni @ 0.75 0.75 0.571",
+        "Ni @ 0.45 0.45 0.6",
+        "Ni @ 0.148 0.148 0.628",
+        "Ni @ 0.849 0.849 0.657",
+        "Ni @ 0.552 0.552 0.687",
+        "Ni @ 0.25 0.25 0.714",
+        "Ni @ 0.949 0.949 0.74"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.22808598111111067,
+      "stability": 0.22922949111111102,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069766,
+      "calculation_id": 5272597,
+      "icsd_id": null,
+      "formationenergy_id": 6277003,
+      "duplicate_entry_id": 2066491,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Pmm2",
+      "volume": 281.175,
+      "ntypes": 1,
+      "natoms": 16,
+      "unit_cell": [
+        [
+          2.458975279,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.493038792,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          32.735455232
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0.219",
+        "Ni @ 0.5 0.5 0.253",
+        "Ni @ 0 0 0.294",
+        "Ni @ 0.5 0.5 0.331",
+        "Ni @ 0 0 0.368",
+        "Ni @ 0.5 0.5 0.406",
+        "Ni @ 0 0 0.444",
+        "Ni @ 0.5 0.5 0.481",
+        "Ni @ 0 0 0.519",
+        "Ni @ 0.5 0.5 0.556",
+        "Ni @ 0 0 0.594",
+        "Ni @ 0.5 0.5 0.632",
+        "Ni @ 0 0 0.669",
+        "Ni @ 0.5 0.5 0.707",
+        "Ni @ 0 0 0.746",
+        "Ni @ 0.5 0.5 0.78"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.175410130625,
+      "stability": 0.17655364062500034,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2069826,
+      "calculation_id": 5270700,
+      "icsd_id": null,
+      "formationenergy_id": 6277006,
+      "duplicate_entry_id": 2066509,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Cm",
+      "volume": 371.837,
+      "ntypes": 1,
+      "natoms": 18,
+      "unit_cell": [
+        [
+          3.8784115,
+          -1.730122327,
+          0.0
+        ],
+        [
+          3.8784115,
+          1.730122327,
+          0.0
+        ],
+        [
+          -0.15622772,
+          0.0,
+          27.70716391
+        ]
+      ],
+      "sites": [
+        "Ni @ 0.0512 0.0512 0.262",
+        "Ni @ 0.75 0.75 0.287",
+        "Ni @ 0.448 0.448 0.314",
+        "Ni @ 0.151 0.151 0.344",
+        "Ni @ 0.852 0.852 0.373",
+        "Ni @ 0.55 0.55 0.401",
+        "Ni @ 0.25 0.25 0.429",
+        "Ni @ 0.95 0.95 0.458",
+        "Ni @ 0.65 0.65 0.486",
+        "Ni @ 0.35 0.35 0.514",
+        "Ni @ 0.05 0.05 0.542",
+        "Ni @ 0.75 0.75 0.571",
+        "Ni @ 0.45 0.45 0.599",
+        "Ni @ 0.148 0.148 0.628",
+        "Ni @ 0.849 0.849 0.656",
+        "Ni @ 0.552 0.552 0.686",
+        "Ni @ 0.25 0.25 0.713",
+        "Ni @ 0.949 0.949 0.738"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.22764746000000002,
+      "stability": 0.22879097000000037,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2166034,
+      "calculation_id": 5687305,
+      "icsd_id": null,
+      "formationenergy_id": 6393361,
+      "duplicate_entry_id": 22516,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Im-3m",
+      "volume": 10.8385,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          -1.394128973,
+          1.394128973,
+          1.394128973
+        ],
+        [
+          1.394128973,
+          -1.394128973,
+          1.394128973
+        ],
+        [
+          1.394128973,
+          1.394128973,
+          -1.394128973
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.09233439000000043,
+      "stability": 0.09347790000000078,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2166168,
+      "calculation_id": 5687308,
+      "icsd_id": null,
+      "formationenergy_id": 6393364,
+      "duplicate_entry_id": 676148,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 10.7329,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          1.750767692,
+          1.750767692
+        ],
+        [
+          1.750767692,
+          0.0,
+          1.750767692
+        ],
+        [
+          1.750767692,
+          1.750767692,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0011435100000003473,
+      "fit": "standard",
+      "calculation_label": "static"
+    },
+    {
+      "name": "Ni",
+      "entry_id": 2166330,
+      "calculation_id": 5687340,
+      "icsd_id": null,
+      "formationenergy_id": 6393379,
+      "duplicate_entry_id": 676148,
+      "composition": "Ni1",
+      "composition_generic": "A",
+      "prototype": null,
+      "spacegroup": "Fm-3m",
+      "volume": 10.7347,
+      "ntypes": 1,
+      "natoms": 1,
+      "unit_cell": [
+        [
+          0.0,
+          1.750869254,
+          1.750869254
+        ],
+        [
+          1.750869254,
+          0.0,
+          1.750869254
+        ],
+        [
+          1.750869254,
+          1.750869254,
+          0.0
+        ]
+      ],
+      "sites": [
+        "Ni @ 0 0 0"
+      ],
+      "band_gap": 0.0,
+      "delta_e": 0.0,
+      "stability": 0.0011435100000003473,
+      "fit": "standard",
+      "calculation_label": "static"
+    }
+  ],
+  "meta": {
+    "query": {
+      "representation": "http://oqmd.org/oqmdapi/formationenergy?composition=Ni&limit=200"
+    },
+    "api_version": "1.0",
+    "time_stamp": "2026-07-11 16:56:09",
+    "data_returned": 59,
+    "data_available": 59,
+    "comments": "",
+    "query_tree": "",
+    "more_data_available": false
+  },
+  "response_message": "OK"
+}
